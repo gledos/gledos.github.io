@@ -6,7 +6,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
-header-img: "img/bg/monogatari_cast_minimalist_wallpaper.pixel-art.svg"
-header-img-height: 400px
-header-img-object-position: 100% 65%
+# header-img: "img/bg/monogatari_cast_minimalist_wallpaper.pixel-art.svg"
+# header-img-height: 400px
+# header-img-object-position: 100% 65%
 ---
