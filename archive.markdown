@@ -1,6 +1,8 @@
 ---
 title: 归档
 layout: page
+header-img: "img/bg/ougi_oshino_owarimonogatacszadasdri_minimalist_wallpaper.pixel-art.svg"
+header-img-object-position: left 20% 
 ---
 <!-- 此处的代码来自 https://web.archive.org/web/20200810103718/https://cnly.github.io/2015/10/04/adding-tags.html -->
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
