@@ -12,18 +12,18 @@ layout: default
         {{ sinple_path_date[0] | append: "-" | append: sinple_path_date[1] | append: "-" | append: sinple_path_date[2] | date: "%F" }}
       </time>
       {%- if page.modified_date -%}
-        ~ 
-        {%- assign mdate = page.modified_date | date_to_xmlschema -%}
-        <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
-          {{ mdate | date: date_format }}
-        </time>
+      ~
+      {%- assign mdate = page.modified_date | date_to_xmlschema -%}
+      <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
+        {{ mdate | date: date_format }}
+      </time>
       {%- endif -%}
       {%- if page.author -%}
-        • {% for author in page.author %}
-          <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-            <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
-            {%- if forloop.last == false %}, {% endif -%}
-        {% endfor %}
+      • {% for author in page.author %}
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
+      {%- if forloop.last == false %}, {% endif -%}
+      {% endfor %}
       {%- endif -%}</p>
   </header>
 
@@ -32,8 +32,26 @@ layout: default
   </div>
 
   {%- if site.disqus.shortname -%}
-    {%- include disqus_comments.html -%}
+  {%- include disqus_comments.html -%}
   {%- endif -%}
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
+<hr>
+<div id="disqus_thread"></div>
+<div id="disqus-comments">
+  <button onclick="load_disqus()">点击加载 disqus 评论系统 🧱</button>
+</div>
+<script>
+  /*该按钮加载方法来自 http://zh-cn.affdu.com/how-to-load-disqus-onclick-event.html 代码有修改*/
+  function load_disqus() {
+    var d = document,
+      dsq = d.createElement('script');
+    dsq.src = "//http-www-gledos-science.disqus.com/embed.js";
+    dsq.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(dsq);
+    var load_button = d.getElementById('disqus-comments');
+    load_button.parentNode.removeChild(load_button);
+  }
+
+</script>
