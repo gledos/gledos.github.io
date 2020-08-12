@@ -1,0 +1,29 @@
+---
+layout: default
+title: 404 Page not found :(
+---
+
+<style type="text/css" media="screen">
+  /* .container {margin: 10px auto;max-width: 600px;text-align: center;} */
+  h1 {margin: 30px 0;font-size: 4em;line-height: 1;letter-spacing: -1px;}
+
+  /*  打字机的动画效果来源自
+        小tips: 纯CSS实现打字动画效果
+        https://web.archive.org/web/20200812101643/https://www.zhangxinxu.com/wordpress/2019/01/css-typewriter-effect/
+      创意来源自这个404网页以及美剧 LOST
+        https://web.archive.org/web/20200812102217/https://devinhalladay.com/404/
+    */
+  .typing {width: 18em;height: 1.25em;border-right: 10px solid transparent;animation: typing 8s steps(36, end), blink-caret 1s step-end infinite;font-family: Consolas, Monaco;word-break: break-all;overflow: hidden;}
+  @keyframes typing {from {width: 0;}to {width: 18em;}}
+  @keyframes blink-caret {from,to {border-color: transparent;}0% {border-color: currentColor;}}
+
+</style>
+
+<div class="container">
+  <h1>404</h1>
+
+  <p><strong>Page not found :(</strong></p>
+  <p>The requested page could not be found.</p>
+  <hr>
+  <p class="typing">>: 4 8 15 16 23 42 You're lost.</p>
+</div>

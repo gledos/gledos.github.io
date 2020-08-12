@@ -1,0 +1,44 @@
+---
+title: 「在中国大陆被封锁的专为使用中文的人而服务的网站列表」图鉴+百科
+layout: post
+published: false
+---
+
+注意标题，Google 的大部分服务，Facebook 之类的不在本图鉴收录范围之类，纯媒体我也暂时不打算收录。
+
+---
+
+微博视野（weiboscope.jmsc.hku.hk）
+自由微博（freeweibo.com）
+自由中国（freedomchina.info)
+
+中国数字时代
+泡泡
+墙外楼
+※中国的网络审查（zh.greatfire.org）
+
+暂时我想把我的行为叫做 **资料整理** ，也许像是像是论文？大概吧，但只找到这点捕风捉影的东西也没法推理、分析出可信的结论，所以确实仅仅只是把相关资料放到一起，我只能做到这些。
+
+抢救数据
+
+悲哀？感觉不像，空虚到没有容积的感觉，也就是没有什么感觉了
+
+https://github.com/greatfire/wiki/issues/196
+
+https://github.com/greatfire/wiki/issues/198
+
+https://archive.li/20170831094404/https://github.com/greatfire/wiki/issues/193
+
+https://archive.fo/OyFNj
+
+[完整的描述](https://github.com/bannedbook/fanqiang/issues/167)
+
+[完整的描述2](https://github.com/programthink/zhao/issues/131)
+
+---
+
+玫瑰狗相关
+
+[设定：魔鬼与无信者](https://cowlevel.net/article/1848198)
+
+[“喝茶”的经历与功效 - 写在《THE WALL》发布一年后](https://web.archive.org/web/20180524090412/https://webcache.googleusercontent.com/search?q=cache:4II4Ya2NTPMJ:https://cowlevel.net/article/1967929)

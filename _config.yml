@@ -1,0 +1,69 @@
+title: "gledos的博客"
+SEOTitle: "gledos的博客 | gledos Blog"
+author:
+  name: gledos
+  email: cngledos@gmail.com
+keyword: gledos, @gledos, gledos的博客, gledos Blog, 博客, 个人网站, 历史，考据
+description: 这里是 gledos 的个人博客，喜爱游戏以及研究游戏的历史。
+show_excerpts: false # set to true to show excerpts on the homepage
+
+# Minima date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+
+highlighter: rouge
+permalink: /:title.html
+
+exclude:
+  - README.md
+  - run.bat
+
+# port
+# port: 14400
+
+minima:
+  skin: dark
+  date_format: "%F"
+  # generate social links in footer
+  social_links:
+    twitter: gledos_green
+    github: gledos
+    telegram: gledos_green
+    # devto: jekyll
+    # dribbble: jekyll
+    # facebook: jekyll
+    # flickr:   jekyll
+    # instagram: jekyll
+    # linkedin: jekyll
+    # pinterest: jekyll
+    # youtube: jekyll
+    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+    # youtube_channel_name: CloudCannon
+    # googleplus: +jekyll
+    # microdotblog: jekyll
+    # keybase: jekyll
+    # Mastodon instances
+    # mastodon:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
+    # GitLab instances
+    # gitlab:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
+
+markdown: kramdown
+excerpt_separator: "<!-- more -->"
+kramdown:
+  input: GFM # use Github Flavored Markdown !important
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.md
+
+# Build settings
+
+theme: minima

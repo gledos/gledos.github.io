@@ -1,0 +1,27 @@
+---
+title: KeePass全攻略-高效并愉快的守护您的密码
+published: false
+layout: post
+date: 2018-07-09 00:11:59 +0800
+tags:
+    - 软件
+---
+
+>太糟糕了：你的信用卡、银行账户、电子邮件、服务器以及无数其他在线账户都有单独的登录名和密码。你甚至还有其他最高机密的数据以及绝不能泄漏的文件( 如你情妇的电话以及R18的本子 )，这些文件都等待着让别人发现！更糟糕的是，当你旅行时，你必须把所有那些好东西带到闪存盘上，而弄丢它就像在纽约出租车上把雨伞留在后面车上一样简单。
+>
+>幸运的是，一个名为 KeePass 的免费软件实用程序已经出现它可以加密你的密码列表，即使是错误的人找到你的加密文件，他(她)也无法访问你的秘密。
+>
+>by [Patrick Schmid](https://www.tomshardware.com/reviews/locking-passwords-keepass,806.html "备份： archive.fo/UIody") 2004年5月7日 at 12:00 PM
+
+<!-- more -->
+
+以下小书签代码来源自 [Nic Wolff](http://angel.net/~nic/passwdlet.current.html)
+
+~~~ javascript
+javascript:var%20b64pad=%27%27;var%20chrsz=8;function%20b64_sha1(s){return%20binb2b64(core_sha1(str2binb(s),s.length*chrsz));}function%20core_sha1(x,len){x[len>>5]|=0x80<<(24-len);x[((len+64>>9)<<4)+15]=len;var%20w=Array(80);var%20a=1732584193;var%20b=-271733879;var%20c=-1732584194;var%20d=271733878;var%20e=-1009589776;for(var%20i=0;i<x.length;i+=16){var%20olda=a;var%20oldb=b;var%20oldc=c;var%20oldd=d;var%20olde=e;for(var%20j=0;j<80;j++){if(j<16)w[j]=x[i+j];else%20w[j]=rol(w[j-3]^w[j-8]^w[j-14]^w[j-16],1);var%20t=safe_add(safe_add(rol(a,5),sha1_ft(j,b,c,d)),safe_add(safe_add(e,w[j]),sha1_kt(j)));e=d;d=c;c=rol(b,30);b=a;a=t;}a=safe_add(a,olda);b=safe_add(b,oldb);c=safe_add(c,oldc);d=safe_add(d,oldd);e=safe_add(e,olde);}return%20Array(a,b,c,d,e);}function%20sha1_ft(t,b,c,d){if(t<20)return%20(b&c)|((~b)&d);if(t<40)return%20b^c^d;if(t<60)return%20(b&c)|(b&d)|(c&d);return%20b^c^d;}function%20sha1_kt(t){return%20(t<20)?1518500249:(t<40)?1859775393:(t<60)?-1894007588:-899497514;}function%20safe_add(x,y){var%20lsw=(x&0xFFFF)+(y&0xFFFF);var%20msw=(x>>16)+(y>>16)+(lsw>>16);return%20(msw<<16)|(lsw&0xFFFF);}function%20rol(num,cnt){return%20(num<<cnt)|(num>>>(32-cnt));}function%20str2binb(str){var%20bin=Array();var%20mask=(1<<chrsz)-1;for(var%20i=0;i<str.length*chrsz;i+=chrsz)bin[i>>5]|=(str.charCodeAt(i/chrsz)&mask)<<(24-i);return%20bin;}function%20binb2b64(binarray){var%20tab=%27ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/%27;var%20str=%27%27;for(var%20i=0;i<binarray.length*4;i+=3){var%20triplet=(((binarray[i>>2]>>8*(3-i%254))&0xFF)<<16)|(((binarray[i+1>>2]>>8*(3-(i+1)%254))&0xFF)<<8)|((binarray[i+2>>2]>>8*(3-(i+2)%254))&0xFF);for(var%20j=0;j<4;j++){if(i*8+j*6>binarray.length*32)str+=b64pad;else%20str+=tab.charAt((triplet>>6*(3-j))&0x3F);}}return%20str;}function%20doIt(){var%20master=%27MASTER_PASSWORD%27;if(master!=%27%27&&master!=null){host=document.location.href.match(/http(s*):\/\/([^/]+)/)[2];if(sld=host.match(/([^.]+\.([a-z][a-z][a-z]+|a[^abhjkpvy]|b[^cdklnpqux]|c[^bejkpqsty]|d[ejkmoz]|e[cegsu]|f[imor]|g[^cjkouvxz]|h[kmnrtu]|i[demnoqrst]|j[eop]|k[gimnpryz]|l[abcikrstuvy]|m[^bfijmz]|n[acefgloru]|om|p[aefhklmnrstwy]|qa|r[eosuw]|s[^fpqsw]|t[^abeiqrsuxy]|u[agsyz]|v[aceginu]|w[fs]|yt))$/i)){domain=sld[0];}else{domain=host.match(/([^.]+\.[^.]+\.[a-z][a-z])$/i)[0];}var%20i=0,j=0,p=b64_sha1(master+%27:%27+domain).substr(0,13)+%27@1a%27,E=document.getElementsByTagName(%27input%27),g=false;for(j=0;j<E.length;j++){D=E[j];if(D.type==%27password%27){D.value=p;D.focus();g=true;}if(D.type==%27text%27){if(D.name.toUpperCase().indexOf(%27PASSWORD%27)!=-1||D.name.toUpperCase().indexOf(%27PASSWD%27)!=-1){D.value=p;D.focus();g=true;}}}if(!g){window.prompt(%27Your%20password%20for%20%27+domain+%27%20is%27,p)}}}doIt();void(null);
+~~~
+
+此攻略的运行环境
+--------------
+
+- 至少了解大概的KeePass资料
