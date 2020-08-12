@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 关于
+header-img: "img/bg/monogatari_minimalist_march_of_the_oddities_by_yuki_neh_dbdqppd.pixel-art.svg"
 ---
 这里是gledos的博客，其实就是gledos发布文章的地方，原因是其他的地方不够开放(各种意义上的)。
 
