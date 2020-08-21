@@ -25,33 +25,40 @@ tags:
 
 如果有网页被删除了或「自然」失效，我可能会用 [web.archive.org](https://web.archive.org/) 的网页快照替换掉原网页。
 
-如果你想要缓存网页并作为证据，我推荐此chrome扩展 [Save To The Wayback Machine](https://chrome.google.com/webstore/detail/eebpioaailbjojmdbmlpomfgijnlcemk)。火狐、Opera也有保存到 Wayback Machine 的附加元件，可以去这个扩展的[官网](https://github.com/VerifiedJoseph/Save-to-the-Wayback-Machine)找到。
+如果你想要缓存网页并作为证据，我推荐此chrome扩展 [Save To The Wayback Machine](https://chrome.google.com/webstore/detail/eebpioaailbjojmdbmlpomfgijnlcemk)。
+火狐、Opera也有保存到 Wayback Machine 的附加元件，可以去这个扩展的[官网](https://github.com/VerifiedJoseph/Save-to-the-Wayback-Machine)找到。
 
 如果 [web.archive.org](https://web.archive.org/) 无法保存防爬虫、重定向等对 archive.org 不友好的网站，可以尝试 [archive.today](https://archive.today/) 。
+
+Emoji 前缀标识的意思
+    + 红色十字交叉 ❌，表示我已经无法找到了这个网页的原页面以及快照了。
+    + 锤子和扳手 🛠，表示建议使用源码模式或禁用JavaScript打开这个链接，因为这个链接有「错误」的JavaScript，使网页不能正常的显示
+    + 相机 📷，表示这个链接是图片，而不是HTML富文本之类的东西
+    + 发光的星星 🌟，表示内容丰富
 
 主时间轴
 --------
 
-1. `2015-6-23 23:33` **帖子** [自己抓了一些高速IP - 平台研討 - SteamCN 蒸汽動力](https://web.archive.org/web/20160507135854/https://steamcn.com/t133519-1-1)
+1. `2015-06-23 23:33` **帖子** [自己抓了一些高速IP - SteamCN 蒸汽动力](https://web.archive.org/web/20160507135854/https://steamcn.com/t133519-1-1)
 
     这是使用百度搜索引擎找到的关于 steam 在国内的 CDN 最早的侧面记录，里面提到了 8686c.com 这个属于**万网志成**下的**网宿科技**的 CDN 。
-2. `2016-02-05 13:47:50` **帖子** [乐山电信屏蔽cdn.akamai.steamstatic.com？](https://steamcn.com/t165524-1-3)
+2. `2016-02-05 13:47:50` **帖子** [🛠乐山电信屏蔽cdn.akamai.steamstatic.com？ -  SteamCN 蒸汽动力](https://web.archive.org/web/20180102074626/https://steamcn.com/t165524-1-3)
 
     省略读标题就能知道的内容
     > 19楼:63.110.60.27我这能通，我怀疑你的那个ISP就是故意ban了steam。你只能换你那边的isp没ban的网段。。。把解析结果写入本地hosts。要不就施放魔法/或者走科学了，只能这样。
 3. `2016-02-14` **行政法规** [网络出版服务管理规定](https://web.archive.org/web/20200418093136/http://www.charltonslaw.com/newsletters/china-news-alerts/cn/2016/489/9.pdf)，3月10日生效
-4. `2016-2-28 09:58:48` **帖子** [【教程】在学校利用网宿教育网CDN/国外IPv6 CDN加速Steam下载 - 平台研讨 - SteamCN 蒸汽动力](https://steamcn.com/t170155-1-5)
+4. `2016-02-28 09:58:48` **帖子** [【教程】在学校利用网宿教育网CDN/国外IPv6 CDN加速Steam下载 - SteamCN 蒸汽动力](https://archive.is/5o9QT "https://steamcn.com/t170155-1-5")
 
     省略其他不相关的内容
 
     > 在国内使用Steam客户端时，默认选择了中囯节点的下载服务器，域名为cdn.mileweb.cs.steampowered.com.8686c.com
-5. `2016-04-08 12:08:23` **帖子** [8086c.com？CDN劫持还是steam的国内CDN？](https://steamcn.com/t180448-1-1)
+5. `2016-04-08 12:08:23` **帖子** [❌8086c.com？CDN劫持还是steam的国内CDN？ - SteamCN 蒸汽动力](https://steamcn.com/t180448-1-1)
 
     精简后的帖子信息:
     > IP是常州电信，并且测试了换DNS并不能解决域名重定向问题
     >
     >Steam网页源代码上的域名都变了，而不是从akamai跳转过去，Valve肯定是知道的。而且只有当你是国内IP的时候才会使用这个CDN，一般只有网站自己才会做这种事情
-6. `2016-04-10 00:23:25` **帖子** [steam（仅限国区）已启用8686c.com（万网）CDN，来解决移动屏蔽图片问题](https://archive.is/HU43I)
+6. `2016-04-10 00:23:25` **帖子** [steam（仅限国区）已启用8686c.com（万网）CDN，来解决移动屏蔽图片问题 - SteamCN 蒸汽动力](https://archive.is/HU43I "https://keylol.com/t180986-1-1")
 
     > 前情提要：8086c.com？CDN劫持还是steam的国内CDN？
     > 目前cdn.steamstatic.com的图片被导向了cdn.steamstatic.com.8686c.com。
@@ -67,53 +74,63 @@ tags:
     > 于是图片服务器也分区了
     >
     > 虽然看起来有利于国内玩家，但是这个举动似乎说明了什么。。。。（G胖开始在国内黑白两道混了？）
-7. `2016-05-15 12:32`蒹葭游戏汉化组创始人、组长**改了名的哈里斯基**在**微博**上发布了一则关于steam会在国内玩不了的信息
+7. `2016-05-15 12:32` 蒹葭游戏汉化组创始人、组长**改了名的哈里斯基**在**微博**上发布了一则关于steam会在国内玩不了的信息
 
-    发信息后不久就被删除了
+    信息出现后不久就删除了
 
-    >[打码截图📷](/img/steam/93871788.jpg)
-    >[清晰截图📷](/img/steam/50218944.jpg)
-8. `2016-08-12` **公告** [北京翼晰科技有限公司正式收购SteamCN正版游戏论坛](https://web.archive.org/web/20200708035900/https://mp.weixin.qq.com/s?__biz=MzI1MjM5MDk5NA==&mid=2247483800&idx=1&sn=301bcde99830339dbc81aa6012f313ee)
-9. `2016-11-07 19:38:21` **新法案通过** [中华人民共和国网络安全法（2016年11月7日第十二届全国人民代表大会常务委员会第二十四次会议通过）](http://www.cac.gov.cn/2016-11/07/c_1119867116.htm)
-10. `2017-03-09之前 具体时间未知`steam群组**中国共产党**被GFW屏蔽，几天后(尚无资料)G胖关闭了这个群组并把曾经加入了群组的人上了无法暂时个人主页的黑名单。[资料来源](https://archive.vn/l1bO9 "狗胖子开始处理膜X用户，想赚中国的钱就要先向……低头。上周，万里长")、[时间来源](https://web.archive.org/web/20180713134641/https://tieba.baidu.com/p/5013992646?pid=105030907901&cid=0)
+    + **新闻** [Steam要完了！蒹葭汉化组长爆料Steam即将被封 牛游戏网资讯](https://web.archive.org/web/20200815100548/https://www.newyx.net/news/374713_1.htm "https://archive.is/rSJK4")
+    + [📷打码截图](/img/steam/93871788.jpg) [📷清晰截图](/img/steam/50218944.jpg)
+8. `2016-05-02` [Steam 在中国大陆的 CDN - V2EX](https://archive.is/oRs3w)
 
-    >[主页不能展示📷](/img/steam/93977024.jpg)
-    >[该群组的主页📷](/img/steam/14518426.jpg)
-11. `2017-04-20 21:05` **腾讯新闻** [专访WEGAME平台负责人：恢复国内游戏生态 扶植国内优质项目 腾讯网](https://web.archive.org/web/20200708032559/https://games.qq.com/a/20170420/068669.htm)
+    > 可能是我火星了。。刚刚在 Steam 的设置页面里发现了这个选项。能选择中国大陆的节点。
+9. `2016-08-12` **公告** [北京翼晰科技有限公司正式收购SteamCN正版游戏论坛](https://web.archive.org/web/20200708035900/https://mp.weixin.qq.com/s?__biz=MzI1MjM5MDk5NA==&mid=2247483800&idx=1&sn=301bcde99830339dbc81aa6012f313ee)
+10. `2016-11-07 19:38:21` **新法案通过** [中华人民共和国网络安全法（2016年11月7日第十二届全国人民代表大会常务委员会第二十四次会议通过）](https://web.archive.org/web/20161126211942/http://www.cac.gov.cn/2016-11/07/c_1119867116.htm)
+11. `2016-12-23` **讨论帖** [惊天新闻，steam国区惨遭和谐 - 其乐 Keylol](https://archive.is/jco7k "https://keylol.com/t236512-1-1")
+
+    <!-- 详情在《关于和谐游戏的百科与全解名鉴》有记录 -->
+12. `2017-03-09之前 具体时间未知`steam群组**中国共产党**被GFW屏蔽，几天后(尚无资料)Valve关闭了这个群组并把曾经加入了群组的人上了无法暂时个人主页的黑名单。[资料来源](https://archive.vn/l1bO9 "狗胖子开始处理膜X用户，想赚中国的钱就要先向……低头。上周，万里长 https://psnine.com/gene/16956")、[时间来源](https://web.archive.org/web/20180713134641/https://tieba.baidu.com/p/5013992646?pid=105030907901&cid=0)
+
+    > [📷主页不能展示](/img/steam/93977024.jpg) [📷该群组的主页](/img/steam/14518426.jpg)
+13. `2017-04-20 21:05` **腾讯新闻** [专访WEGAME平台负责人：恢复国内游戏生态 扶植国内优质项目 腾讯网](https://web.archive.org/web/20200708032559/https://games.qq.com/a/20170420/068669.htm)
 
     同时间同样评论的另一个新闻标题，电脑版已删除，手机版还在：[~~WEGAME平台：恢复国内游戏生态 扶植国内优质项目~~](https://web.archive.org/web/20200708035020/https://xw.qq.com/cmsid/2017042006866900)，但是两条新闻在`2017年1月27日左右`对比后发现有一些地方文本不同。
-12. `2017-04-21 11:57` **触乐新闻** [WeGame群访记录：若Steam出现服务器、支付方面的问题，绝对跟腾讯无关 - 触乐](https://web.archive.org/web/20180129133347/https://www.chuapp.com/?c=Article&a=index&id=282876)
+14. `2017-04-21 11:57` **触乐新闻** [WeGame群访记录：若Steam出现服务器、支付方面的问题，绝对跟腾讯无关 - 触乐](https://web.archive.org/web/20180129133347/https://www.chuapp.com/?c=Article&a=index&id=282876)
 
     和上面的腾讯新闻的文本对比在这里: [diffchecker🔗](https://web.archive.org/web/20181009064019/https://www.diffchecker.com/OR6gPGjd)
-13. `2017-4-7 01:56:00` **steamcn帖子** [Steam图片资源链接重定向V3 [移动/联通]](https://archive.is/EmeHv)
+15. `2017-4-7 01:56:00` **steamcn帖子** [Steam图片资源链接重定向V3 [移动/联通] - SteamCN 蒸汽动力](https://archive.is/EmeHv)
 
     省略帖子中手动劫持的方法
 
     > V社不知道发什么神经又把国内的图片CDN切换到其他域名去了(又是被移动域名关键字屏蔽的)
     >
     > 不过原来的网宿8686c还有保留,所以做了这个.将就下先
-14. `2017-04-19 23:28` **NGA论坛** [[ 在此输入喷点 ] 从TGP到wegame，等待我们的会是什么？](https://web.archive.org/web/20180712025701/https://webcache.googleusercontent.com/search?q=cache:Mw80VWmcPl4J:bbs.ngacn.cc/read.php?tid=11437668)
-15. `2017-04-20 19:01:53` **新闻** [腾讯谈Steam：在国内发生任何问题和我们无关](https://web.archive.org/web/20170526024043/https://www.ithome.com/html/game/305355.htm)，原3DM新闻以及IT之家的转载已经被删除，这里是 Wayback Machine 备份的IT之家的转载新闻，Wayback Machine 无法保存IT之家的评论。
+16. `2017-04-19 23:28` **NGA论坛** [[ 在此输入喷点 ] 从TGP到wegame，等待我们的会是什么？](https://web.archive.org/web/20180712025701/https://webcache.googleusercontent.com/search?q=cache:Mw80VWmcPl4J:bbs.ngacn.cc/read.php?tid=11437668)
+17. `2017-04-20 19:01:53` **新闻** [腾讯谈Steam：在国内发生任何问题和我们无关](https://web.archive.org/web/20170526024043/https://www.ithome.com/html/game/305355.htm)，原3DM新闻以及IT之家的转载已经被删除，这里是 Wayback Machine 备份的IT之家的转载新闻，Wayback Machine 无法保存IT之家的评论。
 
-    >在经历了各种爆料预热之后，腾讯的WeGame平台在今日的UP 2017腾讯互动娱乐年度发布会上正式发表了，作为直指全球化的腾讯全新游戏平台，将于2017年7月份上线，那么同样是游戏平台的Steam会否因此受到影响呢？
+    > 在经历了各种爆料预热之后，腾讯的WeGame平台在今日的UP 2017腾讯互动娱乐年度发布会上正式发表了，
+    > 作为直指全球化的腾讯全新游戏平台，将于2017年7月份上线，那么同样是游戏平台的Steam会否因此受到影响呢？
     >
-    >在这之前，就有一些玩家担心WeGame的上线会否影响到Steam在国内的发展，各种推测也是层出不穷，从商业竞争的讨论上升到了阴谋论，对此腾讯方面也进行了回复。
+    > 在这之前，就有一些玩家担心WeGame的上线会否影响到Steam在国内的发展，各种推测也是层出不穷，
+    > 从商业竞争的讨论上升到了阴谋论，对此腾讯方面也进行了回复。
     >
-    >腾讯公司副总裁王波表示，不管是Steam还是友商，还是更希望一起把这个领域重新恢复起来，盼望能够看到越来越多的玩家玩到更加多类的游戏，让这个蛋糕和生态越来越大。并且他还表示，有信心能够把自己该做的事情做好。最后他还发布了“官方声明”：Steam在中国出现服务器，支付等任何问题，绝对跟腾讯无关。
+    > 腾讯公司副总裁王波表示，不管是Steam还是友商，还是更希望一起把这个领域重新恢复起来，
+    > 盼望能够看到越来越多的玩家玩到更加多类的游戏，让这个蛋糕和生态越来越大。并且他还表示，
+    > 有信心能够把自己该做的事情做好。最后他还发布了“官方声明”：Steam在中国出现服务器，支付等任何问题，绝对跟腾讯无关。
     >
-    >从最近的发售计划来说，官方更关注独立游戏，近期玩家们会看到一些耳熟能详的独立游戏登陆Steam。
+    > 从最近的发售计划来说，官方更关注独立游戏，近期玩家们会看到一些耳熟能详的独立游戏登陆Steam。
     >
-    >腾讯方面澄清了一些玩家猜测的，因为要去发展WeGame而做出一些事情来干扰Steam，而Steam日后在国内可能会出现的问题也是和腾讯无关的，腾讯会努力搞好自己的平台，而不是去“使绊子”阻碍别人来达到自己的目标。
-16. `2017-05-01 20:53` **新闻** [【图说天朝】steam上不得擅自成立党支部](https://web.archive.org/web/20200419061247/https://chinadigitaltimes.net/chinese/2017/05/【图说天朝】steam上不得擅自成立党支部/)
+    > 腾讯方面澄清了一些玩家猜测的，因为要去发展WeGame而做出一些事情来干扰Steam，
+    > 而Steam日后在国内可能会出现的问题也是和腾讯无关的，腾讯会努力搞好自己的平台，而不是去“使绊子”阻碍别人来达到自己的目标。
+18. `2017-05-01 20:53` **新闻** [【图说天朝】steam上不得擅自成立党支部](https://web.archive.org/web/20200419061247/https://chinadigitaltimes.net/chinese/2017/05/【图说天朝】steam上不得擅自成立党支部/)
 
-    里面讲述了steam上的一些组先是被墙了，steam采取了措施关闭了违规的群组
-17. `2017-05-04 19:39` **steamcn帖子** [【Steam已修复该问题】Steam图片资源链接重定向V3 [移动/联通]](https://steamcn.com/t261420-1-1)
+    里面讲述了steam上的一些组早已被墙了，steam采取了措施关闭了违规的群组
+19. `2017-05-04 19:39` **steamcn帖子** [【Steam已修复该问题】Steam图片资源链接重定向V3 [移动/联通] - SteamCN 蒸汽动力](https://archive.is/EmeHv "https://steamcn.com/t261420-1-1")
 
-    标题修改了，这个问题已修复。
-18. `2017-05-20`101、103错误开始在贴吧出现，不过还很少量
-19. `2017-06-01 11:03:25` **法案生效** [《中华人民共和国网络安全法》6月1日起实施](https://web.archive.org/web/20170811171714/http://www.cac.gov.cn/2017-06/01/c_1121068451.htm)
-20. `2017-06-05`101、103、105错误开始在贴吧里陆续出现
-21. `2017-06-07 01:49` **帖子** [关于近日steam访问异常的简单解决方案](https://tieba.baidu.com/p/5150230370)
+    Steam CDN 被移动域名关键字屏蔽这个问题已修复。
+20. `2017-05-20`101、103错误开始在贴吧出现，不过还很少量
+21. `2017-06-01 11:03:25` **法案生效** [《中华人民共和国网络安全法》6月1日起实施](https://web.archive.org/web/20170811171714/http://www.cac.gov.cn/2017-06/01/c_1121068451.htm)
+22. `2017-06-05`101、103、105错误开始在贴吧里陆续出现
+23. `2017-06-07 01:49` **贴吧** [关于近日steam访问异常的简单解决方案](https://archive.is/Yfhcb "http://tieba.baidu.com/p/5150230370")
 
     >通过这两天的观察，部分dns服务（比如某些电信，某些联通，某知名dns114）不再正常解析steam域名，并且有扩大的趋势。
     >
@@ -126,19 +143,19 @@ tags:
     >14年16年都发生过，这次呢（这次多了wegame啊）。
     >
     >[如何查看自己的steam是否被放逐📷](/img/steam/26980862.jpg)
-22. `2017-06-08 08:46` **帖子** [steam是不是已经遭到了屏蔽？](https://web.archive.org/web/20190409175013/http://bbs.3dmgame.com/thread-5592941-1-1.html)
+24. `2017-06-08 08:46` **帖子** [steam是不是已经遭到了屏蔽？](https://web.archive.org/web/20190409175013/http://bbs.3dmgame.com/thread-5592941-1-1.html)
 
     > 今天上steam就发现很多商店页面的cdn都遭到了connection reset。
     >
     > 我北方某城电信线的，已经测试如下的ip都ban掉了，第一下可能还能连，后续都没戏。
     >
     > _6楼_:江苏的，问了这边的电信客户经理，应工信部新政策要求，许多服务商需要提供各类资质证明，没提供的一律封
-23. `2017-06-08` **游戏** [墙](https://web.archive.org/web/20181002024909/https://store.steampowered.com/app/635070/THE_WALL/)开始在steam上发行([绿光页面](https://web.archive.org/web/20200419061832/https://steamcommunity.com/sharedfiles/filedetails/?id=909799960)、[社区页面](https://web.archive.org/web/20200419061841/https://steamcommunity.com/app/635070))
+25. `2017-06-08` **游戏** [墙](https://web.archive.org/web/20181002024909/https://store.steampowered.com/app/635070/THE_WALL/)开始在steam上发行[绿光页面](https://web.archive.org/web/20200419061832/https://steamcommunity.com/sharedfiles/filedetails/?id=909799960)、[社区页面](https://web.archive.org/web/20200419061841/https://steamcommunity.com/app/635070)
 
-    然而作者毫不保留露出了自己的QQ邮箱......后果后面有记录
+    然而作者毫无保留的公开了自己的QQ邮箱......后果后面有记录
 
     作者的常用用户名叫 玫瑰狗
-24. `2017-06-15 14:28` **帖子** [关于103的问题，看了那个帖子，我又上去看了一下](https://tieba.baidu.com/p/5164174953)
+26. `2017-06-15 14:28` **贴吧** [❌关于103的问题，看了那个帖子，我又上去看了一下](https://tieba.baidu.com/p/5164174953)
 
     帖子认为是一个鉴赏家的名字被拦截了，浏览就会阻断steam的所有域名
 
@@ -147,7 +164,7 @@ tags:
     > 12楼: 不错，操作太慢这个解释可以接受。但我觉得还是有个疑点。论坛有人反应4月份那个鉴赏家就会造成103，为什么等这么久才大规模爆发。
     >
     > 18楼: [被阻断动图📷](/img/steam/65245738.jpg)
-25. `2017-06-15 17:14` **帖子** [【图片】【重发】关于Steam 101，103的原因【steam吧】_百度贴吧](https://web.archive.org/web/20180107101922/https://tieba.baidu.com/p/5164457265)
+27. `2017-06-15 17:14` **贴吧** [【图片】【重发】关于Steam 101，103的原因【steam吧】](https://web.archive.org/web/20180107101922/https://tieba.baidu.com/p/5164457265)
 
     > 一张图说明问题
     >
@@ -156,70 +173,78 @@ tags:
     > 举报掉下划红线的那位可能这次就结了（要爬出去举报）
     >
     > 顺便其他人也要引以为戒，不要再闹点事情出来。
-26. `2017-06-16前` 关闭腾讯软件就能够连接上steam这一消息被较为广泛的传播(黑桐谷歌也发微博称)
+28. `2017-06-16前` 关闭腾讯软件就能够连接上steam这一消息被较为广泛的传播(黑桐谷歌也发微博称)
 
     _有人确认了这可行，也有人确认了这不可行。_
-27. `2017-06-16 10:50` **帖子** [【吧务组】暂时禁止关于steam错误的个人主题贴](https://web.archive.org/web/20180724034605/https://tieba.baidu.com/p/5165583121)
-28. `2017-06-22` **公告**&**新闻** [巨头抢滩百亿红利 网宿卡位力推VR承载平台](https://web.archive.org/web/20200419065247/https://www.wangsu.com/content/details45_2756.html) 最后一段首次(我还没有找到更早的官方资料)公开网宿和 steam 合作，而且说法还有保留。([中国网](https://web.archive.org/web/20200419065300/http://finance.china.com.cn/industry/20170622/4259141.shtml))
+29. `2017-06-16 10:50` **帖子** [【吧务组】暂时禁止关于steam错误的个人主题贴](https://web.archive.org/web/20180724034605/https://tieba.baidu.com/p/5165583121)
+30. `2017-06-22` **公告**&**新闻** [巨头抢滩百亿红利 网宿卡位力推VR承载平台](https://web.archive.org/web/20200419065247/https://www.wangsu.com/content/details45_2756.html) 最后一段首次(我还没有找到更早的官方资料)公开网宿和 steam 合作，而且说法还有保留。[中国网](https://web.archive.org/web/20200419065300/http://finance.china.com.cn/industry/20170622/4259141.shtml)
 
-    > 事实上，早在2016年8月，CDN行业龙头网宿科技在CDN下载产品中已经新增VR套餐，专为VR内容提供下载加速服务。通过专有下载私有传输协议、防劫持、防篡改等多种安全策略以满足VR游戏快速、安全的分发需求。目前，全球范围内包括HTC、steam等多家知名VR游戏及分发平台均为网宿客户。
-29. `2017-06-26 20:57` **帖子** [关于最近steam老是错误101 103.. （应该正确）解决方案](https://tieba.baidu.com/p/5162665305)
+    > 事实上，早在2016年8月，CDN行业龙头网宿科技在CDN下载产品中已经新增VR套餐，专为VR内容提供下载加速服务。
+    > 通过专有下载私有传输协议、防劫持、防篡改等多种安全策略以满足VR游戏快速、安全的分发需求。
+    > 目前，全球范围内包括HTC、steam等多家知名VR游戏及分发平台均为网宿客户。
+31. `2017-06-26 20:57` **帖子** [关于最近steam老是错误101 103.. （应该正确）解决方案](https://archive.is/BUf0Y)
 
     > 28楼:可以试试在103后右键返回，你会发现你的网址是多跳了一次。
 
     *有15条回复都是称赞或者实验成功了的*
-30. `2017-06-26 23:02:51` **帖子** [【科普】101、103、105意味着什么](https://steamcn.com/t284467-1-1)
+32. `2017-06-26 23:02:51` **帖子** [【科普】101、103、105意味着什么 - SteamCN 蒸汽动力](https://archive.is/A0ea0)
 
-    里面详细的描述了101、103、105的区别和 DNS 是否生效。
-31. `2017-07-14 21:20:52` **图片** [恶意高流量的敏感链接导致steam继续被封锁](https://steamcn.com/forum.php?mod=viewthread&tid=280638&page=10#pid4457536)
-32. `2017-07-19 13:35:46` **《墙（THE WALL）》的作者说** [我被相关部门批评教育了。我人没事。大家不用担心。](https://web.archive.org/web/20200419061706/https://cowlevel.net/question/1912997/answer/2198681)
-33. `2017-07-19` **帖子** [[爆卦] Steam遊戲《牆》在中國被封鎖並鎖區](http://disp.cc/b/163-a9eH)
+    里面详细的描述了错误代码101、103、105的区别和 DNS 是否能对错误带来帮助。
+33. `2017-07-14 21:20:52` **图片** [❌恶意高流量的敏感链接导致steam继续被封锁](https://keylol.com/forum.php?mod=viewthread&tid=280638&page=10#pid4457536),[几乎无用的backup](https://archive.is/sntzf)
+34. `2017-07-19 13:35:46` **《墙（THE WALL）》的作者说** [我被相关部门批评教育了。我人没事。大家不用担心。](https://web.archive.org/web/20200419061706/https://cowlevel.net/question/1912997/answer/2198681)
+35. `2017-07-19` **帖子** [[爆卦] Steam遊戲《牆》在中國被封鎖並鎖區](http://disp.cc/b/163-a9eH)
 
     > 中國的影片或遊戲評論網站上，關於這款遊戲的訊息都已經被下架。
     >
     > 這款遊戲在Steam上中國區也已經鎖區了，作者已經被叫去"喝茶"，並且據消息指出。Steam不是作者自己設定鎖區的，是今天自己突然就鎖區了，
     >
     > 還不確定是否為Steam收到中國官方的通知之後做出的動作..
-34. `2017-07-21 16:13` **帖子** [steam 10X错误解决办法，忍无可忍再发一帖](https://tieba.baidu.com/p/5235680550)❌
+36. `2017-07-21 16:13` **贴吧** [❌steam 10X错误解决办法，忍无可忍再发一帖](https://tieba.baidu.com/p/5235680550)
 
-    原帖已被删除，但还是能够被证实这篇帖子存在并且内容无误：[【转帖】](https://archive.is/4MMHT)
+    原帖已被删除，但还是能够被证实这篇帖子存在并且内容无误：[【SteamCN 蒸汽动力的转帖】](https://archive.is/4MMHT)
 
     > 吧里各种解决办法满天飞，包括置顶帖的，没一个说到点上。
     >
-    > 由于众所周知的原因，网宿科技CDN不再为大陆提供steam网页加速服务，6月初国内steam IP都解析到了Akamai CDN上，然而Akamai CDN IP被干扰不是一天两天了。DNS解析的原则是解析到响应最快的IP上，但这些IP有很大几率被干扰，表现就是商店打不开，如下图所示，这些ip会导致10X。
+    > 由于众所周知的原因，网宿科技CDN不再为大陆提供steam网页加速服务，6月初国内steam IP都解析到了Akamai CDN上，
+    > 然而Akamai CDN IP被干扰不是一天两天了。DNS解析的原则是解析到响应最快的IP上，但这些IP有很大几率被干扰，表现就是商店打不开，如下图所示，这些ip会导致10X。
     >
-    > 不同ISP不同地区对Akamai CDN干扰情况不同，修改hosts工具提供的IP可能张三能用，李四不能用，或者A时间可以用，B时间又不能用的情况。因为对IP的干扰不是持续，而是断断续续。
+    > 不同ISP不同地区对Akamai CDN干扰情况不同，修改hosts工具提供的IP可能张三能用，李四不能用，或者A时间可以用，
+    > B时间又不能用的情况。因为对IP的干扰不是持续，而是断断续续。
     >
-    > 根本解决10X的办法还是挂梯子，因为你不能保证改hosts的这个IP永远不会被干扰。或者更简单办法，这里有个小工具，改hosts之前先检查下这个IP你那里是否可用，连续测试10次，如果某个ip测试期间都没被干扰，可视为稳定IP，填入hosts即可，如下格式：
+    > 根本解决10X的办法还是挂梯子，因为你不能保证改hosts的这个IP永远不会被干扰。或者更简单办法，这里有个小工具，
+    > 改hosts之前先检查下这个IP你那里是否可用，连续测试10次，如果某个ip测试期间都没被干扰，可视为稳定IP，填入hosts即可，如下格式：
     >
     > 23.63.219.132 store.steampowered.com ; 23.63.219.132 steamcommunity.com
     >
     > 改hosts有可能造成个人资料卡在验证登陆状态，SSL证书原因，重启下steam即可。
     >
     > 最后特别声明：感谢小工具原作者，他曾经发过类似的帖子但石沉大海，借花献佛再次把这个小工具拿出来。
-35. `2017-07-21 21:48` **记录** [关于steam当前情况的一些整理 - 游戏论坛 - Stage1st - stage1/s1 游戏动漫论坛](https://web.archive.org/web/20170724000251/https://bbs.saraba1st.com/2b/thread-1532481-1-1.html)
+37. `2017-07-21 21:48` **记录** [关于steam当前情况的一些整理 - 游戏论坛 - Stage1st - stage1/s1 游戏动漫论坛](https://web.archive.org/web/20170724000251/https://bbs.saraba1st.com/2b/thread-1532481-1-1.html)
 
     内有比较模糊的一些记录，以及网络测试
-36. `2017-07-23 17:31` **帖子** [【吧务组通告】对于近期删除10X,1xx错误部分相关贴公告](https://tieba.baidu.com/p/5239340529)❌
+38. `2017-07-23 17:31` **贴吧** [【吧务组通告】对于近期删除10X,1xx错误部分相关贴公告](https://archive.is/YsMMA)
 
     > 7楼楼中楼: 我狂点 商店 然后就好了
 
     *有10个人回复10个人成功了*
-37. `2017-07-30 12:25:08` **帖子** [聊聊101,105问题](https://steamcn.com/t293805-1-1)
-38. `2017-07-30 22:57` **孔子云老子曰发言** [56楼](https://tieba.baidu.com/p/5150230370?pn=2)
+39. `2017-07-26 13:29` **讨论帖** [关于最近传的很疯的知乎某大v号称steam要被墙的言论 - 游戏论坛 - Stage1st - stage1/s1 游戏动漫论坛](https://archive.is/44VlH "https://bbs.saraba1st.com/2b/forum.php?mod=viewthread&tid=1533372")
+40. `2017-07-30 12:25:08` **帖子** [聊聊101,105问题 - SteamCN 蒸汽动力](https://archive.is/49XIJ)
+41. `2017-07-30 22:57` **贴吧** [关于近日steam访问异常的简单解决方案](https://archive.is/vD5tV "https://tieba.baidu.com/p/5150230370?pn=2")
 
-    > 主要还是akamai的分包服务主要服务于油 管和脸 书，导致污染严重波及steam。之前国内为steam提供加速分包的公司突然翻脸不干了，其它的就不多说了……
-39. `2017-08-07 18:49` **触乐网**发布了[微博](http://weibo.com/3957040489/Fg1hVbztX?from=page_1006063957040489_profile&wvr=6&mod=weibotime)
+    > 56楼: 主要还是akamai的分包服务主要服务于油 管和脸 书，导致污染严重波及steam。之前国内为steam提供加速分包的公司突然翻脸不干了，其它的就不多说了……
+42. `2017-08-07 18:49` **触乐网**发布了[微博](http://weibo.com/3957040489/Fg1hVbztX?from=page_1006063957040489_profile&wvr=6&mod=weibotime)
 
-    > 在最新一期的英国游戏杂志《Edge》上，知名游戏记者Simon Parkin发表了一篇名为《东诺》（Eastern Promise）的文章，其摘要是“一场争夺世界上最大、变化也最快的PC游戏市场的战争”。文章第一段，作者爆料一位腾讯高级经理曾在2016年11月上海的《最终幻想15》发布会后向某国内游戏开发者透露：“等到时机成熟，Steam在中国将不复存在。”
+    > 在最新一期的英国游戏杂志《Edge》上，知名游戏记者Simon Parkin发表了一篇名为《东诺》（Eastern Promise）的文章，
+    > 其摘要是“一场争夺世界上最大、变化也最快的PC游戏市场的战争”。
+    > 文章第一段，作者爆料一位腾讯高级经理曾在2016年11月上海的《最终幻想15》发布会后向某国内游戏开发者透露：“等到时机成熟，Steam在中国将不复存在。”
     >
     > [图1](/img/steam/69444902.jpg) [图2](/img/steam/61188460.jpg) [图3](/img/steam/34063224.jpg)
-40. `2017-08-08 14:32` **腾讯WeGame**发布了[微博](http://weibo.com/6068787464/Fg92hxBIJ?from=page_1006066068787464_profile&wvr=&type=comment)
+43. `2017-08-08 14:32` **腾讯WeGame**发布了[微博](http://weibo.com/6068787464/Fg92hxBIJ?from=page_1006066068787464_profile&wvr=&type=comment)
 
     >早上听说有外国友人提到，WeGame 有人在去年 FF15 发布会现场爆了个什么料，一脸懵逼赶紧自查，发现我们确实没人去过，害的老板怀疑我们偷着去玩[抓狂]！话说 WeGame 一直倡导公平竞争，玩家的游戏体验才是我们最关注的，所以给开发商的分发标准分成其实是 70%，就是要激励大家提供更好的游戏。至于有人猜测的那些离谱手段，我们真心不搞这些#[左哼哼]#[右哼哼]。有问题尽管找 G 哥，这里有不匿名的靠谱信息#[二哈]。
-41. `2017-08-10 11:13` **新闻** [腾讯投资《绝地求生：大逃杀》开发商Bluehole 为引入中国做准备](https://web.archive.org/web/20200419061649/https://www.jiemian.com/article/1538312.html)
-42. `2017-08-10 16:33:56` **新闻** [那篇腾讯要墙Steam的爆料，这里有全文](https://web.archive.org/web/20200419061642/https://ent.163.com/game/17/0810/16/CRG8R2LB00318QE8.html)。
-43. `2017-08-17 04:06:09` **帖子** [101/103已解除???不可描述的阻断似乎已经解除?](https://steamcn.com/t299518-1-1)
+44. `2017-08-10 11:13` **新闻** [腾讯投资《绝地求生：大逃杀》开发商Bluehole 为引入中国做准备](https://web.archive.org/web/20200419061649/https://www.jiemian.com/article/1538312.html)
+45. `2017-08-10 16:33:56` **新闻** [那篇腾讯要墙Steam的爆料，这里有全文](https://web.archive.org/web/20200419061642/https://ent.163.com/game/17/0810/16/CRG8R2LB00318QE8.html)。
+46. `2017-08-17 04:06:09` **帖子** [101/103已解除???不可描述的阻断似乎已经解除?](https://steamcn.com/t299518-1-1)
 
     > 目前全国GET统统都是正常的..当然不排除是某个设备突然抽风了..
     >
@@ -228,20 +253,28 @@ tags:
     > 出现 102 问题的打开hosts，找到steam的相关字段，删掉就可以了
     >
     > 5楼回复:目测大范围解除了，就算遇到关键词也不再会短暂性阻断
-44. `2017-11-26` **知乎** [华中科技大学校园网限制steam的下载](https://www.zhihu.com/question/68631319)
+47. `2017-11-01` 钢铁雄心4在 steam 国区被下架
+
+    + 由于价格也删除了，所以无法使用Sub大法进行购买[^311712]
+    + [Hearts of Iron IV removed from Steam in China Paradox Interactive Forums](https://web.archive.org/web/20200702105900/https://forum.paradoxplaza.com/forum/threads/hearts-of-iron-iv-removed-from-steam-in-china.1052971/)
+    + [P社回应钢铁雄心4锁区：不是我们的锅_网易游戏](https://web.archive.org/web/20200821042211/https://ent.163.com/game/17/1103/11/D2AJPUG200318T0C.html)
+    + [关于《钢铁雄心4》Steam锁区 P社相关解释疑点重重](https://web.archive.org/web/20200821042248/https://www.sohu.com/a/205165705_119620)
+48. `2017-11-26` **知乎** [华中科技大学校园网限制steam的下载](https://www.zhihu.com/question/68631319)
 
     >从贴吧里的反应来看，应该是彻底的封禁了steam。[链接1](https://web.archive.org/web/20180106220243/http://tieba.baidu.com/p/5450503489),[链接2](https://web.archive.org/web/20180106220246/http://tieba.baidu.com/p/5450646499)
-45. `2017-11-28` **报告** [2017年中国游戏行业发展报告](http://www.cnccea.com/index.php?m=newscon&id=408&aid=770) 由[中国文化娱乐行业协会](http://www.cnccea.com/index.php?m=newscon&id=411&aid=596)信息中心与中娱智库联合课题组编撰。
+49. `2017-11-28` **报告** [2017年中国游戏行业发展报告](http://www.cnccea.com/index.php?m=newscon&id=408&aid=770) 由[中国文化娱乐行业协会](http://www.cnccea.com/index.php?m=newscon&id=411&aid=596)信息中心与中娱智库联合课题组编撰。
 
     稍微介绍一下这个**中国文化娱乐行业协会**，*信息详细在* [*中国文化娱乐行业协会简介*](http://www.cnccea.com/index.php?m=content&id=402)
 
-    >中国文化娱乐行业协会是由民政部登记管理，文化部业务主管，公安部支持的国家一级协会。发起单位包括万达文化产业集团、小米、腾讯、网易、搜狐、联想、温莎、好乐迪、世宇、希力、大玩家、雷石、视易以及各省、市级行业协会等最有代表性的上百家文化机构，涉及歌舞娱乐场所、游戏机经营场所、网络游戏、手机游戏、家庭娱乐、室外游乐园、会展、文化娱乐内容技术服务等多个业态，涉及文化娱乐行业全产业链。
+    > 中国文化娱乐行业协会是由民政部登记管理，文化部业务主管，公安部支持的国家一级协会。发起单位包括万达文化产业集团、
+    > 小米、腾讯、网易、搜狐、联想、温莎、好乐迪、世宇、希力、大玩家、雷石、视易以及各省、市级行业协会等最有代表性的上百家文化机构，
+    > 涉及歌舞娱乐场所、游戏机经营场所、网络游戏、手机游戏、家庭娱乐、室外游乐园、会展、文化娱乐内容技术服务等多个业态，涉及文化娱乐行业全产业链。
 
     ......后略
-46. `2017-12-16 12:03:37` **讨论贴** [Steam社区页遭域名污染+HTTP连接重置双重封锁](https://steamcn.com/t339379-1-1)
-47. `2017-12-19 11:31` **新闻** [Steam社区/个人资料等界面被屏蔽 但有简便解决方案](http://www.ali213.net/news/html/2017-12/337053.html)
-48. `2017-12-19 13:10:44` **新闻** [Steam Community access has been blocked in China](http://www.pcgamer.com/steam-community-access-has-been-blocked-in-china/)
-49. `2017-12-19` **讨论贴** [G胖疑似自我阉割了[国区]论坛功能](https://steamcn.com/forum.php?mod=viewthread&tid=340304&page=1&authorid=498096)
+50. `2017-12-16 12:03:37` **讨论贴** [Steam社区页遭域名污染+HTTP连接重置双重封锁](https://steamcn.com/t339379-1-1)
+51. `2017-12-19 11:31` **新闻** [Steam社区/个人资料等界面被屏蔽 但有简便解决方案](http://www.ali213.net/news/html/2017-12/337053.html)
+52. `2017-12-19 13:10:44` **新闻** [Steam Community access has been blocked in China](http://www.pcgamer.com/steam-community-access-has-been-blocked-in-china/)
+53. `2017-12-19` **讨论贴** [G胖疑似自我阉割了[国区]论坛功能](https://steamcn.com/forum.php?mod=viewthread&tid=340304&page=1&authorid=498096)
 
     > 今天(12月19日)早上我尝试进入steam社区的论坛版面，无论如何都进不去，包括用魔法。
     >
@@ -250,56 +283,53 @@ tags:
     > 效的是登录我的美小号，或者退出登录。
     >
     > 论坛版面与国区账户无缘了。这个可能是我的个例，楼下的你们能打开吗？
-50. `2017-12-22` **整合贴** [近期Steam无法打开社区、库存页面，出现错误代码101、110、113、118等解决办法](https://steamcn.com/t342004-1-1)
-
-51. `2017-12-23 16:08:49` **网络测试** [17CE上的对cdn.steamcommunity.com在华网络测试](http://www.17ce.com/site/http/201712_7b17c36238fa05f8abbaed8024760229.html)
-
-52. `2017-12-24 14:42` **讨论贴** [steam是这样回复我的，谁给我解释解释，我感觉说的好含糊啊](https://tieba.baidu.com/p/5490856537)
+54. `2017-12-22` **整合贴** [近期Steam无法打开社区、库存页面，出现错误代码101、110、113、118等解决办法](https://steamcn.com/t342004-1-1)
+55. `2017-12-23 16:08:49` **网络测试** [17CE上的对cdn.steamcommunity.com在华网络测试](http://www.17ce.com/site/http/201712_7b17c36238fa05f8abbaed8024760229.html)
+56. `2017-12-24 14:42` **讨论贴** [steam是这样回复我的，谁给我解释解释，我感觉说的好含糊啊](https://tieba.baidu.com/p/5490856537)
 
     >[与客服交流的图片📷](/img/steam/28680806.jpg)
-
-53. `2018-01-22 22:43:33` **行动通告** [北京启动网络游戏专项整治行动](http://www.xinhuanet.com/legal/2018-01/22/c_1122297489.htm)
-
-54. `2018-01-24` **软件** *Tower Accelerator* 在 steam 上发行(现已下架)
-
-55. `2018-01-27 03:15` **新闻** [网络游戏究竟应该靠什么赢得未来](http://news.gmw.cn/2018-01/27/content_27473422.htm)，大多重量级的网媒在一天内发布了。
+57. `2018-01-22 22:43:33` **行动通告** [北京启动网络游戏专项整治行动](https://web.archive.org/web/20180123054854/http://www.xinhuanet.com/legal/2018-01/22/c_1122297489.htm)
+58. `2018-01-24` **软件** *Tower Accelerator* 在 steam 上发行(现已下架)
+59. `2018-01-27 03:15` **新闻** [网络游戏究竟应该靠什么赢得未来](https://web.archive.org/web/20180127115641/https://news.gmw.cn/2018-01/27/content_27473422.htm)，大多重量级的网媒在一天内发布了。
 
     关于这篇新闻及其来源的细节:
-    + 新闻里的配图的创作公司是 [EG365](http://eg365.cn/aboutus)，官网里看起来不像普通人可以使用的配图服务。
-    + [山东师范大学齐鲁文化研究院](http://www.qlwh.sdnu.edu.cn/)在2018年01月16日的下午成立了[齐鲁文化研究院新闻宣传小组](http://www.qlwh.sdnu.edu.cn/info/1038/1244.htm)
+    + 新闻里的配图的创作公司是 [EG365](https://web.archive.org/web/20191224002544/https://eg365.cn/aboutus)，官网里看起来不像普通人可以使用的配图服务。
+    + [山东师范大学齐鲁文化研究院](https://web.archive.org/web/20180120031543/http://www.qlwh.sdnu.edu.cn/)在2018年01月16日的下午成立了[齐鲁文化研究院新闻宣传小组](https://web.archive.org/web/20200821032013/http://www.qlwh.sdnu.edu.cn/info/1038/1244.htm)
     + `山东师范大学齐鲁文化研究院` + `网瘾` 关键词的新闻
-        + `2013-04-18` [山师大教授耗时十余年科研 戒除网瘾获突破进展](http://www.chinadaily.com.cn/hqgj/jryw/2013-04-19/content_8801572.html)
+        + `2013-04-18` [山师大教授耗时十余年科研 戒除网瘾获突破进展 齐鲁网](https://web.archive.org/web/20131105040349/http://news.iqilu.com/shandong/yuanchuang/2013/0418/1506271.shtml), [一个有趣的软件网站也转载了该文章——绿色同年，看起来是绿坝的同类软件](https://web.archive.org/web/20200821032554/http://child.rksec.com/media/6826.html)
+    + `数字艺术哲学研究` + `低碳` 关键词的新闻
+        + `2014-11-14` [国家社科项目“数字艺术伦理学研究”研讨会在我校举办 - 山东师范大学 新闻网](https://web.archive.org/web/20200508145647/http://www.qlshx.sdnu.edu.cn/page.jsp?urltype=news.NewsContentUrl&wbtreeid=10445&wbnewsid=95767)
+        + `2015-06-07 16:32` [数字艺术哲学研究智库落户山东师大 首创低碳艺术理论--山东频道--人民网 山东频道](https://web.archive.org/web/20200821034021/http://sd.people.com.cn/n/2015/0607/c172848-25151845.html)
     + 以**山东师范大学齐鲁文化研究院**的名义在近年发表的关于戒网瘾的新闻:
-        + `2015-06-10` [首家数字艺术哲学研究智库落户山东师大](http://sd.china.com.cn/a/2015/jykj_0610/240272.html)
-        + `2017-12-07` [实施数字艺术通识教育很有必要](http://www.rmzxb.com.cn/c/2017-12-07/1893042.shtml)
-        + `2014-11-14` [国家社科项目“数字艺术伦理学研究”研讨会在山东师范大学举办](http://www.qlshx.sdnu.edu.cn/page.jsp?urltype=news.NewsContentUrl&wbtreeid=10445&wbnewsid=95767)
-    + 作者之一的**马立新**教授发表的数篇网瘾相关的文书:
-        + `2007年4期` [论网络游戏的本体特征-《山东师范大学学报》](http://www.wanfangdata.com.cn/details/detail.do?_type=perio&id=sdsdxb-rwshkxb200704002)
-        + `2013年5月10日` [论数字艺术德性生成机制-《理论学刊》](http://www.wanfangdata.com.cn/details/detail.do?_type=perio&id=llxk201302025)
-        + `2013年5期` [《易经》哲学与当代低碳文化建设-《广东社会科学》](http://www.cqvip.com/qk/80603x/201305/47188678.html)
-        + `2014年5月` [高碳网络文化的危害、成因与管控-《上海师范大学学报》](http://qktg.shnu.edu.cn/skb/ch/reader/create_pdf.aspx?file_no=201403017&year_id=2014&quarter_id=3&falg=1)
-        + `2015年7月` [高碳艺术精神损害研究-《上海师范大学学报》](http://qktg.shnu.edu.cn/skb/ch/reader/create_pdf.aspx?file_no=201504013&flag=1&journal_id=shsfqksskb&year_id=2015)
+        + `2015-06-10` [首家数字艺术哲学研究智库落户山东师大 中国网·新山东](https://web.archive.org/web/20200508145631/http://sd.china.com.cn/a/2015/jykj_0610/240272.html)
+        + `2017-12-07` [马立新 刘中锦：实施数字艺术通识教育很有必要 人民政协网](https://web.archive.org/web/20200508145733/http://www.rmzxb.com.cn/c/2017-12-07/1893042.shtml)
+          + 本文为[国家社科基金](https://web.archive.org/web/20200821035826/https://baike.baidu.com/item/国家社会科学基金)项目“数字艺术哲学研究”和“数字艺术伦理学研究”阶段性成果
+    + 作者之一的**马立新**教授发表的数篇网瘾相关的报刊:
+        + `2007年4期` [论网络游戏的本体特征 - 《山东师范大学学报》](https://archive.is/18W3r "http://d.wanfangdata.com.cn/periodical/sdsdxb-rwshkxb200704002")
+        + `2013年5月10日` [论数字艺术德性生成机制 - 《理论学刊》](https://archive.is/VSYZh "http://d.wanfangdata.com.cn/periodical/llxk201302025")
+        + `2013年5期` [《易经》哲学与当代低碳文化建设 - 《广东社会科学》](https://web.archive.org/web/20200508145539/http://www.cqvip.com/qk/80603x/201305/47188678.html)
+        + `2014年5月` [高碳网络文化的危害、成因与管控 - 《上海师范大学学报》](https://web.archive.org/web/20180128065246/http://qktg.shnu.edu.cn/skb/ch/reader/create_pdf.aspx?file_no=201403017&year_id=2014&quarter_id=3&falg=1)
+        + `2015年7月` [高碳艺术精神损害研究 - 《上海师范大学学报(哲学社会科学版)》](https://web.archive.org/web/20180128065328/https://qktg.shnu.edu.cn/skb/ch/reader/create_pdf.aspx?file_no=201504013&flag=1&journal_id=shsfqksskb&year_id=2015)
+        + `2017年7月` [论数字艺术生产义务的量变与质变 - 《上海师范大学学报(哲学社会科学版)》](https://web.archive.org/web/20200821033315/http://qktg.shnu.edu.cn/skb/ch/reader/create_pdf.aspx?file_no=201704015&flag=1&journal_id=shsfqksskb&year_id=2017)
+60. `2018-01-31` **帖子** steam 社区网页显示 **您的网站暂时无法访问**
 
-    还有几篇就不在这里列举了，这些资料已经足够了。
-56. `2018-01-31` **帖子** steam 社区网页显示 **您的网站暂时无法访问**
-
-    + [STEAM市场被工信部关闭？](https://steamcn.com/t355700-1-1)
-    + [手机steam这是玩完了？？？已用UU加速。](https://tieba.baidu.com/p/5535223095)
-    + [你们的steam有这样么](https://tieba.baidu.com/p/5535178758)
-    + [这是什么情况?](https://tieba.baidu.com/p/5535236915)
+    + [🛠STEAM市场被工信部关闭？](https://web.archive.org/web/20180713135005/https://steamcn.com/t355700-1-1)
+    + [手机steam这是玩完了？？？已用UU加速。](https://web.archive.org/web/20180131074239/https://tieba.baidu.com/p/5535223095)
+    + [你们的steam有这样么](https://web.archive.org/web/20180131074252/https://tieba.baidu.com/p/5535178758)
+    + [这是什么情况?](https://web.archive.org/web/20180131074312/https://tieba.baidu.com/p/5535236915)
 
     似乎是都是用了网易UU加速器才出现这样的错误，搜索引擎上查询了一下文字，并没有没得到有价值的信息
-57. `2018-02-03` **软件** [Tower Accelerator](http://steamcommunity.com/app/758670/discussions/0/1699415798765578829/) 在 steam 上被下架
-58. `2018-02-10 19:30` **新闻** [专家：青少年登录境外游戏服务器严重 应尽快纳入国内监管体系](http://society.people.com.cn/n1/2018/0210/c1008-29817234.html) [讨论帖](https://archive.vn/mQ6H8)
+61. `2018-02-03` **软件** [Tower Accelerator](https://web.archive.org/web/20200821041010/https://steamcommunity.com/app/758670/discussions/0/1699415798765578829/) 在 steam 上被下架
+62. `2018-02-10 19:30` **新闻** [专家：青少年登录境外游戏服务器严重 应尽快纳入国内监管体系](https://web.archive.org/web/20181108213803/http://society.people.com.cn/n1/2018/0210/c1008-29817234.html) [keylol 其乐讨论帖](https://archive.vn/mQ6H8 "https://keylol.com/t360358-1-1")
 
     **gledos注: 虽然内容很长，但文章似乎有几分重量**
-59. `2018-02-11 下午` **知乎** [如何看待人民网发文《青少年登录境外游戏服务器严重，应尽快纳入国内监管体系》？](https://www.zhihu.com/question/267002275)
+63. `2018-02-11 下午` **知乎** [❌如何看待人民网发文《青少年登录境外游戏服务器严重，应尽快纳入国内监管体系》？](https://www.zhihu.com/question/267002275)
 
     参与讨论的人数超过1000
-60. `2018-05-09 21:55:13` **IT之家** [Steam 测试版新增 6 个国内节点：包括青岛、乌鲁木齐等城市 - Steam,青岛,乌鲁木齐 - IT之家](https://archive.is/RIO6H)
-61. `2018-05-28 17:24` **贴吧** [6.1【教程】国内 Steam社区 / 商店 报错及打不开的解决方法](https://web.archive.org/web/20180711132403/https://tieba.baidu.com/p/5720575784) 吧主发帖。2018年7月11日进行了顶置
-62. `2018-06-12 07:12:34` **IT之家** [Valve 宣布与完美合作，Steam 将正式进入中国 - Valve,Steam - IT之家](https://archive.vn/Qnq1E)
-63. `2018-06-12 07:34` **新闻** STEAM CN
+64. `2018-05-09 21:55:13` **IT之家** [Steam 测试版新增 6 个国内节点：包括青岛、乌鲁木齐等城市 - Steam,青岛,乌鲁木齐 - IT之家](https://archive.is/RIO6H "https://www.ithome.com/html/game/359116.htm")
+65. `2018-05-28 17:24` **贴吧** [6.1【教程】国内 Steam社区 / 商店 报错及打不开的解决方法](https://web.archive.org/web/20180711132403/https://tieba.baidu.com/p/5720575784) 吧主发帖。2018年7月11日进行了顶置
+66. `2018-06-12 07:12:34` **IT之家** [Valve 宣布与完美合作，Steam 将正式进入中国 - Valve,Steam - IT之家](https://archive.vn/Qnq1E "https://www.ithome.com/html/game/364421.htm")
+67. `2018-06-12 07:34` **新闻** STEAM CN
 
     + [Valve will officially launch Steam in China](https://www.theverge.com/2018/6/11/17451484/steam-china-announced-valve-perfect-world)
     + [完美世界：宣布与美国Valve成立“STEAM中国”项目](https://www.ithome.com/html/it/364433.htm)
@@ -313,21 +343,28 @@ tags:
     + [中国文创引进来走出去添新平台](http://tv.cntv.cn/video/C10616/3bd40bdd9ba548358b0b8a148403a381) [全文](http://user.guancha.cn/main/content?id=21422&comments-container)如下
         > 中美两国文化企业12号宣布启动战略合作，将共建游戏娱乐平台，引进全球精品游戏，同时中国游戏也将通过该平台拓展海外市场。
         >
-        > 此次与中国企业合作的美国Steam游戏平台拥有全球两万多家游戏开发商提供的游戏产品，是世界上最大的数字娱乐分销平台。按照战略协议，将由中国企业完美世界建立平台，并被授权使用Steam商标，按照中国游戏产品上线流程，从平台挑选游戏，申报版号及备案，接受监督，让海外游戏健康有序，服务中国市场。
+        > 此次与中国企业合作的美国Steam游戏平台拥有全球两万多家游戏开发商提供的游戏产品，是世界上最大的数字娱乐分销平台。
+        > 按照战略协议，将由中国企业完美世界建立平台，并被授权使用Steam商标，按照中国游戏产品上线流程，从平台挑选游戏，
+        > 申报版号及备案，接受监督，让海外游戏健康有序，服务中国市场。
         >
-        > 今年上半年，中国游戏收入超过1000亿人民币，继续占领全球最大市场地位。据游戏产业专业分析数据伽马数据统计，截止到去年年底，中国正式审批，获得版号的游戏，一共9800款，但是实际上还有大量的游戏处在监管真空或模糊地带，也影响游戏产业发展秩序。
+        > 今年上半年，中国游戏收入超过1000亿人民币，继续占领全球最大市场地位。据游戏产业专业分析数据伽马数据统计，
+        > 截止到去年年底，中国正式审批，获得版号的游戏，一共9800款，但是实际上还有大量的游戏处在监管真空或模糊地带，
+        > 也影响游戏产业发展秩序。
         >
-        > 中国游戏产业报告分析师滕华表示：“在国外的游戏平台上面，聚集着大量的中国玩家，而这些中国玩家接触到的，跟正在玩的游戏远远超过了9800款，大概有2万多款。”
+        > 中国游戏产业报告分析师滕华表示：“在国外的游戏平台上面，聚集着大量的中国玩家，而这些中国玩家接触到的，
+        > 跟正在玩的游戏远远超过了9800款，大概有2万多款。”
         >
-        > 专家认为，这一平台的建立对游戏产品和产业管理模式而言，是一个管理创新，实现了更有效、更科学监管。另一方面，中国游戏可以借助这一平台更好地与国际接轨，实现中国游戏更好地走出去，帮助中国中小游戏研发企业拓展海外市场。
-64. `2018-06-13 16:18:07` **资讯** **讨论** [Valve：Steam中国版不会对玩家已有游戏产生影响 - vgtime.com](https://archive.vn/VvEPE)
-65. `2018-06-13 19:55` **资讯** [关于Steam中国锁区，Steam的官方回复怎么说？丨VR陀螺](https://archive.vn/45g7R)
-66. `2018-06-13 21:56:30` **视频** [中国玩家的福音：央视宣传steam中国版，力求按中国游戏上线流程，让海外游戏健康有序服务中国市场](https://web.archive.org/web/20180615073029/https://www.bilibili.com/video/av24829932/)
-67. `2018-06-14 10:35:53` **资讯** [Steam这么“黄暴”的平台，竟然上央视了？这是单机游戏的机会还是末日？ - 知乎](https://archive.vn/zwtbN)
-68. `2018-06-14 13:53` **新闻** [Steam中国的背后：完美与Valve的挑战](https://archive.vn/32B7a)
-69. `2018-07-10` **贴吧** 101错误开始蔓延到一部分玩家的商店主页
-70. `2018-07-31 14:08` **新闻** [Steam中国开始招聘员工！惨遭玩家怒喷：滚出中国！](https://web.archive.org/web/20200527123526/https://www.sohu.com/a/244361654_100191223?sec=wd) 内有Steam中国招工信息与帕斯亚科技对Steam中国的认识
-71. `2018-07-10 至 2018-07-14` **贴吧** 讨论帖收集，许多用户开始首次遇到打不开市场的问题
+        > 专家认为，这一平台的建立对游戏产品和产业管理模式而言，是一个管理创新，实现了更有效、更科学监管。
+        > 另一方面，中国游戏可以借助这一平台更好地与国际接轨，实现中国游戏更好地走出去，帮助中国中小游戏研发企业拓展海外市场。
+68. `2018-06-13 16:18:07` **资讯** **讨论** [Valve：Steam中国版不会对玩家已有游戏产生影响 - vgtime.com](https://archive.vn/VvEPE)
+69. `2018-06-13 19:55` **资讯** [关于Steam中国锁区，Steam的官方回复怎么说？丨VR陀螺](https://archive.vn/45g7R)
+70. `2018-06-13 21:56:30` **视频** [中国玩家的福音：央视宣传steam中国版，力求按中国游戏上线流程，让海外游戏健康有序服务中国市场](https://web.archive.org/web/20180615073029/https://www.bilibili.com/video/av24829932/)
+71. `2018-06-14 10:35:53` **资讯** [Steam这么“黄暴”的平台，竟然上央视了？这是单机游戏的机会还是末日？ - 知乎](https://archive.vn/zwtbN)
+72. `2018-06-14 13:53` **新闻** [Steam中国的背后：完美与Valve的挑战](https://archive.vn/32B7a)
+73. `2018-07-10` **贴吧** 101错误开始蔓延到一部分玩家的商店主页
+74. `2018-07-31 14:08` **新闻** [Steam中国开始招聘员工！惨遭玩家怒喷：滚出中国！](https://web.archive.org/web/20200527123526/https://www.sohu.com/a/244361654_100191223?sec=wd)
+    内有Steam中国招工信息与帕斯亚科技对Steam中国的认识
+75. `2018-07-10 至 2018-07-14` **贴吧** 讨论帖收集，许多用户开始首次遇到打不开市场的问题
 
     + [今天大家是不是都steam打不开了？网页和软件都打不开了！](https://web.archive.org/web/20180710124939/https://tieba.baidu.com/p/5789930101)
     + [今天服务器是不是又炸了、、、](https://web.archive.org/web/20180710124754/https://tieba.baidu.com/p/5789953505)
@@ -345,51 +382,77 @@ tags:
     + [steam 商店打开，有大佬知道怎么解决吗](https://web.archive.org/web/20180714063924/https://tieba.baidu.com/p/5794763528)
     + [不用加速器steam市场就打不开怎么办？](https://web.archive.org/web/20180714060529/https://tieba.baidu.com/p/5794560012)
     + [错误代码101怎解决？](https://web.archive.org/web/20180714050551/https://tieba.baidu.com/p/5151618796)
-72. `2018-10-30 11:48` **新闻** [刚刚！Steam中国北京运营开启，Steam中国真的来了！_游戏](https://web.archive.org/web/20200527123521/https://www.sohu.com/a/272143651_535013)
-73. `2019-11-11 09:43` [严格控制未成年人使用网络游戏时段、时长_服务信息_中国政府网](https://web.archive.org/web/20200609171539/http://www.gov.cn/fuwu/2019-11/11/content_5450800.htm) [archive.is](https://archive.is/46U3p)
-74. `2020-04-26 02:13:11` **讨论帖** [蒸汽平台或有望在2020年面世？ - 热点聚焦 - 其乐 Keylol](https://archive.is/uA3tG)
-
-    + 目前该讨论帖已经设置上了阅读权限，下一节会有转载的内容。
-75. `2020-04-27 17:07:43` **转载** 蒸汽平台或有望在2020年面世？
+76. `2018-10-30 11:48` **新闻** [刚刚！Steam中国北京运营开启，Steam中国真的来了！游戏](https://web.archive.org/web/20200527123521/https://www.sohu.com/a/272143651_535013)
+77. `2019-08-21` **IT之家** [蒸汽平台首批上线游戏达 40 款，含《DOTA2》《刀塔霸业》 - Steam,V社,完美世界 - IT之家](https://archive.is/1dP5k "https://www.ithome.com/0/440/351.htm")
+78. `2019-08-22` **新闻** [中國玩家還能翻牆玩嗎？Valve：一切依法行政 電競 新頭殼 Newtalk](https://web.archive.org/web/20200821030708/https://newtalk.tw/news/view/2019-08-22/289090)
+79. `2019-08-22` **新闻** [不用再辛苦翻牆！中國版Steam「蒸汽平台」即將登場 電競 新頭殼 Newtalk](https://web.archive.org/web/20200527202753/https://newtalk.tw/news/view/2019-08-22/289036)
+80. `2019-11-11 09:43` [严格控制未成年人使用网络游戏时段、时长_服务信息_中国政府网](https://web.archive.org/web/20200609171539/http://www.gov.cn/fuwu/2019-11/11/content_5450800.htm) [archive.is](https://archive.is/46U3p)
+81. `2020-04-26 02:13:11` **讨论帖** [蒸汽平台或有望在2020年面世？ - 其乐 Keylol](https://archive.is/uA3tG "https://keylol.com/t588262-1-1")
+82. `2020-04-27 17:07:43` **转载** 蒸汽平台或有望在2020年面世？
 
     + [终于来了！Steam国服域名曝光：玩游戏不掉线了？](https://web.archive.org/web/20200814044525/http://www.bajieyou.com/new/7b2f9fd4057645949e7fbe87eaa3075b),
         [新浪网](https://web.archive.org/web/20200508143013/https://k.sina.com.cn/article_5061312402_12dad7f9202700sy1i.html)
-    + [蒸汽平台或有望在2020年面世 NGA玩家社区](https://archive.is/OpCGR)
-    > 蒸汽平台或有望在2020年面世？
-    >
-    > 社区坛友@清靈語 发现了完美世界所拥有的蒸汽平台相关域名和证书，其中wmsjsteam今年2月份取得了证书，并被Valve所拥有。此外坛友zxrzy也发现这些域名今年4月初都已过审，以及去年12月份获得软著的完美世界对战平台，支付网关，神秘商店，电子竞技App.
-76. `2020-05-05` 完美世界的蒸汽平台的强制全屏 5 秒 《健康游戏忠告》
+    + [蒸汽平台或有望在2020年面世 NGA玩家社区](https://archive.is/OpCGR "https://ngabbs.com/read.php?tid=21472536")
+        > 蒸汽平台或有望在2020年面世？
+        >
+        > 社区坛友@清靈語 发现了完美世界所拥有的蒸汽平台相关域名和证书，其中wmsjsteam今年2月份取得了证书，并被Valve所拥有。
+        > 此外坛友zxrzy也发现这些域名今年4月初都已过审，以及去年12月份获得软著的完美世界对战平台，支付网关，神秘商店，电子竞技App.
+83. `2020-05-05` 完美世界的蒸汽平台的强制全屏 5 秒 《健康游戏忠告》
 
-    + `2020-5-5 12:06 編輯` [蒸汽平台会强制全屏 5 秒《健康游戏忠告》](https://archive.vn/GaFoT)
-    + `2020-5-6 19:15 編輯` [蒸汽平台會強制全屏 5 秒《健康遊戲忠告》](https://archive.vn/XYbqf)
-    + `2020-5-8 15:16 编辑` [蒸汽平台會強制全屏 5 秒《健康遊戲忠告》](https://archive.vn/7QKHo)
+    + `2020-05-05 12:06 編輯` [蒸汽平台会强制全屏 5 秒《健康游戏忠告》](https://archive.vn/GaFoT "https://keylol.com/t592086-1-1")
+    + `2020-05-06 19:15 編輯` [蒸汽平台会强制全屏 5 秒《健康游戏忠告》](https://archive.vn/XYbqf "https://keylol.com/t592086-1-1")
+    + `2020-05-08 15:16 编辑` [蒸汽平台会强制全屏 5 秒《健康游戏忠告》](https://archive.vn/7QKHo "https://keylol.com/t592086-1-1")
+    + `2020-07-20 18:54 编辑` [蒸汽平台会强制全屏 5 秒《健康游戏忠告》](https://archive.is/lmpFL "https://keylol.com/t592086-1-1")
     + PTT上的讨论 [Fw: [閒聊] 中國的蒸汽平台會限制遊戲時間 - 批踢踢實業坊](https://web.archive.org/web/20200508143401/https://www.ptt.cc/bbs/Steam/M.1588677634.A.C96.html)
-77. `2020-05-19` **新闻** [Valve quietly releases censored Steam China client to alpha - CS:GO - News - WIN.gg](https://archive.fo/Yc4dX)
-78. `2020-05-24` **新闻** [Valve Releases Censored Chinese Steam Client for Alpha Testing – Sankaku Complex](https://web.archive.org/web/20200524112247/https://www.sankakucomplex.com/2020/05/24/valve-releases-censored-chinese-steam-client-for-alpha-testing/)
-79. `2020-05-27 20:55:29` **IT之家** [Steam 中国版泄露：加入健康游戏忠告，限制未成年人游戏时长 - Steam - IT之家](https://archive.is/VHNXv)
-80. `2020-05-31 23:21:55` **IT之家** [《CS：GO》防沉迷错误已修复：Steam玩家需切换至Beta版 - CSGO - IT之家](https://archive.is/Mwtb9)
-81. `2020-06-06` **新闻** [News - Client Updates](https://web.archive.org/web/20200606115302/https://store.steampowered.com/news/?feed=steam_client) 、 [News - Steam Client Update Released](https://web.archive.org/web/20200606115322/https://store.steampowered.com/news/62162/)
+84. `2020-05-19` steam 中国客户端α版风波
+
+    + [Valve quietly releases censored Steam China client to alpha - CS:GO - News - WIN.gg](https://archive.fo/Yc4dX "https://win.gg/news/4554/valve-quietly-releases-censored-steam-china-client-to-alpha")
+        + 中文标题可能会被翻译为《V社悄然推行STEAM中国客户端α版》
+    + [🌟如何看待文章《V社悄然推行STEAM中国客户端α版》？ - 知乎](https://web.archive.org/web/20200820142415/https://www.zhihu.com/question/397509621)
+    + [据说 steam 要出国内特供版本了…… - V2EX](https://archive.is/FPXXQ "https://www.v2ex.com/t/676328")
+    + [steam要出中国特供版了 - 电子游戏(Game)版 - 北大未名BBS](https://web.archive.org/web/20200821025126/https://bbs.pku.edu.cn/v2/post-read.php?bid=49&threadid=16445230)
+    + [蒸汽平台有遊戲時限！中國玩家崩潰：你不要過來 - Yahoo奇摩股市](https://archive.is/bFJva "https://tw.stock.yahoo.com/news/蒸汽平台有遊戲時限-中國玩家崩潰-你不要過來-035828837.html")
+85. `2020-05-24` **新闻** [Valve Releases Censored Chinese Steam Client for Alpha Testing – Sankaku Complex](https://web.archive.org/web/20200524112247/https://www.sankakucomplex.com/2020/05/24/valve-releases-censored-chinese-steam-client-for-alpha-testing/)
+86. `2020-05-27 20:55:29` **IT之家** [Steam 中国版泄露：加入健康游戏忠告，限制未成年人游戏时长 - Steam - IT之家](https://archive.is/VHNXv)
+87. `2020-05-31 23:21:55` **IT之家** [《CS：GO》防沉迷错误已修复：Steam玩家需切换至Beta版 - CSGO - IT之家](https://archive.is/Mwtb9)
+88. `2020-06-06` **新闻** [News - Client Updates](https://web.archive.org/web/20200606115302/https://store.steampowered.com/news/?feed=steam_client) 、
+    [News - Steam Client Update Released](https://web.archive.org/web/20200606115322/https://store.steampowered.com/news/62162/)
 
     + Steam 这几天前后更新了多次测试版的客户端，为了完美世界的防沉迷而更新
     + [Steam Community :: Group :: Steam Client Beta](https://web.archive.org/web/20200606114915/https://steamcommunity.com/groups/SteamClientBeta/announcements)
-82. `2020-06-04` **讨论帖** [今日 Steam Beta 修复了多项与完美服有关的问题，建议更新至 Beta 版本 - 其乐 Keylol](https://archive.is/KXmnP)
-83. `2020-06-08` **讨论帖** [蒸汽平台不会出现“双重”《健康游戏忠告》 - 其乐 Keylol](https://archive.vn/X8YGL)
-84. `2020-06-11` **讨论帖** [蒸汽平台现以 CS:GO 完美服启动器呈现！ - 全球攻势 - 其乐 Keylol](https://archive.is/103Gm)
+
+89. `2020-06-04` **讨论帖** [今日 Steam Beta 修复了多项与完美服有关的问题，建议更新至 Beta 版本 - 其乐 Keylol](https://archive.is/KXmnP)
+
+90. `2020-06-08` **讨论帖** [蒸汽平台不会出现“双重”《健康游戏忠告》 - 其乐 Keylol](https://archive.vn/X8YGL)
+
+91. `2020-06-11` **讨论帖** [蒸汽平台现以 CS:GO 完美服启动器呈现！ - 全球攻势 - 其乐 Keylol](https://archive.is/103Gm)
 
     > 也就是说，CS:GO 完美服启动器已经从Steam 的阉割版，变成了蒸汽平台阉割版，
     > 且其不再使用「IPCountry」等国际化的一些参数来作为参考标准，而是强制执行「完美区」的标准。
-85. `2020-07-17` **讨论帖** [Steam 将新增大陆下载区域，包括深圳、杭州和沈阳等…… - 热点聚焦 - 其乐 Keylol](https://archive.is/v9Kjl)
-86. `2020-07-28` Wallpaper Engine 登陆腾讯 WeGame
+
+92. `2020-07-17` **讨论帖** [Steam 将新增大陆下载区域，包括深圳、杭州和沈阳等…… - 热点聚焦 - 其乐 Keylol](https://archive.is/v9Kjl)
+
+93. `2020-07-23` **讨论帖** [蒸汽平台專用 CM 已下線 - 談天說地 - 其樂 Keylol - 驅動正版遊戲的引擎！](https://archive.is/9Qq7A "https://keylol.com/t623359-1-1")
+
+94. `2020-07-25` **讨论帖** [Steam中國微博賬號最新動向：現已改名為「蒸汽平台官方賬號」 - 談天說地 - 其樂 Keylol - 驅動正版遊戲的引擎！](https://archive.is/cyMXS "https://keylol.com/t624344-1-1")
+
+95. `2020-07-28` Wallpaper Engine 登陆腾讯 WeGame
 
     + **IT之家** [腾讯：热门壁纸软件《Wallpaper Engine》即将上线 WeGame](https://archive.is/3F5mt)
     + **其乐** [WeGame Wallpaper Engine即将于7月30日启动技术测试](https://archive.is/FPP87)
     + **IT之家** [《Wallpaper Engine：壁纸引擎》登陆腾讯 WeGame 商店，即将开启测试](https://archive.vn/E5pXO)，[评论](https://web.archive.org/web/20200801090600/https://dyn.ithome.com/comment/49250a21adb87da4)
-87. `2020-07-29` **讨论帖** [Steam CD改区界面变了 - 购物心得 - 其乐 Keylol](https://archive.is/EXDVS)，[steam已更改跨区政策，现在只能用当地支付方式购买游戏或者联系客服才能改，不能再通过IP直接改了，不知道是好是坏 百度steam吧](https://archive.is/9Pk56)
+
+96. `2020-07-29` **讨论帖** [Steam CD改区界面变了 - 购物心得 - 其乐 Keylol](https://archive.is/EXDVS)，
+
+    [steam已更改跨区政策，现在只能用当地支付方式购买游戏或者联系客服才能改，不能再通过IP直接改了，不知道是好是坏 百度steam吧](https://archive.is/9Pk56)
 
     > 请注意Steam商店跨区购买是违反Steam用户协议的
     >
-    > 今天早上Steam再次更新了改区方式现在改区界面已经变成了这样，然后Steam又不支持阿根廷那边的货币结算，所以，以后去阿根廷，要么有当地银行卡，要么就找客服了
-88. `2020-08-05` steam 添加了新标签 steamchinaapproved ，目前共有20多款游戏属于这个标签下，以下链接如无说明，则均有评论区
+    > 今天早上Steam再次更新了改区方式现在改区界面已经变成了这样，然后Steam又不支持阿根廷那边的货币结算，
+    > 所以，以后去阿根廷，要么有当地银行卡，要么就找客服了
+
+97. `2020-08-02` **讨论帖** [蒸汽平台可以在 Linux 上启动 - 谈天说地 - 其乐 Keylol - 驱动正版游戏的引擎！](https://archive.is/ah7rS "https://keylol.com/t627361-1-1")
+98. `2020-08-05` steam 添加了新标签 steamchinaapproved ，目前共有20多款游戏属于这个标签下，以下链接如无说明，则均有评论区
 
     > Steam中国过审游戏标记？——万狐飞仙
     + [SteamDB 泄露“Steam中国”首批游戏？ - 其乐 Keylol](https://archive.vn/ewTPv)
@@ -402,19 +465,43 @@ tags:
     + [Steam中国首批游戏阵容曝光，地平线黎明时分PC版媒体分出炉，生化3重制全解锁DLC售卖_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://archive.is/wzKF8)
     + **无评论** [Steam China's first batch of over 20 games suspected to be leaked - cnTechPost](https://archive.is/0Ob6S)
     + **无评论区** [SteamDB疑洩露Steam中國首批遊戲 大量國產遊戲在列 電玩狂人](https://archive.is/RyIOg)
-89. `2020-08-13` steam 新的商店区域 XC，目前这个区域是蒸汽平台的区域，而目前进入蒸汽平台仍然只需要在启动项里添加 -steamchina
+99. `2020-08-13` steam 新的商店区域 XC，目前这个区域是蒸汽平台的区域，而目前进入蒸汽平台仍然只需要在启动项里添加 -steamchina
 
-    + [蒸汽平台可能不是 Steam 中国（大陆）区——“?cc=xc”目前可以直接访问蒸汽平台商店 - 热点聚焦 - 其乐 Keylol](https://archive.is/xbj9Z)
+    + [蒸汽平台可能不是 Steam 中国（大陆）区——“?cc=xc”目前可以直接访问蒸汽平台商店 - 其乐 Keylol](https://archive.is/xbj9Z "https://keylol.com/t631490-1-1")
+    + [【8.15 更新】蒸汽平台可能不是 Steam 中国（大陆）区——目前通过“?cc=xc”可以直接访问 - 其乐 Keylol](https://archive.is/r1mDF "https://keylol.com/t631490-1-1 更新了XC的意思以及游戏定价的可能性")
     + [Add SteamChina price · Issue #680 · SteamDatabase/steamdb.info · GitHub](https://web.archive.org/web/20200814051226/https://github.com/SteamDatabase/steamdb.info/issues/680)
     + **转载** [其乐论坛用户清靈語关于蒸汽平台的发现 - 游戏论坛 - Stage1st - stage1/s1 游戏动漫论坛](https://web.archive.org/web/20200814051443/https://bbs.saraba1st.com/2b/thread-1954559-1-1.html)
     + **转载** [网友探究：蒸汽平台可能并非Steam中国大陆区 游民星空 GamerSky.com](https://archive.is/v9wFW)
     + [看来，国区大概没事了【steam吧】百度贴吧](https://archive.is/RArzq)
-    + [也不知道是没人发还是都被删了，steamchina商店网址 NGA玩家社区](https://archive.is/diFB1)
-    + [2020年8月13日的XC区可玩的游戏数量为26个](https://web.archive.org/web/20200813104940/https://store.steampowered.com/search/?cc=xc)
-    + [目前仍然没有国区价格的中国式家长的steamdb页面](https://archive.is/b5LkB)
+    + [也不知道是没人发还是都被删了，steamchina商店网址 NGA玩家社区](https://archive.is/diFB1 "https://keylol.com/t630992-1-1")
+    + [继续探究，蒸汽平台可能不是#Steam# 中国（大陆）区... 来自其乐Keylol - 微博](https://archive.is/5QRDP)
+    + steam XC区相关的页面
+      + [XC区商店主页英文版的模样](https://web.archive.org/web/20200813104028/https://store.steampowered.com/?cc=xc)
+      + XC区免费以及有价格的游戏
+        + [2020年8月13日为26个](https://web.archive.org/web/20200813104940/https://store.steampowered.com/search/?cc=xc)
+      + [2020年8月20日，GTAV在?cc=xc无法显示商店页面](https://web.archive.org/web/20200820140446/https://store.steampowered.com/app/271590/Grand_Theft_Auto_V/?cc=xc)
+        + 该消息来源自需要登录的讨论帖[《非「steamchinaapproved」標籤遊戲已無法從蒸汽平台打開頁面》](https://archive.is/NML4B)
+      + [目前仍然没有国区价格的中国式家长的steamdb页面](https://archive.is/b5LkB)
+100. `2020-08-13` **讨论帖** [Steam 的 CM 被细化——采用“cm.wmsjsteam.com” - 其乐 Keylol](https://archive.is/9XCUq "https://webcache.googleusercontent.com/search?q=cache:https://keylol.com/t631322-1-1")
+101. `2020-08-18` **讨论帖**
+    + [蒸汽平台信息更新帖：8.18 去除“更新与优惠”数据 - 其乐 Keylol](https://web.archive.org/web/20200820134250if_/https://webcache.googleusercontent.com/search?q=cache:WSRFqwXzqtYJ:https://keylol.com/t633101-1-1)
+    + [蒸汽平台信息更新帖：8.19 增加了支付系統 - 其乐 Keylol](https://archive.is/mmQId "https://keylol.com/t633101-1-1")
+102. **未待完续**
 
 <!-- [这是真的吗 NGA玩家社区](https://archive.vn/rgmOt) 在隔壁群友看到的，如果是真的话，那?死也不会用的
     steam中国、WAC反作弊 -->
+
+<!-- 质量不高的转载新闻或不适合列表起来的来源
+
+【有评论】 [中国版Steam蒸汽平台传首发这28款游戏，玩家崩溃：你不要过来啊 - 游戏资讯(英雄联盟LOL)](https://web.archive.org/web/20200820135555/http://www.bajieyou.com/new/805cd40bb50e4703895f874bd6ec2939)
+
+[清靈語的微博_微博主页](https://archive.is/ViPOw)
+
+2020-08-20 的Steam新闻 热点聚焦板块的快照 [Steam新闻 - 热点聚焦 - 其乐 Keylol - 驱动正版游戏的引擎！](https://archive.is/tpV63 "https://keylol.com/forum.php?mod=forumdisplay&fid=161&filter=typeid&typeid=461")
+
+ -->
+
+[^311712]: https://archive.is/RsasZ "https://keylol.com/t436526-1-1"
 
 可能有关的资料
 --------------
@@ -452,56 +539,66 @@ tags:
 + [Steam中国区或将上线实名认证及防沉迷系统_风闻社区](https://web.archive.org/web/20200604060012/https://user.guancha.cn/main/content?id=321717&s=fwzxhfbt)
 + [《網遊防沉迷系統及實名認證服務協議》出現在Steam上 電玩狂人](https://web.archive.org/web/20200604064726/https://playgame.wiki/news/4bc9d2ff4e)
 
-### steam 在中国的 CDN 测速
+### steam 商店页面在中国的测速
 
-+ [1](http://www.17ce.com/site/http/201604_c2e730ad4d5d756601d01c423539fd7b.html)、[2](http://www.17ce.com/site/http/201602_4e419287a56c8584a6ea0361282b66a8.html)
-+ `2018-07-13` [主站 store.steampowered.com 测试](https://www.17ce.com/site/http/20180713_c0ec16e0869f11e8bab64ffc7156171c:1.html)
-+ `2018-07-14` [主站 store.steampowered.com 测试](http://www.17ce.com/site/http/201807_04596bd0208b5b3c168a845761dd4b1b.html)
++ `2018-07-13` [主站 store.steampowered.com 测试](https://web.archive.org/web/20180713132408/https://www.17ce.com/site/http/20180713_c0ec16e0869f11e8bab64ffc7156171c:1.html)
++ `2018-07-14` [主站 store.steampowered.com 测试](https://web.archive.org/web/20200820132339/http://www.17ce.com/site/http/201807_04596bd0208b5b3c168a845761dd4b1b.html)
+
+<!-- greatfire.org 似乎不可靠
 
 ### **CDN** *akamai.steamstatic.com* 域名下的 GFW 阻断情况
 
 + [根据 greatfire 的信息得出结论：并没用看见是 GFW 在阻断 Akamai](https://zh.greatfire.org/search/all/Akamai.steam)
-+ [cdn.steampowered.com 也没有在 GFW 上被拦截](https://zh.greatfire.org/search/all/cdn.steampowered.com)
++ [cdn.steampowered.com 也没有在 GFW 上被拦截](https://zh.greatfire.org/search/all/cdn.steampowered.com) -->
 
 ### 腾讯 wegame 的网络限制行为（疑惑&不确定）
 
 + [关于高延迟/文件损坏/弹窗闪退/多开等问题临时解决方案的公告-新闻中心-天涯明月刀-官方网站-腾讯游戏-电影网游新艺术，这就是武侠](https://web.archive.org/web/20190205015329/https://wuxia.qq.com/webplat/info/news_version3/5012/5013/5014/5016/m3486/201709/636379.shtml)
   + 此公告建议用户回退 Windows10 版本到旧版本，并且关闭 Windows10 自动更新
-+ [TGP/WeGame驱动导致WSL网络服务异常](https://zhuanlan.zhihu.com/p/33723838)
-+ [坑爹的腾讯TGP（WeGame）导致WSL无法连接到端口问题](https://zhuanlan.zhihu.com/p/27731530)
-+ [大毒瘤！卸载WeGame解决XPS 15蓝屏问题 - 阅读 - 掘金](https://juejin.im/entry/5b2b15cae51d4558d35facf5)
-+ [TGP 驱动导致 WSL 故障 - V2EX](https://www.v2ex.com/t/429742)
-+ [蓝屏毒瘤:腾讯居然比360还牛逼！隐蔽的TDI筛选器！](https://www.bilibili.com/read/cv248113/)
-+ [发现了tgp里的【无用】驱动【windows8吧】_百度贴吧](http://tieba.baidu.com/p/3637947742)
-+ [一上线就说检测到异常 网络连接断开（客服已回复）,沃特碧们的Colg,DNF地下城与勇士 - COLG社区](http://bbs.colg.cn/thread-7258396-1-1.html)
-+ [STEAM和WEGAME冲突？](https://steamcn.com/t314958-1-1)
++ [TGP/WeGame驱动导致WSL网络服务异常](https://archive.is/W3pyk "https://zhuanlan.zhihu.com/p/33723838")
++ [坑爹的腾讯TGP（WeGame）导致WSL无法连接到端口问题](https://archive.is/GiQ5s "https://zhuanlan.zhihu.com/p/27731530")
++ [大毒瘤！卸载WeGame解决XPS 15蓝屏问题 - 阅读 - 掘金](https://web.archive.org/web/20180712070032/https://juejin.im/entry/5b2b15cae51d4558d35facf5)
++ [TGP 驱动导致 WSL 故障 - V2EX](https://web.archive.org/web/20180712045236/https://www.v2ex.com/t/429742)
++ [蓝屏毒瘤:腾讯居然比360还牛逼！隐蔽的TDI筛选器！](https://archive.is/shhBm "https://www.bilibili.com/read/cv248113/")
++ [发现了tgp里的【无用】驱动【windows8吧】_百度贴吧](https://web.archive.org/web/20180712055929/http://tieba.baidu.com/p/3637947742)
++ [一上线就说检测到异常 网络连接断开（客服已回复）,沃特碧们的Colg,DNF地下城与勇士 - COLG社区](https://web.archive.org/web/20180712030019/https://bbs.colg.cn/thread-7258396-1-1.html)
++ [❌STEAM和WEGAME冲突？](https://steamcn.com/t314958-1-1)
 
-## F.O.A.F
+### 玩家认为是腾讯软件的问题
 
-[帖子](https://www.v2ex.com/t/377252)32楼：有种说法是 6 月 1 号 Law of Cyber Security 开始实施后，Steam 不能再用国内 8686c 的 CDN，所以国内用户访问时也使用 Akamai，Akamai CDN 被 GFW RST 导致的
+大多数内容都是关闭了QQ，然后就能上steam社区了，不过以下内容均无法确认因果关系
 
-## 非常侧面的资料
++ [震惊!Steam无法访问的背后原因竟然是...... - 其乐 Keylol](https://archive.is/DuQeb "https://keylol.com/t291334-1-1")
 
-[转个A9VG关于psn网络不好用原因的帖子](https://tieba.baidu.com/p/3504351437)
+## 捕风捉影中的捕风捉影
+
+[steam 被墙了? 还是只是临时抽风](https://web.archive.org/web/20200820153443/https://www.v2ex.com/t/377252)
+    + 32楼：有种说法是 6 月 1 号 Law of Cyber Security 开始实施后，Steam 不能再用国内 8686c 的 CDN，
+      所以国内用户访问时也使用 Akamai，Akamai CDN 被 GFW RST 导致的
+
+## 非常侧面的资料-友商的资料
+
+[❌转个A9VG关于psn网络不好用原因的帖子](https://tieba.baidu.com/p/3504351437)
 
 ## 腾讯邮箱屏蔽steam邮件事件
 
 注意，这到底是故意的还是无意的我是没有找到证据，当然除了有时候block steam之外还会block 其他的邮件，比如 DMM。但是我是没找到有人被qq邮箱屏蔽了邮件
 
-+ `2013-07-04` **新闻** [拦截D2邮件,恶性竞争&无意为之？](http://dota2.uuu9.com/201307/447561.shtml)
-+ `2014-08-29` **帖子** [为什么我的qq邮箱收不到完美的邮件。。。](https://tieba.baidu.com/p/3262705495)
-+ `2015-05-07` **帖子** [QQ邮箱出现了新的针对DOTA2方法！求破解](https://tieba.baidu.com/p/3748153998)
++ `2013-07-04` **新闻** [拦截D2邮件,恶性竞争&无意为之？](https://web.archive.org/web/20180122021905/https://dota2.uuu9.com/201307/447561.shtml)
++ `2014-08-29` **帖子** [为什么我的qq邮箱收不到完美的邮件。。。](https://archive.is/3AldK "https://tieba.baidu.com/p/3262705495")
++ `2015-05-07` **帖子** [QQ邮箱出现了新的针对DOTA2方法！求破解](https://archive.is/KWUOT "https://tieba.baidu.com/p/3748153998")
 
 ## DOTA2刚开服时出现的"腾讯拒绝员"事件
 
-没有什么靠得住的依据的信息我没放上来，同样此事件真实性存疑
+同样此事件真实性存疑
 
-[帖子](https://tieba.baidu.com/p/2324368326) 27楼：基本遇到拒绝都是玩上海服务器和东南亚的，现在只排澳洲表示再也没遇见过拒绝狂魔！！
+[帖子](https://archive.is/f2JPC "https://tieba.baidu.com/p/2324368326") 27楼：基本遇到拒绝都是玩上海服务器和东南亚的，现在只排澳洲表示再也没遇见过拒绝狂魔！！
 V社真的该对拒绝游戏施加点什么限制因素了，不然TX真的用个几千水军来拒绝基本这游戏中国地区的玩家就可以不用玩了，大家还是去玩lol吧！！
 
 ## steam 帐号盗号相关的一些资料
 
-+ `2017-12-31 05:55` [各位steam吧友，本人近期卧  底于steam黑号群，现在曝光](https://tieba.baidu.com/p/5498583590)
++ `2017-12-31 05:55` [各位steam吧友，本人近期卧  底于steam黑号群，现在曝光](https://web.archive.org/web/20180129041630/https://tieba.baidu.com/p/5498583590)
+
     > 各位steam吧友，本人近期卧底于steam黑号群，现在曝光黑号群是怎么盗取别人steam账号的。
     >
     > 1.利用租号网上的账号用软件破解密码（无法改邮箱密码叫做临时黑，卖20-25块）
@@ -512,26 +609,32 @@ V社真的该对拒绝游戏施加点什么限制因素了，不然TX真的用�
     >
     > 以上被盗用和大肆售卖的号，主要用途为绝地求生开启辅助用，基本上都是VAC封禁！！！！
     >
-    > 各位steam吧友，最好设置steam令牌，邮箱最好设qq邮箱，qq邮箱没有被盗成功过的案例，被盗的基本为163邮箱，希望官方能在找回steam账号的步骤越来越严格，这样对打击绝地求生的外挂和减少steam被盗的风险都有好处，望各位吧友，保管好自己的账号。
+    > 各位steam吧友，最好设置steam令牌，邮箱最好设qq邮箱，qq邮箱没有被盗成功过的案例，被盗的基本为163邮箱，
+    > 希望官方能在找回steam账号的步骤越来越严格，这样对打击绝地求生的外挂和减少steam被盗的风险都有好处，望各位吧友，保管好自己的账号。
 
 ## 有关 THE WALL 的作者玫瑰狗本人的事情
 
-一个玩家对《墙》这款游戏的[评价](/text/steam/abc.txt)，原文来源自奶牛关，由于《墙》这款游戏的条目被奶牛关移除了，我是在玫瑰狗动里发现他对此点赞的(猜测：可能只要是野蔷薇计划获得key来评测游戏，基本都点赞了的，与是否认同评论无关)，但玫瑰狗对此的评价是：「你特么是真的想了这么多？！」
+一个玩家对《墙》这款游戏的[评价](/text/steam/abc.txt)，原文来源自奶牛关，由于《墙》这款游戏的条目被奶牛关移除了，
+我是在玫瑰狗动里发现他对此点赞的(猜测：可能只要是野蔷薇计划获得key来评测游戏，基本都点赞了的，与是否认同评论无关)，
+但玫瑰狗对此的评价是：「你特么是真的想了这么多？！」
 
-玫瑰狗有一款没有完成的游戏，叫做 [无信者 - 十三号治疗室](https://www.zhihu.com/question/51926893/answer/131915185)*[backup](http://archive.is/ZjNCe)*
-，游戏内容与杨永信息息相关，玫瑰狗也在随后表示了这款游戏的[严肃性](https://cowlevel.net/article/1846170)(可能是被质疑吃人血馒头，跟风)，之后公布了游戏的[设定](https://cowlevel.net/article/1848198)
+玫瑰狗有一款没有完成的游戏，叫做 [无信者 - 十三号治疗室](http://archive.is/ZjNCe "https://www.zhihu.com/question/51926893/answer/131915185")，
+游戏内容与杨永信息息相关，玫瑰狗也在随后表示了这款游戏的
+[严肃性](https://web.archive.org/web/20180524103048/https://cowlevel.net/article/1846170)(可能是被质疑吃人血馒头，跟风)，
+之后公布了游戏的[设定](https://web.archive.org/web/20180524103454/https://cowlevel.net/article/1848198)。
 
 ## steam 在中国网吧的一些资料
 
-+ `2017-10-09 20:03` **帖子** [日，去了趟网吧账号被盗](https://tieba.baidu.com/p/5363625498)
++ `2017-10-09 20:03` **帖子** [❌日，去了趟网吧账号被盗](https://tieba.baidu.com/p/5363625498)
 
     > 本人因为电脑BOOM，无奈去了两天网吧玩吃鸡，结果账号被盗，邮箱被改还绑定了别人手机
     >
-    > 现在向客服发出申请，有发到我邮箱的更改邮箱和手机成功的邮件截图，以及好友送我游戏的历史截图，更有甚者因为我偷懒，所以连我的steam账户名都是我的QQ号（一串数字）。。。
+    > 现在向客服发出申请，有发到我邮箱的更改邮箱和手机成功的邮件截图，以及好友送我游戏的历史截图，
+    > 更有甚者因为我偷懒，所以连我的steam账户名都是我的QQ号（一串数字）。。。
     >
     > 求问大佬们，这总能找回的吧。。。找回时间会很久么。。。
 
-+ `2017-12-24 12:28` **帖子** [现在的网吧都这么玩的吗](https://tieba.baidu.com/p/5490726117)
++ `2017-12-24 12:28` **帖子** [现在的网吧都这么玩的吗](https://archive.is/62ONh "https://tieba.baidu.com/p/5490726117")
     >[图片📷](/img/steam/35363372.jpg)
 
 ## steam对中国区的动作
@@ -559,7 +662,7 @@ V社真的该对拒绝游戏施加点什么限制因素了，不然TX真的用�
 
 [2:50:04 PM] gledos:
 
-    https://steamcn.b0.upaiyun.com/archiver/tid-293805.html?page=1
+    https://web.archive.org/web/20180205064820/https://steamcn.b0.upaiyun.com/archiver/tid-293805.html?page=1
     这里的资料描述了steam 与 第三方的DNS 之间的一些联系
     所以有可能是在你的网络下只要使用第三方的DNS就能连接上steam的网络
 

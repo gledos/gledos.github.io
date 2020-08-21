@@ -9,11 +9,13 @@ tags:
   - 游戏
 ---
 
-该百科与全解图鉴尚未完工，但已经初具规模，如果你也能有相关的资料或建议以及评价，欢迎联系我 cngledos@gmail.com
+该百科与全解图鉴尚未完工，但已经初具规模，如果你也能有相关的资料或建议以及评价，欢迎联系我，邮箱再网页的尾部。
 
 本名鉴目的是成为研究游戏审查相关历史的其中一块基石，以方便查找的目录存在。
 
 <!-- more -->
+
+<!-- 开始写作与整理的时间 2020-04-13 -->
 
 和谐、删减、修正、本地化、阉割等词语
 ------------------------------------
@@ -27,19 +29,24 @@ tags:
 当时间来到2007年左右，和谐这个词语都被大部分论坛和谐了，所以河蟹这样的词语开始横行，
 到2009年成为了[百度十大神兽(恶搞)][百度十大神兽]的编外神兽[^10ss]。
 
-[百度十大神兽]: (https://zh.wikipedia.org/wiki/神兽_(恶搞)#十大神兽（惡搞）)
+[百度十大神兽]: https://zh.wikipedia.org/wiki/神兽_(恶搞)#十大神兽（惡搞）
 
 为什么会有和谐版，明明没有相关条例
 ----------------------------------
 
 > 当时很困难。当时，陈云思想上认为，为什么还要《新闻法》呢？
+>
 > 《新闻法》是解放前，我们利用国民党《新闻法》的空子来搞宣传的。
+>
 > 现在我们干嘛要这个《新闻法》呢？所以他就反对。
+>
 > 那个徐惟诚就积极宣传这个思想，不要搞《新闻法》。
+>
 > 阻力很大，就没有搞起来。后来先搞《出版法》吧，这个《出版法》也没有搞。
+>
 > 但是《新闻法》不是予人独立的法，而是给另一类人管理、控制的一个法，管“新闻不自由”的法。[^das]
 >
-> ——钟沛璋
+> ——钟沛璋，于《大师访谈》
 
 如果不和谐会怎么样
 ------------------
@@ -51,19 +58,23 @@ tags:
 不和谐的历史
 ------------
 
-| 1995年7月 | 仙剑奇侠传 | 狂徒创作群 |
+### 国产游戏
 
-+ 对比于三代以后的作品，"一夜过后"对造人的暗示非常明显
+| 1995-07 | 仙剑奇侠传 | 狂徒创作群 |
+
++ 对比于三代以后的作品，"一夜过后"的暗示非常明显
 + DOS 原版以及 window 95 版均有红色血液，部分场景的出血量很大
 
-| 时间                  | 游戏               | 开发商 | 代理商   | 发行               |
-| --------------------- | ------------------ | ------ | -------- | ------------------ |
-| 1997-07               | 魔兽争霸2          | 暴雪   | 奥美电子 | 华中理工大学出版社 |
-| 1997-09               | 暗黑破坏神         | 暴雪   | 奥美电子 | 武汉大学出版社     |
-| 1998-04               | 星际争霸           | 暴雪   | 奥美电子 | 华中科技大学出版社 |
-| 2000-09               | 暗黑破坏神2        | 暴雪   | 奥美电子 | 华中理工大学出版社 |
-| 2003-07-01            | 魔兽争霸3:冰封王座 | 暴雪   | 奥美电子 | 武汉大学出版社     |
-| 2005-01-22[^hl2cn]    | 半条命2            | Valve  | 奥美电子 | 北京中电电子出版社 |
+### 引进的游戏
+
+| 时间               | 游戏               | 开发商 | 代理商   | 发行               |
+| ------------------ | ------------------ | ------ | -------- | ------------------ |
+| 1997-07            | 魔兽争霸2          | 暴雪   | 奥美电子 | 华中理工大学出版社 |
+| 1997-09            | 暗黑破坏神         | 暴雪   | 奥美电子 | 武汉大学出版社     |
+| 1998-04            | 星际争霸           | 暴雪   | 奥美电子 | 华中科技大学出版社 |
+| 2000-09            | 暗黑破坏神2        | 暴雪   | 奥美电子 | 华中理工大学出版社 |
+| 2003-07-01         | 魔兽争霸3:冰封王座 | 暴雪   | 奥美电子 | 武汉大学出版社     |
+| 2005-01-22[^hl2cn] | 半条命2            | Valve  | 奥美电子 | 北京中电电子出版社 |
 
 + 关于大学出版社更名的备注
   + 1980年，华中工学院出版社成立
@@ -72,11 +83,19 @@ tags:
   + 2007年，全国首批大学社转制试点，完成出版社改制，改名为华中科技大学出版社有限公司[^wiki_hz]
 + 奥美电子代理的游戏基本在美术上均没有和谐修改
 
-和谐的历史
-----------
+早期的和谐历史
+--------------
+
+### 虎胆雄心II
+
++ [文化部查禁游戏《虎胆雄心》 - 新浪转载深圳晚报](https://web.archive.org/web/20040727095905/http://news.sina.com.cn/c/2004-05-29/17052662870s.shtml)
++ [文化部紧急查处非法电脑游戏《虎胆雄心》 - 新浪转载新华网](https://web.archive.org/web/20040805214042/http://news.sina.com.cn/c/2004-05-28/18382655978s.shtml)
++ [我国文化部查处非法电脑游戏《虎胆雄心》 - 网易转载新华网](https://web.archive.org/web/20200821111735/https://news.163.com/2004w05/12566/2004w05_1085741798181.html)
++ [游戏《虎胆雄心》被禁 - 人民网](https://web.archive.org/web/20190801072941/http://www.people.com.cn/GB/paper39/12106/1089746.html)
++ [Swedish video game banned for harming China's sovereignty - 人民日报海外版](https://web.archive.org/web/20200702105913/http://www.chinadaily.com.cn/english/doc/2004-05/29/content_334845.htm)
 
 国内公司代理的一些 GalGame 游戏可能有在H的部分删减，和谐暴露衣物，剧情修改的行为。
-  因此被和谐的可能有 Studio e.go! 的红泪，我还需要更多的资料。
+  因此被和谐的可能有 Studio e.go! 的红泪，还需要更多的资料。
 
 2006年1月20日 | 大富翁8 | 开发完成之前
 
@@ -106,6 +125,42 @@ tags:
 ### 对游戏内容的和谐
 
 ### 禁止直播、上传视频、讨论
+
+### 国服外服显示不同
+
+#### 2016 年 Steam 大奖
+
+中国玩家发现了 steam 会把 2016 年对游戏评奖的活动图片替换为没有骷髅的纯花朵，这可能是 steam 首次使用特别定做无风险的图片的方式来同步全球活动。
+
+这个图片是名为 Villain Most In Need Of A Hug 的奖杯，中文版名叫最需要抱抱的反派，两张图片如下：
+
++ [有骷髅头的单个奖杯大图](https://web.archive.org/web/20200820144721/https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/566020/4cbf12c3782b7820107548afab2531c46825ff06.jpg)
++ [无骷髅头的单个奖杯大图](https://web.archive.org/web/20200820144733/https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/566020/c7cff2b32e74db7f701eb1cff3cea065bb3af680.jpg)
++ [有骷髅头的九个奖杯图](https://web.archive.org/web/20180802193419/https://steamcdn-a.akamaihd.net/store/promo/winter2016/Voting_collection.jpg)
++ [无骷髅头的九个奖杯图](https://web.archive.org/web/20200821024135/https://cdn.cloudflare.steamstatic.com/steam/clusters/sale_winter2016_daily/f29a9c69cf261f593af68509/faq_background_english.jpg)
+
+steam card exchange 网站的数据可以看到集换式卡牌也被和谐成花朵了，看起来像玫瑰。
+[Showcase :: The Steam Awards](https://web.archive.org/web/20200820142311/https://www.steamcardexchange.net/index.php?gamepage-appid-566020)
+
+有意思的是活动总结的网页，标题图就没有骷髅，而奖杯页面有骷髅。这可能是弄错了。[总结页面 The Steam Awards](https://web.archive.org/web/20171125104743/https://store.steampowered.com/SteamAwards/2016/)
+
+相关的网页：
+
++ [惊天新，steam国区惨遭和谐 - 其乐 Keylol](https://archive.is/jco7k "https://keylol.com/t236512-1-1")
++ [如何看待steam 2016 冬季特惠卡片其中一张为中文用户特意修改了图案？ - 知乎](https://web.archive.org/web/20200820142350/https://www.zhihu.com/question/54229199)
++ [IP为外国&未登录账号&默认区域&英文steam首页有骷髅](https://web.archive.org/web/20161223055053/http://store.steampowered.com/)
++ [IP为外国&未登录账号&默认区域&中文steam首页有骷髅](https://web.archive.org/web/20161223060643/http://store.steampowered.com/?l=schinese)
+
+#### 令人头疼的 DOTA2 反和谐
+
+玩家们的测试：
+
++ [关于DOTA反和谐失败的问题 - 游戏／成就问题 - 其乐 Keylol](https://archive.is/pWQFh "https://keylol.com/t235532-1-1")
++ [求助【反河蟹失效】传送门2原声附赠的CDK - 刀塔 - 其乐 Keylol](https://archive.is/Dp9o0 "https://keylol.com/t219998-1-1")
+
+#### 轻松反和谐的 CSGO
+
+[CSGO已可通过添加“-perfectworld”指令提前体验和谐](https://archive.is/dR7oW "http://news.maxjia.com/maxnews/app/detail/csgo/31670")
 
 ### steam 国区单独下架
 
@@ -157,7 +212,7 @@ tags:
 
 [中宣部：网络游戏实名认证系统有望9月前上线，防沉迷落重锤](https://web.archive.org/web/20200801075901/https://www.sohu.com/a/410740546_161795)
 
-2020年07月31日 [Solidot | 中国计划推出国家级网游实名认证系统](https://web.archive.org/web/20200731140422/https://www.solidot.org/story?sid=65111)
+2020年07月31日 [Solidot 中国计划推出国家级网游实名认证系统](https://web.archive.org/web/20200731140422/https://www.solidot.org/story?sid=65111)
 
 ### 观看直播实名认证系统
 
@@ -189,7 +244,7 @@ tags:
 ### 全球和谐 彩虹六号[^Y3S4]
 
 + [The visual changes in Y3S4 are so superficial that they are completely pointless.](https://web.archive.org/web/20200422071025/https://www.reddit.com/r/Rainbow6/comments/9vz8g4/the_visual_changes_in_y3s4_are_so_superficial/)
-+ [Focused Feedback | Changes to Siege's Aesthetic : Rainbow6](https://www.reddit.com/r/Rainbow6/comments/9tuhbf/focused_feedback_changes_to_sieges_aesthetic/)
++ [Focused Feedback Changes to Siege's Aesthetic : Rainbow6](https://www.reddit.com/r/Rainbow6/comments/9tuhbf/focused_feedback_changes_to_sieges_aesthetic/)
 + [彩虹六号：全球和谐 - 游戏论坛 - Stage1st - stage1/s1 游戏动漫论坛](https://web.archive.org/web/20200426015805/https://bbs.saraba1st.com/2b/thread-1787918-1-1.html)
 + [玩家抗議有用，Ubisoft將恢復《虹彩六號 圍攻行動》美術和諧改動 🔥](https://archive.vn/pnTsj)
 
@@ -237,7 +292,7 @@ tags:
     他也抽取了自身的一点鲜血作为对比。结果他发现，自己的血液在融入席尔瓦的血液后，
     也同化成了绿色。而且，除了颜色不同，席尔瓦的血液保留着一切人类血液的特性。\\
     面对这个沮丧的结果，席尔瓦只是重复着一句话：“一定是诅咒！一定是！”
-+ [魔兽世界风暴前夕亡灵被和谐专题| TG兽吧](https://web.archive.org/web/20100109212230/http://wow.tgbus.com/zt/wangling/)\\
++ [魔兽世界风暴前夕亡灵被和谐专题 TG兽吧](https://web.archive.org/web/20100109212230/http://wow.tgbus.com/zt/wangling/)\\
     CWOW被“和谐”了，魔兽世界被“日”了，亡灵长了肉，骷髅变成肌肉男，
     诺格弗格药剂的作用变成了脱衣服，死人变成墓碑……这个世界太疯狂了...
 + 《骷髅党之歌》《巫妖王择日再开》
@@ -354,7 +409,7 @@ http://m.962.net/s/131050
 
 #### 大陆游戏业媚赵史 —— Benzene
 
-Benzene 整理了许多在国内发生的有关游戏与法律、条例等事件，并且均有互联网时光机备份的网页来源。
+Benzene 整理了许多在国内发生的有关游戏与法律、条例等事件，并且默认是网站时光机备份的网页来源。
 
 1. [我们终于得到了与我们德性匹配的蒸汽平台](https://web.archive.org/web/20200316045825/https://pincong.rocks/article/3912)
    + 文章里有提到但没有链接的来源
@@ -364,11 +419,24 @@ Benzene 整理了许多在国内发生的有关游戏与法律、条例等事件
 3. [记一个媚赵游戏的倒掉](https://web.archive.org/web/20190901233231/https://pincong.rocks/article/4393)
 4. [从70大庆禁娱，回顾《劲舞团》遭受的一次赵弹打击](https://web.archive.org/web/20200426081842/https://pincong.rocks/article/4642)
 5. [对提出负面反馈的玩家扣帽子搞批斗的，其实是温和派大陆玩家](https://web.archive.org/web/20200426093415/https://pincong.rocks/article/12449)
-   + 没有时光机的链接的来源
+   + 没有网站时光机的链接的来源
      + [全世界的喷子都在这个脏游戏里了，老外不会说中文“草你吗”简直就没法活](https://archive.vn/sHvzD)
 6. [怪物说汉语：大陆玩家的罗织经](https://web.archive.org/web/20200427042829/https://pincong.rocks/article/17863)
 7. [『光荣四君子』、边晓春与《格萨尔王传奇》](https://web.archive.org/web/20200419124538/https://pincong.rocks/article/17961)
 8. [自由表达的丧失，铸造加速主义永动机——《大陆游戏业媚赵史之小结》](https://web.archive.org/web/20200722061251/https://pincong.rocks/article/21890)
+
+<!-- 该作者也有另一个对大陆游戏的系列文章
+
+探讨了：
+  + 什么是国产游戏
+  + 最早的中国人制作的游戏《新運河大戰》以及游戏合集卡带《電視遊戲節目綜合卡》，《煙山坦克》
+  + 第九艺术这个词语的来源
+  + ACG 历史与功能
+
++ [從姨學視角解讀中文游戲【1】](https://web.archive.org/web/20200521125110/https://pincong.rocks/article/11966)
++ [从姨学视角解读中文游戏【2】](https://web.archive.org/web/20200504015750/https://pincong.rocks/article/18384)
+
+ -->
 
 #### 大陆游戏分级制度
 
@@ -378,22 +446,22 @@ Benzene 整理了许多在国内发生的有关游戏与法律、条例等事件
 + `2019-12-23 07:53:35` [破解未成年人沉迷网络游戏 既要“硬态度”也要“硬技术”-新华网](https://web.archive.org/web/20200526041121/http://www.xinhuanet.com/politics/2019-12/23/c_1125375611.htm)
 
 + `2020-05-17 10:02` [履职一年间丨倡导全民阅读 关注青少年网络教育_新闻_央视网(cctv.com)](https://web.archive.org/web/20200526040308/https://m.news.cctv.com/2020/05/17/ARTIfHj2A6HGPHl0XfpuXeKL200517.shtml)
-+ `2020-05-20 18:06` [全国政协常委朱永新：网络游戏应建立分级制度|网络游戏|全国政协_新浪新闻](https://archive.vn/drLd4)
++ `2020-05-20 18:06` [全国政协常委朱永新：网络游戏应建立分级制度 网络游戏 全国政协_新浪新闻](https://archive.vn/drLd4)
 + `2020-05-20 18:06` [全国政协常委朱永新：网络游戏应建立分级制度 红星新闻](https://web.archive.org/web/20200526055850/https://static.cdsb.com/micropub/Articles/202005/0b9503342a76fe43bf2539d8aa4b15c9.html)
 + `2020-05-25 08:24:53` [全国政协委员朱永新：建议建立网络游戏分级制度 - 综合 - 新京报网](https://web.archive.org/web/20200526031825/http://www.bjnews.com.cn/feature/2020/05/25/731068.html)
 + `2020-05-25 09:08` [朱永新委员：建议建立网络游戏分级制度_科技_中国网](https://web.archive.org/web/20200526033548/http://tech.china.com.cn/game/20200525/366317.shtml)
 + `2020-05-25 09:16` [朱永新委员：建议建立网络游戏分级制度--教育--人民网](https://web.archive.org/web/20200526033626/http://edu.people.com.cn/n1/2020/0525/c1053-31722311.html)
-+ `2020-05-25 11:43` [两会快报 | 全国政协常委朱永新：建议建立网络游戏分级制度 - 经济观察网 － 专业财经新闻网站](https://web.archive.org/web/20200526033543/http://www.eeo.com.cn/2020/0525/384764.shtml)
++ `2020-05-25 11:43` [两会快报 全国政协常委朱永新：建议建立网络游戏分级制度 - 经济观察网 － 专业财经新闻网站](https://web.archive.org/web/20200526033543/http://www.eeo.com.cn/2020/0525/384764.shtml)
 + `2020-05-25 11:50` [学生提案上两会：人大政协不再是概念，委员建议培养学生公共品格_模拟](https://web.archive.org/web/20200526083044/https://www.sohu.com/a/397497184_161795)
 + `2020-05-25 13:43` [朱永新：建立网络游戏分级制 人脸识别等防范未成年人沉迷_财新网_财新网](https://web.archive.org/web/20200526031825/http://www.caixin.com/2020-05-25/101558476.html)
 + `2020-05-25 14:25` [政协委员朱永新：应建立网络游戏分级制度 推行面部识别 - 网游 - cnBeta.COM](https://web.archive.org/web/20200526033538/https://hot.cnbeta.com/articles/game/983041.htm)
 + `2020-05-25 22:50` [打捞沉溺网游的 “神兽”，有多难？_媒体_澎湃新闻-The Paper](https://web.archive.org/web/20200526040120/https://www.thepaper.cn/newsDetail_forward_7556455)
-+ `2020-05-25 ≌18` [中國政協委員倡人臉辨識限制未成年玩家 解決沉迷問題 | 宅而時習之 | GANK 電玩誌 - fanpiece](https://web.archive.org/web/20200526040015/https://gank.fanpiece.com/gamelife/中國政協委員倡人臉辨識限制未成年玩家-解決沉迷問題-c1376866.html)
-+ `2020-05-25` [朱永新委員：建議建立網遊分級製 人臉識別防沉迷 | PTT新聞](https://web.archive.org/web/20200526033556/https://pttnews.cc/b2ba09044d)
-+ `2020-05-26 05:52` [代表委员关注拯救“网瘾少年”：网游监管设分级制度|网络游戏_新浪财经_新浪网](https://web.archive.org/web/20200526031818/https://finance.sina.com.cn/review/jcgc/2020-05-26/doc-iircuyvi5020371.shtml)
++ `2020-05-25 ≌18` [中國政協委員倡人臉辨識限制未成年玩家 解決沉迷問題 宅而時習之 GANK 電玩誌 - fanpiece](https://web.archive.org/web/20200526040015/https://gank.fanpiece.com/gamelife/中國政協委員倡人臉辨識限制未成年玩家-解決沉迷問題-c1376866.html)
++ `2020-05-25` [朱永新委員：建議建立網遊分級製 人臉識別防沉迷 PTT新聞](https://web.archive.org/web/20200526033556/https://pttnews.cc/b2ba09044d)
++ `2020-05-26 05:52` [代表委员关注拯救“网瘾少年”：网游监管设分级制度 网络游戏_新浪财经_新浪网](https://web.archive.org/web/20200526031818/https://finance.sina.com.cn/review/jcgc/2020-05-26/doc-iircuyvi5020371.shtml)
 + `2020-05-26 07:23:07` **内有评论** [委员建议建立网络游戏分级制，人民日报：青少年沉溺网游，该出真招硬招了！ - 游戏,网游 - IT之家](https://archive.vn/8dpw2)
 + `2020-05-26 07:23` [人民日报：青少年沉溺网游，该出真招硬招了！_朱永新](https://web.archive.org/web/20200526041111/https://www.sohu.com/a/397669600_114760)
-+ `2020-05-26 07:23` [委员建议建立网络游戏分级制，人民日报：青少年沉溺网游，该出真招硬招了！|网络游戏_新浪科技_新浪网](https://web.archive.org/web/20200526031818/https://tech.sina.com.cn/digi/2020-05-26/doc-iirczymk3554527.shtml)
++ `2020-05-26 07:23` [委员建议建立网络游戏分级制，人民日报：青少年沉溺网游，该出真招硬招了！ 网络游戏_新浪科技_新浪网](https://web.archive.org/web/20200526031818/https://tech.sina.com.cn/digi/2020-05-26/doc-iirczymk3554527.shtml)
 + `2020-05-26 07:51` [青少年如何摆脱“网游漩涡”？代表委员：需分级管理-中新网](https://web.archive.org/web/20200526031820/http://www.chinanews.com/gn/2020/05-26/9194764.shtml)
 + `2020-05-26 10:19` [建立网络游戏分级制度势在必行 _ 东方财富网](https://web.archive.org/web/20200526081911/http://finance.eastmoney.com/a/202005261497942069.html)
 + `2020-05-26` [朱永新委员：建议建立网络游戏分级制度 —中国教育在线](https://web.archive.org/web/20200526031824/https://chuzhong.eol.cn/news/202005/t20200526_1729357.shtml)
@@ -402,24 +470,35 @@ Benzene 整理了许多在国内发生的有关游戏与法律、条例等事件
 
 ### 脚注
 
-[^xie]: [坨泄的评论](https://www.zhihu.com/question/29662185/answer/45152670)
+[^10ss]: [dictionary entries about legendary obscene beasts](https://web.archive.org/web/20190822124256/http://www.danwei.org/humor/baidu_baike_fake_entries.php)
+
+[^das]: [《大师访谈 第66期》钟沛璋：一辈子 两件事](https://web.archive.org/web/20141108120808/http://news.qq.com/a/20111215/000685_3.htm)\\
+        这个采访视频也被[📷和谐](img/CCG/master 66 can not watch.png)了中间的一段，并非「自然」失效，本来有四个视频，分别是：\\
+        1. [热血：在家仇国恨的洗礼中步入革命新闻事业](https://web.archive.org/web/20200818032845if_/https://v.qq.com/x/page/9xlALAzePkZ.html) (12:25)\\
+        2. [涅槃：重新审视曾经深深笃信的观念与信条](https://web.archive.org/web/20200818041729if_/https://v.qq.com/x/page/9M9LlS7MEM8.html) (12:04)\\
+        3. [跋涉：竭力推动中国舆论自由的进程](https://web.archive.org/web/20200818041537/https://v.qq.com/x/page/9CmBnyJOuM2.html) (12:11)\\
+        4. [完整视频——钟沛璋：一辈子 两件事](https://web.archive.org/web/20200818042611/https://v.qq.com/x/page/9vyxQdvSq1D.html) (38:06)\\
+        目前2020年，视频3与4均失效了\\
+        这个采访一年前，钟沛璋等众多大师联名发表了公开信，[致全国人大要求新闻言论自由公开信原文 - BBC News 中文](https://web.archive.org/web/20200818035546/https://www.bbc.com/zhongwen/simp/china/2010/10/101013_china_letter_copy)
+        <!-- 视频专题页[大师第66期_钟沛璋：一辈子 两件事_腾讯网](https://web.archive.org/web/20181207143637/http://news.qq.com/zt2011/master/master_66.htm) -->
+
+[^xQxIJ]: [严查网游禁止内容,文化部公布6起典型案件](https://archive.vn/xQxIJ "http://www.xinhuanet.com/mrdx/2018-01/24/c_136919634.htm"), [另一个快照](https://web.archive.org/web/20180127223702/http://www.xinhuanet.com/mrdx/2018-01/24/c_136919634.htm)
+
+[^hl2cn]: [《半条命2》中文版上市进入倒计时](https://web.archive.org/web/20050121061126/http://games.sina.com.cn/j/n/2005-01-19/77552.shtml)
+
+[^wiki_hz]: [华中科技大学出版社——wikipedia](https://zh.wikipedia.org/wiki/华中科技大学出版社)
 
 [^dafu]: 我想起了当年做大富翁8，设计孙小美的台词，在使用偷盗卡的时候，有一句“月黑风高，适合偷盗”的语音，然后被勒令修改。
-  同时钱夫人不许说老娘，大老千这三个字不许走语音等等。当年改得苦不堪言，现在回头看看，那时候的标准简直宽到如同特赦。\\
-  ——[秋虫子(游戏从业者)](https://www.zhihu.com/people/qiuchongzhi)
+         同时钱夫人不许说老娘，大老千这三个字不许走语音等等。当年改得苦不堪言，现在回头看看，那时候的标准简直宽到如同特赦。
+         ——[秋虫子(游戏从业者)](https://www.zhihu.com/people/qiuchongzhi)，于[《中国对于游戏的审核标准是否太过严格？》这一问题的回答](httparchive.is/U9ePQ#41% "顺带一提，《中国对于游戏的审核标准是否太过严格？》这一问题必须登录才能查看，并且做了禁止搜索引擎收录指定网页内容的工作，使用我无法直接用网站时光机进行保存")
 
-[^xQxIJ]: [严查网游禁止内容,文化部公布6起典型案件](https://archive.vn/xQxIJ "http://www.xinhuanet.com/mrdx/2018-01/24/c_136919634.htm")
-  [2](https://web.archive.org/web/20180127223702/http://www.xinhuanet.com/mrdx/2018-01/24/c_136919634.htm)\\
-  芜湖享游网络技术有限公司运营含有违背社会公德内容的网络游戏案。根据文化部督办要求,
-  安徽省芜湖市文化委员会行政执法人员对网络游戏《命运冠位指定》《碧蓝航线》进行检查,
-  发现两款游戏中多个女性游戏角色形象暴露,大面积裸露身体,含有违背社会公德的禁止内容,
-  芜湖市文化委员会依法责令芜湖享游网络技术有限公司改正,并给予其罚款的行政处罚。
+[^xie]: [坨泄的评论](https://www.zhihu.com/question/29662185/answer/45152670)
 
 [^xElendiLx]: [炒冷饭也得买买买！《空之轨迹》为何有如此影响力？](https://zhuanlan.zhihu.com/p/21830529)
 
-[^3rdhx]: [[无力的和谐]3rd已经出反hx补丁](https://web.archive.org/web/20200427085816/https://webcache.googleusercontent.com/search?=JqABg&q=cache:http://bbs.nga.cn/read.php?tid=1748736)
-
 [^forever]: [3rd中文版被和谐部分与原版的对照](https://archive.vn/OhGyY "http://blog.sina.com.cn/s/blog_4db55fe90100aek5.html")
+
+[^3rdhx]: [[无力的和谐]3rd已经出反hx补丁](https://web.archive.org/web/20200427085816/https://webcache.googleusercontent.com/search?=JqABg&q=cache:http://bbs.nga.cn/read.php?tid=1748736)
 
 [^gfa]: [我要是腾讯就自己做个官方反和谐补丁。。。](https://web.archive.org/web/20200418004252/https://webcache.googleusercontent.com/search?q=cache:lhnaOfO6L8sJ:https://ngabbs.com/read.php?tid=6733360 "只有google快照")
 
@@ -427,13 +506,7 @@ Benzene 整理了许多在国内发生的有关游戏与法律、条例等事件
 
 [^Y3S4]: [Aesthetic Changes in Y3S4](https://web.archive.org/web/20181103174251/https://rainbow6.ubisoft.com/siege/en-us/news/152-337194-16/aesthetic-changes-in-y3s4)
 
-[^wiki_hz]: [华中科技大学出版社——wikipedia](https://zh.wikipedia.org/wiki/华中科技大学出版社)
-
-[^hl2cn]: [《半条命2》中文版上市进入倒计时](https://web.archive.org/web/20050121061126/http://games.sina.com.cn/j/n/2005-01-19/77552.shtml)
-
-[^das]: [钟沛璋：一辈子 两件事 第四页](https://web.archive.org/web/20141108120808/http://news.qq.com/a/20111215/000685_3.htm)
-
-[^10ss]: [dictionary entries about legendary obscene beasts](https://web.archive.org/web/20190822124256/http://www.danwei.org/humor/baidu_baike_fake_entries.php)
+<!-- 记录结束 -->
 
 <!-- 占位行 -->
 <!-- 占位行 -->
@@ -446,8 +519,70 @@ Benzene 整理了许多在国内发生的有关游戏与法律、条例等事件
 <!-- 占位行 -->
 <!-- 占位行 -->
 <!-- 占位行 -->
-<!-- 占位行 -->
-<!-- 占位行
+<!--
+
+> 各类番剧、动画将迎来史上最大整改（删减、暗牧、圣光、下架、大修、重制……）！
+> 总体的大方向是去淫秽色情、腐文化。
+
++ [震惊！番剧即将迎来“大修时代”！看看国家的整改方案 - 哔哩哔哩](https://archive.vn/tH7hl "https://www.bilibili.com/read/cv6754930/")
++ [国家网信办：清理包含色情内容二次元作品_处置 光明网on搜狐](https://web.archive.org/web/20200714051130/https://www.sohu.com/a/407401560_162758)
++ [国家网信办：清理包含色情内容二次元作品_新浪新闻](https://web.archive.org/web/20200820074522/https://news.sina.com.cn/c/2020-07-13/doc-iivhvpwx5146158.shtml)
++ [#清理包含色情内容二次元作品#排查处置渲染校园恋... 豆瓣拉踩小组](https://web.archive.org/web/20200820074648/https://www.douban.com/group/topic/184398792/)
++ [国家网信办：清理包含色情内容二次元作品 NGA玩家社区](https://archive.vn/uf3mf "https://bbs.nga.cn/read.php?tid=22546589")
++ [国家网信办：#清理包含色情内容二次元作品# : China_irl](https://web.archive.org/web/20200820075427/https://www.reddit.com/r/China_irl/comments/hqcw68/国家网信办清理包含色情内容二次元作品/)
+
+以上转载新闻都避开了这个行动的实际名称“清朗”
+
++ [关于开展2020“清朗”未成年人暑期网络环境专项整治的通知-中共中央网络安全和信息化委员会办公室](https://web.archive.org/web/20200719231201/http://www.cac.gov.cn/2020-07/13/c_1596175859026231.htm)
++ [“清朗”未成年人暑期网络环境专项整治启动--法治--人民网](https://web.archive.org/web/20200718053626/https://legal.people.com.cn/n1/2020/0718/c42510-31788234.html)
++ [启动2020“清朗”未成年人暑期网络环境专项整治_新华每日电讯](https://web.archive.org/web/20200820080915/http://www.xinhuanet.com//mrdx/2020-07/14/c_1210701304.htm)
++ [2020“清朗”未成年人暑期网络环境专项整治启动-新华网](https://web.archive.org/web/20200820075700/http://m.xinhuanet.com/edu/2020-07/14/c_1210701074.htm)
++ [“清朗”未成年人暑期网络环境专项整治启动__国务院妇女儿童工作委员会](https://web.archive.org/web/20200820081449/http://www.nwccw.gov.cn/2020-07/14/content_285638.htm)
++ [检察日报--打击网络暴力必须亮剑](https://web.archive.org/web/20200718071102/http://newspaper.jcrb.com/2020/20200715/20200715_006/20200715_006_1.htm)
++ [多家企业共同签署《共建未成年人“清朗”网络空间承诺书》--社会--人民网](https://web.archive.org/web/20200802164428/https://society.people.com.cn/n1/2020/0801/c1008-31806430.html)
++ 承诺单位有阿里、爱奇艺、百度、北京松博、哔哩哔哩、斗鱼、航智云管控、华乐思、今日头条、快手、梨视频、荔枝App、美团点评、勤能教育、尚德机构、搜狐、探探、腾讯、天闻数媒、VIPKID、网易传媒、现代中庆、小红书、新浪、学而思网校、一点资讯、优芽、掌阅、知乎、中国知网、中文在线、作业帮等国内32家互联网信息服务平台
+  + [2020“清朗”未成年人暑期网络环境专项整治公告_详细解读_最新资讯_热点事件_36氪](https://web.archive.org/web/20200820080941/https://www.36kr.com/p/799057711015168)
+  + [2020-07-24 知乎「清朗」未成年人暑期网络环境专项整治简报 - 知乎](https://archive.is/a709o "https://web.archive.org/web/20200820081629/https://zhuanlan.zhihu.com/p/163425145")
+  + [知乎 2020「清朗」未成年人暑期网络环境专项整治公告 - 知乎](https://archive.is/XxExh "https://web.archive.org/web/20200820081802/https://zhuanlan.zhihu.com/p/161489207")
+  + [关于开展2020未成年人暑期网络环境专项整治行动的公告_新闻_腾讯网](https://web.archive.org/web/20200820081628/https://news.qq.com/a/20200718/015343.htm)
+  + [新浪微博：将重点整治诱导未成年人无底线追星、饭圈互撕等行为_环境](https://web.archive.org/web/20200820082238/https://www.sohu.com/a/408395937_313745)
+  + [#微博社区公告#为给广大未成年人营造健康的... 来自微博管理员 - 微博](https://archive.is/Yp4hf "https://weibo.com/1934183965/JbMFEzyk8")
++ [国家网信办发文「重点整治诱导未成年人无底线追星及饭圈互撕」，会对饭圈产生哪些影响？ - 知乎](https://web.archive.org/web/20200820075640/https://www.zhihu.com/question/406680963 "https://archive.is/CJXfB")
+[2015年日本动画在中国大陆下架事件 - 维基百科，自由的百科全书](https://web.archive.org/web/20200820075051/https://zh.wikipedia.org/zh-cn/2015年日本动画在中国大陆下架事件)
+
+目前成效
+
++ [DDLC吧被封](https://web.archive.org/web/20200820082533/https://tieba.baidu.com/f?kw=ddlc)
++ [心跳心跳文学部吧被封](https://web.archive.org/web/20200820082729/https://tieba.baidu.com/f?kw=心跳心跳文学部)
+  + [国家网信办启动2020“清朗”未成年人暑期网络环境专项整治——心跳文学社将被封禁 - 哔哩哔哩](https://archive.is/N7VXW "https://www.bilibili.com/read/cv6792013/")
+  + [一年前还未被封的心跳心跳文学部吧](https://web.archive.org/web/20190607220025/https://tieba.baidu.com/f?kw=心跳心跳文学部)
+  + [[吐槽]网信办将心跳文学部划为“影响未成年人身心健康的有害游戏” NGA玩家社区](https://archive.is/P1ROG "https://bbs.nga.cn/read.php?tid=22547915")
+  + [心跳文学社贴吧倒了？！_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://web.archive.org/web/20200820083413/https://webcache.googleusercontent.com/search?q=cache:https%3A//www.bilibili.com/video/BV1Sa4y1a7Q7)
+
+我参考了其他人总结的资料
+
++ [正饭圈三观、还网络清朗 - 哔哩哔哩](https://web.archive.org/save/https://www.bilibili.com/read/cv6795444/)
+
+-------------------------------------------------------------------------------
+
+2019年5月, 哔哩哔哩临时把月色真美等动画给下架了, 一段时间后回来了一些, 然后有更多的下架了, 原因不明
+
+多田君不谈恋爱; 月色真美; 零之使魔三美姬的轮舞; FORTUNE ARTERIAL -赤之约定-; taritari; 邻家索菲; 宇宙巡警露露子; 食梦者; 舞动青春; 创世的姬君; 三颗星彩色冒险; showbyrock; 黑之契约者; b-project; 谜样女友X; 三年e班第二季及课外授课篇三年e班Q; 恶魔人(72版); 公主时间; 神无月的巫女; 娇蛮之吻; 钱进球场1, 2季; 新战神金刚:传奇的保护神第七季; 你还是不懂群马; 恋爱暴君; 迷茫的管家懦弱的我; 曾几何时天魔的黑兔; PUPA; BURN-UP BURN-UP EXCESS; 危险代理人; 哥普拉; 飞轮少年黑翼与沉睡森林-Breakonthesky; 恐怖宠物店; 妹妹公主妹妹公主RePure; 女生万岁first season; 微笑的闪士; 光与水的女神; 柔和三国志冲刺!吕布子; 天地无用!剧场版; 爱!天地无用; 天地无用! GXP; 飞轮少年; 请别忧伤了二之宫君; 怪物王女; 蓝兰岛漂流记; 钢铁新娘; 二舍六房的七人; DORORON炎魔君熊熊燃烧; ZETMAN超魔人; 想成为世界最强; 公立海老栖川高校天闷部; 银装骑攻队; 东京魔人学园剑风帖龙龙; 爆裂天使; 动画锻炼! xx同一屋檐下; 动画锻炼! EX; 艾莉森与莉莉亚; 守护猫娘绯鞠; 魔女之刃; 盖塔机器人真盖塔对新盖塔
+
+[如何评价哔哩哔哩下架动画 月色真美？ - 知乎](https://web.archive.org/web/20200820084640/https://www.zhihu.com/question/324636965)
+
+ -->
+
+<!-- Restya瑞斯提亞 做了许多有关中国审查的视频，以下是目录
+
+[【遊戲趣聞錄】中國玩家墻內互打，打到快沒遊戲玩了?!](https://web.archive.org/web/20200816083655if_/https://www.youtube.com/watch?v=05Cy_aa08Zo)
+> 国行游戏机举报问题以及几款NS游戏
+
+[【遊戲趣聞錄】台灣公會取了個名字，中國大型遊戲論壇就爆炸了?!](https://web.archive.org/web/20200816081703if_/https://www.youtube.com/watch?v=5dg0aqYynfk)
+> 主要内容为碧蓝幻想工会问题引火到论坛、马里奥创作家2、瘟疫公司
+
+[【遊戲趣聞錄】育碧發佈會送免費遊戲，中國玩家竟然大暴怒?!](https://web.archive.org/web/20200811133358if_/https://www.youtube.com/watch?v=ZeJHn13bPb8)
+> 关于看门狗被审查，NS平台的首作纸片马里奥翻译被和谐
 
  -->
 
