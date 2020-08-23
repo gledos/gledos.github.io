@@ -17,6 +17,10 @@ exclude:
   - README.md
   - run.bat
 
+include:
+  - "/text/句子们.txt"
+
+
 # port
 # port: 14400
 

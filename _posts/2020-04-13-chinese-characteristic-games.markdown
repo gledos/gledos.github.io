@@ -86,13 +86,23 @@ tags:
 早期的和谐历史
 --------------
 
-### 虎胆雄心II
+### 虎胆雄心
+
+
 
 + [文化部查禁游戏《虎胆雄心》 - 新浪转载深圳晚报](https://web.archive.org/web/20040727095905/http://news.sina.com.cn/c/2004-05-29/17052662870s.shtml)
 + [文化部紧急查处非法电脑游戏《虎胆雄心》 - 新浪转载新华网](https://web.archive.org/web/20040805214042/http://news.sina.com.cn/c/2004-05-28/18382655978s.shtml)
 + [我国文化部查处非法电脑游戏《虎胆雄心》 - 网易转载新华网](https://web.archive.org/web/20200821111735/https://news.163.com/2004w05/12566/2004w05_1085741798181.html)
 + [游戏《虎胆雄心》被禁 - 人民网](https://web.archive.org/web/20190801072941/http://www.people.com.cn/GB/paper39/12106/1089746.html)
 + [Swedish video game banned for harming China's sovereignty - 人民日报海外版](https://web.archive.org/web/20200702105913/http://www.chinadaily.com.cn/english/doc/2004-05/29/content_334845.htm)
+
+### 足球经理 2005
+
+游戏简介: 这是一款模拟经营游戏，训练球员
+
++ [China bans online game Football Manager 2005 - 人民日报海外版](https://web.archive.org/web/20200812040323/https://www.chinadaily.com.cn/english/doc/2004-12/08/content_398445.htm)
++ [冠军足球经理2005被封是怎么回事啊？ 球迷一家 天涯社区](https://web.archive.org/web/20200821235452/http://bbs.tianya.cn/post-fans-13696-1.shtml)
++ 1
 
 国内公司代理的一些 GalGame 游戏可能有在H的部分删减，和谐暴露衣物，剧情修改的行为。
   因此被和谐的可能有 Studio e.go! 的红泪，还需要更多的资料。
