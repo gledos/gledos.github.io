@@ -18,7 +18,7 @@ exclude:
   - run.bat
 
 include:
-  - "/text/句子们.txt"
+  - /text/word.txt
 
 
 # port

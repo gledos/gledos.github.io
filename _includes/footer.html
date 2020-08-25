@@ -27,30 +27,6 @@
         <p>这里是 gledos 的个人博客。<br>
           请记住我们，因我们也在这世上爱过和笑过<br>
           Remember us, for we too have lived, loved and laughed </p>
-        <p id="名言""></p>
-        <script>
-        var 句子们 = [];
-        var xmlhttp;
-        if (window.XMLHttpRequest) { // code for IE7+, Firefox, Chrome, Opera, Safari
-          xmlhttp = new XMLHttpRequest();
-        } else { // code for IE6, IE5
-          xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
-        }
-        xmlhttp.onreadystatechange = function() {
-          if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
-            var text = xmlhttp.responseText;
-            // Now convert it into array using regex
-            句子们 = text.split(/\n|\r/g);
-          }
-        }
-        xmlhttp.open("GET", "/text/句子们.txt", true);
-        xmlhttp.send();
-        
-        var 句子们2=[ "一个人的价值, 在于他贡献了什么, 而不在于他获得了什么。——爱因斯坦"
-          , "我从来不把安逸和快乐看作是生活目的本身, 对这种伦理基础, 我称之为「猪栏的理想」。——爱因斯坦" , "未经反思自省的人生不值得去过。——苏格拉底"
-          , "人生是没有正确答案的，也就是说，人生只有错误。——系色望" , "愚昧无知是一切痛苦之源。——弗里德里希·威廉·尼采" ]; 
-        var 句子=句子们[Math.floor(Math.random() *
-        句子们.length)]; document.getElementById("名言").innerHTML=句子; </script> 
       </div>
     </div>
     <div class="social-links">
