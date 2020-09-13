@@ -55,6 +55,11 @@ tags:
 
 然后就是政策突变，被当作典型放到报纸、电视台批判一番[^xQxIJ]
 
+不建立游戏分级制度的观点
+------------------------
+
+[标明“18禁”的网络游戏反而吸引了未成年人玩家 人民网转载中国青年报](https://web.archive.org/web/20121106101146/http://media.people.com.cn/n/2012/0808/c40606-18691340.html)
+
 不和谐的历史
 ------------
 
@@ -83,31 +88,14 @@ tags:
   + 2007年，全国首批大学社转制试点，完成出版社改制，改名为华中科技大学出版社有限公司[^wiki_hz]
 + 奥美电子代理的游戏基本在美术上均没有和谐修改
 
-早期的和谐历史
---------------
+和谐历史
+--------
 
-### 虎胆雄心
+这个章节会以游戏为小节进行整理游戏和谐相关的历史事件
 
+### 几个标志性的和谐初期游戏
 
-
-+ [文化部查禁游戏《虎胆雄心》 - 新浪转载深圳晚报](https://web.archive.org/web/20040727095905/http://news.sina.com.cn/c/2004-05-29/17052662870s.shtml)
-+ [文化部紧急查处非法电脑游戏《虎胆雄心》 - 新浪转载新华网](https://web.archive.org/web/20040805214042/http://news.sina.com.cn/c/2004-05-28/18382655978s.shtml)
-+ [我国文化部查处非法电脑游戏《虎胆雄心》 - 网易转载新华网](https://web.archive.org/web/20200821111735/https://news.163.com/2004w05/12566/2004w05_1085741798181.html)
-+ [游戏《虎胆雄心》被禁 - 人民网](https://web.archive.org/web/20190801072941/http://www.people.com.cn/GB/paper39/12106/1089746.html)
-+ [Swedish video game banned for harming China's sovereignty - 人民日报海外版](https://web.archive.org/web/20200702105913/http://www.chinadaily.com.cn/english/doc/2004-05/29/content_334845.htm)
-
-### 足球经理 2005
-
-游戏简介: 这是一款模拟经营游戏，训练球员
-
-+ [China bans online game Football Manager 2005 - 人民日报海外版](https://web.archive.org/web/20200812040323/https://www.chinadaily.com.cn/english/doc/2004-12/08/content_398445.htm)
-+ [冠军足球经理2005被封是怎么回事啊？ 球迷一家 天涯社区](https://web.archive.org/web/20200821235452/http://bbs.tianya.cn/post-fans-13696-1.shtml)
-+ 1
-
-国内公司代理的一些 GalGame 游戏可能有在H的部分删减，和谐暴露衣物，剧情修改的行为。
-  因此被和谐的可能有 Studio e.go! 的红泪，还需要更多的资料。
-
-2006年1月20日 | 大富翁8 | 开发完成之前
+| 2006年1月20日 | 大富翁8 | 开发完成之前 |
 
 + “月黑风高，适合偷盗”的语音被勒令修改
 + 钱夫人不许说老娘
@@ -126,8 +114,400 @@ tags:
 + 星之门15中有剧情改动问题[^xElendiLx]
 + 出血效果被和谐成金色火花效果[^forever]
 + 和谐了一个骷髅状的怪物
-+ 和谐了若干剧情，比如玲同学是小时候被卖去风月场所了
++ 和谐了一些剧情，比如玲同学在小时候被卖去风月场所
 + 有一张银发的青年满身伤的裸图，加了衣服、愈合了伤口[^3rdhx]
+
+国内公司代理的一些 GalGame 游戏可能有在H的部分删减，和谐暴露衣物，剧情修改的行为。
+  因此被和谐的可能有 Studio e.go! 的红泪，还需要更多的资料。
+
+### 宣扬游戏威胁论
+
++ 宣扬「游戏威胁论」意欲何为？
++ 警惕！又到了「游戏威胁论」的「汛期」！
++ 应停止散布「游戏威胁论」的谎言
++ 「游戏威胁论」自相矛盾
++ 再次鼓吹「游戏威胁论」
++ 为何热衷渲染「游戏威胁论」？
++ 「游戏威胁论」的前生今世
++ 「游戏威胁论」经不起深究，演不下去了？
++ 回应「游戏威胁论」：游戏块头大，但会比UGC短视频更危险？
++ 宣扬「游戏威胁论」的目的是对游戏崛起很不安
++ 舆论抨击恶意炒作「游戏威胁论」:「妖魔化游戏」可休矣
++ 花钱买来的「游戏威胁论」
++ 新「游戏威胁论」实质：忧虑"模式威胁"
++ 重要变化！游戏崛起令恐慌，「游戏威胁论」已不够用？
++ 述评：警惕「游戏威胁论」改头换面
++ 观点：如何化解「游戏威胁论」威胁论？
++ 执念「游戏威胁论」是一种病
++ 抱持「游戏威胁论」的该换换脑筋了
++ 应对「游戏威胁论」须有战略耐力
++ 「游戏威胁论」版本再翻新，惯性霸权思维下只有「零和博弈」
++ 文化侵略是炮制的新版「游戏威胁论」
++ 「游戏威胁论」者当放下「心魔」
++ 逐条批驳！「游戏威胁论」的满嘴谎言与事实真相
++ 我们的春天：解读「游戏威胁论」
++ 从「电子鸦片论」到「游戏威胁论」，根子还是愚昧主义
+
+#### 无端指责「游戏威胁论」
+
+[迷上色情电脑游戏 13岁男孩扮演"少女杀手"](https://web.archive.org/web/20200826092804/https://webcache.googleusercontent.com/search?q=cache:Gf-Uyq9nouwJ:www.hinews.cn/news/system/2005/04/07/000038930.shtml%3Fwscckey%3De31111bccd6db3d2_1574340009 "https://archive.is/WGfoV")
+
+#### 「游戏威胁论」相关讨论
+
+[电子游戏到底是不是精神鸦片？ - 知乎](https://web.archive.org/web/20200826094617/https://www.zhihu.com/question/31525778)
+
+### 违法大礼包
+
+`2004-09-07` [文化部查处6款违法网络游戏和6家网络游戏运营商 中国网](https://web.archive.org/web/20200821113630/http://www.china.com.cn/zhuanti2005/txt/2004-09/07/content_5654154.htm)
+  > 虎胆雄心; 秘密潜入2; 命令与征服3-将军; 梦幻麻将馆; 生化危机; Quake3
+
+`2005-03-24` [文化部叫停性感沙滩等4款涉黄违法单机游戏 网易商业转载京华时报](https://biz.163.com/05/0324/09/1FJNA2U700020QEF.html);
+[中国宁波网转载浙江日报](https://web.archive.org/web/20200826102128/http://news.cnnb.com.cn/system/2005/03/28/001071044.shtml)
+  > 性感沙滩; 臭作，不具名的另外两款游戏为绝代娼妓与性感海滩
+  >
+  > 据悉，我省已采集到了《臭作》、《尾行》、《性感海滩》的“特征码”，只要将其输入监控软件中，
+  > 启动游戏后就会报警并自动封堵游戏，并可以让文化监管部门“顺藤摸瓜”，对违法提供这些网络游戏的互联网文化单位严查。
+
+`2005-11-08` [53家网站涉黄涉暴被查处 14款网络游戏被禁 法制 人民日报 2005年11月08日 第十一版](https://web.archive.org/web/20051126024405/http://legal.people.com.cn/GB/42733/3836532.html)
+[新浪网转载江西日报](https://archive.is/FMeyL)
+  > 痴汉是犯罪; 性福人生; 尾行; 爱姐妹; 露拉3D; 游具2禁忌试玩; 人工少女; 臭作; 遗作; 美女野球拳; 护士24点; 七宗罪; The 3Feel Online; 吸血莱恩2
+
+`2018-04-16` [新浪微博：本次游戏动漫清理不再针对同性恋内容--IT--人民网](https://web.archive.org/web/20200221084124/http://it.people.com.cn/n1/2018/0416/c1009-29929828.html)
+  > 微博清理大量含有暴力内容的违法游戏，如：侠盗飞车、黑手党、雇佣兵及相关的动图短视频内容
+  >
+  > 以前流行的 GTA 动图大多都属于是禁止内容了
+
+### 彩虹六号 围攻
+
++ [《彩虹六号：围攻》临时禁播属正常监管流程 育碧正积极解决 _ 游民星空 GamerSky.com](https://archive.is/55XYg "https://web.archive.org/web/20200826091821/https://www.gamersky.com/news/201805/1053467.shtml")
++ [育碧称《彩虹六号》禁播属于正常监管流程 正在解决中--游戏--人民网](https://web.archive.org/web/20200826091650/http://game.people.com.cn/n1/2018/0530/c40130-30024179.html)
+
+### 虎胆雄心
+
+即现在的钢铁雄心，外号为小胡子养成计划
+
++ [文化部查禁游戏《虎胆雄心》 - 新浪转载深圳晚报](https://web.archive.org/web/20040727095905/http://news.sina.com.cn/c/2004-05-29/17052662870s.shtml)
++ [文化部紧急查处非法电脑游戏《虎胆雄心》 - 新浪转载新华网](https://web.archive.org/web/20040805214042/http://news.sina.com.cn/c/2004-05-28/18382655978s.shtml)
++ [我国文化部查处非法电脑游戏《虎胆雄心》 - 网易转载新华网](https://web.archive.org/web/20200821111735/https://news.163.com/2004w05/12566/2004w05_1085741798181.html)
++ [游戏《虎胆雄心》被禁 - 《人民日报海外版》 (2004年05月29日 第四版)](https://web.archive.org/web/20190801072941/http://www.people.com.cn/GB/paper39/12106/1089746.html)
++ [Swedish video game banned for harming China's sovereignty - 人民日报海外版](https://web.archive.org/web/20200702105913/http://www.chinadaily.com.cn/english/doc/2004-05/29/content_334845.htm)
++ [文化部发出紧急通知要求查禁违法游戏《虎胆雄心》【钢铁雄心吧】_百度贴吧](https://archive.is/jDo8z "https://tieba.baidu.com/p/523141251")
++ [游戏《虎胆雄心》被禁 新浪转载人民网-人民日报海外版](https://web.archive.org/web/20200821113616/https://news.sina.com.cn/o/2004-05-29/05552657557s.shtml)
++ [Heart of Iron 《虎胆雄心》在中国被禁 - 游戏 - cnBeta.COM](https://web.archive.org/web/20200826083251/https://www.cnbeta.com/articles/3605.htm)
++ [文化部查禁电脑单机游戏《虎胆雄心》 - 联众星云网](https://web.archive.org/web/20200821113526/http://www.ourgame.com/news/db/74/73681.html)
++ [文化部查禁电脑游戏《虎胆雄心》 新浪转载哈尔滨日报](https://web.archive.org/web/20050103111844/https://ent.sina.com.cn/2004-05-29/0910402919.html)
++ [大肆宣扬分裂！文化部查处非法电脑游戏《虎胆雄心》！（ZT）-综合转帖（主发转载）- 超级大本营军事论坛](https://web.archive.org/web/20200821112959/https://lt.cjdby.net/thread-83568-1-1.html)
++ [Hearts of Iron 2 Interview - ( Review, Preview, Article, Interview, Q&A; ) - GamersHell.com](https://web.archive.org/web/20090715092441/http://www.gamershell.com/articles/810.html)
++ [中國查禁電玩遊戲虎膽雄心 - 華視新聞網](https://web.archive.org/web/20200821124903/https://news.cts.com.tw/cts/general/200405/200405290145044.html)
+
+外号的来源可能是 52pcgame 规避敏感词
+
++ [（小胡子养成计划）是什么意思，历史以及渊源，详细点_百度知道](https://web.archive.org/web/20200826082845/https://zhidao.baidu.com/question/153523576.html)
++ [为什么把钢铁雄心叫小胡子养成计划_百度知道](https://web.archive.org/web/20200826082754/https://zhidao.baidu.com/question/585088453.html)
+
+#### 钢铁雄心4
+
+Steam 国区下架
+
++ [钢铁雄心4国区下架 - 购物心得 - 其乐 Keylol](https://archive.is/9Xw0Y "https://keylol.com/t323500-1-1")
++ [P社回应钢铁雄心4锁区：不是我们的锅_网易游戏](https://web.archive.org/web/20200821042211/https://ent.163.com/game/17/1103/11/D2AJPUG200318T0C.html)
++ [如何评价钢铁雄心4被斗鱼tv禁播？ - 知乎](https://web.archive.org/web/20200821124134/https://www.zhihu.com/question/268126686/answer/335456544)
+
+播出限制
+
++ [如何评价钢铁雄心4被斗鱼tv禁播？ - 知乎](https://web.archive.org/web/20200821124240/https://www.zhihu.com/question/268126686)
+
+### 足球经理 2005
+
+> 没有任何一个中国人能容忍自己的国家被分裂成5个新国家
+>
+> 27
+
+游戏简介: 这是一款模拟经营游戏，训练球员
+
++ [China bans online game Football Manager 2005 - 人民日报海外版](https://web.archive.org/web/20200812040323/https://www.chinadaily.com.cn/english/doc/2004-12/08/content_398445.htm)
++ [冠军足球经理2005被封是怎么回事啊？ 球迷一家 天涯社区](https://web.archive.org/web/20200821235452/http://bbs.tianya.cn/post-fans-13696-1.shtml)
++ [Chinese take issue with Football Manager 2005 - VideoGamer.com](https://web.archive.org/web/20200826101824/https://www.videogamer.com/news/chinese-take-issue-with-football-manager-2005)
++ [Chinese government attacks Football Manager 2005 GamesIndustry.biz](https://web.archive.org/web/20200822000654/https://www.gamesindustry.biz/articles/chinese-government-attacks-football-manager-2005)
++ [一场玩家的“抗争"，一个老牌足球游戏的国区危机 - 知乎](https://archive.is/zMwCi "https://zhuanlan.zhihu.com/p/23300236")
++ [《足球经理2005》侵犯我国主权 遭中国玩家谴责(转载) 国际观察 论坛 天涯社区](https://web.archive.org/web/20200822002157/http://bbs.tianya.cn/post-worldlook-44036-1.shtml)
++ [今天南体2版上的严重抗议，非常支持，在这方面政治敏感度还是够高的! 南方体育 论坛 天涯社区](https://web.archive.org/web/20200822003029/http://bbs.tianya.cn/post-209-3103-1.shtml)
++ [严正抗议！FM2005侵犯我国主权! 中国玩家态度强硬 新浪游戏 新浪网](https://web.archive.org/web/20050306165449/http://games.sina.com.cn/newgames/2004/11/111059073.shtml)
++ [<足球经理2005>含有危害中国主权内容遭查禁－－南海网](https://web.archive.org/web/20130528001226/http://www.hinews.cn/news/system/2004/12/07/000019572.shtml)
++ [危害我国主权《足球经理2005》被封杀(图)-搜狐新闻中心转载重庆晨报](https://web.archive.org/web/20110305095805/https://news.sohu.com/20041209/n223400268.shtml)
+
+[育碧软件关于《足球经理2005》地域问题的声明_新浪游戏_新浪网](https://web.archive.org/web/20120110153409/https://games.sina.com.cn/newgames/2004-11-30/122963896.shtml)
+
+<!-- [风雨20年，FIFA足球经理系列与FM系列的抗争史 机核 GCORES](https://archive.is/TM6zi "https://www.gcores.com/articles/19051") -->
+
+### WeGame 平台版 这是我的战争 下架事件
+
+[如何看待腾讯 WeGame 平台突然下架游戏《这是我的战争》？ - 知乎](https://web.archive.org/web/20200825134828/https://www.zhihu.com/question/263580877)
+
+### 高考恋爱一百天
+
+### 中国式家长
+
+2020年7月22日，中国式家长从 Steam 以及 WeGame 暂停大陆地区的销售，WegGame 由于目前只有一个货币区，
+所以属于完全的停售。而 Steam 在陆港台三区中，仅停止了陆区的在线购买电子版游戏的服务。
+理由是众所不知，但又人人皆知的内部优化。
+
+虽然关于全平台陆区下架的原因众说纷纭，不过我还是找到了
+
+一个月后仍然没有恢复
+
+<!-- 外部参考链接
+
+商店主页
+[WeGame上的《中国式家长》,Chinese Parents](https://web.archive.org/web/20200907131052if_/https://www.wegame.com.cn/store/2000389/Chinese_Parents "https://archive.is/2Dcqf")
+大陆[站点错误 您所在的地区目前不提供此物品](https://archive.is/gpeek "https://store.steampowered.com/app/736190/Chinese_Parents/?l=schinese&cc=cn")
+台湾[Steam 上的 中国式家长](https://archive.is/5FS22 "https://store.steampowered.com/app/736190/_/?l=schinese&cc=tw")
+
+官方通知
+[暂时的分别是为了更好的重聚 WeGame](https://archive.is/BXc0c)
+steam大陆中文[中国式家长 - 暂时的分别是为了更好的重聚 - Steam 新闻](https://archive.is/qU8Ky)
+steam英文[Chinese Parents - A temporary maintenance for the Chinese version - Steam News](https://archive.is/H9kfm)
+
+论坛&新闻消息
+[《中国式家长》将从STEAM国区和WEGAME上暂时下架。 NGA玩家社区](https://archive.is/jmVu6)
+[《中国式家长》Steam 国区下架 - Steam,中国式家长 - IT之家](https://archive.is/mdvcu)
+[《中國式家長》從中國Steam暫時下架，台灣與海外不受影響](https://archive.is/EtJTz "https://www.4gamers.com.tw/news/detail/44043/chinese-parents-pull-from-steam-and-wegame")
+[【情報】《中國式家長》從中國Steam暫時下架，台灣與海外不受影響 @Steam 綜合討論板 哈啦板 - 巴哈姆特](https://archive.is/2sW9w "https://forum.gamer.com.tw/C.php?bsn=60599&snA=30096")
+
+-->
+
+### 使命召唤
+
+港台翻译为「决胜时刻」，英文原名为 Call of Duty，缩写为 COD，是由动视所推出的一系列 FPS 游戏。
+不过在2007年与维旺迪的子公司合并为动视暴雪公司，2013年动视暴雪靠其他集团的投资，回购了威望迪手中的股份完成了大方向上的独立。
+不过玩家担心腾讯中国资本会影响动视暴雪的独立性，腾讯大约拥有5%的动视暴雪股份，也曾做过 Steam 国区的 COD 锁区事件，
+以及在台北的暴雪《炉石传说》大师赛上取消了在镜头前表达政治言论的郑梦龙获得的1万美元奖金，以及解雇了主持郑梦龙采访的两名台湾主持人。[^F_Hearthstone]
+动视暴雪目前仍是世界上第二赚钱的游戏公司，第一赚钱的是世界的主宰「任天堂」。
+
+游戏内容从「二战」到「冷战」然后「现代战争」「未来战争」都一应俱全，大部分视角均为美军士兵。
+
+<!--
+[动视暴雪82亿美元赎身独立 腾讯参股-搜狐IT](https://web.archive.org/web/20130731035138/https://it.sohu.com/20130726/n382677056.shtml)
+[暴雪事件震撼！外媒揭騰訊對各大遊戲商持股比例 - 自由財經](https://web.archive.org/web/20191012062948/https://ec.ltn.com.tw/article/breakingnews/2942843)
+[腾讯在这4家美国公司持有股份：他们现在怎么样了？腾讯_新浪财经_新浪网](https://web.archive.org/web/20180226124509/https://finance.sina.com.cn/stock/usstock/c/2018-02-19/doc-ifyrrmye2641314.shtml)
+-->
+
+#### 使命召唤 Steam 版锁区事件
+
+#### 使命召唤 黑色行动 II
+
+> Frank Woods:「If Russia wins in Afghanistan, they'll be looking at China next.」
+
+这部是正作第9作
+
+##### 轰炸天安门
+
++ 有评论 [江西文化厅：使命召唤9有轰炸天安门 是违禁游戏 红色警戒之共和国之辉 网吧 监管 新浪新闻](https://archive.is/7cPg2 "https://web.archive.org/web/20180625133515/http://news.sina.com.cn/c/2018-04-04/doc-ifyswxnq2775195.shtml https://archive.is/LZk2C")
++ [”轟炸天安門”觸發敏感神經！網路遊戲遭中國全面查禁（《新聞時時報》2018年4月6日） - YouTube](https://archive.is/IKOMV "https://www.youtube.com/watch?v=OKvTZzCOjN4")
++ [江西文化厅：使命召唤9轰炸天安门，是违禁游戏_风闻社区](https://web.archive.org/web/20191022174423/http://user.guancha.cn/main/content?id=11261)
++ [《使命召唤9》恐被禁 疑轰炸天安门截图泄漏 游戏频道 凤凰网](https://web.archive.org/web/20180808154221/http://games.ifeng.com/pcgame/detail_2012_05/31/14944638_0.shtml)
++ [监管系统形同虚设 赣州吉安等地39家网吧被查（图）-赣州频道-中国江西网首页](https://web.archive.org/web/20200522091911/http://jxgz.jxnews.com.cn/system/2018/04/05/016843521.shtml)
++ [监管系统形同虚设 赣州吉安等地39家网吧被查（图）_江西频道_凤凰网](https://web.archive.org/web/20180406070244/http://jx.ifeng.com/a/20180406/6483907_0.shtml)
++ [网络游戏因“轰炸天安门”被全面禁止 RFA](https://web.archive.org/web/20200826031120/https://www.rfa.org/mandarin/Xinwen/XQL-04052018035006.html)
++ [Re: [新聞] 轟炸天安門也不行 境外遊戲遭中國查禁 - 八卦 PTT Web](https://web.archive.org/web/20200826031915/https://pttweb.tw/s/2vu1G)
++ [轟炸天安門也不行 境外遊戲遭中國查禁 兩岸 中央社 CNA](https://web.archive.org/web/20200826032425/https://www.cna.com.tw/news/ait/201804050105.aspx)
++ [使命召唤9真有空袭天安门？多人模式截图惊现PLA_3DM单机](https://web.archive.org/web/20200522095507/https://www.3dmgame.com/news/201206/50096.html)
+
+##### 上海合作组织军队
+
++ 有评论 [帝国亡我之心不死！盘点以中国为假想敌的战争游戏 游民星空 GamerSky.com](https://archive.is/BMu8B "https://web.archive.org/web/20200826024155/https://www.gamersky.com/news/201205/199679.shtml")
++ 有评论 [《使命召唤9：黑色行动2》中的大反派是以中国为首的上海合作组织 游民星空 GamerSky.com](https://web.archive.org/web/20130514021226/https://www.gamersky.com/news/201205/199205.shtml)
++ [《使命召唤9》中的大反派是？不能说 自己看吧_游侠网 Ali213.net](https://web.archive.org/web/20200826024242/https://www.ali213.net/news/html/2012-5/40078.html)
++ [中国或成《使命召唤：黑色行动 2》游戏中敌对势力 - 使命召唤,黑色行动 - IT之家](https://archive.is/gEjjt "https://web.archive.org/web/20200826023406/https://www.ithome.com/html/game/16195.htm")
++ [浅析美军的军事游戏复合应用策略:间接影射政治，宣扬“中国威胁论” - 军事记者](https://web.archive.org/web/20200826023418/http://www.81.cn/jsjz/2018-12/25/content_9385490.htm)
++ [《使命召唤：黑色行动2》中的大反派是以中囯为首的上海合作组织 - 其乐 Keylol](https://archive.is/9MS6B "https://keylol.com/t59621-1-1")
++ [我勒个去：《黑色行动2》大反派是上海合作组织！ - Chiphell - 分享与交流用户体验的最佳平台](https://web.archive.org/web/20120708075156/http://www.chiphell.com/thread-461761-1-1.html)
++ [要和谐 《黑色行动2》大反派是上海合作组织！-3DMGAME](https://web.archive.org/web/20120516042356/http://www.3dmgame.com/news/201205/46773.html)
++ [COD9：黑色行动2大反派是中国上海合作组织_游戏频道_凤凰网](https://web.archive.org/web/20180420145254/http://games.ifeng.com/industrytrend/detail_2012_05/07/14361495_0.shtml)
++ [COD9 PLA 造型基本定妆 天朝中枪拓拓的 - 游戏业界新闻区 - A9VG电玩部落论坛](https://archive.is/oZfRa "https://app.a9vg.com/thread-2354281-1-1.html")
+
+#### 使命召唤 黑色行动 III
+
+这部是正作第12作，2014年解除了2000年公布的游戏机销售与制造禁令，加上本作首次加入简体中文，
+使一部分媒体认为这款使命召唤有迹象会在中国正式发售国行版。[《使命召唤：黑色行动3》简体中文确认 - vgtime.com](https://archive.is/LK6ky "https://www.vgtime.com/topic/1862.jhtml")
+
+天津港口爆炸
+
+[Official Call of Duty®: Black Ops III - Story Trailer - YouTube](https://www.youtube.com/watch?v=k2GMPVXLGbk)
+
+[《使命召唤12》官方中文预告片惊现天津大爆炸 iPcfun.com](https://web.archive.org/save/https://www.ipcfun.com/cod12-black-ops3.html "https://archive.is/zQXSN")
+[如何看待游戏使命召唤12由于使用天津爆炸画面而被淘宝下架的事情？ - 知乎](https://web.archive.org/web/20200825132148/https://www.zhihu.com/question/36556272)
+[【双语】《使命召唤12黑色行动3》最新预告片 @游民星空字幕组 哔哩哔哩](https://web.archive.org/web/20200825132031/https://www.bilibili.com/video/av2998570)
+视频简介：在这段预告中 一大堆一闪而过的画面 其中一张你一定一眼就能认出来 那就是天津爆炸的现场图 人类究竟面临着怎样的灾难 到底是使命的召唤还是人性的泯灭 翻译：@地三鲜烧茄子 欢迎加入字幕组 招新群464285519 成员招募中
+[《使命召唤：黑色行动3》国行或无望 宣传片惊现天津爆炸_网易游戏](https://web.archive.org/save/https://ent.163.com/game/15/1007/18/B5BGJ5QT00314K8K.html)
+[国行有望？《使命召唤12》简中版确认发售](https://archive.is/5GnSg "https://tech.huanqiu.com/article/9CaKrnJNQSj")
+
+#### 使命召唤 黑色行动 冷战 宣传片
+
+> 「Where you going?」
+>
+> 「To protest, to TiananmenSquare」
+>
+> 「..Why?」
+>
+> 「Why? I think it's my **duty**!」
+
+这部是正作第17作，时隔多年后首次正作支持中文，加上
+
+写下这些文字的当下，目前大多数媒体都提到了这是一款软重启的作品，即保留大部分黑色行动的设定，进行重启的作品。[^soft_reboot]
+最初的宣传片长度为 2:03，YouTube 视频ID为 zVSP9BM1o5Q ，其中包含了两个很短的关于中国的片段
+
+zVSP9BM1o5Q 这个视频应该不是正式宣传片，因为一直处于 Unlisted 即不公开的状态，只能靠链接进入，不能在YouTube上以及COD官方频道中找到，
+本来也是解密活动的奖励视频。
+
+##### 涉及的核心视频已转为私人影片，目前不可播放
+
++ [Know Your History - YouTube - archive.today](https://archive.is/Y2Jus)
++ [Know Your History - YouTube - web.archive.org](https://web.archive.org/web/20200819204429if_/https://www.youtube.com/watch?v=zVSP9BM1o5Q)
+
+##### 国内网站上的预告片及其相关视频
+
+目前8月27日，我在哔哩哔哩上没有看到游戏新闻资讯的UP主敢搬运原版&删减版的预告，
+甚至今天的实机演示预告也只有个人UP主在搬运。
+
++ 已删除 [【COD17 使命召唤 黑色行动 冷战】概念预告（删减版）哔哩哔哩](https://web.archive.org/web/20200824144925/https://www.bilibili.com/s/video/BV1ai4y1g7t9)
++ [【中字】使命召唤：黑色行动 冷战《知晓历史》预告片 哔哩哔哩](https://archive.is/Ylu5l "https://web.archive.org/web/20200824172752/https://www.bilibili.com/video/BV19K411T7NA")
++ [使命召唤：黑色行动 冷战 先行背景预告 哔哩哔哩](https://archive.is/0qO6J "https://www.bilibili.com/video/BV19K4y1Y7a8?p=2")
++ [使命召唤17黑色行动冷战知晓历史宣传片-Call of Duty Black Ops- Cold War 哔哩哔哩](https://web.archive.org/save/https://www.bilibili.com/video/BV1yZ4y1K7Cj)
+
++ [（冷戰）尤里·亞歷山德羅維奇·貝茲梅諾夫 哔哩哔哩](https://web.archive.org/web/20200825151454/https://www.bilibili.com/video/BV1G5411h7Qc)
+
+##### 关于被删除的片段的相关报道
+
++ [射碎中國玻璃心！《決勝時刻》新作出現六四片段　又被「辱華」封殺 蘋果新聞網 蘋果日報](https://web.archive.org/web/20200825125442/https://tw.appledaily.com/international/20200821/6DVPBQXTIFDSTEK6QDSQAIA7PY/)
++ [怕了？《決勝時刻》官方預告轉私人、中國少敏感片段 電競 新頭殼 Newtalk](https://web.archive.org/web/20200823172857/https://newtalk.tw/news/view/2020-08-22/454527)
++ [《使命召唤》游戏预告夹带六四画面 中国玩家：要被封杀了 德国之声 来自德国 介绍德国 DW 22.08.2020](https://web.archive.org/web/20200824144251/https://www.dw.com/zh/使命召唤游戏预告夹带六四画面-中国玩家要被封杀了/a-54658203)
++ [Call of Duty: Black Ops Cold War Trailer Banned in China Due to Tiananmen Square Footage](https://web.archive.org/web/20200824134636/https://www.cbr.com/cod-black-ops-cold-war-trailer-tiananmen-footage/)
++ `2020-08-24` [德国之声《使命召唤》游戏预告夹带六四画面 中国玩家：要被封杀了 中国数字时代](https://web.archive.org/web/20200825090210/https://chinadigitaltimes.net/chinese/2020/08/德国之声-《使命召唤》游戏预告夹带六四画面-中/)
++ [《決勝時刻》新作預告片引用 64 天安門片段，僅一秒鐘畫面讓某大大跳腳 T客邦](https://web.archive.org/web/20200824033604/https://www.techbang.com/posts/80742-cod-new-trailer)
++ [小粉紅怒噴《決勝時刻》新作預告64畫面 被酸「渾身都是g點」 - Yahoo奇摩新聞](https://web.archive.org/web/20200826020737if_/https://tw.news.yahoo.com/小粉紅怒噴-決勝時刻-新作預告64畫面-被酸-渾身都是g點-101020792.html)
++ `2020-08-25 13:45` [《決勝時刻》最新作《黑色行動：冷戰》中國不開心，動視偷移除天安門畫面 4Gamers](https://archive.is/EvYr4 "https://www.4gamers.com.tw/news/detail/44478/call-of-duty-trailer-replacedtiananmen-square-footage")
++ `2020-08-25` [別讓中國不開心！動視刪除《決勝時刻》新作預告中天安門片段 PC NOW電玩](https://web.archive.org/web/20200825090349if_/https://game.nownews.com/news/20200825/3276105/)
++ [‘Black Ops Cold War teaser banned in China by image of Tiananmen protests’ – Gaming – News – Archyde](https://web.archive.org/web/20200825092350/https://www.archyde.com/black-ops-cold-war-teaser-banned-in-china-by-image-of-tiananmen-protests-gaming-news-2/)
++ [China Bans ‘Call of Duty: Black Ops Cold War’ Trailer Because of 1989 Tiananmen Square Footage](https://web.archive.org/web/20200825123223/https://www.vice.com/en_us/article/ep489p/china-bans-call-of-duty-black-ops-cold-war-trailer-because-of-1989-tiananmen-square-footage)
++ [Call of Duty: Black Ops Cold War trailer banned in China for Tiananmen Square footage - VG247](https://web.archive.org/web/20200825092406/https://www.vg247.com/2020/08/24/tiananmen-square-call-duty-black-ops-cold-war/)
++ [Call Of Duty Trailer Replaced Worldwide Over Tiananmen Square Footage](https://web.archive.org/web/20200825090523/https://www.kotaku.com.au/2020/08/call-of-duty-trailer-replaced-worldwide-over-tiananmen-square-footage/)
++ [Call Of Duty Trailer Replaced Worldwide Over Tiananmen Square Footage](https://web.archive.org/web/20200825071119/https://kotaku.com/call-of-duty-trailer-replaced-worldwide-over-tiananmen-1844833808)
++ [Tiongkok Blokir Trailer CoD Black Ops: Cold War, Ada Tiananmen 1989 - Medcom.id](https://archive.is/xWBXF "https://www.medcom.id/teknologi/game/ob30Qrok-tiongkok-blokir-trailer-cod-black-ops-cold-war-ada-tiananmen-1989")
++ `2020-08-25` [China Bans COD: Black Ops Cold War Trailer Over Tiananmen Square Footage](https://web.archive.org/web/20200825090556/https://screenrant.com/black-ops-cold-war-trailer-banned-china-tiananmen/)
++ [Call of Duty: Black Ops Cold War - Wikipedia](https://web.archive.org/web/20200825122947/https://en.wikipedia.org/wiki/Call_of_Duty:_Black_Ops_Cold_War)
++ [Activision removes Tiananmen Square footage in Call of Duty: Black Ops Cold War trailer • Eurogamer.net](https://web.archive.org/web/20200826011345/https://www.eurogamer.net/articles/2020-08-25-activision-removes-tiananmen-square-footage-in-call-of-duty-black-ops-cold-war-trailer-after-china-ban)
++ [Call of Duty Black Ops Cold War trailer blocked in China GamesIndustry.biz](https://web.archive.org/web/20200826010717/https://www.gamesindustry.biz/articles/2020-08-25-call-of-duty-black-ops-cold-war-trailer-blocked-in-china)
++ [Activision Removes Tiananmen Square Footage From Trailer - EssentiallySports](https://web.archive.org/web/20200829065244/https://www.essentiallysports.com/esports-news-call-of-duty-activision-removes-tiananmen-square-footage-from-trailer/)
+
+##### 关于片段的视频报道，主要是YouTube
+
++ [Activision Bends The Knee To China AGAIN! Call Of Duty Cold War Trailer CENSORED! - YouTube](https://archive.is/SgI11 "https://www.youtube.com/watch?v=tITCWjObLEw")
++ [Activision CENSORS Call of Duty: Black Ops Cold War Worldwide To Appease China! - YouTube](https://archive.is/3lpBq "https://www.youtube.com/watch?v=VaU431n3_0E")
++ [Americans Should NOT buy BLACK OPS COLD WAR. China Calls The Shots For Activision. - YouTube](https://archive.is/q1TM1 "https://www.youtube.com/watch?v=RIzDh9ExqhE")
++ [Call of Duty: Black Ops Cold War Trailer BANNDED in China Due to Tiananmen Square Footage - YouTube](https://archive.is/1GGbV "https://www.youtube.com/watch?v=qpgsSJFvt8I")
++ [Call Of Duty: Black Ops Cold War [Uncensored] Teaser Trailer Know Your History - YouTube](https://archive.is/yb24f "https://www.youtube.com/watch?v=ko5VMd3tx3Q")
++ [Call of Duty: Black Ops - Cold War OLD TRAILER REUPLOAD with Tiananmen Square footage - YouTube](https://archive.is/kUpwu "https://www.youtube.com/watch?v=sssfAG3W4r4")
++ [Call of Duty Black Ops Cold War DELETED Trailer with Tiananmen Square Footage (2020) - YouTube](https://archive.is/RQm0H "https://www.youtube.com/watch?v=sri2TIHyEZc")
++ [CALL OF DUTY S'AUTO-CENSURE POUR NE PAS FROISSER LA CHINE ! - YouTube](https://archive.is/ZAcXx "https://www.youtube.com/watch?v=4eOYEOwDi5s")
++ [China Bans Call Of Duty Black Ops Cold War Teaser - YouTube](https://archive.is/QEnlI "https://www.youtube.com/watch?v=y-Vmxb_gYxw")
++ [CoD bows to China, censors trailer - YouTube](https://archive.is/BKn7E "https://www.youtube.com/watch?v=3I68207UZfk")
++ [Communists are FURIOUS with Call of Duty Cold War! Want it BANNED!? - YouTube](https://archive.is/NmZTz "https://www.youtube.com/watch?v=Ueot3AgiXyA")
++ [COWARDS! Call of Duty Cold War Bends the Knee to CHINA! - YouTube](https://archive.is/iQrWH "https://www.youtube.com/watch?v=4426zyXBdco")
++ [SJW's Want To CANCEL Call Of Duty Cold War Because It Makes Communism Look Bad! - YouTube](https://archive.is/y4sOd "https://www.youtube.com/watch?v=KYXUu_hNO_k")
++ [Tiananmen Square Footage Forces Activision To Replace Cold War Trailer Worldwide - YouTube](https://archive.is/uZWzH "https://www.youtube.com/watch?v=5aEiQ8ltrAw")
+
+##### 仅仅关于游戏发售的报道
+
++ [Call of Duty Black Ops Cold War teaser trailer confirms reveal date | Dexerto](https://web.archive.org/web/20200824171205/https://www.dexerto.com/call-of-duty/call-of-duty-black-ops-cold-war-teaser-trailer-confirms-reveal-date-1408333)
++ [IGN on Twitter: "Know your history, or be doomed to repeat it. Watch the chilling new teaser for Call of Duty Black Ops: Cold War. https://t.co/V2oj6DA7hZ… https://t.co/y3GzccLfaV"](https://archive.is/q83a0)
++ 188人参与评论后，评论区被关闭 [《使命召唤：黑色行动 冷战》确认 8月26日正式公布 _ 游民星空 GamerSky.com](https://archive.is/PcSOn "https://www.gamersky.com/news/202008/1314081.shtml")
++ [《使命召唤：黑色行动 冷战》公布时间确认 8月26日见_手机新浪网](https://web.archive.org/web/20200825151755/https://tech.sina.cn/2020-08-20/detail-iivhuipn9667356.d.html)
++ [《使命召唤：黑色行动 冷战》将于 8 月 26 日全球公布_系列](https://web.archive.org/web/20200825151554/https://www.sohu.com/a/414004693_114760)
++ [动视年货预告发布，惨遭全网下架，两个国家都被它惹毛_使命召唤](https://web.archive.org/web/20200825151339/https://www.sohu.com/a/414528721_100166583)
++ [Call of Duty: Black Ops Cold War confirmed in trailer《使命召唤：冷战中的黑色行动》 - LOTGAIN多语言阅读平台](https://web.archive.org/web/20200825152008/https://lotgain.com/call-of-duty-black-ops-cold-war-confirmed-in-trailer《使命召唤：冷战中的黑色行动》/)
++ [《使命召唤17：冷战》首支预告发布！了解历史反思战争 8月26日全球公布_游侠网 Ali213.net](https://web.archive.org/web/20200825151053/https://www.ali213.net/news/html/2020-8/534181.html)
++ [动视公开《使命召唤》最新作《使命召唤：黑色行动 冷战》前导预告，将于8月26日公布更多信息_游戏情报-猎游人](https://web.archive.org/web/20200825150840/https://www.lieyouren.cn/zixun/30288.html)
++ 有评论 [《使命召唤：黑色行动冷战》官方描述更新：黑色行动的“直属续作” 梅森、伍兹将会回归 _ 游民星空 GamerSky.com](https://archive.is/5ey72 "https://www.gamersky.com/news/202008/1315513.shtml")
++ [《決勝時刻》新作《決勝時刻黑色行動：冷戰》宣傳影片曝光 以美蘇冷戰作為遊戲設定 - 巴哈姆特](https://web.archive.org/web/20200826021353/https://gnn.gamer.com.tw/detail.php?sn=201928)
++ 禁忌四重套娃新闻 [COD17因为战役原因可能无法在俄罗斯发售【使命召唤吧】_百度贴吧](https://archive.is/ReK62 "https://tieba.baidu.com/p/6898219815")
++ 有评论 [美苏对抗！《使命召唤：黑色行动冷战》主视觉图公布_网易游戏](https://archive.is/cnsUX "https://ent.163.com/game/20/0821/10/FKI2MKAO003198EF.html 评论区 https://archive.is/2GMKm")
+
+##### 相关讨论
+
++ [《使命召唤：黑色行动 冷战》将于 8 月 26 日全球公布 - 使命召唤 - IT之家](https://archive.is/Ycq9i "https://www.ithome.com/0/504/432.htm")
++ [官方确认《使命召唤：黑色行动冷战》PC 版为暴雪战网独占 - PC,使命召呼 - IT之家](https://archive.is/C5NWw "https://www.ithome.com/0/505/061.htm")
++ [使命召呼_使命召呼最新动态_IT之家](https://archive.is/5Q7nX "http://www.ithome.com/tag/shimingzhaohu/")
++ [使命召唤：黑色行动 - 冷战 「Call of Duty: Black Ops Cold War」正式公布，更新视频 - 游戏业界新闻区 - A9VG电玩部落论坛](https://archive.is/vXooz "链接已失效 https://bbs.a9vg.com/thread-8684743-1-1.html")
++ [使命召唤最新的冷战宣传片，感觉整个游戏就是在冲塔 - 新·品葱](https://web.archive.org/web/20200824145051/https://pincong.rocks/video/2874)
++ [使命召唤现已经加入加速套餐 - 新·品葱](https://web.archive.org/web/20200825145016/https://www.pincong.rocks/article/23179)
++ [即将于8月26日发布的《使命召唤黑色行动：冷战》故事背景：叛变克格勃特工Yuri Bezmenov全篇访谈 : China_irl](https://archive.is/ZLYIW "https://www.reddit.com/r/China_irl/comments/idpb2y/即将于8月26日发布的使命召唤黑色行动冷战故事背景叛变克格勃特工yuri_bezmenov全篇访谈/")
++ [[新聞] 決勝時刻 新作預告片引用 64 天安門片段 - ACG板 - Disp BBS](https://web.archive.org/web/20200824144739/https://disp.cc/b/21-cFey)
++ [[新聞] 小粉紅怒噴《決勝時刻》新作預告64畫面 PTT 新聞網](https://web.archive.org/web/20200824171612/https://newsptt.com/gossiping/m-1598004895-a-2a9.html)
++ [[COD新作] Call of Duty Black Ops: Cold War LIHKG](https://archive.is/jFHEi)
++ [使命召唤预告片 : chonglangTV](https://archive.is/zwVQu "https://web.archive.org/web/20200825095856/https://www.reddit.com/r/chonglangTV/comments/idnyzc/使命召唤预告片/ 梗图 https://web.archive.org/web/20200825020023/https://i.redd.it/1yvjj7d9k9i51.jpg")
++ [Tiananmen square footage at about in the new trailer : blackopscoldwar](https://archive.is/dFpXg)
++ 讨论热度很高 [Call of Duty: Black Ops Cold War Trailer Banned in China Due to Tiananmen Square Footage : worldnews - Reddit](https://archive.is/irv8K)
++ [Call of Duty: Black Ops Cold War Trailer Banned in China Due to Tiananmen Square Footage : China](https://archive.is/jua9r)
++ [Call of Duty: Black Ops Cold War Trailer Banned in China Due to Tiananmen Square Footage : XboxSeriesX](https://archive.is/D2GiX)
++ [Call of Duty: Black Ops Cold War Trailer Banned in China Due to Tiananmen Square Footage : worldnews - Removeddit](https://archive.is/6coUz)
++ [Call of Duty: Black Ops Cold War Trailer Banned in China Due to Tiananmen Square Footage : pcgaming](https://archive.is/guFUZ)
++ [Call of Duty: Black Ops Cold War Trailer Banned in China Due to Tiananmen Square Footage : Games](https://archive.vn/Ngn8t)
++ [Call of Duty: Black Ops Cold War Trailer Banned in China Due to Tiananmen Square Footage : gamingnews](https://archive.is/xmOIC)
++ [Call of Duty: Black Ops Cold War - “Know Your History” Official Trailer : XboxSeriesX](https://archive.is/AAcJq)
++ [Context: cod-cold war removes Tiananmen square massacre footage from trailer over threat of being banned in china. : Gamingcirclejerk](https://archive.is/8DFwk)
++ [Know Your History（btw：中国的就算了） : China_irl](https://archive.is/Pgja8)
++ [Know your history delete your history : chonglangTV](https://archive.is/Soidd)
++ 稍微有一点提到 [【图片】使命召唤17 黑色行动冷战为原版直属续作 梅森伍兹将回归！【steam吧】_百度贴吧](https://archive.is/uJkwi "https://tieba.baidu.com/p/6905325868")
++ [如何评价使命召唤：冷战的预热预告片? - 知乎](https://web.archive.org/web/20200826031528/https://www.zhihu.com/question/415826738)
++ [[問卦] 動視暴雪又跪了? - 八卦 PTT八卦政治](https://web.archive.org/web/20200824171607/https://pttgopolitics.com/gossiping/M.1598037537.A.9EB.html)
+
+##### 不相关的讨论
+
++ [Call of Duty®: Mobile - Player Review TapTap](https://web.archive.org/web/20200826021726/https://www.taptap.com/app/139301/review?order=update)
++ 贴吧里也没有相关讨论，可能是主题帖直接被删除了
+
+##### 微博上的一些情况
+
++ [据说《使命召唤黑色行动：冷战》的预告片翻车了？不少COD迷都在大骂？ 来自上帝之鹰_5zn - 微博](https://archive.is/h00mt)
++ [使命召唤 黑色行动 冷战将在科隆前夜直... 来自A9VG - 微博](https://archive.is/skT8S)
++ [使命召唤系列新作《使命召唤：黑色行动 冷战》正式公布，并公布了首个预告片“Know Your History”。 来自游戏动力 - 微博](https://archive.is/izEow "https://weibo.com/5762457113/JgKpyxt3E")
++ [微博搜索 使命召唤:黑色行动冷战](https://archive.is/C4fka)
+
+##### submarineoldfuck 与 Quickmath 翻译的叛逃者的访谈
+
+[【双语字幕】苏lian叛逃外交官尤里·亚历山德罗维奇·贝兹梅诺夫于1984年在美国接受的访谈，里面讲的叛逃过程、dianfu理论对现在来讲仍然很新鲜，很有意思。（不敢多说） 来自Quickmath - 微博](https://archive.is/QuJXe)
+
+<!-- 
+[submarineoldfuck的个人空间主页 - 哔哩哔哩](https://archive.is/1ItoQ)
+
+> 发动态的难度是这样的，十之八九发出来的动态会被预先审核，
+> 你必须使用土法炼钢比如各种替换啊谐音啊之后才能在他们筛查之后见得天日，即便如此多数情况也会在不久之后被删除，
+> 你仅仅收到一张“系统通知”。最后大地白茫茫一片真干净。因为我在礼堂的表彰大会上鼓掌鼓的那都不够积极。
+> [_ submarineoldfuck _ 哔哩哔哩相簿](https://archive.is/VqJRA)
+
+> 片单包括 ：
+> 没有审查机构的审查
+> 像玫瑰一样年轻与健康......
+> [_ submarineoldfuck _ 哔哩哔哩相簿](https://archive.is/qBRRR)
+
+> 账号连续被封，被监视对待中，视频也暂时不会再发。我爱xxxxx。
+> [_ submarineoldfuck _ 哔哩哔哩相簿](https://archive.is/SiKPv)
+
+> 心灰意冷 怎么这么敏感 B站的审查系统简直吹弹可破宛若少女
+> [_ submarineoldfuck _ 哔哩哔哩相簿](https://archive.is/A0IvH)
+
+> 最右边这个太好看了，就是过不了审，特别想给各位看看。
+> [_ submarineoldfuck _ 哔哩哔哩相簿](https://archive.is/YyITF) 
+
+> maybe试着搬一下sulian外交官采访全程，一个半小时左右，上轴十分辛苦，绝大概率过不了审，
+> 那我就当自己精读一遍了，中字是当然不可能的，快把nowadays简体中字代表的意涵和信息载体作用忽略掉大部分吧。
+> [submarineoldfuck的个人空间 - 哔哩哔哩](https://archive.is/6w7mB)
+-->
+
+<!-- ![——梁惠王的云梦之泽(tingzhangxiaowu) 微信公众号文章对该视频的一种解读](https://archive.is/zxcaS/964d05e2e5780ad19771244ae737f8b20f956638.jpg) -->
+
+> Know your history, or be doomed to repeat it. 
 
 和谐有哪些方法
 --------------
@@ -137,6 +517,10 @@ tags:
 ### 禁止直播、上传视频、讨论
 
 ### 国服外服显示不同
+
+### 国服外服版本不同
+
+[如何评价e社游戏世界征服者4国区的地图中 中国失踪？ - 知乎](https://web.archive.org/web/20200821124514/https://www.zhihu.com/question/65126096)
 
 #### 2016 年 Steam 大奖
 
@@ -173,6 +557,10 @@ steam card exchange 网站的数据可以看到集换式卡牌也被和谐成花
 [CSGO已可通过添加“-perfectworld”指令提前体验和谐](https://archive.is/dR7oW "http://news.maxjia.com/maxnews/app/detail/csgo/31670")
 
 ### steam 国区单独下架
+
+#### 微软模拟飞行
+
+[微软模拟飞行惨遭锁区](https://web.archive.org/web/20200812001549/https://www.douban.com/group/topic/187010861/)
 
 ### steam 国人作者的游戏、软件被全球下架
 
@@ -247,6 +635,35 @@ steam card exchange 网站的数据可以看到集换式卡牌也被和谐成花
   + 如果评级是D或者Z，那么会影响销售以及广告推广[^jpevilwithin]
   + 不过，只要评级不是Z，宽松的商店也并不是没有
 + 美国的
+
+玩家的力量
+----------
+
+### XXXXXXXXXXXX
+
+### 其他视角下的玩家力量
+
+#### 战舰少女R 基辅
+
+> 天下百姓无不怀念我苏维埃社会主义共和国联盟
+
+战舰少女R 2020年8月出了一个新的改造预告，[预告了基辅(48k型驱逐舰)的改造形态](https://archive.is/bMUqz "weibo 更快，更快，更快！指挥官同志，看我们舰队劈波斩浪。——基辅  / 48k型驱逐——画师：@宫崎soul —— #战舰少女R# 改造预告 ​​​​ ")
+不过有许多玩家不满这个改造，在各个战舰少女R相关社群的地方声讨，因不可抗拒的原因被和谐的其他事件的热度也差不多，
+主要是这个事件删帖少，不可抗拒原因的和谐可能删帖更多。
+
+> 注: 战舰少女R 的改造系统类似于其他游戏的强化，所以这不是强制性的变更立绘
+
+<!-- 两张相关内容的图片
+https://web.archive.org/web/20200902022424/https://preview.redd.it/lwx0ff9di9k51.jpg?width=758&format=pjpg&auto=webp&s=be72aeaa04fc0f12570fa07ec47aa05b54741661
+https://web.archive.org/web/20200902022428/https://preview.redd.it/xokh54adi9k51.jpg?width=1235&format=pjpg&auto=webp&s=9de9431b98d848413c3c672cba0c439bee6961fd
+-->
+
++ dawd
++ [基辅 / 48k型驱逐舰 —— 改造预 - From 战舰少女R TapTap WARSHIP GIRLS R Community](https://web.archive.org/web/20200902012627/https://www.taptap.com/topic/14663452)
++ [[改造预告]基辅 / 48k型驱逐舰 NGA玩家社区](https://archive.is/yifNQ "https://bbs.nga.cn/read.php?tid=23114145")
++ [[战舰少女R]新角色基辅立绘引发争议 NGA玩家社区](https://web.archive.org/web/20200902012356/https://webcache.googleusercontent.com/search?q=cache:nrSa5N4taLoJ:https://ngabbs.com/read.php%3Ftid%3D23149375 "原讨论帖已被限制")
++ [如何评价《战舰少女r》在8月26号新公布的改造“基辅”被人叫白匪？ - 知乎](https://archive.is/S00d5 "https://www.zhihu.com/question/417629744")
++ [他们在婊什么？【碧蓝航线2吧】_百度贴吧](https://archive.is/q6k3w "https://tieba.baidu.com/p/6906882610")
 
 全球和谐
 --------
@@ -397,7 +814,7 @@ steam card exchange 网站的数据可以看到集换式卡牌也被和谐成花
 + [曾经中国最大的游戏代理商是怎样走上末路的？](https://web.archive.org/web/20180918234908/http://www.yystv.cn/p/1612)
 + [bilibili发布公告，禁止游戏主播直播《H1Z1》等血腥暴力游戏](https://web.archive.org/web/20200422145407/http://youxiputao.com/articles/11740)
   近日bilibili直播运营团队发布《关于禁止直播血腥暴力游戏的公告》，禁止bilibili平台上的游戏主播直播“血腥暴力游戏”，
-  包括时下直播热门的游戏《H1Z1》、《黎明杀机》以及《上古卷轴》《求生之路》等游戏全部列入禁止直播的名单。
+  包括时下直播热门的游戏《H1Z1; 黎明杀机》以及《上古卷轴》《求生之路》等游戏全部列入禁止直播的名单。
 + [帮盗贼想了个足够“和谐”而又充满中国味道的好名字](hhttps://archive.vn/UFLUN "http://bbs.nga.cn/read.php?tid=1106754")
 + [出版管理条例——国务院](https://web.archive.org/web/20060924215515/http://www.gov.cn/banshi/2005-08/21/content_25110.htm)
 + [“头脑王者”将彻底筛查题库 现已被暂时下架](https://web.archive.org/web/20190812153227/http://www.xinhuanet.com/fortune/2018-02/01/c_1122350964.htm)
@@ -453,6 +870,7 @@ Benzene 整理了许多在国内发生的有关游戏与法律、条例等事件
 + `2019-04-02` [两会上，俞敏洪、马化腾、朱永新透漏出哪些教育信号？-在线教育网校系统/网校搭建/在线教育解决方案-云朵课堂](https://archive.vn/0enr2)
 + `2019-06-27 11:51:23` [人民网《游戏适龄提示草案》细则 18+禁止暴力血腥内容_3DM单机](https://web.archive.org/web/20200526033201/https://www.3dmgame.com/news/201906/3765210.html)
 + `2019-06-29 18:31:58` [[討論] 有趣的中國遊戲分級制度草案 - 看板 C_Chat - 批踢踢實業坊](https://web.archive.org/web/20200526060936/https://www.ptt.cc/bbs/C_Chat/M.1561804321.A.A24.html)
++ `2019-08-29 17:17:19` [人民网“游戏适龄提示”平台更新 《传奇》系列、《龙之谷手游》适龄18+ 游民星空 GamerSky.com](https://archive.is/J1Zv3 "https://www.gamersky.com/news/201908/1218097.shtml")
 + `2019-12-23 07:53:35` [破解未成年人沉迷网络游戏 既要“硬态度”也要“硬技术”-新华网](https://web.archive.org/web/20200526041121/http://www.xinhuanet.com/politics/2019-12/23/c_1125375611.htm)
 
 + `2020-05-17 10:02` [履职一年间丨倡导全民阅读 关注青少年网络教育_新闻_央视网(cctv.com)](https://web.archive.org/web/20200526040308/https://m.news.cctv.com/2020/05/17/ARTIfHj2A6HGPHl0XfpuXeKL200517.shtml)
@@ -475,6 +893,38 @@ Benzene 整理了许多在国内发生的有关游戏与法律、条例等事件
 + `2020-05-26 07:51` [青少年如何摆脱“网游漩涡”？代表委员：需分级管理-中新网](https://web.archive.org/web/20200526031820/http://www.chinanews.com/gn/2020/05-26/9194764.shtml)
 + `2020-05-26 10:19` [建立网络游戏分级制度势在必行 _ 东方财富网](https://web.archive.org/web/20200526081911/http://finance.eastmoney.com/a/202005261497942069.html)
 + `2020-05-26` [朱永新委员：建议建立网络游戏分级制度 —中国教育在线](https://web.archive.org/web/20200526031824/https://chuzhong.eol.cn/news/202005/t20200526_1729357.shtml)
+
+## 番外内容
+
+### 海关
+
++ [在日亚买18x的游戏走什么转运方式比较安全？ - 购物问题 - 其乐 Keylol](https://archive.is/N4rPp)
++ [[资讯]公开处刑……中国海关公布18禁同人志书单，闹这么大谁敢现身取货啦！（好多白色圈圈）-GalGame游戏窝-微猎(weilibs.com)](https://web.archive.org/web/20200822154518/http://www.weilibs.com/a/CY5I1F.html)
++ [从日本买同人志被海关扣了，录了护照号，影响下次出国吗_百度知道](https://web.archive.org/web/20200822154557/https://zhidao.baidu.com/question/589436675582859365.html)
++ [从日本运来的r18漫画被海关扣了会怎么样？_百度知道](https://web.archive.org/web/20200822154615/https://zhidao.baidu.com/question/2272584345651273988.html)
++ [从日本回来带R18同人志被海关没收了，有什么影响？_百度知道](https://web.archive.org/web/20200822154628/https://zhidao.baidu.com/question/1894909555945585260.html)
++ [你有哪些有趣的「违法」行为？：第一次买本子…bl的……r18……被海关扣了 - 知乎](https://web.archive.org/web/20200826063718/https://www.zhihu.com/question/61936245/answer/192895641)
++ [在日本购买的18禁的同人志，漫画杂志或者av能否带回国内，过海关的时候会不会必须开箱检查？查到会不会没收? - 知乎](https://web.archive.org/web/20200822155106/https://www.zhihu.com/question/24628157)
++ [中国宅男欲带淫秽动漫周边入境 被海关查扣 海关 淫秽_凤凰游戏](https://web.archive.org/web/20190717193501/http://games.ifeng.com/shehui/detail_2015_07/01/41071221_0.shtml)
++ 讨论 [30件淫秽漫画和枕套闯关被截！茶馆 Lv+ Level Plus - powered by Pu!mdHd](https://web.archive.org/web/20200822155647/https://bbs.level-plus.net/simple/index.php?t149439.html)
++ [17CLOUD : 男子欲帶不和諧漫畫與枕套進天朝 被深圳灣海關當場攔截](https://web.archive.org/web/20200822155943/https://www.17cloud.cc/id/12648)
++ [黄埔海关查获淫秽漫画 已移交缉私部门处理-民生网-人民日报社《民生周刊》杂志官网](https://web.archive.org/web/20200822155944/http://www.msweekly.com/show.html?id=6274)
++ [中国某宅男欲带淫秽漫画及周边入境 被海关查扣_游戏_腾讯网](https://web.archive.org/web/20200822155937/https://games.qq.com/a/20150701/020980.htm)
++ [在境外带了限制级的成人书刊被查是走私淫秽物品吗？-海关律师网](https://web.archive.org/web/20200822160131/https://www.customslawyer.cn/index.php/portal/xfsd/detail/id/69471.html)
++ [黄埔海关查获淫秽漫画 已移交缉私部门处理-民生网-人民日报社《民生周刊》杂志官网](https://web.archive.org/web/20200826064352/http://www.msweekly.com/mobile/show.html?id=6274)
++ [宅男帶淫穢動漫周邊入境 深圳海關查扣_大陸頻道_新浪網-北美](https://web.archive.org/web/20150707095338/http://dailynews.sina.com/bg/chn/chnoverseamedia/chinesedaily/20150703/05306764019.html)
++ [中华人民共和国海关进出境印刷品及音像制品监管办法（海关总署令第161号）](https://web.archive.org/web/20190914043151/http://www.gov.cn/ziliao/flfg/2007-04/20/content_589295.htm)
++ [中国某宅男欲带淫秽漫画周边入境被扣查！--yxbuluo.com游戏部落](https://web.archive.org/web/20200826063903/https://www.yxbuluo.com/zx/gl/2cd80238e2db000)
++ [走私淫秽物品罪的认定 - 知乎](https://archive.is/qLDzB "https://zhuanlan.zhihu.com/p/97898987")
++ [黄埔海关查获淫秽漫画 已移交缉私部门处理 - 财经 - 人民交通网](https://web.archive.org/web/20200826064411/http://www.rmjtxw.com/news/cj/495.html)
++ [黄埔海关查获淫秽漫画 已移交缉私部门处理-财经频道-金融界](https://web.archive.org/web/20200826064412/http://finance.jrj.com.cn/people/2015/01/13091318691137.shtml)
++ [白鹿愛莉 on Twitter: "@TicklinYy エロ物だけじゃなくて今は海外の出版物全てが管理対象になっております。つまり全年齢もの本とかCDとかも没収対象になることです。ますます厳し中国のオタクライフorz… "](https://archive.is/JgAaP "https://twitter.com/shiragananodesu/status/838649056213684224")
++ [直邮被海关因为色情扣留了【galgame吧】_百度贴吧](https://archive.is/ozBdG)
+
+### 第一方媒体转载「低俗游戏」的报道
+
++ [《真人快打X》女性角色更加妩媚多姿--广东频道--人民网](https://web.archive.org/web/20150930001659/http://gd.people.com.cn/n/2015/0215/c123932-23920246.html)
++ [《真人快打X》人物皮肤多样 满足你的换装控--人民网游戏_最权威中文游戏网站--人民网](https://web.archive.org/web/20150318000146/http://game.people.com.cn/n/2015/0212/c40130-26554813.html)
 
 -----------------------------------------------------------------------------------------
 
@@ -510,6 +960,10 @@ Benzene 整理了许多在国内发生的有关游戏与法律、条例等事件
 
 [^3rdhx]: [[无力的和谐]3rd已经出反hx补丁](https://web.archive.org/web/20200427085816/https://webcache.googleusercontent.com/search?=JqABg&q=cache:http://bbs.nga.cn/read.php?tid=1748736)
 
+[^F_Hearthstone]: [投资者应该担心腾讯在动视暴雪(Activision Blizzard)的股份吗? - 91配资](https://archive.is/I8ycm "https://www.91peizi.cn/peizi/gupiaopeizi/75892.html")
+
+[^soft_reboot]: [Call of Duty: Black Ops Cold War release date, setting, and everything else we know GamesRadar+](https://web.archive.org/web/20200825094940/https://www.gamesradar.com/call-of-duty-black-ops-cold-war-guide/)
+
 [^gfa]: [我要是腾讯就自己做个官方反和谐补丁。。。](https://web.archive.org/web/20200418004252/https://webcache.googleusercontent.com/search?q=cache:lhnaOfO6L8sJ:https://ngabbs.com/read.php?tid=6733360 "只有google快照")
 
 [^jpevilwithin]: [Japanese gamers must download DLC to get The Evil Within's uncensored version](https://web.archive.org/save/https://www.eurogamer.net/articles/2014-07-08-japanese-gamers-must-download-dlc-to-get-the-evil-withins-uncensored-version)
@@ -529,6 +983,89 @@ Benzene 整理了许多在国内发生的有关游戏与法律、条例等事件
 <!-- 占位行 -->
 <!-- 占位行 -->
 <!-- 占位行 -->
+<!-- 占位行 -->
+<!-- 占位行 -->
+<!-- 占位行 -->
+<!-- 占位行 -->
+<!-- 占位行 -->
+
+<!-- [数一数有多少个软件产品有国内特供版 - V2EX](https://archive.is/catjl "https://www.v2ex.com/t/463509") -->
+
+<!-- Across the Great Wall, we can reach every corner in the world -->
+
+<!-- 集合啦！動物森友會
+
+[【專欄】《集合啦！動物森友會》熱潮從何而來？實現「理想」的創意玩法大搜羅《Animal Crossing: New Horizons》 - 巴哈姆特](https://archive.is/pwyNA "https://web.archive.org/web/20200822075321/https://gnn.gamer.com.tw/detail.php?sn=196650")
+
+ -->
+
+<!-- 陈星汉毁人设 [陈星汉现在吃相也太难看了吧 - 游戏论坛 - Stage1st - stage1/s1 游戏动漫论坛](https://web.archive.org/web/20200816171155/https://bbs.saraba1st.com/2b/thread-1954938-1-1.html) -->
+
+<!-- 《黑神话：悟空》
+
++ `2020-08-20 10:00:52` [游戏科学新作《黑神话：悟空》13分钟实机演示 @黑神话之悟空 哔哩哔哩](https://web.archive.org/web/20200822071422/https://www.bilibili.com/video/BV1x54y1e7zf)
++ `2020-08-20 10:05:19` [基于西游记原著背景，《黑神话：悟空》13分钟演示 @篝火营地视频 哔哩哔哩](https://web.archive.org/web/20200820133801/https://www.bilibili.com/video/BV15a4y177EX)
++ [遊戲史上最帥悟空？國產動作遊戲《黑神話:悟空》首曝實機畫面！Black Myth: Wu Kong Gameplay Reveal Trailer 【ENG SUB】 篝火營地 Game Bonfire - YouTube](https://web.archive.org/web/20200822071307if_/https://www.youtube.com/watch?v=DDGlVbmmIAE)
+
+奇怪的三+1个频道
+
+[Black Myth - YouTube](https://archive.is/Qan6T "https://www.youtube.com/channel/UC6NvS8_TrfDcCK65KawCxZg")
+[Black Myth: WuKong - YouTube](https://archive.is/bC4tt "https://www.youtube.com/channel/UCX7FTRASwxvdDswNqQwLVfg")
+[Black Myth: WuKong[OFFICIAL] - YouTube](https://archive.is/dIouR "https://www.youtube.com/channel/UCczUeap8XDkAz2vA6TAl-Rg")
+[Game Science - YouTube](https://archive.is/8yZFg "https://www.youtube.com/channel/UC4nUmxgJL0Q6kphB09HeH_g")
+
+[Why The Fuck Has No One Seen This Next-Gen Martial Arts Game Yet](https://web.archive.org/web/20200820042510/https://www.kotaku.com.au/2020/08/why-the-fuck-has-no-one-seen-this-next-gen-martial-arts-game-yet/)
+[国产新游《黑神话：悟空》火爆：官方称受宠若惊，发售用不了 500 年 - 黑神话悟空 - IT之家](https://archive.is/U2wTa)
+[一个疑问关于 黑神话·悟空，腾讯会不会因为斗战神的版权告他们？ - 游戏圈 - 虎扑社区](https://web.archive.org/web/20200822071958/https://bbs.hupu.com/37365813.html)
+[《黑神话：悟空》并不只有13分钟演示，我在现场看到了更多_百家争鸣|游民星空](https://archive.is/FLUKJ "https://club.gamersky.com/activity/428626")
+[原来黑神话悟空战斗策划是和忍龙有些关系的 - PS4/PS5综合讨论区 - A9VG电玩部落论坛](https://web.archive.org/web/20200822064838/https://bbs.a9vg.com/thread-8684873-1-1.html)
+[《黑神话 悟空》的战斗策划是忍者龙剑传的小吧主，怪不得棍子有股无想新月棍的味道 NGA玩家社区](https://archive.is/bU7N5 "https://bbs.nga.cn/read.php?tid=23039916")
+[我是哲也 我带着黑神话悟空回来了【忍者龙剑传吧】_百度贴吧](https://web.archive.org/web/20200822063549/https://tieba.baidu.com/p/6894079907)
+[《黑神话悟空》为什么很难做？背后的公司目的又是为何？_哔哩哔哩](https://web.archive.org/web/20200822074300/https://www.bilibili.com/video/BV1i64y1c7Bi)
+[【视频】黑神话深度研究忍龙的处决镜头找到了！如何评价？【忍者龙剑传吧】_百度贴吧](https://web.archive.org/web/20200822063722/https://tieba.baidu.com/p/6894682205)
+[关于《黑神话：悟空》动作系统的讨论 - 游戏圈 - 虎扑社区](https://web.archive.org/web/20200822064516/https://bbs.hupu.com/37363594.html)
+[黑神话悟空和斗战神是同一个游戏吗？黑神话悟空和斗战神区别分析[多图]-新手攻略-游戏鸟手游网](https://web.archive.org/web/20200822063308/https://www.youxiniao.com/news/xinshou/2682418.html)
+[黑神话悟空和斗战神什么关系 游戏类型一样吗_黑神话悟空_九游手机游戏](https://web.archive.org/web/20200822063217/https://www.9game.cn/hshwk/4639981.html)
+
+-->
+
+<!-- 有价值的关于审查的中等长度的文章
+
+[【遊戲】《還願》太敏感？這些遊戲也被中國封殺](https://web.archive.org/web/20200822001731if_/https://www.mirrormedia.mg/app/20190301gamechina/)
+[《戰地4》虛擬政變 陸封殺 蘋果新聞網 蘋果日報](https://web.archive.org/web/20200826134215/https://tw.appledaily.com/international/20131228/QCSA6ZMGGE3VOKPQVD6YGUP7QY/)
+
+ -->
+
+<!-- 全球革命
+
+[戴旭：从当前香港乱局看美中情局如何在全球制造颜色革命 - 微博头条文章](https://archive.is/kjcEk)
+[李慎明：苏联亡党亡国20年祭——俄罗斯人在诉说（上）](https://web.archive.org/web/20200826095900/https://ptext.nju.edu.cn/b7/02/c13446a243458/page.htm)
+[李慎明： 苏联亡党亡国20年祭（下）](https://web.archive.org/web/20200826095534/https://ptext.nju.edu.cn/b7/0a/c13446a243466/page.htm)
+
+ -->
+
+<!-- 《中国游戏风云》与 王亚晖
+
+[中国游戏产业的十字路口 王亚晖 - 知乎](https://archive.is/c9ERu "https://zhuanlan.zhihu.com/p/46168486")
+[中国游戏产业的十字路口（中国游戏风云）书评](https://web.archive.org/web/20200821114731/https://book.douban.com/review/9822836/)
+[国研智库书院 悦读同道书友会第九期在北京亦庄023咖啡书屋圆满举行_王亚晖](https://web.archive.org/web/20200821115159/https://www.sohu.com/a/350684497_644547)
+[王亚晖 - 知乎主页](https://web.archive.org/web/20200729100934/https://www.zhihu.com/people/superwyh)
+[王亚晖 - 知乎回答](https://web.archive.org/web/20200826084607/https://www.zhihu.com/people/superwyh/answers/by_votes)
+
+该书作者可能转载过这篇文章  [知乎之死——王亚晖 tragedy的日志（人人）](https://web.archive.org/web/20200821115225/https://www.douban.com/note/437572059/)
+原文： [知乎之死 S.G's Blog](https://web.archive.org/web/20141216003819/https://steptoemen.wordpress.com/2013/12/02/%E7%9F%A5%E4%B9%8E%E4%B9%8B%E6%AD%BB/)
+
+ -->
+
+<!-- 如果一个人 看起来像李逵 说话像李逵 走起路来像李逵 那么这个人多半是 李鬼 —— IC实验室馆长 -kn_hOyMLF0 -->
+
+<!-- 2020年进口网络游戏审批信息
+
+[国家新闻出版署-进口网络游戏审批信息-2020年进口网络游戏审批信息](https://archive.is/2YEh4 "http://www.nppa.gov.cn/nppa/contents/318/45948.shtml")
+使命召唤手游已过审
+
+ -->
+
 <!--
 
 > 各类番剧、动画将迎来史上最大整改（删减、暗牧、圣光、下架、大修、重制……）！
@@ -567,7 +1104,7 @@ Benzene 整理了许多在国内发生的有关游戏与法律、条例等事件
   + [国家网信办启动2020“清朗”未成年人暑期网络环境专项整治——心跳文学社将被封禁 - 哔哩哔哩](https://archive.is/N7VXW "https://www.bilibili.com/read/cv6792013/")
   + [一年前还未被封的心跳心跳文学部吧](https://web.archive.org/web/20190607220025/https://tieba.baidu.com/f?kw=心跳心跳文学部)
   + [[吐槽]网信办将心跳文学部划为“影响未成年人身心健康的有害游戏” NGA玩家社区](https://archive.is/P1ROG "https://bbs.nga.cn/read.php?tid=22547915")
-  + [心跳文学社贴吧倒了？！_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://web.archive.org/web/20200820083413/https://webcache.googleusercontent.com/search?q=cache:https%3A//www.bilibili.com/video/BV1Sa4y1a7Q7)
+  + [心跳文学社贴吧倒了？！ 哔哩哔哩](https://web.archive.org/web/20200820083413/https://webcache.googleusercontent.com/search?q=cache:https%3A//www.bilibili.com/video/BV1Sa4y1a7Q7)
 
 我参考了其他人总结的资料
 
@@ -577,7 +1114,14 @@ Benzene 整理了许多在国内发生的有关游戏与法律、条例等事件
 
 2019年5月, 哔哩哔哩临时把月色真美等动画给下架了, 一段时间后回来了一些, 然后有更多的下架了, 原因不明
 
-多田君不谈恋爱; 月色真美; 零之使魔三美姬的轮舞; FORTUNE ARTERIAL -赤之约定-; taritari; 邻家索菲; 宇宙巡警露露子; 食梦者; 舞动青春; 创世的姬君; 三颗星彩色冒险; showbyrock; 黑之契约者; b-project; 谜样女友X; 三年e班第二季及课外授课篇三年e班Q; 恶魔人(72版); 公主时间; 神无月的巫女; 娇蛮之吻; 钱进球场1, 2季; 新战神金刚:传奇的保护神第七季; 你还是不懂群马; 恋爱暴君; 迷茫的管家懦弱的我; 曾几何时天魔的黑兔; PUPA; BURN-UP BURN-UP EXCESS; 危险代理人; 哥普拉; 飞轮少年黑翼与沉睡森林-Breakonthesky; 恐怖宠物店; 妹妹公主妹妹公主RePure; 女生万岁first season; 微笑的闪士; 光与水的女神; 柔和三国志冲刺!吕布子; 天地无用!剧场版; 爱!天地无用; 天地无用! GXP; 飞轮少年; 请别忧伤了二之宫君; 怪物王女; 蓝兰岛漂流记; 钢铁新娘; 二舍六房的七人; DORORON炎魔君熊熊燃烧; ZETMAN超魔人; 想成为世界最强; 公立海老栖川高校天闷部; 银装骑攻队; 东京魔人学园剑风帖龙龙; 爆裂天使; 动画锻炼! xx同一屋檐下; 动画锻炼! EX; 艾莉森与莉莉亚; 守护猫娘绯鞠; 魔女之刃; 盖塔机器人真盖塔对新盖塔
+多田君不谈恋爱; 月色真美; 零之使魔三美姬的轮舞; FORTUNE ARTERIAL -赤之约定-; taritari; 邻家索菲; 宇宙巡警露露子; 食梦者; 舞动青春;
+创世的姬君; 三颗星彩色冒险; showbyrock; 黑之契约者; b-project; 谜样女友X; 三年e班第二季及课外授课篇三年e班Q; 恶魔人(72版);
+公主时间;神无月的巫女; 娇蛮之吻; 钱进球场1, 2季; 新战神金刚:传奇的保护神第七季; 你还是不懂群马; 恋爱暴君; 迷茫的管家懦弱的我;
+曾几何时天魔的黑兔; PUPA; BURN-UP BURN-UP EXCESS; 危险代理人; 哥普拉; 飞轮少年黑翼与沉睡森林-Breakonthesky; 恐怖宠物店;
+妹妹公主妹妹公主RePure; 女生万岁first season; 微笑的闪士; 光与水的女神; 柔和三国志冲刺!吕布子; 天地无用!剧场版;
+爱!天地无用; 天地无用! GXP; 飞轮少年; 请别忧伤了二之宫君; 怪物王女; 蓝兰岛漂流记; 钢铁新娘; 二舍六房的七人;
+DORORON炎魔君熊熊燃烧; ZETMAN超魔人; 想成为世界最强; 公立海老栖川高校天闷部; 银装骑攻队; 东京魔人学园剑风帖龙龙;
+爆裂天使; 动画锻炼! xx同一屋檐下; 动画锻炼! EX; 艾莉森与莉莉亚; 守护猫娘绯鞠; 魔女之刃; 盖塔机器人真盖塔对新盖塔
 
 [如何评价哔哩哔哩下架动画 月色真美？ - 知乎](https://web.archive.org/web/20200820084640/https://www.zhihu.com/question/324636965)
 
