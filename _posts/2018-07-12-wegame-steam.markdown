@@ -491,18 +491,23 @@ Emoji 前缀标识的意思
         + [教育部等六部门下发通知联合开展未成年人网络环境专项治理行动 - 中华人民共和国教育部政府门户网站](https://web.archive.org/web/20200826080756/http://www.moe.gov.cn/jyb_xwfb/gzdt_gzdt/s5987/202008/t20200826_480307.html "https://archive.is/RPxTR")
         + [六部门联合印发通知：重拳治理未成年人网络环境！_新闻_央视网(cctv.com)](https://web.archive.org/web/20200826082126/https://m.news.cctv.com/2020/08/26/ARTIb7C8AF3WXxaSmZyhyjx4200826.shtml)
 
-103. `2020-08-31以及后续几天` steam 新的商店区域 XC 的进一步变化，[🛠【9.12 更新】蒸汽平台信息更新帖：蒸汽平台商店頁面網址確定，發佈時可能沒有社區 - 其樂 Keylol](https://archive.is/vi4s9 "https://keylol.com/t633101-1-1")
+103. `2020-08-31以及后续几天` **讨论帖** steam 新的商店区域 XC 的进一步变化，[🛠【9.12 更新】蒸汽平台信息更新帖：蒸汽平台商店页面网址确定，发布时可能没有社区 - 其乐 Keylol](https://archive.is/vi4s9 "https://keylol.com/t633101-1-1")
         1. 必须使用蒸汽平台的 UA 才能访问新商店区域 `Mozilla/5.0 (Windows; U; Windows NT 10.0; en-US; Valve Steam Client/steamchina/0; )`
-        2. 蒸汽平台客户端的商店首页已几乎关闭，没有任何游戏，即使开启异家归途等蒸汽平台的游戏，也会提示「您所在的地區目前不提供此物品」
+        2. 蒸汽平台客户端的商店首页已几乎关闭，没有任何游戏，即使开启异家归途等蒸汽平台的游戏，也会提示「您所在的地区目前不提供此物品」
         3. 蒸汽平台社区页面无法打开，直接返回404状态码
 
-104. `2020-09-12` Steam beta 客户端更新
-        +  [Steam 下载区域新增“南宁”，同时修正武汉等地的地理信息 - 其乐 Keylol](https://archive.is/T4S4Z "https://keylol.com/t641284-1-1")
-        +  [蒸汽平台商店页面网址确定，发布时可能沒有社区 - 其乐 Keylol](https://archive.is/O1tKo "https://keylol.com/t641289-1-1")
+104. `2020-09-12` **讨论帖** Steam beta 客户端更新
+        + [Steam 下载区域新增“南宁”，同时修正武汉等地的地理信息 - 其乐 Keylol](https://archive.is/T4S4Z "https://keylol.com/t641284-1-1")
+        + [蒸汽平台商店页面网址确定，发布时可能沒有社区 - 其乐 Keylol](https://archive.is/O1tKo "https://keylol.com/t641289-1-1")
             + 蒸汽平台的 Steam 游戏中界面默认主页为 store.steamchina.com ，目前该页面还未上线
             + 社区被完全移除，客户端里删除了这个选项卡
+        + [Steam中国使用总结 凌晨大黑狗 哔哩哔哩](https://archive.vn/hDJfM "https://www.bilibili.com/video/BV1KT4y1A7Ma")
 
-105. 未完待续
+105. `2020-09-16 12:23:02` **讨论帖** ……离谱！Steamworks 新增蒸汽平台专属语言选项“sc_schinese” - [阅读权限 255]
+
+        详细信息我还没有获取到，我会尽快跟进
+
+106. 未完待续
 
 <!-- [这是真的吗 NGA玩家社区](https://archive.vn/rgmOt) 在隔壁群友看到的，如果是真的话，那?死也不会用的
     steam中国、WAC反作弊 -->
