@@ -503,11 +503,17 @@ Emoji 前缀标识的意思
             + 社区被完全移除，客户端里删除了这个选项卡
         + [Steam中国使用总结 凌晨大黑狗 哔哩哔哩](https://archive.vn/hDJfM "https://www.bilibili.com/video/BV1KT4y1A7Ma")
 
-105. `2020-09-16 12:23:02` **讨论帖** ……离谱！Steamworks 新增蒸汽平台专属语言选项“sc_schinese” - [阅读权限 255]
+105. `2020-09-16` SteamDatabase 的 SteamTracking 抓取到了[新代码](https://web.archive.org/web/20200919053038/https://github.com/SteamDatabase/SteamTracking/blob/53466cd4589225b5a0bec1ef29e83ca5fcbd8712/partner.steamgames.com/public/javascript/game_admin.js)，里面含有一个新的语言 "sc_schinese" 自带的描述为 "SteamChina - Simplified Chinese"
+
+        steam 的语言与区域是可以分别选择的，比如选择日区的商店的同时，可以使用简体中文，等任意语言作为客户端 & 网页的显示效果。
+
+        可能是为了保留无删减的国际版的简体中文，只对 SteamChina 做本地化(和谐)。
+
+106. `2020-09-16 12:23:02` **讨论帖** ……离谱！Steamworks 新增蒸汽平台专属语言选项“sc_schinese” - [阅读权限 255]
 
         详细信息我还没有获取到，我会尽快跟进
 
-106. 未完待续
+107. 未完待续
 
 <!-- [这是真的吗 NGA玩家社区](https://archive.vn/rgmOt) 在隔壁群友看到的，如果是真的话，那?死也不会用的
     steam中国、WAC反作弊 -->
