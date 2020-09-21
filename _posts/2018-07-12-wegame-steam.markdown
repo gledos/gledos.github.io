@@ -505,7 +505,7 @@ Emoji 前缀标识的意思
 
 105. `2020-09-16` SteamDatabase 的 SteamTracking 抓取到了[新代码](https://web.archive.org/web/20200919053038/https://github.com/SteamDatabase/SteamTracking/blob/53466cd4589225b5a0bec1ef29e83ca5fcbd8712/partner.steamgames.com/public/javascript/game_admin.js)，里面含有一个新的语言 "sc_schinese" 自带的描述为 "SteamChina - Simplified Chinese"
 
-        steam 的语言与区域是可以分别选择的，比如选择日区的商店的同时，可以使用简体中文，等任意语言作为客户端 & 网页的显示效果。
+        Steam 的语言与区域是可以分别选择的，比如选择日区的商店的同时，可以使用简体中文，等任意语言作为客户端 & 网页的显示效果。
 
         可能是为了保留无删减的国际版的简体中文，只对 SteamChina 做本地化(和谐)。
 
@@ -513,7 +513,11 @@ Emoji 前缀标识的意思
 
         详细信息我还没有获取到，我会尽快跟进
 
-107. 未完待续
+107. `2020-09-17` **新游戏即将推出** MECHBLAZE 在 Steam 出现了页面，SteamDatabase 抓取到的[信息](https://web.archive.org/web/20200919055553/https://steamdb.info/app/1398500/)说明该游戏应该是首个支持 sc_schinese 语言的游戏，[CSGO](https://web.archive.org/web/20200608055623/https://steamdb.info/app/730/info/) 以及 [漫漫长路](https://web.archive.org/web/20200919062157/https://steamdb.info/app/856990/info/) 目前均没有支持 sc_schinese 语言。
+
+108. `2020-09-18 0点` 其乐论坛社区进入了关闭论坛的维护状态，时长为两周。详细内容记录在[ggame.wiki](https://ggame.herokuapp.com/en/website/其乐)
+
+109. 未完待续
 
 <!-- [这是真的吗 NGA玩家社区](https://archive.vn/rgmOt) 在隔壁群友看到的，如果是真的话，那?死也不会用的
     steam中国、WAC反作弊 -->
