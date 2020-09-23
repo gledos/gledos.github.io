@@ -5,6 +5,7 @@ published: true
 header-img: "img/bg/yuno_gasai__future_diary__by_ncoll36_dbmu6jg.pixel-art.svg"
 header-img-object-position: 100% 35%
 # date: 2020-6-2 00:00:00 +0800
+description: 这里是存放来不是我所创作的东西的来源归属的地方
 ---
 
 关于博客

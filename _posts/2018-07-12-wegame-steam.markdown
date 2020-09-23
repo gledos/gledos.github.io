@@ -6,6 +6,7 @@ published: true
 tags:
     - 历史
     - 游戏
+description: steam在华网络问题的捕风捉影，是一个记录关于 Steam 在华包括但不限于网络的记录
 ---
 <!-- 谁杀死了Steam？ -->
 
@@ -515,7 +516,7 @@ Emoji 前缀标识的意思
 
 107. `2020-09-17` **新游戏即将推出** MECHBLAZE 在 Steam 出现了页面，SteamDatabase 抓取到的[信息](https://web.archive.org/web/20200919055553/https://steamdb.info/app/1398500/)说明该游戏应该是首个支持 sc_schinese 语言的游戏，[CSGO](https://web.archive.org/web/20200608055623/https://steamdb.info/app/730/info/) 以及 [漫漫长路](https://web.archive.org/web/20200919062157/https://steamdb.info/app/856990/info/) 目前均没有支持 sc_schinese 语言。
 
-108. `2020-09-18 0点` 其乐论坛社区进入了关闭论坛的维护状态，时长为两周。详细内容记录在[ggame.wiki](https://ggame.herokuapp.com/en/website/其乐)
+108. `2020-09-18 0点` 其乐论坛社区进入了关闭论坛的维护状态，时长为两周。详细内容记录在我的游戏相关维基站:[其乐 - ggame.wiki](https://ggame.herokuapp.com/en/website/其乐)
 
 109. 未完待续
 
