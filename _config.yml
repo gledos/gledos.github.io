@@ -16,6 +16,7 @@ permalink: /:title.html
 exclude:
   - README.md
   - run.bat
+  - text/password.kdbx
 
 include:
   - /text/word.txt

@@ -516,9 +516,16 @@ Emoji 前缀标识的意思
 
 107. `2020-09-17` **新游戏即将推出** MECHBLAZE 在 Steam 出现了页面，SteamDatabase 抓取到的[信息](https://web.archive.org/web/20200919055553/https://steamdb.info/app/1398500/)说明该游戏应该是首个支持 sc_schinese 语言的游戏，[CSGO](https://web.archive.org/web/20200608055623/https://steamdb.info/app/730/info/) 以及 [漫漫长路](https://web.archive.org/web/20200919062157/https://steamdb.info/app/856990/info/) 目前均没有支持 sc_schinese 语言。
 
-108. `2020-09-18 0点` 其乐论坛社区进入了关闭论坛的维护状态，时长为两周。详细内容记录在我的游戏相关维基站:[其乐 - ggame.wiki](https://ggame.herokuapp.com/en/website/其乐)
+108. `2020-09-18 0点` 其乐论坛社区进入了关闭论坛的维护状态，时长为两周。详细内容这里:[其乐 - ggame.wiki](https://github.com/gledos/ggame_wiki/blob/master/website/其乐.md)
 
-109. 未完待续
+109. `2020-09-23 21:23` **数据挖掘** 游戏市场调研服务商 Niko Partners 的高级分析师 Daniel Ahmad 发现了还无法使用的蒸汽平台的注册与登录页面。
+
+        + [Daniel Ahmad on Twitter: "Steam China login page is live (but doesn't allow logins/sign ups yet). This is a China specific version of Steam that is being operated by Perfect World and Valve. Will host games that have been approved by the games regulator. No change to international Steam. - Twitter](https://archive.is/mvtt8 "https://twitter.com/ZhugeEX/status/1308758939371270145")
+        + 资讯报道&讨论
+            + [Steam中国客户端 账户注册页面现已上线 - 3DM单机](https://archive.is/FSRy9 "https://www.3dmgame.com/news/202009/3798139.html")
+            + [Steam中国客户端 账户注册页面现已上线 - AcFun弹幕视频网](https://archive.is/sXWw5 "https://www.aixifan.com/a/ac18077388")
+
+110. 未完待续
 
 <!-- [这是真的吗 NGA玩家社区](https://archive.vn/rgmOt) 在隔壁群友看到的，如果是真的话，那?死也不会用的
     steam中国、WAC反作弊 -->
