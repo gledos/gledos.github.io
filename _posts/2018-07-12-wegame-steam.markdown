@@ -524,8 +524,12 @@ Emoji 前缀标识的意思
         + 资讯报道&讨论
             + [Steam中国客户端 账户注册页面现已上线 - 3DM单机](https://archive.is/FSRy9 "https://www.3dmgame.com/news/202009/3798139.html")
             + [Steam中国客户端 账户注册页面现已上线 - AcFun弹幕视频网](https://archive.is/sXWw5 "https://www.aixifan.com/a/ac18077388")
+            + [Steam中国客户端 账户注册页面现已上线 - 百度 Steam 贴吧](https://archive.is/bN2s3 "https://tieba.baidu.com/p/6976688701")
+            + [消息称 Steam 中国客户端即将到来，账户注册页面现已上线 - IT之家](https://archive.vn/qH1G7 "https://www.ithome.com/0/510/511.htm")
 
-110. 未完待续
+110.  其乐论坛社区进入了关闭论坛的维护状态期间的时候，似乎更换了 TLS 证书，新证书签发于2020年8月26日，有效期为一年。
+
+111. 未完待续
 
 <!-- [这是真的吗 NGA玩家社区](https://archive.vn/rgmOt) 在隔壁群友看到的，如果是真的话，那?死也不会用的
     steam中国、WAC反作弊 -->
