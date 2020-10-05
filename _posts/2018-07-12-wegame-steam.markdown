@@ -553,8 +553,6 @@ Emoji 前缀标识的意思
 
 【有评论】 [中国版Steam蒸汽平台传首发这28款游戏，玩家崩溃：你不要过来啊 - 游戏资讯(英雄联盟LOL)](https://web.archive.org/web/20200820135555/http://www.bajieyou.com/new/805cd40bb50e4703895f874bd6ec2939)
 
-[清靈語的微博_微博主页](https://archive.is/ViPOw)
-
 2020-08-20 的Steam新闻 热点聚焦板块的快照 [Steam新闻 - 热点聚焦 - 其乐 Keylol - 驱动正版游戏的引擎！](https://archive.is/tpV63 "https://keylol.com/forum.php?mod=forumdisplay&fid=161&filter=typeid&typeid=461")
 
  -->
@@ -817,3 +815,5 @@ V社真的该对拒绝游戏施加点什么限制因素了，不然TX真的用�
 
 + [spartan1096](https://tieba.baidu.com/home/main?un=spartan1096)
 + [清靈語](https://keylol.com/suid-209154)
+
+<!-- [清靈語的微博_微博主页](https://archive.is/ViPOw) -->
