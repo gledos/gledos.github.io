@@ -474,7 +474,7 @@ Emoji 前缀标识的意思
     + **转载** [网友探究：蒸汽平台可能并非Steam中国大陆区 游民星空 GamerSky.com](https://archive.is/v9wFW)
     + [看来，国区大概没事了【steam吧】百度贴吧](https://archive.is/RArzq)
     + [也不知道是没人发还是都被删了，steamchina商店网址 NGA玩家社区](https://archive.is/diFB1 "https://keylol.com/t630992-1-1")
-    + [继续探究，蒸汽平台可能不是#Steam# 中国（大陆）区... 来自其乐Keylol - 微博](https://archive.is/5QRDP)
+    + [继续探究，蒸汽平台可能不是#Steam# 中国（大陆）区... 来自其乐Keylol - 微博](https://archive.is/5QRDP "https://weibo.com/1842080303/JfJzNyVjH")
     + steam XC区相关的页面
         + [XC区商店主页英文版的模样](https://web.archive.org/web/20200813104028/https://store.steampowered.com/?cc=xc)
         + XC区免费以及有价格的游戏
