@@ -206,4 +206,4 @@ copy /b *.ts 输出的视频.ts
 [^xit]: 开启系统信息按钮的繁体中文为: 開啟系統訊息;  
         日语为：システムメッセージを開く
 
-[^niconet]: [Niconico动画在中国大陆地区的屏蔽](https://zh.wikipedia.org/wiki/Niconico動畫#中国大陆地区的屏蔽)
+[^niconet]: [Niconico动画在中国大陆地区的屏蔽](https://zh.wikipedia.org/zh-hans/Niconico動畫#中国大陆的屏蔽)

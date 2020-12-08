@@ -95,6 +95,7 @@ tags:
 
 ### 几个标志性的和谐初期游戏
 
+<!-- OK_
 | 2006年1月20日 | 大富翁8 | 开发完成之前 |
 
 + “月黑风高，适合偷盗”的语音被勒令修改
@@ -116,6 +117,7 @@ tags:
 + 和谐了一个骷髅状的怪物
 + 和谐了一些剧情，比如玲同学在小时候被卖去风月场所
 + 有一张银发的青年满身伤的裸图，加了衣服、愈合了伤口[^3rdhx]
+-->
 
 国内公司代理的一些 GalGame 游戏可能有在H的部分删减，和谐暴露衣物，剧情修改的行为。
   因此被和谐的可能有 Studio e.go! 的红泪，还需要更多的资料。
@@ -158,15 +160,17 @@ tags:
 
 ### 违法大礼包
 
+<!-- OK_
 `2004-09-07` [文化部查处6款违法网络游戏和6家网络游戏运营商 中国网](https://web.archive.org/web/20200821113630/http://www.china.com.cn/zhuanti2005/txt/2004-09/07/content_5654154.htm)
   > 虎胆雄心; 秘密潜入2; 命令与征服3-将军; 梦幻麻将馆; 生化危机; Quake3
 
-`2005-03-24` [文化部叫停性感沙滩等4款涉黄违法单机游戏 网易商业转载京华时报](https://biz.163.com/05/0324/09/1FJNA2U700020QEF.html);
+`2005-03-24` [文化部叫停性感沙滩等4款涉黄违法单机游戏 网易商业转载京华时报](https://web.archive.org/web/20160422052720/https://biz.163.com/05/0324/09/1FJNA2U700020QEF.html);
 [中国宁波网转载浙江日报](https://web.archive.org/web/20200826102128/http://news.cnnb.com.cn/system/2005/03/28/001071044.shtml)
   > 性感沙滩; 臭作，不具名的另外两款游戏为绝代娼妓与性感海滩
   >
   > 据悉，我省已采集到了《臭作》、《尾行》、《性感海滩》的“特征码”，只要将其输入监控软件中，
   > 启动游戏后就会报警并自动封堵游戏，并可以让文化监管部门“顺藤摸瓜”，对违法提供这些网络游戏的互联网文化单位严查。
+-->
 
 `2005-11-08` [53家网站涉黄涉暴被查处 14款网络游戏被禁 法制 人民日报 2005年11月08日 第十一版](https://web.archive.org/web/20051126024405/http://legal.people.com.cn/GB/42733/3836532.html)
 [新浪网转载江西日报](https://archive.is/FMeyL)
@@ -342,7 +346,7 @@ steam英文[Chinese Parents - A temporary maintenance for the Chinese version - 
 [《使命召唤：黑色行动3》国行或无望 宣传片惊现天津爆炸_网易游戏](https://web.archive.org/save/https://ent.163.com/game/15/1007/18/B5BGJ5QT00314K8K.html)
 [国行有望？《使命召唤12》简中版确认发售](https://archive.is/5GnSg "https://tech.huanqiu.com/article/9CaKrnJNQSj")
 
-#### 使命召唤 黑色行动 冷战 宣传片
+<!-- #### 使命召唤 黑色行动 冷战 宣传片
 
 > 「Where you going?」
 >
@@ -352,9 +356,7 @@ steam英文[Chinese Parents - A temporary maintenance for the Chinese version - 
 >
 > 「Why? I think it's my **duty**!」
 
-这部是正作第17作，时隔多年后首次正作支持中文，加上
-
-写下这些文字的当下，目前大多数媒体都提到了这是一款软重启的作品，即保留大部分黑色行动的设定，进行重启的作品。[^soft_reboot]
+这部是正作第17作，写下这些文字的当下，目前大多数媒体都提到了这是一款软重启的作品，即保留大部分黑色行动的设定，进行重启的作品。[^soft_reboot]
 最初的宣传片长度为 2:03，YouTube 视频ID为 zVSP9BM1o5Q ，其中包含了两个很短的关于中国的片段
 
 zVSP9BM1o5Q 这个视频应该不是正式宣传片，因为一直处于 Unlisted 即不公开的状态，只能靠链接进入，不能在YouTube上以及COD官方频道中找到，
@@ -476,7 +478,7 @@ zVSP9BM1o5Q 这个视频应该不是正式宣传片，因为一直处于 Unliste
 
 ##### submarineoldfuck 与 Quickmath 翻译的叛逃者的访谈
 
-[【双语字幕】苏lian叛逃外交官尤里·亚历山德罗维奇·贝兹梅诺夫于1984年在美国接受的访谈，里面讲的叛逃过程、dianfu理论对现在来讲仍然很新鲜，很有意思。（不敢多说） 来自Quickmath - 微博](https://archive.is/QuJXe)
+[【双语字幕】苏lian叛逃外交官尤里·亚历山德罗维奇·贝兹梅诺夫于1984年在美国接受的访谈，里面讲的叛逃过程、dianfu理论对现在来讲仍然很新鲜，很有意思。（不敢多说） 来自Quickmath - 微博](https://archive.is/QuJXe) -->
 
 <!-- 
 [submarineoldfuck的个人空间主页 - 哔哩哔哩](https://archive.is/1ItoQ)
@@ -507,7 +509,7 @@ zVSP9BM1o5Q 这个视频应该不是正式宣传片，因为一直处于 Unliste
 
 <!-- ![——梁惠王的云梦之泽(tingzhangxiaowu) 微信公众号文章对该视频的一种解读](https://archive.is/zxcaS/964d05e2e5780ad19771244ae737f8b20f956638.jpg) -->
 
-> Know your history, or be doomed to repeat it. 
+> Know your history, or be doomed to repeat it.
 
 和谐有哪些方法
 --------------
