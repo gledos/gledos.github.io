@@ -556,7 +556,37 @@ Emoji 前缀标识的意思
 
 115. `2020-10-21 左右` **新闻** [steam网页登录界面更新了 - 其乐 Keylol](https://archive.is/zNx4o "https://keylol.com/t649678-1-1")，登陆页面更加现代化
 
-116. 未完待续
+116. `2020-11-05` [测试中的蒸汽平台大更新：使用红色 STEAM 图标，社区沦为“空间”及意味深长的英语条目 - 其乐 Keylol](https://archive.is/ryHck "https://keylol.com/t654581-1-1")
+
+     商店、客服及个人资料页面全面使用“steamchina.com”社区功能目前只剩下好友之间的个人资料页面（STEAM 空间），客户端强制“简体中文 - 蒸汽平台”，且无大屏幕模式，好友数据隔离。
+
+     还有意味深长的新菜单条目，这可能意味着不会强制性让Steam大陆区转移到蒸汽平台，仅仅是一个选择：
+
+     ```text
+     "Steam_Startup_SteamChinaRequiredTitle"         "需要蒸汽平台"
+     "Steam_Startup_GetSteamChina"                   "%gamename% 现在可以在蒸汽平台获取，请点击下面的链接安装其客户端。"
+     "Steam_Startup_RunSteamChina"                   "%gamename% 现在可以在蒸汽平台获取，请启动蒸汽平台以导入您的游戏。"
+     "Steam_Startup_SteamChinaImportedUninstall"     "%gamename% 已导入蒸汽平台，现在您可以安全卸载此启动器。"
+     "Steam_Startup_LauncherDeprecated"              "%gamename% 现在可以在蒸汽平台运行，此安装不再受支持，即将退出。"
+     "Steam_Startup_ImportGameFromLauncherTitle"     "导入游戏"
+     "Steam_Startup_ImportGameFromLauncherMsg"       "您想将%gamename%导入蒸汽平台吗，那么您将可以安全地卸载旧版启动器。"
+     
+     "Steam_Download_SteamChina"                     "下载蒸汽平台"
+     ```
+
+117. `2020-11-18` [今日 Steam 商店首页头部 LOGO 更新，换成了 SVG 图，顺便新增了蒸汽平台 LOGO - 其乐 Keylol](https://archive.is/sBmc1 "https://keylol.com/t658948-1-1")
+
+     16日时steamchina.com 新签发了三个次级域名的证书
+
+118. `2020-11-19` [蒸汽平台客户端已出现 CS:GO 及 DOTA 2 - 其乐 Keylol](https://archive.is/gPl02 "https://keylol.com/t659236-1-1")
+
+119. `2020-12-03` [蒸汽平台有着独有的三个下载 CDN，分别由腾讯云、网宿科技和阿里云提供服务 - 其乐 Keylol](https://archive.is/tmU04 "https://keylol.com/t663540-1-1")
+
+     这可能意味着蒸汽平台与Steam大陆区会并行运营，而非强制切换/转移。
+
+120. `12-09` [用户可在 Steam Support 撤销蒸汽平台访问权限和和实名认证信息 - 其乐 Keylol](https://archive.is/umaqI "https://keylol.com/t665563-1-1") [Source](https://web.archive.org/web/20201216052320/https://github.com/SteamDatabase/SteamTracking/commit/65bb929fb02b3f996de247dd8819c51a2967a07d)
+
+121. 未完待续
 
 <!-- [这是真的吗 NGA玩家社区](https://archive.vn/rgmOt) 在隔壁群友看到的，如果是真的话，那?死也不会用的
     steam中国、WAC反作弊 -->
