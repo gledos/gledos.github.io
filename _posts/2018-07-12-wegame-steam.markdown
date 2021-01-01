@@ -706,27 +706,25 @@ Emoji 前缀标识的意思
 
 114. `2020-12-09` [用户可在 Steam Support 撤销蒸汽平台访问权限和和实名认证信息 - 其乐 Keylol](https://archive.is/umaqI "https://keylol.com/t665563-1-1") [Source](https://web.archive.org/web/20201216052320/https://github.com/SteamDatabase/SteamTracking/commit/65bb929fb02b3f996de247dd8819c51a2967a07d)
 
-115. `2020-12-24 15:59:02` [蒸汽平台客户端“独立分开”，目前确认其没有大屏幕模式和远程同乐 - 其乐 Keylol](https://archive.is/M9tYb "https://keylol.com/t669953-1-1")
+115. `2020-12-21 12:31` **微博** [2021年1月16-17日，蒸汽平台实验室，与你不见不散[嘻嘻] 来自蒸汽平台 - 微博](https://archive.is/PC7Vh "https://weibo.com/6654528440/Jztv8sdeb")
+
+116. `2020-12-24 15:59:02` [蒸汽平台客户端“独立分开”，目前确认其没有大屏幕模式和远程同乐 - 其乐 Keylol](https://archive.is/M9tYb "https://keylol.com/t669953-1-1")
 
      在此之前，Steam与蒸汽平台都是请求相同的更新文件目录，所以客户端的文件也一样，但在12月23日后，从官网上下载的更新文件目录就不同了，目前蒸汽平台客户端的更新早于启动器早于 Steam。
 
      对比文件后发现，蒸汽平台客户端缺少了大屏幕模式所需的 tenfoot 相关文件，以及远程同乐/远程畅玩所需的 streaming_client.exe 。
 
-116. `2020-12-28` [蒸汽平台客户端允许运行在中文目录，但 Steam 客户端还不行 - 其乐 Keylol](https://archive.is/1Umap "https://keylol.com/t671051-1-1")
+117. `2020-12-28` [蒸汽平台客户端允许运行在中文目录，但 Steam 客户端还不行 - 其乐 Keylol](https://archive.is/1Umap "https://keylol.com/t671051-1-1")
 
-117. 占位部分，即将完成
+118. `2020-12-31` [【蒸汽平台相关】新标签“AllowPurchaseInSteamChina”，地区代码”XC“ - 其乐 Keylol](https://archive.is/D7Zq6 "https://keylol.com/t671965-1-1")
 
-118. 占位部分，即将完成
+119. `2021-01-01` [G胖连夜加班，为大伙移除了 Steam 客户端中的蒸汽平台文件作为新年礼物 - 其乐 Keylol](https://archive.is/X7Qyz "https://keylol.com/t672268-1-1")
 
-119. 占位部分，即将完成
+     > 今日更新从 Steam 客户端删除了 steamchina 目录，并作为一个 Depot 添加进蒸汽平台客户端中。
+     >
+     > **但这并不影响通过参数“-steamchina”而从 Steam 客户端进入蒸汽平台。**
 
-120. 占位部分，即将完成
-
-121. 占位部分，即将完成
-
-122. 占位部分，即将完成
-
-123. 未完待续
+120. 未完待续
 
 <!-- [这是真的吗 NGA玩家社区](https://archive.vn/rgmOt) 在隔壁群友看到的，如果是真的话，那?死也不会用的
     steam中国、WAC反作弊 -->
