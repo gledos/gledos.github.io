@@ -724,7 +724,23 @@ Emoji 前缀标识的意思
      >
      > **但这并不影响通过参数“-steamchina”而从 Steam 客户端进入蒸汽平台。**
 
-120. 未完待续
+120. [蒸汽平台可通过实名信息找回密码 - 其乐 Keylol](https://archive.is/9LXtc "https://keylol.com/t673662-1-1")
+
+     蒸汽平台沙箱测试网站中出现了一个名为 [recovery.html](https://archive.is/z7slN "https://rnr-sandbox.pwesports.cn/recovery.html") 的嵌入页面，预计蒸汽平台将会通过实名认证的信息进行找回密码。
+
+121. `2021-01-08 11:27` **Steam Beta Update** Remote Play Together is now available in China[^ws_scb118]
+
+     [^ws_scb118]: [Steam Community :: Group :: Steam Client Beta](https://web.archive.org/web/20210109074448/https://steamcommunity.com/groups/SteamClientBeta/announcements/detail/2933499125713869805)
+
+     Steam Beta 更新日志是称远程同乐功能在大陆现能够使用，不过一些玩家测试后发现还是没法连接上。[^ws_scb118_tset]
+
+     [^ws_scb118_tset]: [远程同乐貌似可以在中国运行了 - 其乐 Keylol](https://archive.is/0uLu9 "https://keylol.com/t674459-1-1")
+
+     <!-- [【不实信息】CS:GO 和 DOTA 2 完美服玩家不会被强制转至蒸汽平台 - 热点聚焦 - 其乐 Keylol - 驱动正版游戏的引擎！](https://archive.is/31s6A) -->
+
+122. `2021-01-08 09:09` [玩 CS:GO 和 DOTA 2 大陆服务器需要将帐户从完美通行证迁移至蒸汽平台 - 热点聚焦 - 其乐 Keylol - 驱动正版游戏的引擎！](https://archive.is/SfsUB "https://keylol.com/t674392-1-1")
+
+123. 未完待续
 
 <!-- [这是真的吗 NGA玩家社区](https://archive.vn/rgmOt) 在隔壁群友看到的，如果是真的话，那?死也不会用的
     steam中国、WAC反作弊 -->
