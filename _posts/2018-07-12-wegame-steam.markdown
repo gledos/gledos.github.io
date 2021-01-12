@@ -740,7 +740,9 @@ Emoji 前缀标识的意思
 
 122. `2021-01-08 09:09` [玩 CS:GO 和 DOTA 2 大陆服务器需要将帐户从完美通行证迁移至蒸汽平台 - 热点聚焦 - 其乐 Keylol - 驱动正版游戏的引擎！](https://archive.is/SfsUB "https://keylol.com/t674392-1-1")
 
-123. 未完待续
+123. `2021-01-09` [免费获得的CSGO今起也可出现国服国际服选择框 - 其乐 Keylol](https://archive.is/PxFaM "https://keylol.com/t674754-1-1")
+
+124. 未完待续
 
 <!-- [这是真的吗 NGA玩家社区](https://archive.vn/rgmOt) 在隔壁群友看到的，如果是真的话，那?死也不会用的
     steam中国、WAC反作弊 -->
