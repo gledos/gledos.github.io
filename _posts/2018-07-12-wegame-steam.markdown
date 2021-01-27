@@ -742,9 +742,44 @@ Emoji 前缀标识的意思
 
 123. `2021-01-09` [免费获得的CSGO今起也可出现国服国际服选择框 - 其乐 Keylol](https://archive.is/PxFaM "https://keylol.com/t674754-1-1")
 
-124. `2021-01-27` [Steam国区商店价格有小数点了...... - 其乐 Keylol](https://archive.is/HORhf "https://keylol.com/t680022-1-1")
+124. `2021-01-25` 26日这天前后，CSGO大陆区运营商完美世界，旗下的多款游戏都会在这段时间里进行维护
 
-125. 未完待续
+     + 2021年1月26日 00:00-14:00 期间，《完美国际2》所有服务器进行停机维护[^ws_pwg2]
+     + 2021年1月26日 00:00-14:00 期间，《武林外传》全区全服进行数据库升级[^ws_wulin2]
+     + 2021年1月26日 00:00-14:00 期间，《完美世界》数据库升级维护[^ws_world2]
+     + 2021年1月26日 00:00-14:00 期间，《神魔大陆2》数据库升级维护[^ws_shenmo]
+     + 2021年1月26日 00:00-14:00 期间，《梦幻诛仙2》全区全服进行数据库升级[^ws_mhzx2]
+     + 2021年1月26日 从零时开始到当天内，《新诛仙手游》对部分服务器进行「数据互通」，关闭源服务器和目标服务器的部分功能[^ws_zx]
+     + 2021年1月26日 00:10-14:00 期间，《CSGO》游戏账号体系进行升级[^ws_csgoml]
+     + 2021年1月26日 00:10-14:00 期间，《创世战车》对服务器进行维护，本次维护不停服[^ws_co]
+     + 2021年1月26日 00:10-14:00 期间，《神鬼传奇》对正式服进行不停机维护[^ws_sgcq]
+     + 2021年1月26日 08:00-10:00 期间，《诛仙3》所有服务器进行停机维护[^ws_zx3]
+
+     [^ws_pwg2]: [《完美国际2》数据库升级维护说明公告 - 《完美国际2》官方网站](https://archive.is/M9EYq "https://w2i.wanmei.com/news/bulletin/20210125/83373.shtml")
+
+     [^ws_wulin2]: [《武林外传》1月26日数据库升级公告-《武林外传》游戏官方网站，今日新区豪礼相送](https://web.archive.org/web/20210127161306/https://wulin2.wanmei.com/news/gamebroad/20210125/229138.shtml)
+
+     [^ws_world2]: [《完美世界》数据库升级维护公告 - 《完美世界：撼世王朝》官方网站 - 国产东方唯美3D时长版网游！无商城！](https://web.archive.org/web/20210127163348/https://world2.games.wanmei.com/article_news/gonggao/20210125/83382.shtml)
+
+     [^ws_shenmo]: [《神魔大陆2》数据库升级维护说明公告 -跨年狂欢趴 《神魔大陆2》惊喜双旦派对](https://web.archive.org/web/20210127162935/https://shenmo.games.wanmei.com/news/gamepost/20210125/229154.shtml)
+
+     [^ws_mhzx2]: [《梦幻诛仙2》1月26日数据库升级公告 - 《梦幻诛仙2》官方网站](https://web.archive.org/web/20210127163001/https://mhzx2.wanmei.com/news/gamebroad/20210125/229135.shtml)
+
+     [^ws_zx]: [1月28日数据互通公告 - 新《诛仙》手游新版12.31上线 兽首联动青云加强](https://web.archive.org/web/20210127161220/https://zx.wanmei.com/news/gamebroad/20210125/229133.shtml)
+
+     [^ws_csgoml]: [CSGO国服账号体系升级公告 来自CSGO - 微博](https://archive.is/C8ugn "https://archive.is/BA5rv & https://weibo.com/5980136393/JEQfh61Fw")
+
+     [^ws_co]: [1月26日不停服维护公告 - 《创世战车》官方网站](https://web.archive.org/web/20210127162955/https://co.games.wanmei.com/news/gamebroad/20210125/229156.shtml)
+
+     [^ws_sgcq]: [游戏公告 -《神鬼传奇》官方网站 - 完美世界](https://web.archive.org/web/20210127162950/http://sgcq.wanmei.com/news/gamenotice/20210125/229157.shtml)
+
+     [^ws_zx3]: [1月26日全服停机更新维护公告 - 《诛仙3》官方网站-新版“诀世天昭”今日震撼公测-完美世界](https://web.archive.org/web/20210127161001/http://zhuxian.wanmei.com/news/gamebroad/20210125/83380.shtml)
+
+     完美世界在这期间未维护的客户端网络游戏：《笑傲江湖OL》《DOTA 2》《赤壁》《热舞派对》《神鬼世界》《口袋西游》
+
+125. `2021-01-27` [Steam国区商店价格有小数点了...... - 其乐 Keylol](https://archive.is/HORhf "https://keylol.com/t680022-1-1")
+
+126. 未完待续
 
 <!-- [这是真的吗 NGA玩家社区](https://archive.vn/rgmOt) 在隔壁群友看到的，如果是真的话，那?死也不会用的
     steam中国、WAC反作弊 -->
