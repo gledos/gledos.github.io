@@ -742,7 +742,9 @@ Emoji 前缀标识的意思
 
 123. `2021-01-09` [免费获得的CSGO今起也可出现国服国际服选择框 - 其乐 Keylol](https://archive.is/PxFaM "https://keylol.com/t674754-1-1")
 
-124. 未完待续
+124. `2021-01-27` [Steam国区商店价格有小数点了...... - 其乐 Keylol](https://archive.is/HORhf "https://keylol.com/t680022-1-1")
+
+125. 未完待续
 
 <!-- [这是真的吗 NGA玩家社区](https://archive.vn/rgmOt) 在隔壁群友看到的，如果是真的话，那?死也不会用的
     steam中国、WAC反作弊 -->
