@@ -779,7 +779,9 @@ Emoji 前缀标识的意思
 
 125. `2021-01-27` [Steam国区商店价格有小数点了...... - 其乐 Keylol](https://archive.is/HORhf "https://keylol.com/t680022-1-1")
 
-126. 未完待续
+126. `2021-02-03` [正式确认蒸汽平台有 macOS 客户端，暂未见 Linux 客户端 - 其乐 Keylol](https://archive.is/RGO30 "https://keylol.com/t682384-1-1")
+
+127. 未完待续
 
 <!-- [这是真的吗 NGA玩家社区](https://archive.vn/rgmOt) 在隔壁群友看到的，如果是真的话，那?死也不会用的
     steam中国、WAC反作弊 -->
