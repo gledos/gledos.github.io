@@ -3,7 +3,7 @@ title: KEMCO ADV 游戏全解
 layout: post
 published: true
 header-img: "img/bg/pixiv_53864290.svg"
-header-img-object-position: 100% 100%
+header-img-object-position: 100% top
 # date: '2021-04-02 00:00:00'
 tags:
     - 历史
@@ -334,7 +334,7 @@ https://archive.org/details/prisoners-melody-chinese-v1.0.8g-android
 + [记一次失败的个人汉化请愿 - 知乎](https://archive.is/j0HpN "https://zhuanlan.zhihu.com/p/25016116")
 + [【AntiAnimus-的游戏簿】《人狼村之谜》—— 神话，民俗和狼人杀 - 哔哩哔哩专栏](https://archive.is/1GN8i "https://www.bilibili.com/read/cv8041362/")
 + [死亡ADV：Kemco的文字冒险游戏 - 哔哩哔哩专栏](https://archive.is/IBmOs "https://www.bilibili.com/read/cv6995927/")
-+ 
++ [KEMCO(ケムコ)のADVシリーズ - アニヲタWiki(仮) - atwiki（アットウィキ）](https://w.atwiki.jp/aniwotawiki/pages/38591.html)
 + [囚人的旋律好用吗_囚人的旋律怎么样_囚人的旋律1.0.8g用户评论-AppChina应用汇](https://archive.is/CHLp0 "http://www.appchina.com/app/pay.kemco.togabito/comments_1.html")
 
 -->
