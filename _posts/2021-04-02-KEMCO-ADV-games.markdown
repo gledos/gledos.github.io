@@ -2,6 +2,8 @@
 title: KEMCO ADV 游戏全解
 layout: post
 published: true
+header-img: "img/bg/pixiv_53864290.svg"
+header-img-object-position: 100% 100%
 # date: '2021-04-02 00:00:00'
 tags:
     - 历史
@@ -11,6 +13,8 @@ description: 日本游戏公司 KEMCO 的文字冒险游戏(ADV)全解
 本文尚未完成，目前还差 amphibian 黑色传令 与 OST 原声音乐资源的章节未完成。
 
 <!-- more -->
+
+封面图片来源自 pixiv 的 [#レイジングループ 「レイジングループ」本日発売！ - 鈍なくら ＆ RNAぷろと的插畫 - pixiv](https://www.pixiv.net/artworks/53864290) - [鈍なくら ＆ RNAぷろと](https://www.pixiv.net/users/4541020)
 
 KEMCO 公司
 ----------
