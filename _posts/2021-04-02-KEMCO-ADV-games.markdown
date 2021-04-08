@@ -30,7 +30,7 @@ Nintendo Switch 时代的开发工具基本让移植游戏没有难度，让 KEM
 
 > 多数の本格ファンタジーRPGやアドベンチャー、パズルなどの様々なアプリを配信しています。[^gpKEMCO]
 
-[^gpKEMCO]: https://web.archive.org/web/20201019192423/https://play.google.com/store/apps/dev?id=5728226595623103050&hl=zh_TW&gl=US "Google Play 上「KEMCO」的 Android 應用程式"
+[^gpKEMCO]: [Google Play 上「KEMCO」的 Android 應用程式](https://web.archive.org/web/20201019192423/https://play.google.com/store/apps/dev?id=5728226595623103050&hl=zh_TW&gl=US)
 
 所以「本格RPG」(大概指传统、古典的RPG)是 KEMCO 的主业中的主业。
 
@@ -182,7 +182,7 @@ Nintendo Switch 时代的开发工具基本让移植游戏没有难度，让 KEM
 [mtrlns]: https://web.archive.org/web/20210402103956/https://www.metacritic.com/game/switch/raging-loop "Raging Loop for Switch Reviews - Metacritic"
 [steamrl]: https://web.archive.org/web/20210407070647/https://store.steampowered.com/app/648100/Raging_Loop/ "Raging Loop on Steam"
 
-[^rsys]: [【Qoo下載】狼人遊戲ADV新作「靈神宴席」Android版&iOS版同時配信開始！ - QooApp](https://archive.is/KJnje "https://news.qoo-app.com/post/46981")
+[^rsyx]: [【Qoo下載】狼人遊戲ADV新作「靈神宴席」Android版&iOS版同時配信開始！ - QooApp](https://archive.is/KJnje "https://news.qoo-app.com/post/46981")
 
 > 首发于 Android & iOS 2015年12月03日，随后在 2017年8月24日 登录 Steam
 
