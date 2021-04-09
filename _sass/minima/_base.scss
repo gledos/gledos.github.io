@@ -35,11 +35,16 @@ body {
 }
 
 /**
- * 中文着重符号 text-emphasis，此处由 gledos 增加。https://developer.mozilla.org/en-US/docs/Web/CSS/text-emphasis
+ * 中文着重符号 text-emphasis，此处由 gledos 增加。
+ * 参考了以下两个网站
+ * https://developer.mozilla.org/en-US/docs/Web/CSS/text-emphasis
+ * [使用CSS text-emphasis对文字进行强调装饰 « 张鑫旭-鑫空间-鑫生活](https://web.archive.org/web/20210409073229/https://www.zhangxinxu.com/wordpress/2020/06/css-text-emphasis/)
  */
 strong {
   text-emphasis: circle;
   -webkit-text-emphasis: circle;
+  text-emphasis-position: over right;
+  -webkit-text-emphasis-position: over right;
 }
 
 /**
