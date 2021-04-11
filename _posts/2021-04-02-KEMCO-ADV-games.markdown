@@ -10,7 +10,7 @@ tags:
 description: 日本游戏公司 KEMCO 的文字冒险游戏(ADV)全解
 ---
 
-本文尚未完成，目前还差 amphibian 黑色传令 与 OST 原声音乐资源的章节未完成。
+本文即将完成，目前还差 黑色传令 与 OST 原声音乐资源的章节未完成。
 
 <!-- more -->
 
@@ -165,7 +165,7 @@ Nintendo Switch 时代的开发工具基本让移植游戏没有难度，让 KEM
 
 [^amphibianjn]: [KEMCO(ケムコ)のADVシリーズ - アニヲタWiki(仮) - atwiki（アットウィキ）](https://web.archive.org/web/20210402090801/https://w.atwiki.jp/aniwotawiki/pages/38591.html)
 
-> 由于 gledos 我还未完成本游戏，所以目前没有这个游戏的评价
+由于 gledos 我还未完成本游戏，所以目前没有这个游戏的评价
 
 ### 人狼村之谜
 
@@ -249,8 +249,15 @@ amphibian
 + 在 2020年6月30日 离开 KEMCO[^tw_lz]
 + 是漫画《こっくりマジョ裁判》的原作，即漫画的剧本作者
 + 目标是成为一名自由撰稿人
++ 刚好是在离开 KEMCO 后，KEMCO ADV 小组的活动已暂停，从 KEMCO ADV 分区的官网来看[^kemco_adv_site]
 
 [^tw_lz]: [amphibian/あんひびあん on Twitter: "【ご報告】 2020年6月30日をもって、amphibianはKEMCO（株式会社コトブキソリューション）を退職しました。 amphibian名義および本アカウントは継続し、フリーの物書きとして生きていくことを目指します。 これまで本当にありがとうございました。 今後ともどうかよろしくおねがいします。"](https://web.archive.org/web/20200701030913/https://twitter.com/frogmonger/status/1278161407062806530)
+
+[^kemco_adv_site]: [ケムコのアドベンチャーポータル - ノベルアドベンチャーゲームを配信中！](https://web.archive.org/web/20210402064004/https://kemco.adv-game.com/)
+
+<!--
+[「レイジングループ」のamphibian氏がKEMCOを退職。amphibian名義は継続し，今後はフリーで活動へ](https://web.archive.org/web/20210402061933/https://www.4gamer.net/games/999/G999905/20200701064/)
+-->
 
 汉化相关
 --------
@@ -286,19 +293,9 @@ amphibian
 <boolean name="EPISODE_05" value="false" />
 ```
 
-<!-- 
-如果你没有找到下载地址，可以到我上传到 archive.org 的下载地址下载:
+如果你没有找到下载地址，可以到我上传到 archive.org 的下载地址下载: [囚人的旋律完整汉化版 Kemco V 1.0.8g Android : KEMCO/amphibian/口袋汉化组 : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/qrdxl-sc-kemco-v1.0.8g)
 
-目前还未上传游戏，明天再上传
-
-https://archive.org/details/prisoners-melody-chinese-v1.0.8g-android
-
-囚人的旋律完整汉化版，包含数据包。
-
-+ 制作/发行公司: KEMCO
-+ 剧本/演出: amphibian
-+ 汉化: 口袋汉化组
- -->
+<!-- 失败的地址 https://archive.org/details/prisoners-melody-chinese-v1.0.8g-android -->
 
 ### 黑色传令汉化
 
@@ -318,12 +315,74 @@ https://archive.org/details/prisoners-melody-chinese-v1.0.8g-android
 
 黄泉汉化之宴: 比较原汁原味，直译，汉化工作基本完成，可能只会更新 OP ED 的翻译。
 
-如果你有已破解的 PSV Nintendo Switch，那么可以游玩 xxgame汉化组 与 天邈汉化组 联合汉化的版本，下面是跳转链接，只需注册一个网站账号，就能获得百度云下载地址。
+如果你有已破解的 PSV 或者 Nintendo Switch，那么可以游玩 xxgame汉化组 与 天邈汉化组 联合汉化的版本，
+下面是跳转链接，只需注册一个网站账号，就能获得百度云下载地址。
 
 + [[NS]人狼村之谜汉化补丁V1.0 - XXGAME汉化组](http://xxgame.net/Chinese/Detail?Id=1088)
 + [[PSV]人狼村之迷简体中文版V1.0 - XXGAME汉化组](http://xxgame.net/Chinese/Detail?Id=1107)
 
-### OST 原声音乐资源
+## OST 原声音乐资源以及小说等资源
+
+### 鈍色のバタフライ OST
+
+在游戏即将发布智能手机版本的时候，为了吸引玩家，KEMCO 公司做了一个网页活动，每隔一段时间解锁**特别内容**，比如角色之间的互动、小故事与疑问解答等。
+最后在游戏上架 APP 商店时同步在活动页面给出了 OST 的下载地址。
+
+累计五首 320kbps 的 mp3 格式音乐，十分良心。下载地址: https://www.kemco.jp/applipage/android/12_game/tbns/sp/sp/sp_pc/chapter.html?chapter=3&page=8
+
+<!--
+https://web.archive.org/web/20210402054719/https://www.kemco.jp/applipage/android/12_game/tbns/sp/sp/sp_pc/chapter.html?chapter=3&page=8
+-->
+
+### 囚人的旋律 OST
+
+本作的 OST 在各大在线音乐平台均有销售，所以直接搜索「トガビトノセンリツ サウンドトラック」并购买就能获得，大约 90 人民币。
+
+也可以复制使用 Android 版里数据包的 OGG 音乐，虽然只有 92 kbps 的比特率，不过也能听。
+
+### 死亡游戏恋爱喜剧 OST
+
+本作没有发布 OST，所以应该只能解包游戏文件获得。
+
+### 人狼村之谜 OST
+
+本作只有实体的 CD 光盘，里面收录了不少游戏中没有完整出现的歌曲，
+比如俗称佛舍利摇滚的《仏舎利ロック》与《しんないもうで (斉唱休水有志一同)》(申奈明神的守护 合唱)。
+
+如果你想要
+
+### 人狼村之谜小说
+
+2018年3月下旬，人狼村之谜的官方设定集 レイジングループ完全読本 (画集・設定資料集) 发售了，除了插画与开发者的话等常见内容，
+还有两个短篇小说，分别是[赤野工作](https://ja.wikipedia.org/wiki/赤野工作)的《能里先々代の記録》与
+amphibian 的《からす洋館の殺人》(乌鸦洋馆杀人事件)。[^dchb_rlb]
+
+[^dchb_rlb]: [レイジングループ完全読本感想！レイジングループファン必携の一冊！ - 旅情電波発信局](https://web.archive.org/web/20190916053904/http://denji-ch.hatenablog.com/entry/2018/04/04/033213)
+
+乌鸦洋馆杀人事件已由清歌在翻译到 lofter，[^kanda_z]下面是链接。
+
+[^kanda_z]: [以下链接为2018/3/30号发售的《レイジングループ完全読本》中收录的编剧amphibian新作短篇小说——《乌鸦洋馆杀人事件（からす洋館の殺人）》的娱乐向翻译 - 微博](https://archive.is/lKulT "https://m.weibo.cn/status/4237314614006797")
+
++ [【レイジングループ/短篇小说】乌鸦洋馆杀人事件-序之章](https://kanda-yuu.lofter.com/post/1e929c82_12c50d1b)
++ [【レイジングループ/短篇小说】乌鸦洋馆杀人事件-起之章](https://kanda-yuu.lofter.com/post/1e929c82_12c50d2a)
++ [【レイジングループ/短篇小说】乌鸦洋馆杀人事件-承之章](https://kanda-yuu.lofter.com/post/1e929c82_12c50d33)
++ [【レイジングループ/短篇小说】乌鸦洋馆杀人事件-转之章](https://kanda-yuu.lofter.com/post/1e929c82_12c50d35)
++ 决之章链接已失效
++ 译者的话 [一个发现涨粉超级惶恐的置顶 - 存在 lofter](https://kanda-yuu.lofter.com/post/1e929c82_12d1403c)
+
+<!--
+OCR: https://ocr.space/
+-->
+
+<!--
++ web.archive.org
++ [【レイジングループ/短篇小说】乌鸦洋馆杀人事件-序之章](https://web.archive.org/web/20180515065338/http://kanda-yuu.lofter.com/post/1e929c82_12c50d1b)
++ [【レイジングループ/短篇小说】乌鸦洋馆杀人事件-起之章](https://web.archive.org/web/20180618041709/http://kanda-yuu.lofter.com/post/1e929c82_12c50d2a)
++ [【レイジングループ/短篇小说】乌鸦洋馆杀人事件-承之章](https://web.archive.org/web/20180618041714/http://kanda-yuu.lofter.com/post/1e929c82_12c50d33)
++ [【レイジングループ/短篇小说】乌鸦洋馆杀人事件-转之章](https://web.archive.org/web/20180618040350/http://kanda-yuu.lofter.com/post/1e929c82_12c50d35)
++ 正在 OCR
++ [一个发现涨粉超级惶恐的置顶-存在。](https://web.archive.org/web/20180620144903/http://kanda-yuu.lofter.com/post/1e929c82_12d1403c)
+-->
 
 <!--
 
@@ -336,6 +395,8 @@ https://archive.org/details/prisoners-melody-chinese-v1.0.8g-android
 + [死亡ADV：Kemco的文字冒险游戏 - 哔哩哔哩专栏](https://archive.is/IBmOs "https://www.bilibili.com/read/cv6995927/")
 + [KEMCO(ケムコ)のADVシリーズ - アニヲタWiki(仮) - atwiki（アットウィキ）](https://w.atwiki.jp/aniwotawiki/pages/38591.html)
 + [囚人的旋律好用吗_囚人的旋律怎么样_囚人的旋律1.0.8g用户评论-AppChina应用汇](https://archive.is/CHLp0 "http://www.appchina.com/app/pay.kemco.togabito/comments_1.html")
++ [血腥残暴狼人杀ADV 《人狼村之谜》（レジングループ）游戏介绍_晚香玉_新浪博客](https://web.archive.org/web/20180222210333/http://blog.sina.com.cn/s/blog_48d9f9a70102wz7y.html)
++ [恐怖惊魂夜 轮回彩声厨向评测 ——かまいたちの夜 輪廻彩声_晚香玉_新浪博客](https://web.archive.org/web/20190401101744/http://blog.sina.com.cn/s/blog_48d9f9a70102wznf.html)
 
 -->
 
