@@ -349,7 +349,8 @@ https://web.archive.org/web/20210402054719/https://www.kemco.jp/applipage/androi
 本作只有实体的 CD 光盘，里面收录了不少游戏中没有完整出现的歌曲，
 比如俗称佛舍利摇滚的《仏舎利ロック》与《しんないもうで (斉唱休水有志一同)》(申奈明神的守护 合唱)。
 
-如果你想要
+如果你想要获得这个 OST 的 mp3 文件，可以在知名 **OST 分享网站** [Sonixgvn](https://sonixgvn.net/rei-jin-g-lu-p-original-soundtrack/) 下载，
+密码似乎是 sonixgvn.net 或者 sonixgvn，如果速度过慢，可以去我的 [telegram](https://t.me/gledos_science/7) 群组里直接高速下载无密码的 .tar 打包文件。
 
 ### 人狼村之谜小说
 
