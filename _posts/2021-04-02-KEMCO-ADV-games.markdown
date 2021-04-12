@@ -296,7 +296,7 @@ amphibian
 <boolean name="EPISODE_05" value="false" />
 ```
 
-如果你没有找到下载地址，可以到我上传到 archive.org 的下载地址下载: [囚人的旋律完整汉化版 Kemco V 1.0.8g Android : KEMCO/amphibian/口袋汉化组 : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/qrdxl-sc-kemco-v1.0.8g)
+如果你没有找到下载地址，可以到我上传到 archive.org 的下载地址下载: [囚人的旋律完整汉化版 : Internet Archive](https://archive.org/details/qrdxl-sc-kemco-v1.0.8g)
 
 <!-- 失败的地址 https://archive.org/details/prisoners-melody-chinese-v1.0.8g-android -->
 
@@ -343,6 +343,10 @@ https://web.archive.org/web/20210402054719/https://www.kemco.jp/applipage/androi
 
 也可以复制使用 Android 版里数据包的 OGG 音乐，虽然只有 92 kbps 的比特率，不过也能听。
 
+<!--
++ [トガビトノセンリツ サウンドトラック／KEMCO - 音楽ダウンロード・音楽配信サイト　mora ～WALKMAN®公式ミュージックストア～](https://archive.is/aG1UP "https://mora.jp/package/50000005/4511820-91485/")
+-->
+
 ### 死亡游戏恋爱喜剧 OST
 
 本作没有发布 OST，所以应该只能解包游戏文件获得。
@@ -354,6 +358,77 @@ https://web.archive.org/web/20210402054719/https://www.kemco.jp/applipage/androi
 
 如果你想要获得这个 OST 的 mp3 文件，可以在知名 **OST 分享网站** [Sonixgvn](https://sonixgvn.net/rei-jin-g-lu-p-original-soundtrack/) 下载，
 密码似乎是 sonixgvn.net 或者 sonixgvn，如果速度过慢，可以去我的 [telegram](https://t.me/gledos_science/7) 群组里直接高速下载无密码的 .tar 打包文件。
+
+不过实际游戏已经包含大量的高质量音乐文件，比特率均高于 1400kbps
+
+<details>
+<summary>点击这里以展开提取人狼村之谜音乐的方法，其他的 Unity 3D 游戏也通用。—— AssetStudio</summary>
+
+因为人狼村之谜没有 Linux 以及 Mac 版本，所以这里就不详细介绍 Windows 以外的桌面平台解包 Unity 3D 的方法。
+首先进入 [AssetStudio](https://github.com/Perfare/AssetStudio) GitHub 页面下载最新版。然后解压并开启软件，
+步骤如下面的 mermaid 流程图。
+
+[![/img/mermaid/KEMCO_ADV/AssetStudio_guide.svg](https://mermaid.ink/svg/eyJjb2RlIjoiZ3JhcGggTFJcbiAgQVvlvIDlkK8gQXNzZXRTdHVkaW9dIC0tPiB8RmlsZSAtPiBMb2FkIGZvbGRlcmZvbGRlcnwgQijliqDovb0gcmFnaW5nbG9vcF9EYXRhIOaWh-S7tuWkuSlcbiAgQiAtLT4gfEFzc2V0IExpc3R8IEN75a-75om-6Z-z5LmQfVxuICBDIC0tPiB85Y-z6ZSu56ys5LqM5Liq6YCJ6aG5fCBEW-iOt-W-l-mfs-S5kF0iLCJtZXJtYWlkIjp7InRoZW1lIjoiZGFyayJ9LCJ1cGRhdGVFZGl0b3IiOmZhbHNlfQ)](https://mermaid-js.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiZ3JhcGggTFJcbiAgQVvlvIDlkK8gQXNzZXRTdHVkaW9dIC0tPiB8RmlsZSAtPiBMb2FkIGZvbGRlcmZvbGRlcnwgQijliqDovb0gcmFnaW5nbG9vcF9EYXRhIOaWh-S7tuWkuSlcbiAgQiAtLT4gfEFzc2V0IExpc3R8IEN75a-75om-6Z-z5LmQfVxuICBDIC0tPiB85Y-z6ZSu56ys5LqM5Liq6YCJ6aG5fCBEW-iOt-W-l-mfs-S5kF0iLCJtZXJtYWlkIjp7InRoZW1lIjoiZGFyayJ9LCJ1cGRhdGVFZGl0b3IiOmZhbHNlfQ)
+
+<details>
+<summary>AssetStudio_guide mermaid code RAW</summary>
+
+```mermaid
+graph TD
+  A[开启 AssetStudio] --> |File -> Load folderfolder| B(加载 ragingloop_Data 文件夹)
+  B --> |Asset List| C{寻找音乐}
+  C --> |右键第二个选项| D[获得音乐]
+```
+
+<!--
++ https://mermaid.ink/
++ https://mermaid-js.github.io
++ https://mermaid-js.github.io/mermaid/#/flowchart?id=flowcharts-basic-syntax
++ https://vincentruan.github.io/2020/02/04/Mermaid-实用教程/
++ [几种绘图语法的比较 - 退思园](https://web.archive.org/web/20201024174926/https://gowa.club/Graphviz/几种绘图语法的比较.html)
+-->
+
+</details>
+
+从游戏中能够提取出以下这些音乐，不过比起 OST 缺失了 #25 #28 #29 #30 这些音轨，分别是咩子独唱申奈明神的守护、卡拉OK 版本的 OP ED、佛舍利摇滚。
+
+```file tree
+        文件大小    文件名                对应 OST 文件名
+-------------------------------------------------------------------------------
+ 53,959,724 字节    24_OP.wav             01. キリノネガイ
+ 32,809,004 字节    25_ED.wav             27. Last Acceleration
+ 15,086,636 字节    26_moude_sol.wav      24. しんないもうで (独唱回末李花子)
+ 14,708,780 字节    27_moude_cho.wav      26. しんないもうで (独唱めー子)
+ 24,574,508 字节    BGM001.wav            02. 平穏
+ 20,422,700 字节    BGM002.wav            03. 夕餉の後
+ 27,454,508 字节    BGM003.wav            04. 心のひび
+ 21,970,988 字节    BGM005.wav            05. 惨劇の朝
+ 25,357,868 字节    BGM006.wav            06. 安全地帯
+ 25,030,700 字节    BGM007.wav            07. 忍び寄る絶望
+ 25,316,396 字节    BGM008.wav            08. 鍵を探せ
+ 24,671,276 字节    BGM009.wav            09. 策謀の宴
+ 22,210,604 字节    BGM010.wav            10. 追尾本能
+ 27,154,988 字节    BGM011.wav            11. 呪的逃走
+ 27,196,460 字节    BGM012.wav            12. 禁忌は霧の彼方
+ 22,781,996 字节    BGM013.wav            13. 無縁葬列
+ 27,735,596 字节    BGM014.wav            14. 理想の仮定
+ 25,500,716 字节    BGM015.wav            15. 温かく赤い眠りへ
+ 28,887,596 字节    BGM016.wav            16. 非日常の侵食
+ 50,904,620 字节    BGM017.wav            19. YOMI
+ 29,348,396 字节    BGM018.wav            20. LAST ACCELERATION (Game Music Ver.)
+ 13,086,764 字节    BGM019A.wav           21. しんないもうで町内放送
+ 26,468,396 字节    BGM019B.wav           22. しんないもうで歪
+ 23,851,052 字节    BGM019C.wav           23. しんないもうでオルゴール
+ 21,265,964 字节    BGM020.wav            17. 襲乱
+ 21,265,964 字节    BGM021.wav            18. 摩滅する思考 
+ 32,021,036 字节    ED_soundonly.wav      /无对应文件/
+  2,234,924 字节    LOOP_soundonly.wav    /无对应文件/
+ 21,994,028 字节    OP_soundonly.wav      /无对应文件/
+-------------------------------------------------------------------------------
+735,272,188 字节    32 个文件                    
+```
+
+</details>
 
 ### 人狼村之谜小说
 
@@ -397,7 +472,6 @@ OCR: https://ocr.space/
 + [记一次失败的个人汉化请愿 - 知乎](https://archive.is/j0HpN "https://zhuanlan.zhihu.com/p/25016116")
 + [【AntiAnimus-的游戏簿】《人狼村之谜》—— 神话，民俗和狼人杀 - 哔哩哔哩专栏](https://archive.is/1GN8i "https://www.bilibili.com/read/cv8041362/")
 + [死亡ADV：Kemco的文字冒险游戏 - 哔哩哔哩专栏](https://archive.is/IBmOs "https://www.bilibili.com/read/cv6995927/")
-+ [KEMCO(ケムコ)のADVシリーズ - アニヲタWiki(仮) - atwiki（アットウィキ）](https://w.atwiki.jp/aniwotawiki/pages/38591.html)
 + [囚人的旋律好用吗_囚人的旋律怎么样_囚人的旋律1.0.8g用户评论-AppChina应用汇](https://archive.is/CHLp0 "http://www.appchina.com/app/pay.kemco.togabito/comments_1.html")
 + [血腥残暴狼人杀ADV 《人狼村之谜》（レジングループ）游戏介绍_晚香玉_新浪博客](https://web.archive.org/web/20180222210333/http://blog.sina.com.cn/s/blog_48d9f9a70102wz7y.html)
 + [恐怖惊魂夜 轮回彩声厨向评测 ——かまいたちの夜 輪廻彩声_晚香玉_新浪博客](https://web.archive.org/web/20190401101744/http://blog.sina.com.cn/s/blog_48d9f9a70102wznf.html)
