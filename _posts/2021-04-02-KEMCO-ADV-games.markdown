@@ -199,7 +199,9 @@ Nintendo Switch 时代的开发工具基本让移植游戏没有难度，让 KEM
 如果你对西尾维新的《物语系列》十分了解，那么《人狼村之谜》的复杂叙事以及相关知识点应该不会难倒你。
 
 <details>
-<summary>⚠警告 点击这里以展开非核心剧透内容</summary>
+<summary>
+⚠警告 点击这里以展开非核心剧透内容
+</summary>
 
 本质上这个游戏是推理游戏，所以主角总是站在阴谋谋划者的角度思考问题，从而破解目前的困境。
 第三个结局之后的「四周目」前部分其实是推理游戏的「解篇」，在跟玩家对答案，所以这段有些枯燥。
@@ -362,7 +364,9 @@ https://web.archive.org/web/20210402054719/https://www.kemco.jp/applipage/androi
 不过实际游戏已经包含大量的高质量音乐文件，比特率均高于 1400kbps
 
 <details>
-<summary>点击这里以展开提取人狼村之谜音乐的方法，其他的 Unity 3D 游戏也通用。—— AssetStudio</summary>
+<summary>
+点击这里以展开提取人狼村之谜音乐的方法，其他的 Unity 3D 游戏也通用。—— AssetStudio
+</summary>
 
 因为人狼村之谜没有 Linux 以及 Mac 版本，所以这里就不详细介绍 Windows 以外的桌面平台解包 Unity 3D 的方法。
 首先进入 [AssetStudio](https://github.com/Perfare/AssetStudio) GitHub 页面下载最新版。然后解压并开启软件，
@@ -371,7 +375,9 @@ https://web.archive.org/web/20210402054719/https://www.kemco.jp/applipage/androi
 [![/img/mermaid/KEMCO_ADV/AssetStudio_guide.svg](https://mermaid.ink/svg/eyJjb2RlIjoiZ3JhcGggTFJcbiAgQVvlvIDlkK8gQXNzZXRTdHVkaW9dIC0tPiB8RmlsZSAtPiBMb2FkIGZvbGRlcmZvbGRlcnwgQijliqDovb0gcmFnaW5nbG9vcF9EYXRhIOaWh-S7tuWkuSlcbiAgQiAtLT4gfEFzc2V0IExpc3R8IEN75a-75om-6Z-z5LmQfVxuICBDIC0tPiB85Y-z6ZSu56ys5LqM5Liq6YCJ6aG5fCBEW-iOt-W-l-mfs-S5kF0iLCJtZXJtYWlkIjp7InRoZW1lIjoiZGFyayJ9LCJ1cGRhdGVFZGl0b3IiOmZhbHNlfQ)](https://mermaid-js.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiZ3JhcGggTFJcbiAgQVvlvIDlkK8gQXNzZXRTdHVkaW9dIC0tPiB8RmlsZSAtPiBMb2FkIGZvbGRlcmZvbGRlcnwgQijliqDovb0gcmFnaW5nbG9vcF9EYXRhIOaWh-S7tuWkuSlcbiAgQiAtLT4gfEFzc2V0IExpc3R8IEN75a-75om-6Z-z5LmQfVxuICBDIC0tPiB85Y-z6ZSu56ys5LqM5Liq6YCJ6aG5fCBEW-iOt-W-l-mfs-S5kF0iLCJtZXJtYWlkIjp7InRoZW1lIjoiZGFyayJ9LCJ1cGRhdGVFZGl0b3IiOmZhbHNlfQ)
 
 <details>
-<summary>AssetStudio_guide mermaid code RAW</summary>
+<summary>
+AssetStudio_guide mermaid code RAW
+</summary>
 
 ```mermaid
 graph TD
