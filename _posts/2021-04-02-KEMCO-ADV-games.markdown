@@ -198,17 +198,17 @@ Nintendo Switch 时代的开发工具基本让移植游戏没有难度，让 KEM
 
 如果你对西尾维新的《物语系列》十分了解，那么《人狼村之谜》的复杂叙事以及相关知识点应该不会难倒你。
 
-{::options parse_block_html="true" /}
 <details>
 <summary>⚠警告 点击这里以展开非核心剧透内容</summary>
 
+{::options parse_block_html="true" /}
 本质上这个游戏是推理游戏，所以主角总是站在阴谋谋划者的角度思考问题，从而破解目前的困境。
 第三个结局之后的「四周目」前部分其实是推理游戏的「解篇」，在跟玩家对答案，所以这段有些枯燥。
 这个游戏有许多的叙述性诡计，剧本本身逻辑上几乎没有漏洞，如果你发现逻辑不通顺的地方，
 那么很可能是作者刻意留下的违和感，以便之后回收伏笔。
+{::options parse_block_html="false" /}
 
 </details>
-{::options parse_block_html="false" /}
 
 ### 脱出 2人きりの部屋
 
@@ -363,6 +363,7 @@ https://web.archive.org/web/20210402054719/https://www.kemco.jp/applipage/androi
 
 不过实际游戏已经包含大量的高质量音乐文件，比特率均高于 1400kbps
 
+{::options parse_block_html="true" /}
 <details>
 <summary>点击这里以展开提取人狼村之谜音乐的方法，其他的 Unity 3D 游戏也通用。—— AssetStudio</summary>
 
@@ -372,7 +373,6 @@ https://web.archive.org/web/20210402054719/https://www.kemco.jp/applipage/androi
 
 [![/img/mermaid/KEMCO_ADV/AssetStudio_guide.svg](https://mermaid.ink/svg/eyJjb2RlIjoiZ3JhcGggTFJcbiAgQVvlvIDlkK8gQXNzZXRTdHVkaW9dIC0tPiB8RmlsZSAtPiBMb2FkIGZvbGRlcmZvbGRlcnwgQijliqDovb0gcmFnaW5nbG9vcF9EYXRhIOaWh-S7tuWkuSlcbiAgQiAtLT4gfEFzc2V0IExpc3R8IEN75a-75om-6Z-z5LmQfVxuICBDIC0tPiB85Y-z6ZSu56ys5LqM5Liq6YCJ6aG5fCBEW-iOt-W-l-mfs-S5kF0iLCJtZXJtYWlkIjp7InRoZW1lIjoiZGFyayJ9LCJ1cGRhdGVFZGl0b3IiOmZhbHNlfQ)](https://mermaid-js.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiZ3JhcGggTFJcbiAgQVvlvIDlkK8gQXNzZXRTdHVkaW9dIC0tPiB8RmlsZSAtPiBMb2FkIGZvbGRlcmZvbGRlcnwgQijliqDovb0gcmFnaW5nbG9vcF9EYXRhIOaWh-S7tuWkuSlcbiAgQiAtLT4gfEFzc2V0IExpc3R8IEN75a-75om-6Z-z5LmQfVxuICBDIC0tPiB85Y-z6ZSu56ys5LqM5Liq6YCJ6aG5fCBEW-iOt-W-l-mfs-S5kF0iLCJtZXJtYWlkIjp7InRoZW1lIjoiZGFyayJ9LCJ1cGRhdGVFZGl0b3IiOmZhbHNlfQ)
 
-{::options parse_block_html="true" /}
 <details>
 <summary>AssetStudio_guide mermaid code RAW</summary>
 
