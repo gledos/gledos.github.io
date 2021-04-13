@@ -4,6 +4,9 @@
 
 // $base-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Segoe UI Symbol", "Segoe UI Emoji", "Apple Color Emoji", Roboto, Helvetica, Arial, sans-serif !default;
 // $code-font-family: "Menlo", "Inconsolata", "Consolas", "Roboto Mono", "Ubuntu Mono", "Liberation Mono", "Courier New", monospace;
+$base-font-family: sans-serif;
+$code-font-family: "Noto Sans Mono CJK SC", "Source Han Sans SC", "Sarasa Term SC", "YaHei Mono", "Microsoft-Yahei-Mono", monospace;
+// firefox 设置里的 monospace 无法正常设置，所以必须手动定义
 $base-font-size:   16px !default;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;

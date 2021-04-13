@@ -16,7 +16,7 @@ description: 日本游戏公司 KEMCO 的文字冒险游戏(ADV)全解
 
 封面图片来源自 pixiv 的 [#レイジングループ 「レイジングループ」本日発売！ - 鈍なくら ＆ RNAぷろと的插畫 - pixiv](https://www.pixiv.net/artworks/53864290) - [鈍なくら ＆ RNAぷろと](https://www.pixiv.net/users/4541020)
 
-KEMCO 公司
+KEMCO 公司 {#KEMCO}
 ----------
 
 KEMCO 背后的母公司 Kotobuki Solution 有限公司是一家比较长寿但不太出名的游戏公司，上世纪末主要制作家用游戏机上的 RPG 游戏与本地化游戏，
@@ -24,7 +24,7 @@ KEMCO 背后的母公司 Kotobuki Solution 有限公司是一家比较长寿但�
 21 世纪 10 年代左右开始的智能手机浪潮让 KEMCO 开始主要在手机上制作 RPG ADV 等类型的手机游戏，
 Nintendo Switch 时代的开发工具基本让移植游戏没有难度，让 KEMCO 再次制作游戏到掌机主机以及个人电脑。
 
-### RPG
+### RPG {#RPG}
 
 其实 RPG 游戏是 KEMCO 的主业，根据官网统计: 有 [65][gl65] 款 RPG 游戏登录 iPhone/iPad，
 [95][gl95] 款 RPG 游戏登录 Android，在 Google Play 的开发者简介中是这么写的:
@@ -38,17 +38,17 @@ Nintendo Switch 时代的开发工具基本让移植游戏没有难度，让 KEM
 
 所以「本格RPG」(大概指传统、古典的RPG)是 KEMCO 的主业中的主业。
 
-### ADV
+### ADV {#ADV}
 
 刚开始制作的是类神秘岛(Myst-like)[^Myst-like]的密室脱出 ADV 游戏，发售了4部密室脱出的 ADV 游戏后，
 就是 KEMCO 的「死亡游戏系列」首作《鈍色のバタフライ》，详情参考下一节《游戏简介》内容。
 
 [^Myst-like]: 类神秘岛的游戏大概有以下特征: 调查场景中的物品，收集可收纳进物品栏的工具和线索，解开谜题开启新场景。
 
-游戏简介
+游戏简介 {#introduction}
 --------
 
-### 鈍色のバタフライ
+### 鈍色のバタフライ {#Dull_color_butterfly}
 
 | 游戏名           | 常见中文名 | 其他名称     | App Store            | Google Play        |
 | ---------------- | ---------- | ------------ | -------------------- | ------------------ |
@@ -81,7 +81,7 @@ Nintendo Switch 时代的开发工具基本让移植游戏没有难度，让 KEM
 
 [^rl_credits]: [credits - レイジングループ](https://web.archive.org/web/20201024204520/https://www.kemco.jp/sp/games/rl/ja/credits.html)
 
-### 囚人的旋律
+### 囚人的旋律 {#Togabitonosenritsu}
 
 | 游戏名             | 常见中文名 | 其他名称   | 豆瓣评分            | Bangumi 评分           | App Store            | Google Play                 |
 | ------------------ | ---------- | ---------- | ------------------- | ---------------------- | -------------------- | --------------------------- |
@@ -121,8 +121,9 @@ Nintendo Switch 时代的开发工具基本让移植游戏没有难度，让 KEM
 
 [^taptap_qrdxl]: [ADV トガビトノセンリツ（製品版） - KEMCO - Pre-registration - TapTap Discover Superb Games](https://web.archive.org/web/20210402072232if_/https://www.taptap.com/app/12206)
 
-<details>
-<summary>⚠警告 点击这里以展开非核心剧透内容</summary>
+<details markdown=1><summary markdown="span">
+⚠警告 点击这里以展开非核心剧透内容
+</summary>
 
 最终的结局好或坏看人的理解，对我来说，能释怀就是好结局。
 
@@ -134,7 +135,7 @@ Nintendo Switch 时代的开发工具基本让移植游戏没有难度，让 KEM
 | ------------------------------------- | ---------------- | ----------------------------- | ----------------------- | -------------------- | --------------- |
 | D.M.L.C -デスマッチラブコメ-          | 死亡游戏恋爱喜剧 | [评价人数不足][db27102632]    | [6.7分 推荐][bgm309416] | [4.5分][id693912484] | [4.5分][gpdmlc] |
 | 其他名称                              | 其他名称         | 其他名称                      |                         |                      |                 |
-| Ｄ．Ｍ．Ｌ．Ｃ．-デスマッチラブコメ‪-  | 死亡竞赛恋爱喜剧 | D.M.L.C. Deathmatch Love Come |                         |                      |                 |
+| Ｄ．Ｍ．Ｌ．Ｃ．-デスマッチラブコメ‪- | 死亡竞赛恋爱喜剧 | D.M.L.C. Deathmatch Love Come |                         |                      |                 |
 
 [db27102632]: https://web.archive.org/web/20210402071959/https://www.douban.com/game/27102632/ "DMLC 死亡竞赛爱情喜剧 D.M.L.C. デスマッチラブコメ (豆瓣)"
 [bgm309416]: https://web.archive.org/web/20210331132759/https://bgm.tv/subject/309416 "デスマッチラブコメ！ - Bangumi 番组计划"
@@ -198,13 +199,13 @@ Nintendo Switch 时代的开发工具基本让移植游戏没有难度，让 KEM
 
 如果你对西尾维新的《物语系列》十分了解，那么《人狼村之谜》的复杂叙事以及相关知识点应该不会难倒你。
 
-<details>
-<summary>
+<details markdown=1><summary markdown="span">
 ⚠警告 点击这里以展开非核心剧透内容
 </summary>
 
 本质上这个游戏是推理游戏，所以主角总是站在阴谋谋划者的角度思考问题，从而破解目前的困境。
 第三个结局之后的「四周目」前部分其实是推理游戏的「解篇」，在跟玩家对答案，所以这段有些枯燥。
+
 这个游戏有许多的叙述性诡计，剧本本身逻辑上几乎没有漏洞，如果你发现逻辑不通顺的地方，
 那么很可能是作者刻意留下的违和感，以便之后回收伏笔。
 
@@ -333,7 +334,7 @@ amphibian
 在游戏即将发布智能手机版本的时候，为了吸引玩家，KEMCO 公司做了一个网页活动，每隔一段时间解锁**特别内容**，比如角色之间的互动、小故事与疑问解答等。
 最后在游戏上架 APP 商店时同步在活动页面给出了 OST 的下载地址。
 
-累计五首 320kbps 的 mp3 格式音乐，十分良心。下载地址: https://www.kemco.jp/applipage/android/12_game/tbns/sp/sp/sp_pc/chapter.html?chapter=3&page=8
+累计五首 320kbps 的 mp3 格式音乐，十分良心。下载地址: <https://www.kemco.jp/applipage/android/12_game/tbns/sp/sp/sp_pc/chapter.html?chapter=3&page=8>
 
 <!--
 https://web.archive.org/web/20210402054719/https://www.kemco.jp/applipage/android/12_game/tbns/sp/sp/sp_pc/chapter.html?chapter=3&page=8
@@ -363,8 +364,7 @@ https://web.archive.org/web/20210402054719/https://www.kemco.jp/applipage/androi
 
 不过实际游戏已经包含大量的高质量音乐文件，比特率均高于 1400kbps
 
-<details>
-<summary>
+<details markdown=1><summary markdown="span">
 点击这里以展开提取人狼村之谜音乐的方法，其他的 Unity 3D 游戏也通用。—— AssetStudio
 </summary>
 
@@ -372,7 +372,7 @@ https://web.archive.org/web/20210402054719/https://www.kemco.jp/applipage/androi
 首先进入 [AssetStudio](https://github.com/Perfare/AssetStudio) GitHub 页面下载最新版。然后解压并开启软件，
 步骤如下面的 mermaid 流程图。
 
-![/img/mermaid/KEMCO_ADV/AssetStudio_guide.svg](https://mermaid.ink/svg/eyJjb2RlIjoiZ3JhcGggTFJcbiAgQVvlvIDlkK8gQXNzZXRTdHVkaW9dIC0tPiB8RmlsZSAtPiBMb2FkIGZvbGRlcmZvbGRlcnwgQijliqDovb0gcmFnaW5nbG9vcF9EYXRhIOaWh-S7tuWkuSlcbiAgQiAtLT4gfEFzc2V0IExpc3R8IEN75a-75om-6Z-z5LmQfVxuICBDIC0tPiB85Y-z6ZSu56ys5LqM5Liq6YCJ6aG5fCBEW-iOt-W-l-mfs-S5kF0iLCJtZXJtYWlkIjp7InRoZW1lIjoiZGFyayJ9LCJ1cGRhdGVFZGl0b3IiOmZhbHNlfQ)
+[![/img/mermaid/KEMCO_ADV/AssetStudio_guide.svg](https://mermaid.ink/svg/eyJjb2RlIjoiZ3JhcGggTFJcbiAgQVvlvIDlkK8gQXNzZXRTdHVkaW9dIC0tPiB8RmlsZSAtPiBMb2FkIGZvbGRlcmZvbGRlcnwgQijliqDovb0gcmFnaW5nbG9vcF9EYXRhIOaWh-S7tuWkuSlcbiAgQiAtLT4gfEFzc2V0IExpc3R8IEN75a-75om-6Z-z5LmQfVxuICBDIC0tPiB85Y-z6ZSu56ys5LqM5Liq6YCJ6aG5fCBEW-iOt-W-l-mfs-S5kF0iLCJtZXJtYWlkIjp7InRoZW1lIjoiZGFyayJ9LCJ1cGRhdGVFZGl0b3IiOmZhbHNlfQ)](https://mermaid.ink/svg/eyJjb2RlIjoiZ3JhcGggTFJcbiAgQVvlvIDlkK8gQXNzZXRTdHVkaW9dIC0tPiB8RmlsZSAtPiBMb2FkIGZvbGRlcmZvbGRlcnwgQijliqDovb0gcmFnaW5nbG9vcF9EYXRhIOaWh-S7tuWkuSlcbiAgQiAtLT4gfEFzc2V0IExpc3R8IEN75a-75om-6Z-z5LmQfVxuICBDIC0tPiB85Y-z6ZSu56ys5LqM5Liq6YCJ6aG5fCBEW-iOt-W-l-mfs-S5kF0iLCJtZXJtYWlkIjp7InRoZW1lIjoiZGFyayJ9LCJ1cGRhdGVFZGl0b3IiOmZhbHNlfQ)
 
 ```mermaid
 AssetStudio_guide mermaid code RAW

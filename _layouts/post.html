@@ -27,8 +27,16 @@ layout: default
       {%- endif -%}</p>
   </header>
 
+  <div class="post-toc">
+    <details><summary>点击展开目录</summary>
+      {% include toc.html html=content %}
+    </details>
+  </div>
+
+  <br />
   <div class="post-content e-content" itemprop="articleBody">
-    {{ content }}
+    <!--  {% comment %} {{ content }} {% endcomment %} 已修改的部分 -->
+    {% include anchor_headings.html html=content anchorBody="#" %}
   </div>
 
   {%- if site.disqus.shortname -%}

@@ -21,9 +21,8 @@ exclude:
 include:
   - /text/word.txt
 
-
 # port
-# port: 14400
+port: 14400
 
 minima:
   skin: dark

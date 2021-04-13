@@ -3,10 +3,11 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+  <link rel="stylesheet" href="{{ " /assets/css/style.css" | relative_url }}">
 
   <title>{% if page.title %}{{ page.title }} - {{ site.SEOTitle }}{% else %}{{ site.SEOTitle }}{% endif %}</title>
-  <meta name="description" content="{% if page.description %}{{ page.description }}{% else if page.title%}{{page.title}}{% else%}{{ site.description }}{% endif %}">
+  <meta name="description"
+    content="{% if page.description %}{{ page.description }}{% else if page.title%}{{page.title}}{% else%}{{ site.description }}{% endif %}">
 
   <meta name="keywords" content="{{ site.keyword }}">
 
@@ -29,7 +30,6 @@
       padding-bottom: 3px;
       margin-top: 3px;
     }
-
   </style>
 
 </head>

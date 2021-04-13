@@ -116,8 +116,6 @@
   }
 }
 
-
-
 /**
  * Site footer
  */
@@ -132,7 +130,7 @@
 }
 
 .feed-subscribe .svg-icon {
-  padding: 5px 5px 2px 0
+  padding: 5px 5px 2px 0;
 }
 
 .contact-list,
@@ -176,7 +174,7 @@
 
 @media screen and (min-width: $on-medium) {
   .footer-col-wrapper {
-    display: flex
+    display: flex;
   }
 
   .footer-col {
@@ -194,8 +192,6 @@
     }
   }
 }
-
-
 
 /**
  * Page content
@@ -232,8 +228,6 @@
   @include relative-font-size(1.5);
 }
 
-
-
 /**
  * Posts
  */
@@ -255,8 +249,16 @@
 .post-content {
   margin-bottom: $spacing-unit;
 
-  h1, h2, h3 { margin-top: $spacing-unit * 2 }
-  h4, h5, h6 { margin-top: $spacing-unit }
+  h1,
+  h2,
+  h3 {
+    margin-top: $spacing-unit * 2;
+  }
+  h4,
+  h5,
+  h6 {
+    margin-top: $spacing-unit;
+  }
 
   h2 {
     @include relative-font-size(1.75);
@@ -286,24 +288,25 @@
   }
 }
 
-
 .social-media-list {
   display: table;
   margin: 0 auto;
   li {
     float: left;
     margin: 5px 10px 5px 0;
-    &:last-of-type { margin-right: 0 }
+    &:last-of-type {
+      margin-right: 0;
+    }
     a {
       display: block;
       padding: $spacing-unit / 4;
       border: 1px solid $border-color-01;
-      &:hover { border-color: $border-color-02 }
+      &:hover {
+        border-color: $border-color-02;
+      }
     }
   }
 }
-
-
 
 /**
  * Pagination navbar
@@ -312,7 +315,8 @@
   margin-bottom: $spacing-unit;
   @extend .social-media-list;
   li {
-    a, div {
+    a,
+    div {
       min-width: 41px;
       text-align: center;
       box-sizing: border-box;
@@ -330,13 +334,159 @@
   }
 }
 
-
-
 /**
  * Grid helpers
  */
 @media screen and (min-width: $on-large) {
   .one-half {
     width: calc(50% - (#{$spacing-unit} / 2));
+  }
+}
+
+// [<details>: The Details disclosure element - HTML: HyperText Markup Language - MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details)
+.post-toc {
+  details {
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    padding: 0.5em 0.5em 0;
+  }
+
+  summary {
+    font-weight: bold;
+    margin: -0.5em -0.5em 0;
+    padding: 0.5em;
+  }
+
+  details[open] {
+    padding: 0.5em;
+  }
+
+  details[open] summary {
+    border-bottom: 1px solid #aaa;
+    margin-bottom: 0.5em;
+  }
+}
+
+.post-content {
+  :root {
+    --contentHeight: 30vh;
+    --sectionWidth: 700px;
+  }
+
+  * {
+    outline: 0;
+    box-sizing: border-box;
+  }
+
+  body {
+    background-color: #000;
+  }
+
+  section {
+    max-width: var(--sectionWidth);
+    margin: 40px auto;
+    width: 97%;
+    color: #fff;
+  }
+
+  summary {
+    display: block;
+    cursor: pointer;
+    padding: 10px;
+    // font-family: "Space Mono", monospace;
+    font-size: 22px;
+    transition: 0.3s;
+    border-bottom: 2px solid;
+    user-select: none;
+    margin-bottom: 20px;
+  }
+
+  details > div {
+    display: flex;
+    flex-wrap: wrap;
+    overflow: auto;
+    height: 100%;
+    user-select: none;
+    padding: 0 20px;
+    // font-family: "Karla", sans-serif;
+    line-height: 1.5;
+  }
+
+  details > div > img {
+    align-self: flex-start;
+    max-width: 100%;
+    margin-top: 20px;
+  }
+
+  details > div > p {
+    flex: 1;
+  }
+
+  details[open] > summary {
+    color: red;
+  }
+
+  @media (min-width: 768px) {
+    details[open] > div > p {
+      opacity: 0;
+      animation-name: showContent;
+      animation-duration: 0.6s;
+      animation-delay: 0.2s;
+      animation-fill-mode: forwards;
+      margin: 0;
+      padding-left: 20px;
+    }
+
+    details[open] > div {
+      animation-name: slideDown;
+      animation-duration: 0.3s;
+      animation-fill-mode: forwards;
+    }
+
+    details[open] > div > img {
+      opacity: 0;
+      height: 100%;
+      margin: 0;
+      animation-name: showImage;
+      animation-duration: 0.3s;
+      animation-delay: 0.15s;
+      animation-fill-mode: forwards;
+    }
+  }
+
+  @keyframes slideDown {
+    from {
+      opacity: 0;
+      height: 0;
+      padding: 0;
+    }
+
+    to {
+      opacity: 1;
+      height: var(--contentHeight);
+      padding: 20px;
+    }
+  }
+
+  @keyframes showImage {
+    from {
+      opacity: 0;
+      clip-path: inset(50% 0 50% 0);
+      transform: scale(0.4);
+    }
+
+    to {
+      opacity: 1;
+      clip-path: inset(0 0 0 0);
+    }
+  }
+
+  @keyframes showContent {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
   }
 }
