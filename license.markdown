@@ -18,6 +18,8 @@ description: 这里是存放来不是我所创作的东西的来源归属的地�
 
 布局文件(_includes) 使用了 [allejo](https://github.com/allejo) 制作的纯 Liquid 程序 [jekyll-anchor-headings](https://github.com/allejo/jekyll-anchor-headings) 与 [jekyll-toc](https://github.com/allejo/jekyll-toc)。
 
+feed.xml 文件代码可能来自 [heiswayi/thinkspace](https://github.com/heiswayi/thinkspace/blob/master/feed.xml)。
+
 + CSS
   + [\<details>: The Details disclosure element - HTML: HyperText Markup Language - MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details)
   + [animated details element — week 11/52](https://codepen.io/knyttneve/pen/LamBMP)
