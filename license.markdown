@@ -16,6 +16,14 @@ description: 这里是存放来不是我所创作的东西的来源归属的地�
 
 主题是 Jekyll 默认主题 [minima](https://github.com/jekyll/minima/blob/master/LICENSE.txt)，被我修改后的产物，主要是看在网页没有外部依赖以及不错的暗色主题。
 
+布局文件(_includes) 使用了 [allejo](https://github.com/allejo) 制作的纯 Liquid 程序 [jekyll-anchor-headings](https://github.com/allejo/jekyll-anchor-headings) 与 [jekyll-toc](https://github.com/allejo/jekyll-toc)。
+
++ CSS
+  + [\<details>: The Details disclosure element - HTML: HyperText Markup Language - MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details)
+  + [animated details element — week 11/52](https://codepen.io/knyttneve/pen/LamBMP)
+
+底部的 Disqus 评论点击启动代码使用了 [How to Load Disqus onClick Event on Demand](https://techwelkin.com/how-to-load-disqus-onclick-event)。
+
 关于图片
 --------
 
@@ -41,6 +49,7 @@ License页面的原始背景图片是 [ncoll36](https://www.deviantart.com/ncoll
 像素化的页面背景由 Pixelator + Pixels.svg (Pixels to SVG Conversion via \<canvas>) 制成，
 许可证为 [Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License](http://creativecommons.org/licenses/by-nc-nd/3.0/)
 
-404页面来源自 [PIRO4D](https://pixabay.com/zh/users/PIRO4D-2707530/) 的
+<!-- 过去的404页面来源自 [PIRO4D](https://pixabay.com/zh/users/PIRO4D-2707530/) 的
 [space window light blue room](https://pixabay.com/zh/photos/space-window-light-blue-room-3403032/)，
 许可证为 [Simplified Pixabay License](https://pixabay.com/zh/service/license/)
+-->
