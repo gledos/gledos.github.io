@@ -8,11 +8,14 @@ header-img-object-position: 100% top
 tags:
     - 历史
 description: 日本游戏公司 KEMCO 的文字冒险游戏(ADV)全解
+my_variable: 2021-04-02-KEMCO-ADV-games.markdown
 ---
 
 本文即将完成，目前还差 黑色传令 与 OST 原声音乐资源的章节未完成。
 
 <!-- more -->
+
+<!-- {% comment %}{:toc}{% endcomment %} -->
 
 封面图片来源自 pixiv 的 [#レイジングループ 「レイジングループ」本日発売！ - 鈍なくら ＆ RNAぷろと的插畫 - pixiv](https://www.pixiv.net/artworks/53864290) - [鈍なくら ＆ RNAぷろと](https://www.pixiv.net/users/4541020)
 
@@ -133,6 +136,7 @@ Nintendo Switch 时代的开发工具基本让移植游戏没有难度，让 KEM
 
 [^taptap_qrdxl]: [ADV トガビトノセンリツ（製品版） - KEMCO - Pre-registration - TapTap Discover Superb Games](https://web.archive.org/web/20210402072232if_/https://www.taptap.com/app/12206)
 
+<div markdown = 1  class="post0">
 <details markdown=1><summary markdown="span">
 ⚠警告 点击这里以展开非核心剧透内容
 </summary>
@@ -140,6 +144,7 @@ Nintendo Switch 时代的开发工具基本让移植游戏没有难度，让 KEM
 最终的结局好或坏看人的理解，对我来说，能释怀就是好结局。
 
 </details>
+</div>
 
 ### 死亡游戏恋爱喜剧
 
@@ -217,6 +222,7 @@ Nintendo Switch 时代的开发工具基本让移植游戏没有难度，让 KEM
 
 如果你对西尾维新的《物语系列》十分了解，那么《人狼村之谜》的复杂叙事以及相关知识点应该不会难倒你。
 
+<div markdown = 1  class="post0">
 <details markdown=1><summary markdown="span">
 ⚠警告 点击这里以展开非核心剧透内容
 </summary>
@@ -228,6 +234,7 @@ Nintendo Switch 时代的开发工具基本让移植游戏没有难度，让 KEM
 那么很可能是作者刻意留下的违和感，以便之后回收伏笔。
 
 </details>
+</div>
 
 ### 脱出 2人きりの部屋
 
@@ -386,6 +393,7 @@ https://web.archive.org/web/20210402054719/https://www.kemco.jp/applipage/androi
 
 不过实际游戏已经包含大量的高质量音乐文件，比特率均高于 1400kbps
 
+<div markdown = 1  class="post0">
 <details markdown=1><summary markdown="span">
 点击这里以展开提取人狼村之谜音乐的方法，其他的 Unity 3D 游戏也通用。—— AssetStudio
 </summary>
@@ -452,6 +460,7 @@ graph TD
 ```
 
 </details>
+</div>
 
 ### 人狼村之谜小说
 
