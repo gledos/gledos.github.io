@@ -15,14 +15,10 @@ my_variable: 2021-04-02-KEMCO-ADV-games.markdown
 
 <!-- more -->
 
-<!-- {% comment %}{:toc}{% endcomment %} -->
-
 封面图片来源自 pixiv 的 [#レイジングループ 「レイジングループ」本日発売！ - 鈍なくら ＆ RNAぷろと的插畫 - pixiv](https://www.pixiv.net/artworks/53864290) - [鈍なくら ＆ RNAぷろと](https://www.pixiv.net/users/4541020)
 
 KEMCO 公司
 ----------
-
-<!-- {#KEMCO} -->
 
 KEMCO 背后的母公司 Kotobuki Solution 有限公司是一家比较长寿但不太出名的游戏公司，上世纪末主要制作家用游戏机上的 RPG 游戏与本地化游戏，
 公司拆分、重组的部分比较复杂(谷歌翻译不动)，如果感兴趣请参考日文维基页面——[ケムコ](https://ja.wikipedia.org/wiki/ケムコ)。
@@ -30,8 +26,6 @@ KEMCO 背后的母公司 Kotobuki Solution 有限公司是一家比较长寿但�
 Nintendo Switch 时代的开发工具基本让移植游戏没有难度，让 KEMCO 再次制作游戏到掌机主机以及个人电脑。
 
 ### RPG
-
-<!-- {#RPG} -->
 
 其实 RPG 游戏是 KEMCO 的主业，根据官网统计: 有 [65][gl65] 款 RPG 游戏登录 iPhone/iPad，
 [95][gl95] 款 RPG 游戏登录 Android，在 Google Play 的开发者简介中是这么写的:
@@ -47,8 +41,6 @@ Nintendo Switch 时代的开发工具基本让移植游戏没有难度，让 KEM
 
 ### ADV
 
-<!-- {#ADV} -->
-
 刚开始制作的是类神秘岛(Myst-like)[^Myst-like]的密室脱出 ADV 游戏，发售了4部密室脱出的 ADV 游戏后，
 就是 KEMCO 的「死亡游戏系列」首作《鈍色のバタフライ》，详情参考下一节《游戏简介》内容。
 
@@ -57,11 +49,7 @@ Nintendo Switch 时代的开发工具基本让移植游戏没有难度，让 KEM
 游戏简介
 --------
 
-<!-- {#introduction} -->
-
 ### 鈍色のバタフライ
-
-{#Dull_color_butterfly}
 
 | 游戏名           | 常见中文名 | 其他名称     | App Store            | Google Play        |
 | ---------------- | ---------- | ------------ | -------------------- | ------------------ |
@@ -95,8 +83,6 @@ Nintendo Switch 时代的开发工具基本让移植游戏没有难度，让 KEM
 [^rl_credits]: [credits - レイジングループ](https://web.archive.org/web/20201024204520/https://www.kemco.jp/sp/games/rl/ja/credits.html)
 
 ### 囚人的旋律
-
-<!-- {#Togabitonosenritsu} -->
 
 | 游戏名             | 常见中文名 | 其他名称   | 豆瓣评分            | Bangumi 评分           | App Store            | Google Play                 |
 | ------------------ | ---------- | ---------- | ------------------- | ---------------------- | -------------------- | --------------------------- |
@@ -138,7 +124,7 @@ Nintendo Switch 时代的开发工具基本让移植游戏没有难度，让 KEM
 
 <div markdown = 1  class="post0">
 <details markdown=1><summary markdown="span">
-⚠警告 点击这里以展开非核心剧透内容
+🚨警告 点击这里以展开非核心剧透内容
 </summary>
 
 最终的结局好或坏看人的理解，对我来说，能释怀就是好结局。
@@ -148,13 +134,11 @@ Nintendo Switch 时代的开发工具基本让移植游戏没有难度，让 KEM
 
 ### 死亡游戏恋爱喜剧
 
-<!-- {#DMLC} -->
-
 | 游戏名                                | 常见中文名       | 豆瓣评分                      | Bangumi 评分            | App Store            | Google Play     |
 | ------------------------------------- | ---------------- | ----------------------------- | ----------------------- | -------------------- | --------------- |
 | D.M.L.C -デスマッチラブコメ-          | 死亡游戏恋爱喜剧 | [评价人数不足][db27102632]    | [6.7分 推荐][bgm309416] | [4.5分][id693912484] | [4.5分][gpdmlc] |
-| 其他名称                              | 其他名称         | 其他名称                      |                         |                      |                 |
-| Ｄ．Ｍ．Ｌ．Ｃ．-デスマッチラブコメ‪- | 死亡竞赛恋爱喜剧 | D.M.L.C. Deathmatch Love Come |                         |                      |                 |
+| 其他名称                              | 其他名称         | 其他名称                      | 其他名称                |                      |                 |
+| Ｄ．Ｍ．Ｌ．Ｃ．-デスマッチラブコメ‪-  | 死亡竞赛恋爱喜剧 | D.M.L.C. Deathmatch Love Come | DMLC                    |                      |                 |
 
 [db27102632]: https://web.archive.org/web/20210402071959/https://www.douban.com/game/27102632/ "DMLC 死亡竞赛爱情喜剧 D.M.L.C. デスマッチラブコメ (豆瓣)"
 [bgm309416]: https://web.archive.org/web/20210331132759/https://bgm.tv/subject/309416 "デスマッチラブコメ！ - Bangumi 番组计划"
@@ -168,8 +152,6 @@ Nintendo Switch 时代的开发工具基本让移植游戏没有难度，让 KEM
 由于《人狼村之谜》的火热，《死亡游戏恋爱喜剧》的重制版也登陆了 PC PS4 Nintendo Switch，重制版包含高清图像与高保真的音效。
 
 ### 黑色传令
-
-<!-- {#kurocoma} -->
 
 | 游戏名             | 常见中文名 | 豆瓣评分            | Bangumi 评分            | App Store           | Google Play       |
 | ------------------ | ---------- | ------------------- | ----------------------- | ------------------- | ----------------- |
@@ -191,8 +173,6 @@ Nintendo Switch 时代的开发工具基本让移植游戏没有难度，让 KEM
 由于 gledos 我还未完成本游戏，所以目前没有这个游戏的评价
 
 ### 人狼村之谜
-
-<!-- {#Raging_Loop} -->
 
 | 游戏名           | 常见中文名      | 豆瓣评分            | Bangumi 评分          | App Store                  | Google Play                     | metacritic                        |
 | ---------------- | --------------- | ------------------- | --------------------- | -------------------------- | ------------------------------- | --------------------------------- |
@@ -224,7 +204,7 @@ Nintendo Switch 时代的开发工具基本让移植游戏没有难度，让 KEM
 
 <div markdown = 1  class="post0">
 <details markdown=1><summary markdown="span">
-⚠警告 点击这里以展开非核心剧透内容
+🚨警告 点击这里以展开非核心剧透内容
 </summary>
 
 本质上这个游戏是推理游戏，所以主角总是站在阴谋谋划者的角度思考问题，从而破解目前的困境。
@@ -238,12 +218,10 @@ Nintendo Switch 时代的开发工具基本让移植游戏没有难度，让 KEM
 
 ### 脱出 2人きりの部屋
 
-<!-- {#escapefutari} -->
-
 虽然这是一款密室脱出类的游戏，但有剧情、多结局，这应该开发商想探索新的游戏类型方向的作品，不过可能反响平平，
 所以 Android 免费版以及 iOS 版都下架了，只剩下无评分的 Android 高级版。
 
-### 最悪なる災厄人間に捧ぐ sasasagu}
+### 最悪なる災厄人間に捧ぐ
 
 | 游戏名                 | 常见中文名         | 豆瓣评分                   | Bangumi 评分            | App Store           | Google Play       |
 | ---------------------- | ------------------ | -------------------------- | ----------------------- | ------------------- | ----------------- |
@@ -266,12 +244,16 @@ KEMCO 与 Water Phoenix 联合制作，插图和场景由 Water Phoenix 的「R�
 
 [^72777]: [最悪なる災厄人間に捧ぐのレビューと序盤攻略 - アプリゲット](https://web.archive.org/web/20210408161034/https://appget.com/appli/view/72777/)
 
-### 千里の棋譜 ～現代将棋ミステリー～
+<!--
+[『最悪なる災厄人間に捧ぐ』レビュー。残酷で切なくて優しい、珠玉のADV。 - 旅情電波発信局](https://web.archive.org/web/20201125114903/https://denji-ch.hatenablog.com/entry/2018/09/22/171450) 
+-->
 
-<!-- {#senrinokifu} -->
+### 千里の棋譜 ～現代将棋ミステリー～
 
 该游戏不是「死亡竞赛」题材的 ADV，也不是 amphibian 创作的故事，从 steam 以及其他商店的评价来看几乎没有人气，
 也许普通的悬疑故事难以「打动人心(物理)」吧，人气很低。
+
+如果你对这款游戏感兴趣，MIKE 写的 [『千里の棋譜 ～現代将棋ミステリー～』レビュー！将棋を知らない人にこそ遊んでほしい将棋アドベンチャー！【PR】 - 旅情電波発信局](https://web.archive.org/web/20201125103243/https://denji-ch.hatenablog.com/entry/2020/02/28/031134) 值得一看。
 
 amphibian
 ---------
@@ -395,23 +377,25 @@ https://web.archive.org/web/20210402054719/https://www.kemco.jp/applipage/androi
 
 <div markdown = 1  class="post0">
 <details markdown=1><summary markdown="span">
-点击这里以展开提取人狼村之谜音乐的方法，其他的 Unity 3D 游戏也通用。—— AssetStudio
+📄额外内容 点击这里以展开提取人狼村之谜音乐的方法，其他的 Unity 3D 游戏也通用。—— AssetStudio
 </summary>
 
 因为人狼村之谜没有 Linux 以及 Mac 版本，所以这里就不详细介绍 Windows 以外的桌面平台解包 Unity 3D 的方法。
 首先进入 [AssetStudio](https://github.com/Perfare/AssetStudio) GitHub 页面下载最新版。然后解压并开启软件，
 步骤如下面的 mermaid 流程图。
 
-[![/img/mermaid/KEMCO_ADV/AssetStudio_guide.svg](https://mermaid.ink/svg/eyJjb2RlIjoiZ3JhcGggTFJcbiAgQVvlvIDlkK8gQXNzZXRTdHVkaW9dIC0tPiB8RmlsZSAtPiBMb2FkIGZvbGRlcmZvbGRlcnwgQijliqDovb0gcmFnaW5nbG9vcF9EYXRhIOaWh-S7tuWkuSlcbiAgQiAtLT4gfEFzc2V0IExpc3R8IEN75a-75om-6Z-z5LmQfVxuICBDIC0tPiB85Y-z6ZSu56ys5LqM5Liq6YCJ6aG5fCBEW-iOt-W-l-mfs-S5kF0iLCJtZXJtYWlkIjp7InRoZW1lIjoiZGFyayJ9LCJ1cGRhdGVFZGl0b3IiOmZhbHNlfQ)](https://mermaid.ink/svg/eyJjb2RlIjoiZ3JhcGggTFJcbiAgQVvlvIDlkK8gQXNzZXRTdHVkaW9dIC0tPiB8RmlsZSAtPiBMb2FkIGZvbGRlcmZvbGRlcnwgQijliqDovb0gcmFnaW5nbG9vcF9EYXRhIOaWh-S7tuWkuSlcbiAgQiAtLT4gfEFzc2V0IExpc3R8IEN75a-75om-6Z-z5LmQfVxuICBDIC0tPiB85Y-z6ZSu56ys5LqM5Liq6YCJ6aG5fCBEW-iOt-W-l-mfs-S5kF0iLCJtZXJtYWlkIjp7InRoZW1lIjoiZGFyayJ9LCJ1cGRhdGVFZGl0b3IiOmZhbHNlfQ)
+![/img/mermaid/KEMCO_ADV/AssetStudio_guide.svg](https://mermaid.ink/svg/eyJjb2RlIjoiZ3JhcGggTFJcbiAgQVvlvIDlkK8gQXNzZXRTdHVkaW9dIC0tPiB8RmlsZSAtPiBMb2FkIGZvbGRlcmZvbGRlcnwgQijliqDovb0gcmFnaW5nbG9vcF9EYXRhIOaWh-S7tuWkuSlcbiAgQiAtLT4gfEFzc2V0IExpc3R8IEN75a-75om-6Z-z5LmQfVxuICBDIC0tPiB85Y-z6ZSu56ys5LqM5Liq6YCJ6aG5fCBEW-iOt-W-l-mfs-S5kF0iLCJtZXJtYWlkIjp7InRoZW1lIjoiZGFyayJ9LCJ1cGRhdGVFZGl0b3IiOmZhbHNlfQ)
 
+<details markdown=1><summary markdown="span">
+💾mermaid code RAW
+</summary>
 ```mermaid
-AssetStudio_guide mermaid code RAW
--------------------------------------------------------------------------------
-graph TD
+graph LR
   A[开启 AssetStudio] --> |File -> Load folderfolder| B(加载 ragingloop_Data 文件夹)
   B --> |Asset List| C{寻找音乐}
   C --> |右键第二个选项| D[获得音乐]
 ```
+</details>
 
 <!--
 + https://mermaid.ink/
@@ -478,7 +462,10 @@ amphibian 的《からす洋館の殺人》(乌鸦洋馆杀人事件)。[^dchb_r
 + [【レイジングループ/短篇小说】乌鸦洋馆杀人事件-起之章](https://kanda-yuu.lofter.com/post/1e929c82_12c50d2a)
 + [【レイジングループ/短篇小说】乌鸦洋馆杀人事件-承之章](https://kanda-yuu.lofter.com/post/1e929c82_12c50d33)
 + [【レイジングループ/短篇小说】乌鸦洋馆杀人事件-转之章](https://kanda-yuu.lofter.com/post/1e929c82_12c50d35)
-+ 决之章链接已失效
++ 决之章链接 lofter 已失效，作者在微博刊上了图片版[^kanda_z]
+  + [P1](https://archive.is/H9AXC/7f803310aaeae09549ff99edbb355d8b0645a6be.jpg "https://archive.is/H9AXC")
+  + [P2](https://archive.is/tfBJy/5cf4819953f97876ec077445ae88505c9d3ac28a.jpg "https://archive.is/tfBJy")
+  + [P3](https://archive.is/rahIa/bbac4ba9632ca558d9fe9321e2ba6a29d3c3159b.jpg "https://archive.is/rahIa")
 + 译者的话 [一个发现涨粉超级惶恐的置顶 - 存在 lofter](https://kanda-yuu.lofter.com/post/1e929c82_12d1403c)
 
 <!--
@@ -493,6 +480,12 @@ OCR: https://ocr.space/
 + [【レイジングループ/短篇小说】乌鸦洋馆杀人事件-转之章](https://web.archive.org/web/20180618040350/http://kanda-yuu.lofter.com/post/1e929c82_12c50d35)
 + 正在 OCR
 + [一个发现涨粉超级惶恐的置顶-存在。](https://web.archive.org/web/20180620144903/http://kanda-yuu.lofter.com/post/1e929c82_12d1403c)
+
++ 懒Lambda 也保存了决之章图片 
++ [懒Lambda的动态-哔哩哔哩](https://archive.is/Rp0Cu "https://t.bilibili.com/416133557335581350")
++ [_ 懒Lambda _ 哔哩哔哩相簿](https://archive.is/QsD05 "https://h.bilibili.com/83615522")
++ [上半部分](https://archive.is/QsD05/18491b382775d940c149e0ccd47958223b83ea90.jpg)
++ [下半部分](https://archive.is/QsD05/f269ee066e53164c2eb6ab2712b95364993625b5.jpg)
 -->
 
 <!--
