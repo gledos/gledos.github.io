@@ -13,6 +13,8 @@ show_excerpts: false # set to true to show excerpts on the homepage
 highlighter: rouge
 permalink: /:title.html
 
+encoding: UTF-8
+
 exclude:
   - README.md
   - run.bat

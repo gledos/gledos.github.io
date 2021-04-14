@@ -25,7 +25,7 @@ layout: default
       {%- if forloop.last == false %}, {% endif -%}
       {% endfor %}
       {%- endif -%}
-      <span style="margin-left: 50px;">全文约 {{ page.content | strip_html | strip_newlines | number_of_words: "auto"  }} 字</span>
+      <span style="margin-left: 50px;">全文约 {{ page.content | strip_html | strip_newlines | number_of_words: "auto" }} 字</span>
     </p>
     
   </header>
