@@ -7,6 +7,7 @@ tags:
     - 历史
     - 游戏
 description: steam在大陆网络问题的捕风捉影，是一个记录关于 Steam 在大陆包括但不限于网络的记录
+file-name: 2018-07-12-wegame-steam.markdown
 ---
 <!-- 谁杀死了Steam？ -->
 

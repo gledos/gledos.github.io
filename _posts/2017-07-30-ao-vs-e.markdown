@@ -3,77 +3,94 @@ layout: post
 title: 敖厂长侮辱喷神James和暗讽老E的事情经过
 published: true
 date: '2017-7-30 10:00:00 +0800'
-lastupdate: '2017-08-03 09:05:49 +0800'
+lastupdate: '2021-04-15 14:30:00 +0800'
 tags:
     - 历史
     - 人物
     - 游戏
 description: 敖厂长侮辱喷神James和暗讽老E的事情经过
+file-name: 2017-07-30-ao-vs-e.markdown
 ---
 注意:本资料不完整，因为我并没有在当时就开始观察，很可能错过了一些捕风捉影的情报。
 这篇博文不予评价事件，仅仅作记录。
 
 <!-- more -->
 
-1. `2013-03-23 14:32`**敖厂长**在**敖厂长吧**发布了帖子[呵呵!](https://tieba.baidu.com/p/2228916821)
+<!--
+没有展示的资料
++ [【视频】国外狂宅狂喷中国RMB游戏_反tx吧_百度贴吧](https://archive.is/168do "https://tieba.baidu.com/p/2902972816")
++ [带字幕！国外胖宅狂喷中国游戏！ - 业界新闻讨论 - 小T - Powered by Discuz! Archiver](https://archive.is/vCnBa "https://www.xiaot.com/archiver/tid-908118.html")
++ [国外胖宅狂喷中国游戏! 翻墙看到弄来的,俺已经打上字幕和翻译了,大家感谢我吧!【空寂之时吧】_百度贴吧](https://archive.is/CAv8z "https://jump2.bdimg.com/p/2402548160")
+-->
 
-    >1楼:![和老E雷同的海报](/img/ao-vs-e/99668184.jpg)
+1. `2013-03-23 14:32` **敖厂长** 在 **敖厂长吧** 发布了帖子 [呵呵!](https://archive.is/PQp5y "https://tieba.baidu.com/p/2228916821")
+
+    > 1楼:![和老E雷同的海报](/img/ao-vs-e/99668184.jpg)
     >
-    >22楼:厂长，你又学老E。。。嘛，高产当然好，但是就别像老E似的，刚开始高产后来玩脱了...
+    > 22楼:厂长，你又学老E。。。嘛，高产当然好，但是就别像老E似的，刚开始高产后来玩脱了...
 
-2. `2013-06-17`**56网**ID为**大仙WC**的网民发布了视频[带字幕！国外胖宅狂喷中国游戏！](http://www.56.com/u96/v_OTI4OTE2NTM.html)
+2. `2013-06-17` **56网** ID为 **大仙WC** 的网民发布了视频 [带字幕！国外胖宅狂喷中国游戏！](https://archive.is/R7IYr "http://www.56.com/u96/v_OTI4OTE2NTM.html")
 
-    >视频简介:翻墙看到弄来的，俺已经打上字幕和翻译了，大家感谢我吧！
+    > 视频简介: 翻墙看到弄来的，俺已经打上字幕和翻译了，大家感谢我吧！[^ave_ar]
 
-3. `2013-06-17`**酷6网**ID为**橡皮擦不掉的记忆**的网民发布了视频[国外胖宅狂喷中国游戏！骨灰级玩家的精彩吐槽！！](http://v.ku6.com/show/ejpWY03zzYD2LnSVrX-VGg...html)
+    [^ave_ar]: [视频: 带字幕！国外胖宅狂喷中国游戏！ - 玩家论坛 - 猛龙岛-生活消费门户网站-mldlife.com -](https://archive.is/Gsq6Z "http://www.mldlife.com/thread-2774-1-1.html")
 
-    >gledos注:该视频字幕与**大仙WC**的字幕一样，而且**橡皮擦不掉的记忆**搬运了大量的视频共800多个。
+3. `2013-06-17` **酷6网** ID为 **橡皮擦不掉的记忆** 的网民发布了视频 [❌ 国外胖宅狂喷中国游戏！骨灰级玩家的精彩吐槽！！](#http://v.ku6.com/show/ejpWY03zzYD2LnSVrX-VGg...html)
 
-4. `2013-06-18`**游讯网**发布新闻[国外神喷詹姆斯狂喷中国游戏：中国没有史诗级游戏](http://www.yxdown.com/news/201306/93093.html)
+    > gledos 注: 该视频字幕与 **大仙WC** 的字幕一样，而且 **橡皮擦不掉的记忆** 搬运了大量的视频共800多个。
 
-    >著名的外国神喷詹姆斯最近又有了新的动作，矛头直指中国游戏，视频中这个国外胖宅把中国的游戏说的一无是处，包含了中国单机和网游中多个游戏。虽然这些的确无可厚非，但从一个外国人嘴里说出的确让小编心里有些不舒服。（话说你们丫国外就没有2B游戏了？）
+4. `2013-06-18` **游讯网** 发布新闻 [国外神喷詹姆斯狂喷中国游戏：中国没有史诗级游戏](https://archive.is/vDtQS "http://www.yxdown.com/news/201306/93093.html")
+
+    > 著名的外国神喷詹姆斯最近又有了新的动作，矛头直指中国游戏，视频中这个国外胖宅把中国的游戏说的一无是处，
+    > 包含了中国单机和网游中多个游戏。虽然这些的确无可厚非，但从一个外国人嘴里说出的确让小编心里有些不舒服。（话说你们丫国外就没有2B游戏了？）
     >
-    >外国胖宅狂喷中国游戏：
+    > 外国胖宅狂喷中国游戏：
     >
-    >[优酷视频窗口 http://v.youku.com/v_show/id_XNTcyMDIxNzAw.html](http://v.youku.com/v_show/id_XNTcyMDIxNzAw.html)视频已被屏蔽
+    > [优酷视频窗口 http://v.youku.com/v_show/id_XNTcyMDIxNzAw.html](http://v.youku.com/v_show/id_XNTcyMDIxNzAw.html) 视频已被屏蔽
     >
-    >貌似在这哥们眼里WOW才是王道？
+    > 貌似在这哥们眼里WOW才是王道？
     >
-    >[图片挂了]
+    > [图片挂了]
     >
-    >[已有245人评论]
+    > [已有245人评论]
 
-5. `2013-06-18 11:54`**LCPD拉登**在GTA5吧发布了帖子[https://tieba.baidu.com/p/2401608677](国外胖宅狂喷中国游戏！)
+5. `2013-06-18 11:54` **LCPD拉登** 在GTA5吧发布了帖子 [国外胖宅狂喷中国游戏！](https://archive.is/lxHPf "https://tieba.baidu.com/p/2401608677")
 
-    >[优酷视频窗口 http://v.youku.com/v_show/id_XNTcyMDIxNzAw.html](http://v.youku.com/v_show/id_XNTcyMDIxNzAw.html)视频已被屏蔽
+    <!-- > [优酷视频窗口 http://v.youku.com/v_show/id_XNTcyMDIxNzAw.html](http://v.youku.com/v_show/id_XNTcyMDIxNzAw.html) 视频已被屏蔽 -->
 
-6. `2013-06-20`**腾讯新闻**发布了新闻[国外胖宅狂喷中国游戏：玩家都是战五渣](https://games.qq.com/a/20130620/003686.htm)
+6. `2013-06-20` **腾讯新闻** 发布了新闻 [国外胖宅狂喷中国游戏：玩家都是战五渣 腾讯网](https://web.archive.org/web/20210125233228/https://games.qq.com/a/20130620/003686.htm)
 
-    >近日，国外著名喷神JAMES最近又有了新动作，矛头直指中国游戏。
+    > 近日，国外著名喷神JAMES最近又有了新动作，矛头直指中国游戏。
     >
-    >视频中这个国外胖宅把中国的游戏说的一无是处：你们游戏里的英雄就是一个白痴，花那么多的时间和精力，给他升级到很高的水平，然后霸气的出去在PK中，死在了一个RMB玩家手中，这就是你们的游戏，简直愚蠢至极。（点击下方图片观看视频）
+    > 视频中这个国外胖宅把中国的游戏说的一无是处：你们游戏里的英雄就是一个白痴，花那么多的时间和精力，
+    > 给他升级到很高的水平，然后霸气的出去在PK中，死在了一个RMB玩家手中，这就是你们的游戏，简直愚蠢至极。（点击下方图片观看视频）
     >
-    >[视频](https://v.qq.com/x/page/o00129s3wth.html)
+    > [国外胖宅狂喷中国游戏_腾讯视频](https://archive.is/5gSIz "https://v.qq.com/x/page/o00129s3wth.html")
     >
-    >看到这里想必很多国人玩家不能接受了。但仔细想来JAMES的观点的确无可厚非，只是从一个外国人嘴里说出的确让人心里有些不舒服。如果国产游戏能更加平衡，相信也自然会让这些崇尚魔兽等欧美游戏的国外玩家“乖乖闭上嘴”。
+    > 看到这里想必很多国人玩家不能接受了。但仔细想来JAMES的观点的确无可厚非，只是从一个外国人嘴里说出的确让人心里有些不舒服。
+    > 如果国产游戏能更加平衡，相信也自然会让这些崇尚魔兽等欧美游戏的国外玩家“乖乖闭上嘴”。
 
-7. `2013-06-20`**[酷6网](http://so.ku6.com/search?q=排骨屌丝逆袭暴走+狂骂国外喷神詹姆斯)**、**[腾讯视频](https://v.qq.com/x/page/w0114pwl8ft.html)**、**[56网](http://www.56.com/u81/v_OTMwMTIxMTA.html)**、**[优酷](https://i.youku.com/i/UNjIwMTYzMDc2)**、**[另一个优酷的](http://v.youku.com/v_show/id_XNTczMzQ3MTcy.html)**、**[土豆](https://video.tudou.com/v/XMjIyNjQ5MjA0OA==.html)** 出现了名为 "排骨屌丝逆袭暴走 狂骂国外喷神詹姆斯" 的视频。
+7. `2013-06-20` [酷6网](http://so.ku6.com/search?q=排骨屌丝逆袭暴走+狂骂国外喷神詹姆斯)、[腾讯视频](https://v.qq.com/x/page/w0114pwl8ft.html)、
+   [56网](http://www.56.com/u81/v_OTMwMTIxMTA.html)、[优酷](https://i.youku.com/i/UNjIwMTYzMDc2)、
+   [另一个优酷的](http://v.youku.com/v_show/id_XNTczMzQ3MTcy.html)、[土豆](https://video.tudou.com/v/XMjIyNjQ5MjA0OA==.html)
+   出现了名为 "排骨屌丝逆袭暴走 狂骂国外喷神詹姆斯" 的视频。
 
-    >其中几个的简介是：从ACFUN转来的，貌似是针对前两天那个嘲讽中国玩家的詹姆斯胖子的，有没有人帮忙翻译成英文，我发到推特上去……
+    > 其中几个的简介是：从ACFUN转来的，貌似是针对前两天那个嘲讽中国玩家的詹姆斯胖子的，有没有人帮忙翻译成英文，我发到推特上去……
     >
-    >并且发布视频的up主里有4个在2014-04-09同时发布了标题为 "觉醒新世界 《新QQ仙侠传》新仙侠震撼上线" 的视频。[土豆](http://id.tudou.com/i/UMjUyMDcwNzIwOA)、[酷6](http://boke.ku6.com/22447703)、[56](http://i.56.com/u/r537465778/)、[优酷](http://i.youku.com/i/UNjIwMTYzMDc2)。
+    > 并且发布视频的up主里有4个在2014-04-09同时发布了标题为 "觉醒新世界 《新QQ仙侠传》新仙侠震撼上线" 的视频。
+    > [土豆](http://id.tudou.com/i/UMjUyMDcwNzIwOA)、[酷6](http://boke.ku6.com/22447703)、[56](http://i.56.com/u/r537465778/)、[优酷](http://i.youku.com/i/UNjIwMTYzMDc2)。
 
-8. `2013-06-22 15:30`**敖厂长**在**哔哩哔哩**发布了视频[敖厂长回击喷神詹姆斯（改）](http://www.jijidown.com/video/av612970/)(原视频已经删除，哔哩哔哩唧唧存留了发布时间)
+8. `2013-06-22 15:30` **敖厂长** 在 **哔哩哔哩** 发布了视频 [敖厂长回击喷神詹姆斯（改）](http://www.jijidown.com/video/av612970/)(原视频已经删除，哔哩哔哩唧唧存留了发布时间)
 
-9. `2013-06-22 15:40`**敖厂长**在**ACFUN**发布了视频[敖厂长回击喷神詹姆斯（改）](http://www.acfun.cn/v/ac708989)
+9. `2013-06-22 15:40` **敖厂长** 在 **ACFUN** 发布了视频 [敖厂长回击喷神詹姆斯（改）](https://web.archive.org/web/20180226012215/https://www.acfun.cn/v/ac708989)
 
-10. `2013-06-22 16:04`**敖厂长**在**敖厂长吧**发布了帖子[敖厂长再度出击,凶残鸟语九级质疑外国胖屌！！！](https://tieba.baidu.com/p/2409899521)
+10. `2013-06-22 16:04` **敖厂长** 在 **敖厂长吧** 发布了帖子 [敖厂长再度出击,凶残鸟语九级质疑外国胖屌！！！](https://archive.is/sCbg0 "https://tieba.baidu.com/p/2409899521")
 
     >1楼:观看地址：[http://www.bilibili.tv/video/av612970/](https://www.bilibili.com/video/av612970)![镇楼图片](/img/ao-vs-e/88378118.jpg)
     >
     >99楼:厂长，喷神james不是他吧
 
-11. `2013-06-24 10:41:37`**网易新闻**的游戏频道发布了新闻[中国游戏无史诗？ 西游引爆中外玩家口水大战](http://play.163.com/13/0624/10/924LA3DJ00314J6K.html)
+11. `2013-06-24 10:41:37` **网易新闻** 的游戏频道发布了新闻 [中国游戏无史诗？ 西游引爆中外玩家口水大战](http://play.163.com/13/0624/10/924LA3DJ00314J6K.html)
 
     >厂商特供稿，以下内容并不代表网易言论
     >

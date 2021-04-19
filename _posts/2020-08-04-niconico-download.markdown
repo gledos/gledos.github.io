@@ -6,6 +6,7 @@ published: true
 tags:
     - 指南
 description: 一份 M3U8 视频的下载指南
+file-name: 2020-08-04-niconico-download.markdown
 ---
 
 由于部分网站的视频使用的是 M3U8/MPD/F4M/ISM 播放列表把一堆视频片段按顺序播放，无法使用通用的手段进行视频下载，

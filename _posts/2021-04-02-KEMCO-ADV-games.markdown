@@ -8,6 +8,7 @@ header-img-object-position: 100% top
 tags:
     - 历史
 description: 日本游戏公司 KEMCO 的文字冒险游戏(ADV)全解
+file-name: 2021-04-02-KEMCO-ADV-games.markdown
 ---
 
 本文即将完成，目前还差 黑色传令 与 OST 原声音乐资源的章节未完成。

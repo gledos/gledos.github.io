@@ -27,7 +27,7 @@ layout: default
       {%- endif -%}
       <span style="margin-left: 50px;">全文约 {{ content | strip_html | strip_newlines | size | divided_by: 2 }} 字</span>
     </p>
-    
+
   </header>
 
   <div markdown=1 class="post-toc">
@@ -66,3 +66,4 @@ layout: default
     var load_button = d.getElementById('disqus-comments');
     load_button.parentNode.removeChild(load_button);
   }
+</script>
