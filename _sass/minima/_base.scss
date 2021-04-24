@@ -100,13 +100,44 @@ figcaption {
  */
 ul, ol {
   margin-left: $spacing-unit;
+  
 }
 
 li {
-  > ul,
+  margin-top: 3px;
+  margin-bottom: 3px;
+  > ul ,
   > ol {
-    margin-bottom: 0;
+    margin-bottom: 2px;
+    padding-bottom: 2px;
   }
+}
+
+
+
+/**
+ * Ruby 注音 音标
+ */
+ruby.ruby_default {
+  > rt {
+    font-size: 13px;
+  }
+}
+
+ruby.ruby_big {
+	font-size: 150%;
+}
+
+ruby.ruby_bigger {
+	font-size: 200%;
+}
+
+ruby.ruby_large {
+	font-size: 250%;
+}
+
+ruby.ruby_larger {
+	font-size: 300%;
 }
 
 

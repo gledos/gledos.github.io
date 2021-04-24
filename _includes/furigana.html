@@ -1,0 +1,74 @@
+{% capture furigana_workspace %}
+    {% comment %}
+        Creative Commons 0 - No Copyright
+
+        The person who associated a work with this deed has **dedicated**
+        the work to the public domain by waiving all of his or her rights
+        to the work worldwide under copyright law, including all related
+        and neighboring rights, to the extent allowed by law.
+
+        You can copy, modify, distribute and perform the work, even for
+        commercial purposes, all without asking permission. See Other
+        Information below.
+
+        This license is acceptable for Free Cultural Works.
+        
+        Other Information
+
+        In no way are the patent or trademark rights of any person affected
+        by CC0, nor are the rights that other persons may have in the work
+        or in how the work is used, such as [publicity or privacy][^1] rights.
+
+        [^1]: https://wiki.creativecommons.org/Frequently_Asked_Questions#When_are_publicity_rights_relevant.3F
+
+        Unless expressly stated otherwise, the person who associated a
+        work with this deed makes no warranties about the work, and
+        disclaims liability for all uses of the work, to the fullest
+        extent permitted by applicable law.
+        
+        When using or citing the work, you should not imply [endorsement][^2]
+        by the author or the affirmer.
+
+        [^2]: https://creativecommons.org/publicdomain/zero/1.0/
+    {% endcomment %}
+    {% comment %}
+        Version 0.1.0
+          https://github.com/gledos/jekyll-furigana
+
+        "Liquid 真的是相当完备，简单的文字处理基本都可以实现" gledos
+
+        由于 <rtc> <rb> 标签浏览器支持度不高，所以本 Liquid 模板不会包含这两个标签
+
+        Usage / 使用方法:
+            {% include furigana.html text="测试" furigana="test" %}
+
+        You can freely modify this template to any name, such as ruby.html etc. 
+        你可以自由的修改本模板为任意名称，比如 ruby.html、yinbiao.html、zhuyin.html 等等
+
+        Parameters / 必要参数:
+            * text          (string) : "no_text"     - Text in Kana or Chinese characters to be annotated
+                                                     - 需要用旁注标记标注的文字
+            * furigana      (string) : "no_furigana" - Hiragana, romanization or other transcription; shown above the Base text
+                                                     - 文字上方的注音
+
+        Optional Parameters / 可选参数:
+            * class         (string) : "default"     - a CSS class to the furigana
+                                       "big"         - Enlarge the text by 150%. 将文字放大 150%
+                                       "bigger"      - Enlarge the text by 200%. 将文字放大 200%
+                                       "large"       - Enlarge the text by 250%. 将文字放大 250%
+                                       "larger"      - Enlarge the text by 300%. 将文字放大 300%
+
+        Output:
+            根据需求，需要留意前后空格
+    {% endcomment %}
+
+    {% capture jekyll_furigana %}{% endcapture %}
+    {% assign ruby_text = include.text | default: "no_text" %}
+    {% assign ruby_furigana = include.furigana | default: "no_furigana" %}
+    {% assign css_class = include.class | default: "default" %}
+    {% capture r_bracket %}<rp>(</rp><rt>{% endcapture %}
+    {% capture l_bracket %}</rt><rp>)</rp>{% endcapture %}
+
+    {% capture jekyll_furigana %}{{ jekyll_furigana }}<ruby class=ruby_{{ css_class }}>{{ ruby_text }}{{ r_bracket }}{{ ruby_furigana }}{{ l_bracket }}</ruby>{% endcapture %}
+
+{% endcapture %}{% assign furigana_workspace = "" %}{{ jekyll_furigana }}

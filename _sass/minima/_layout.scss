@@ -252,12 +252,14 @@
   h1,
   h2,
   h3 {
-    margin-top: $spacing-unit * 2;
+    margin-top: $spacing-unit * 2 / 3;
+    // margin-top: $spacing-unit * 2; 已修改
   }
   h4,
   h5,
   h6 {
-    margin-top: $spacing-unit;
+    margin-top: $spacing-unit / 2;
+    // margin-top: $spacing-unit; 已修改
   }
 
   h2 {
