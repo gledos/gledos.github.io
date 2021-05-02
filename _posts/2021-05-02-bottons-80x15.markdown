@@ -1,0 +1,71 @@
+---
+title: 我们仍未知道那天所看见的 80x15 的名字
+layout: post
+published: false
+# header-img: "img/bg/pixiv_53864290.svg"
+# header-img-object-position: 100% top
+# date: '2021-05-02 00:00:00'
+tags:
+    - 历史
+    - 复古
+description: xxxx
+file-name: 2021-05-02-bottons-80x15.markdown
+---
+
+## 这是什么
+
+<!-- {% include furigana.html text="一,二,三" furigana="one,two,tr" class="default" type="B" %} -->
+
+这个像徽章一样的按钮，可以快速可视化的提示此网页使用了什么技术支持了什么网页标准，
+比如标上 FLASH, PHP, W3C - XHTML 1.0 等等。或者联系与交流方式比如 电话号码, 邮箱, RSS, MSN 等等。
+光溜溜的文字友链不够吸引用户去瞧瞧，于是带有动画效果的 GIF 徽章按钮，甚至会有宣传短片一样的精美程度。
+
+它有这些名字:
+
+1. Steal These Buttons(STB)
+2. antipixel
+3. {% include furigana.html text="badge web" furigana="网页徽章" class="default" %}
+4. The 80x15 buttons
+
+## 详细参数
+
+由于没有标准化组织/社团进行定义，所以相关的定义一目了然，所见即所得。
+
++ 必须遵守
+  + 使用限定的长度与宽度
++ 常见遵守
+  + 图片的格式使用 PNG 或 GIF
+  + 使用高度为 5px 的免费字体[Silkscreen](https://web.archive.org/web/20200303050007/https://kottke.org/plus/type/silkscreen/)
+  + 字母全部使用大写
+  + 不使用透明度通道
+  + 像素艺术
++ 不常见的玩法
+
+|        |        |
+| ------ | ------ |
+| 36x13  |        |
+| 80x15  | 最常用 |
+| 88x31  |        |
+| 110x32 |        |
+| 120x60 |        |
+| 125x50 |        |
+| 180x60 |        |
+
+## 历史
+
+> 下面出现的 RSS 有时也包含 Atom，因为这俩的关系就像 BBS 与 其他的论坛软件一样。
+
+首先，因为一些原因导致 RSS 没有被标准化，这可能限制了 RSS 对于用户的友好性的发展，
+比如在 2004年的9月 之前，RSS 的标志是以橘色长方形，里面写上白色的 RSS 来表示。
+2004年9月 {% include furigana.html text="斯蒂芬,·,霍兰德" furigana="Stephen, ,Horlander" class="default" type="B" %} Firefox 创建了现在无处不在的
+
++ 流行的 RSS 标志与使用了统一标志的 RSS 标志的 BBC 聚合页面
+  + [BBC 中文網 - RSS - 真正簡易聚合信息服務(RSS)](https://web.archive.org/web/20060323211605/http://news.bbc.co.uk/chinese/trad/hi/institutional/rss/)
+  + [BBC 中文網 - RSS - 真正簡易聚合信息服務(RSS)](https://web.archive.org/web/20080307193354/http://news.bbc.co.uk/chinese/trad/hi/institutional/rss/)
+
+它由 antipixel 设计
+
+你对这些 XX 感兴趣吗，想要尽可能的收集吗？这些是许多人们收集到的按钮徽章。
+
++ [..::littleoslo::..貼紙地圖 - Sticker Map](https://web.archive.org/web/20210502034423/https://www.littleoslo.com/cnt/stickermap.htm)
++ 动态Gif [steal these buttons](https://web.archive.org/web/20080409224019/http://stealthesebuttons.terrababy.nl/)

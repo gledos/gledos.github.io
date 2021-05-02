@@ -41,7 +41,7 @@ Nintendo Switch 时代的开发工具基本让移植游戏没有难度，让 KEM
 
 ### ADV
 
-刚开始制作的是{% include furigana.html text="类神秘岛" furigana="Myst-like" %}[^Myst-like]的密室脱出 ADV 游戏，发售了4部密室脱出的 ADV 游戏后，
+刚开始制作的是{% include furigana.html text="类神秘岛" furigana="Myst-like" class="default" %}[^Myst-like]的密室脱出 ADV 游戏，发售了4部密室脱出的 ADV 游戏后，
 就是 KEMCO 的「死亡游戏系列」首作《鈍色のバタフライ》，详情参考下一节《游戏简介》内容。
 
 [^Myst-like]: 类神秘岛的游戏大概有以下特征: 调查场景中的物品，收集可收纳进物品栏的工具和线索，解开谜题开启新场景。
@@ -98,7 +98,7 @@ Nintendo Switch 时代的开发工具基本让移植游戏没有难度，让 KEM
 
 > 首发于 Android & iOS 2012年6月27日
 
-《囚人的旋律》是一款「{% include furigana.html text="死亡游戏" furigana="デスゲーム" %}」题材的多结局文字 ADV 游戏，
+《囚人的旋律》是一款「{% include furigana.html text="死亡游戏" furigana="デスゲーム" class="default" %}」题材的多结局文字 ADV 游戏，
 其题材的源头大概是高见广春与的《大逃杀》小说及其电影，在《大逃杀》之后诞生了众多「死亡游戏」题材的作品，
 比如奥浩哉的《杀戮都市》[^gantz]、金泽伸明的《国王游戏》、奈须蘑菇的《Fate/stay night》[^btkc]、えすの サカエ的《未来日记》、
 壁水羽的《端脑》、苏珊·柯林斯的《饥饿游戏》、打越钢太郎的《极限脱出ADV 善人死亡》等。
@@ -147,7 +147,7 @@ Nintendo Switch 时代的开发工具基本让移植游戏没有难度，让 KEM
 
 > 首发于 Android & iOS 2013年4月23日
 
-该作比起之前的黑深残(黑暗、深刻、残酷)作品要友好一些，悬疑之外还有搞笑元素。
+该作比起之前的{% include furigana.html text="黑,深,残" furigana="黑暗,深刻,残酷" class="default" type="B" %}的作品要友好一些，悬疑之外还有搞笑元素。
 
 由于《人狼村之谜》的火热，《死亡游戏恋爱喜剧》的重制版也登陆了 PC PS4 Nintendo Switch，重制版包含高清图像与高保真的音效。
 

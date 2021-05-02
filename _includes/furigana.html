@@ -1,43 +1,34 @@
 {% capture furigana_workspace %}
     {% comment %}
-        Creative Commons 0 - No Copyright
-
-        The person who associated a work with this deed has **dedicated**
-        the work to the public domain by waiving all of his or her rights
-        to the work worldwide under copyright law, including all related
-        and neighboring rights, to the extent allowed by law.
-
-        You can copy, modify, distribute and perform the work, even for
-        commercial purposes, all without asking permission. See Other
-        Information below.
-
-        This license is acceptable for Free Cultural Works.
+        MIT License
+    
+        Copyright (c) 2021 gledos
         
-        Other Information
-
-        In no way are the patent or trademark rights of any person affected
-        by CC0, nor are the rights that other persons may have in the work
-        or in how the work is used, such as [publicity or privacy][^1] rights.
-
-        [^1]: https://wiki.creativecommons.org/Frequently_Asked_Questions#When_are_publicity_rights_relevant.3F
-
-        Unless expressly stated otherwise, the person who associated a
-        work with this deed makes no warranties about the work, and
-        disclaims liability for all uses of the work, to the fullest
-        extent permitted by applicable law.
+        Permission is hereby granted, free of charge, to any person obtaining a copy
+        of this software and associated documentation files (the "Software"), to deal
+        in the Software without restriction, including without limitation the rights
+        to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+        copies of the Software, and to permit persons to whom the Software is
+        furnished to do so, subject to the following conditions:
         
-        When using or citing the work, you should not imply [endorsement][^2]
-        by the author or the affirmer.
-
-        [^2]: https://creativecommons.org/publicdomain/zero/1.0/
+        The above copyright notice and this permission notice shall be included in all
+        copies or substantial portions of the Software.
+        
+        THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+        IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+        FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+        AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+        LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+        OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+        SOFTWARE.
     {% endcomment %}
     {% comment %}
-        Version 0.1.0
-          https://github.com/gledos/jekyll-furigana
+        Version 0.2.0
+            https://github.com/gledos/jekyll-furigana
 
-        "Liquid 真的是相当完备，简单的文字处理基本都可以实现" gledos
+        Liquid 真的是相当完备，简单的文字处理基本都可以实现，这个模板主要功能是标音(Phonetic)
 
-        由于 <rtc> <rb> 标签浏览器支持度不高，所以本 Liquid 模板不会包含这两个标签
+        由于 <rtc> <rb> 标签浏览器支持度不全，所以本 Liquid 模板所实现的注音不会包含这两个标签
 
         Usage / 使用方法:
             {% include furigana.html text="测试" furigana="test" %}
@@ -52,23 +43,42 @@
                                                      - 文字上方的注音
 
         Optional Parameters / 可选参数:
-            * class         (string) : "default"     - a CSS class to the furigana
-                                       "big"         - Enlarge the text by 150%. 将文字放大 150%
-                                       "bigger"      - Enlarge the text by 200%. 将文字放大 200%
-                                       "large"       - Enlarge the text by 250%. 将文字放大 250%
-                                       "larger"      - Enlarge the text by 300%. 将文字放大 300%
+            * class         (string) : "null"        - ruby_null CSS class
+                                       "default"     - a CSS class to the furigana
+                                       "big"         - Enlarge the text by 150%. / 将文字放大 150%
+                                       "bigger"      - Enlarge the text by 200%. / 将文字放大 200%
+                                       "large"       - Enlarge the text by 250%. / 将文字放大 250%
+                                       "larger"      - Enlarge the text by 300%. / 将文字放大 300%
+            * type          (string) : "A"           - single word single furigana
+                                       "B"           - more word more furigana
 
         Output:
-            根据需求，需要留意前后空格
+            根据显示效果的需求，需要留意模板前后空格
     {% endcomment %}
 
-    {% capture jekyll_furigana %}{% endcapture %}
     {% assign ruby_text = include.text | default: "no_text" %}
     {% assign ruby_furigana = include.furigana | default: "no_furigana" %}
-    {% assign css_class = include.class | default: "default" %}
-    {% capture r_bracket %}<rp>(</rp><rt>{% endcapture %}
-    {% capture l_bracket %}</rt><rp>)</rp>{% endcapture %}
+    {% assign css_class = include.class | default: "null" %}
+    {% assign rubt_type = include.type | default: "A" %}
+    {% assign loop_num = 0 %}
+    {% capture l_bracket %}<rp>(</rp><rt>{% endcapture %}
+    {% capture r_bracket %}</rt><rp>)</rp>{% endcapture %}
+    
+    {% capture jekyll_furigana %}<ruby class=ruby_{{ css_class }}>{% endcapture %}
 
-    {% capture jekyll_furigana %}{{ jekyll_furigana }}<ruby class=ruby_{{ css_class }}>{{ ruby_text }}{{ r_bracket }}{{ ruby_furigana }}{{ l_bracket }}</ruby>{% endcapture %}
+    {% case rubt_type %}
+        {% when "A" %}
+            {% capture jekyll_furigana %}{{ jekyll_furigana }}{{ ruby_text }}{{ l_bracket }}{{ ruby_furigana }}{{ r_bracket }}{% endcapture %}
+            {% capture jekyll_furigana %}{{ jekyll_furigana }}</ruby>{% endcapture %}
+        {% when "B" %}
+            {% assign ruby_text_list = ruby_text | split: ',' %}
+            {% assign ruby_furigana_list = ruby_furigana | split: ',' %}
+            {% for item in ruby_furigana_list %}
+                {% capture jekyll_furigana %}{{ jekyll_furigana }}{{ ruby_text_list | slice: loop_num }}{{ l_bracket }}{{ ruby_furigana_list | slice: loop_num }}{{ r_bracket }}{% endcapture %}
+                {% assign loop_num = loop_num | plus:1 %}
+            {% endfor}
+        {% else %}
+            {% capture jekyll_furigana %}type error{% endcapture %}
+    {% endcase %}
 
 {% endcapture %}{% assign furigana_workspace = "" %}{{ jekyll_furigana }}
