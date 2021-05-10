@@ -12,6 +12,16 @@ description: xxxx
 file-name: 2021-05-02-bottons-80x15.markdown
 ---
 
+## W3C Validator Logos
+
+最早的流行徽章，应该是 2000年6月 由 W3C 制作 Validator Logos，[^w3c_logo]这是一个表示网页通过验证符合标准的徽章。
+
+[^w3c_logo]: [W3C Logo Usage](https://web.archive.org/web/20000620175650/http://www.w3.org/Consortium/Legal/logo-usage-20000308)
+
+因为那时没有好用的编辑器与网页开发者控制台，以及拥有徽章虚荣心，所以这个验证徽章比较流行。[^webfx_validation]
+
+[^webfx_validation]: [Problems with Using Website Validation Services](https://web.archive.org/web/20210502095201/https://www.webfx.com/blog/web-design/problems-with-using-website-validation-services/)
+
 ## 这是什么
 
 <!-- {% include furigana.html text="一,二,三" furigana="one,two,tr" class="default" type="B" %} -->
@@ -56,7 +66,7 @@ file-name: 2021-05-02-bottons-80x15.markdown
 > 下面出现的 RSS 有时也包含 Atom，因为这俩的关系就像 BBS 与 其他的论坛软件一样。
 
 首先，因为一些原因导致 RSS 没有被标准化，这可能限制了 RSS 对于用户的友好性的发展，
-比如在 2004年的9月 之前，RSS 的标志是以橘色长方形，里面写上白色的 RSS 来表示。
+比如在 2004年9月 之前，RSS 的标志是以橘色长方形，里面写上白色的 RSS 来表示。
 2004年9月 {% include furigana.html text="斯蒂芬,·,霍兰德" furigana="Stephen, ,Horlander" class="default" type="B" %} Firefox 创建了现在无处不在的
 
 + 流行的 RSS 标志与使用了统一标志的 RSS 标志的 BBC 聚合页面

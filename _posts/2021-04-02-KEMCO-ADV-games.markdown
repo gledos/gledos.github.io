@@ -11,7 +11,7 @@ description: 日本游戏公司 KEMCO 的文字冒险游戏(ADV)全解
 file-name: 2021-04-02-KEMCO-ADV-games.markdown
 ---
 
-本文即将完成，目前还差 黑色传令 与 OST 原声音乐资源的章节未完成。
+日本游戏公司 KEMCO 的文字冒险游戏(ADV)全解，包括游戏简介、汉化资源、音乐资源。
 
 <!-- more -->
 
@@ -115,7 +115,7 @@ Nintendo Switch 时代的开发工具基本让移植游戏没有难度，让 KEM
 不会有过多心理负担，所以豪华的血腥盛宴会容易成为 PVE 类型的亮点。
 
 《囚人的旋律》里的规则是一种特殊的狼人杀，角色之间的关系主要是高中管弦部的社团成员。毫无疑问，这款游戏属于黑暗向
-在通关一周目后解锁「隐藏模式」(隠しモード)获得更多的信息，以及付费 DLC 的五个额外故事，
+在通关一周目后解锁「{% include furigana.html text="隐藏模式" furigana="隠しモード" class="default" %}」获得更多的信息，以及付费 DLC 的五个额外故事，
 该游戏为之后的集大成之作《人狼村之谜》埋下了种子。
 
 可能这是许多玩家第一次接触「死亡游戏」题材的游戏，所以手机游戏平台 TapTap 上的评分看起来很高，高达 9.6 分。[^taptap_qrdxl]
@@ -170,7 +170,11 @@ Nintendo Switch 时代的开发工具基本让移植游戏没有难度，让 KEM
 
 [^amphibianjn]: [KEMCO(ケムコ)のADVシリーズ - アニヲタWiki(仮) - atwiki（アットウィキ）](https://web.archive.org/web/20210402090801/https://w.atwiki.jp/aniwotawiki/pages/38591.html)
 
-由于 gledos 我还未完成本游戏，所以目前没有这个游戏的评价
+《《黑色传令》比起其他的》比起其他的 KEMCO ADV 缺少了「{% include furigana.html text="隐藏模式" furigana="隠しモード" class="default" %}」，
+转而将其他角色的心理描写与后日谈当作 EXTRA，
+导致其中多个主线的关键细节只能从 {% include furigana.html text="特点" furigana="EXTRA" class="default" %} 里了解，显得缺少诚意。
+
+《黑色传令》与《囚人的旋律》大概是相同的世界观，因为都有提到一个阻止「人生赌博」的 NGO。
 
 ### 人狼村之谜
 
