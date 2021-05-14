@@ -1,21 +1,23 @@
 ---
 title: 常见 CLI 软件 SOCKS5 代理方式全解
 layout: post
-published: true
+published: false
 # header-img: "img/bg/pixiv_53864290.svg"
 # header-img-object-position: 100% top
 # date: '2021-05-02 00:00:00'
 tags:
     - 指南
 description: git, ruby, ffmpeg 等常见 CLI 软件代理方式全解
-# file-name: 2021-05-02-bottons-80x15.markdown
+file-name: 2021-05-16-all-about-software-proxy.markdown
 ---
+
+施工中
+
+<!-- more -->
 
 通常 CLI({% include furigana.html text="命令行,界面" furigana="Command-line,interface" class="default" type="B" %}) 软件
 没有明显的 SOCKS5 代理设置，需要手动查阅软件的使用手册，不过可能 SOCKS5 代理功能在一些软件中不属于常用功能，
 所以手册中也不一定会提到代理设置的方法。
-
-<!-- more -->
 
 下面出现的 SOCKS5 端口默认 1080，http 为 2080，https 与 SOCKS4 代理少见，所以就不在正文里提了。
 
@@ -89,6 +91,7 @@ $env:https_proxy = "http://127.0.0.1:2080"
 
 + pip
 + wegt
++ ffmpeg
 
 ## git
 
