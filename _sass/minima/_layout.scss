@@ -49,7 +49,7 @@
     padding-top: 10px;
     text-align: center;
 
-    > svg path {
+    >svg path {
       fill: $border-color-03;
     }
   }
@@ -63,12 +63,12 @@
     cursor: pointer;
   }
 
-  input ~ .trigger {
+  input~.trigger {
     clear: both;
     display: none;
   }
 
-  input:checked ~ .trigger {
+  input:checked~.trigger {
     display: block;
     padding-bottom: 5px;
   }
@@ -83,6 +83,7 @@
     &:not(:last-child) {
       margin-right: 0;
     }
+
     margin-left: 20px;
   }
 
@@ -100,7 +101,7 @@
       display: none;
     }
 
-    input ~ .trigger {
+    input~.trigger {
       display: block;
     }
 
@@ -111,6 +112,7 @@
       &:not(:last-child) {
         margin-right: 20px;
       }
+
       margin-left: auto;
     }
   }
@@ -213,7 +215,7 @@
   margin-left: 0;
   list-style: none;
 
-  > li {
+  >li {
     margin-bottom: $spacing-unit;
   }
 }
@@ -255,6 +257,7 @@
     margin-top: $spacing-unit * 2 / 3;
     // margin-top: $spacing-unit * 2; 已修改
   }
+
   h4,
   h5,
   h6 {
@@ -285,6 +288,7 @@
   h5 {
     @include relative-font-size(1.125);
   }
+
   h6 {
     @include relative-font-size(1.0625);
   }
@@ -293,16 +297,20 @@
 .social-media-list {
   display: table;
   margin: 0 auto;
+
   li {
     float: left;
     margin: 5px 10px 5px 0;
+
     &:last-of-type {
       margin-right: 0;
     }
+
     a {
       display: block;
       padding: $spacing-unit / 4;
       border: 1px solid $border-color-01;
+
       &:hover {
         border-color: $border-color-02;
       }
@@ -316,13 +324,16 @@
 .pagination {
   margin-bottom: $spacing-unit;
   @extend .social-media-list;
+
   li {
+
     a,
     div {
       min-width: 41px;
       text-align: center;
       box-sizing: border-box;
     }
+
     div {
       display: block;
       padding: $spacing-unit / 4;
@@ -369,129 +380,46 @@
   }
 }
 
-// [animated details element — week 11/52](https://codepen.io/knyttneve/pen/LamBMP)
-.post-content {
-  .post0 {
-    :root {
-      --contentHeight: 30vh;
-      --sectionWidth: 700px;
-    }
+// [image hover effect — week 10/52](https://codepen.io/knyttneve/pen/YgZbLO)
 
-    * {
-      outline: 0;
-      box-sizing: border-box;
-    }
+.gallery {
+  display: flex;
+  width: 100%;
+  padding: 4% 2%;
+  box-sizing: border-box;
+  height: 50%;
+}
 
-    body {
-      background-color: #000;
-    }
+.gallery>figure {
+  flex: 1;
+  overflow: hidden;
+  transition: .5s;
+  margin: 0 0.5%;
+  box-shadow: 0 10px 10px rgba(0, 0, .1, .1);
+  line-height: 0;
+}
 
-    section {
-      max-width: var(--sectionWidth);
-      margin: 40px auto;
-      width: 97%;
-      color: #fff;
-    }
+.gallery>figure>img {
+  width: 200%;
+  height: calc(100% - 30px);
+  object-fit: contain;
+  transition: .5s;
+}
 
-    summary {
-      display: block;
-      cursor: pointer;
-      padding: 10px;
-      // font-family: "Space Mono", monospace;
-      font-size: 22px;
-      transition: 0.3s;
-      border-bottom: 2px solid;
-      user-select: none;
-      margin-bottom: 20px;
-    }
+.gallery>figure>figcaption {
+  // font-size: 3.8vh;
+  // display: block;
+  text-align: center;
+  // height: 10vh;
+  // line-height: 2.6;
+  padding-top: 14px;
+}
 
-    details > div {
-      display: flex;
-      flex-wrap: wrap;
-      overflow: auto;
-      height: 100%;
-      user-select: none;
-      padding: 0 20px;
-      // font-family: "Karla", sans-serif;
-      line-height: 1.5;
-    }
+.gallery>figure:hover {
+  flex: 1 1 45%;
+}
 
-    details > div > img {
-      align-self: flex-start;
-      max-width: 100%;
-      margin-top: 20px;
-    }
-
-    details > div > p {
-      flex: 1;
-    }
-
-    details[open] > summary {
-      color: red;
-    }
-
-    @media (min-width: 768px) {
-      details[open] > div > p {
-        opacity: 0;
-        animation-name: showContent;
-        animation-duration: 0.6s;
-        animation-delay: 0.2s;
-        animation-fill-mode: forwards;
-        margin: 0;
-        padding-left: 20px;
-      }
-
-      details[open] > div {
-        animation-name: slideDown;
-        animation-duration: 0.3s;
-        animation-fill-mode: forwards;
-      }
-
-      details[open] > div > img {
-        opacity: 0;
-        height: 100%;
-        margin: 0;
-        animation-name: showImage;
-        animation-duration: 0.3s;
-        animation-delay: 0.15s;
-        animation-fill-mode: forwards;
-      }
-    }
-
-    @keyframes slideDown {
-      from {
-        opacity: 0;
-        height: 0;
-        padding: 0;
-      }
-
-      to {
-        opacity: 1;
-        height: var(--contentHeight);
-        padding: 20px;
-      }
-    }
-
-    @keyframes showImage {
-      from {
-        opacity: 0;
-        clip-path: inset(50% 0 50% 0);
-        transform: scale(0.4);
-      }
-
-      to {
-        opacity: 1;
-        clip-path: inset(0 0 0 0);
-      }
-    }
-
-    @keyframes showContent {
-      from {
-        opacity: 0;
-      }
-      to {
-        opacity: 1;
-      }
-    }
-  }
+.gallery>figure:hover>img {
+  width: 100%;
+  height: 100%;
 }

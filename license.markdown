@@ -26,6 +26,11 @@ feed.xml 文件代码可能来自 [heiswayi/thinkspace](https://github.com/heisw
 
 底部的 Disqus 评论点击启动代码使用了 [How to Load Disqus onClick Event on Demand](https://techwelkin.com/how-to-load-disqus-onclick-event)。
 
+### Gallery
+
++ [leepenney/markdown-gallery](https://github.com/leepenney/markdown-gallery) —— [GPL-3.0 License](https://github.com/leepenney/markdown-gallery/blob/master/LICENSE)
++ Mert Cukuren/[image hover effect — week 10/52](https://codepen.io/knyttneve/pen/YgZbLO)
+
 关于图片
 --------
 

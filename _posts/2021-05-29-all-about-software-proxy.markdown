@@ -1,17 +1,17 @@
 ---
-title: 常见 CLI 软件 SOCKS5 代理方式全解
+title: 常见 CLI 软件 HTTP & SOCKS5 代理方式全解
 layout: post
-published: false
+published: true
 # header-img: "img/bg/pixiv_53864290.svg"
 # header-img-object-position: 100% top
 # date: '2021-05-02 00:00:00'
 tags:
     - 指南
-description: git, ruby, ffmpeg 等常见 CLI 软件代理方式全解
-file-name: 2021-05-16-all-about-software-proxy.markdown
+description: git, ruby, ffmpeg 等常见 CLI 软件 HTTP & SOCKS5 代理方式全解
+file-name: 2021-05-29-all-about-software-proxy.markdown
 ---
 
-施工中
+git, ruby, ffmpeg 等常见 CLI 软件 HTTP & SOCKS5 代理方式全解，让你不再忍受于低速与断线的困扰
 
 <!-- more -->
 
@@ -23,14 +23,16 @@ file-name: 2021-05-16-all-about-software-proxy.markdown
 
 如果没有特殊说明，通常下面提到的方法都是全平台(Windows, Linux, macOS)支持的。
 
-## home 文件夹
+home 文件夹
+-----------
 
-因为习惯原因 `~/` 文件夹指 *nix 系统中的 $HOME 文件夹，[^Tilde_Expansion]软件的设置常会保存在这个地方。
-引申到 Windows 下指 %USERPROFILE%("%HOMEDRIVE%%HOMEPATH%") 这个地方，也就是 `C:\Users\你的用户名` 这个地方。
+因为习惯原因 `~/` 文件夹指 *nix 系统中的 `$HOME` 文件夹，[^Tilde_Expansion]软件的设置常会保存在这个地方。
+引申到 Windows 下指 `%USERPROFILE%`(`%HOMEDRIVE%%HOMEPATH%`) 这个地方，也就是 `C:\Users\你的用户名` 这个地方。
 
 [^Tilde_Expansion]: [Tilde Expansion (Bash Reference Manual)](https://www.gnu.org/software/bash/manual/html_node/Tilde-Expansion.html)
 
-## Windows 自带代理设置
+Windows 自带代理设置
+--------------------
 
 ### 系统图形化代理设置
 
@@ -52,7 +54,10 @@ Windows 10 中，打开 `设置`，进入 `网络和 Internet` 选项就能看�
 
 \* 注意，星号标记的软件默认情况下(不使用扩展)在 Windows 下仅支持系统中的代理设置。
 
-### 环境变量代理设置
+环境变量代理设置
+----------------
+
+### Windows 10
 
 Windows 10 中，右键桌面上的此电脑，进入 `属性`，应该就能看到 `高级系统设置`，然后就出现 `环境变量` 的入口。
 
@@ -67,8 +72,8 @@ http_proxy      http://127.0.0.1:2080
 https_proxy     http://127.0.0.1:2080
 
 如果有用户名与密码则这么写:
-http_proxy      http://用户名:密码@127.0.0.1:2080
-https_proxy     http://用户名:密码@127.0.0.1:2080
+http_proxy      http://[用户名]:[密码]@127.0.0.1:2080
+https_proxy     http://[用户名]:[密码]@127.0.0.1:2080
 ```
 
 也可以使用临时环境变量，在 CMD 里输入下面的命令:
@@ -92,14 +97,20 @@ $env:https_proxy = "http://127.0.0.1:2080"
 + pip
 + wegt
 + ffmpeg
++ bundle
 
-## git
+### Linux
+
+环境变量能使大部分 Linux 软件成功使用上代理。
+
+git
+---
 
 通常对 git 进行代理只需要修改 `~/.gitconfig` 这个文件。[^gist_zzqcn]
 
 [^gist_zzqcn]: [zzqcn 对 git 设置和取消代理的长评论 - gist](https://gist.github.com/laispace/666dd7b27e9116faece6#gistcomment-2836692)
 
-用户名和密码身份验证可以使用常用写法 `proxy = socks5://用户名:密码@代理服务器地址:端口` 搞定，除了 SOCKS5 也能填入 http 代理地址。[^gist_evantoli]
+用户名和密码身份验证可以使用常用写法 `proxy = socks5://[用户名]:[密码]@[代理服务器地址]:[端口]` 搞定，除了 SOCKS5 也能填入 http 代理地址。[^gist_evantoli]
 
 [^gist_evantoli]: [Configure Git to use a proxy - gist](https://gist.github.com/evantoli/f8c23a37eb3558ab8765)
 
@@ -117,11 +128,68 @@ $env:https_proxy = "http://127.0.0.1:2080"
     proxy = socks5://127.0.0.1:1080
 ```
 
-## ssh
+gem
+---
 
-目前我还没有成功让 ssh 使用 SOCKS5 代理，相关资料中说与 ProxyCommand 这个参数有关。
+gem 可以直接使用 `--http-proxy` 参数进行代理，如下面的命令。[^gem_proxy]
 
-Linux 用户可以先参考这篇指南: [让你的SSH通过HTTP代理或者SOCKS5代理](https://kanda.me/2019/07/01/ssh-over-http-or-socks/)
+```shell
+gem install --http-proxy http://127.0.0.1:2080 $gem_name
+```
+
+[^gem_proxy]: [How do I update Ruby Gems from behind a Proxy (ISA-NTLM) - Stack Overflow](https://web.archive.org/web/20210319002252/https://stackoverflow.com/questions/4418/how-do-i-update-ruby-gems-from-behind-a-proxy-isa-ntlm)
+
+### gem 默认使用代理
+
+Windows 下找到文件 `gem.cmd` Linux 下找到 `gem`，该文件一般在 ruby 的安装目录下，可以使用搜索软件 Everything 或者系统自带的 CLI 软件 where(Windows) which(Linux) 进行查找。
+
+用纯文本编辑器打开 gem(.cmd)，然后找到最后排的 `begin` 这行，在这行之后增加一行代码:[^ruby_p]
+
+```shell
+args += ['--http-proxy','http://127.0.0.1:2080']
+```
+
+保存之后就大功告成，之后使用 gem 都不再需要额外输入代理命令了。
+
+[^ruby_p]: [ruby中rails的gem和bundle配置系统代理 - zgjx](https://web.archive.org/web/20210413072438if_/https://www.jianshu.com/p/2c8cd2af53f4)
+
+#### Linux
+
+编辑文件 `~./gemrc` 像下面这样:[^ruby_linux]
+
+```yaml
+---
+:benchmark: false
+:verbose: true
+:sources:
+- http://rubygems.org/
+- http://gems.rubyforge.org
+:backtrace: false
+:bulk_threshold: 1000
+:update_sources: true
+gem: --http-proxy=http://USERNAME:PASSWORD@ADDRESS:PORT
+```
+
+[^ruby_linux]: [ruby on rails - How to use bundler behind a proxy? - Stack Overflow](https://web.archive.org/web/20170131083549/http://stackoverflow.com/questions/3877055/how-to-use-bundler-behind-a-proxy)
+
+youtube-dl
+----------
+
+> Use the specified HTTP/HTTPS/SOCKS proxy. To enable SOCKS proxy, specify a proper scheme.
+> For example socks5://127.0.0.1:1080/. Pass in an empty string (--proxy "") for direct connection
+
+```shell
+youtube-dl --proxy "socks5://127.0.0.1:1080" {YouTube URL}
+```
+
+如上所示，使用 `--proxy` 空格 代理地址字符串，作为参数就能实现代理，支持 HTTP/HTTPS/SOCKS 代理。
+
+ssh
+---
+
+目前我还没有成功让 ssh 使用代理在 Windows 平台，相关资料中说与 ProxyCommand 这个参数有关。
+
+Linux 用户可以参考这篇指南: [让你的SSH通过HTTP代理或者SOCKS5代理 - 神田长雨](https://kanda.me/2019/07/01/ssh-over-http-or-socks/)
 
 <!-- ssh 设置文件位置 `~/.ssh/config` -->
 
@@ -133,29 +201,22 @@ Linux 用户可以先参考这篇指南: [让你的SSH通过HTTP代理或者SOCK
 ssh -T git@github.com
 ```
 
-## youtube-dl
-
-> Use the specified HTTP/HTTPS/SOCKS proxy. To enable SOCKS proxy, specify a proper scheme.
-> For example socks5://127.0.0.1:1080/. Pass in an empty string (--proxy "") for direct connection
-
-```shell
-youtube-dl --proxy "socks5://127.0.0.1:1080" {YouTube URL}
-```
-
-如上所示，使用 `--proxy` 空格 代理地址字符串，作为参数就能实现代理，支持 HTTP/HTTPS/SOCKS 代理。
-
 -------------------------------------------------------------------------------
 
-接下来的软件就不是 CLI 软件了，不过因为代理设置不明显，所以也写进来。
+接下来的软件就不是 CLI 软件了，不过因为代理设置可能不明显，所以也写进来。
 
-## electron
+electron
+--------
 
 electron 软件可以在启动项中加入 `--proxy-server=address:port` 以实现代理，[^electron_proxy]例如:
 
 [^electron_proxy]: [Supported Command Line Switches - Electron](https://www.electronjs.org/docs/api/command-line-switches#--proxy-serveraddressport)
 
 ```shell
---proxy-server="socks5://127.0.0.1:1080"
+Fluent Reader.exe --proxy-server=socks5://127.0.0.1:1080
 ```
 
-注意: electron 软件不支持用户名和密码身份验证。
+注意: electron 软件不支持用户名和密码身份验证
+
+脚注
+----

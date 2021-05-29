@@ -1,0 +1,148 @@
+---
+title: 追忆我的 Minecraft 之旅
+layout: post
+published: false
+# date: '2020-05-25 00:00:00'
+tags:
+    - 历史
+description: gledos 的 Minecraft 回忆录
+# file-name: 2021-05-25-minecraft.markdown
+---
+
+第一次写个人向的网络日志，也许会是一个好的开头吧。
+
+<!-- more -->
+
+## 起源
+
+我早已忘记了是在什么地方下载到这个游戏，不过第一次获得游戏文件是在 [Minecraft中文下载站](https://web.archive.org/web/20120611022914/http://www.minecraftxz.com/) 这个地方。
+
+![2012年的 Minecraft 中文下载站](img/minecraft/minecraftxz_2012-04_lim.png)
+
+下载到的是 1.2.5 版本，是一种带极少量 MOD 的懒人包，压缩包仅 7510 KB，声音文件需要从压缩包里的启动器里下载，或者下载网站分享的 115 礼包资源。[^dl125]
+
+[^dl125]: [[1.2.5]minecraft1.2.5多国语言版mc绿色sp中文版 - Minecraft中文下载站 - 我的世界 下载站](https://web.archive.org/web/20130305153451/http://www.minecraftxz.com/index.php/1-2-5-minecraft1-2-5-multi-language-version-of-the-chinese-version-of-mc-green-sp/)
+
+这个启动器叫做 MCLauncherDX(Minecraft Launcher Deluxe)，十分简洁，由 indeed 制作，Minecraft中文下载站进行定制皮肤。
+
++ ![主页面](img/minecraft/MCLauncherDX_1.2.5_main_lim_low.png)
++ ![下载页面](img/minecraft/MCLauncherDX_1.2.5_d_lim.png)
++ ![设置页面1](img/minecraft/MCLauncherDX_1.2.5_s1_lim.png)
++ ![设置页面2](img/minecraft/MCLauncherDX_1.2.5_s2_lim.png)
+
+不过可惜的是现在我重新开启 MCLauncherDX 运行 1.2.5 版本的游戏时，没有任何音效，即使我已经检查了 resources 文件夹里含有大量音频文件，
+
+### 第一次游戏
+
+我的第一次游戏是游览风景度过的，越过高山，看着方块组成的河流与树木，欣赏了许久，直至游戏中的夜幕降临。我败给了僵尸、骷髅与蜘蛛军团。
+
+现在我知道 Minecraft Java 版几乎是必须得看看攻略才能玩，不过当初仅仅看了看工作台与基础工具的制作方法就开始游戏了。
+
+然后在游戏中通过穷举，试出各种 Notch 设计的合成表后，记录到笔记本上。
+
+不过凭当时我自己的能力，是无法探究 Minecraft 的详细底层逻辑，于是开始查攻略、Wiki、论坛。
+
+### 攻略
+
+最早接触的攻略是图文，标题大概像《新手入门第一天夜晚生存攻略》这样，教会了我获取石头以及矿物。
+
+大概是这个时候接触到了完整的合成表，分别是:
+
++ [Minecraft Crafting - A Minecraft Crafting Guide](https://www.minecraft-crafting.net/)
++ [Minecraft Crafting Guide](https://www.minecraftcraftingguide.net/)
+
+前者曾经是基于 Flash 的交互式合成表，在当时很易用。后者像百科全书，有时间就翻几页学学各种各样的合成表。
+
+不过当初我还不知道「方块」与「实体」在 Minecraft 里的意思。有一天我想在长宽只有 1 格的竖井搭上梯子，然后在梯子的对面放火把，结果当然是无法放置，之后我就去看 Wiki 了。
+
+一开始我并不知道 Wikipedia 的 Minecraft 条目 与 [Minecraft Wiki](https://minecraft.fandom.com/zh/wiki/Minecraft_Wiki) 的区别，于是我经常从搜索引擎中去到错误的站点，然后知道了 Wikipedia 与 Wiki类网站的同与异。
+
+然后几乎看完了 中文 Minecraft Wiki 中的全部方块、实体条目，不过除了涨了些 Minecraft 历史与小知识之外，没有什么明显的收获。
+
+### MOD(模组)与插件
+
+在不同的游戏中，MOD 的定义也有所差别。
+
+Minecraft 在当时，需要侵入游戏本体安装的是 MOD，连接服务器时自动下载的是插件，现在就不知道了。
+
+最初我玩的轻量级懒人包版本包含了「高清修复」与「中文输入」这两个 MOD。
+
+高清修复是在正式版 1.5 之前需要使用的 MOD，1.5 之后修复了高清材质包错误显示或闪退的问题，不过我很喜欢 Minecraft 16px 的风格，即使是高清材质我也会选择原版画风的高清材质。
+
+中文输入是一个头疼的问题，直到 Minecraft 1.9 开始，游戏才对需要输入法的东亚语言（包括中文）​部分兼容，一般不需再安装中文输入补丁。[^lan_cjk]在此之前需要切换到其他的窗口输入文字并复制到 Minecraft 游戏中，或者使用 MOD、外挂式输入框。
+
+[^lan_cjk]: [语言 - 漏洞 - Minecraft Wiki，最详细的官方我的世界百科](https://web.archive.org/web/20210525100650/https://minecraft.fandom.com/zh/wiki/语言?variant=zh#.E6.BC.8F.E6.B4.9E)
+
+### 盗版
+
+除了一个可有可无的正版验证系统之外，Notch 时代的 Minecraft 非常不注重防盗版。
+
+> 「@notch Hi notch, look, I really like the game but lack the money to buy it. I thought I might at least ask for a free account before piracy」
+>
+> Andres Leay @AndresLeay
+>
+> 「@AndresLeay Just pirate it. If you still like it when you can afford it in the future, buy it then. Also don't forget to feel bad. ;)」
+>
+> Markus Persson @notch[^ntc_bc]
+
+[^ntc_bc]: [Notch on Twitter: "@AndresLeay Just pirate it. If you still like it when you can afford it in the future, buy it then. Also don't forget to feel bad. ;)"](https://web.archive.org/web/20210520034736/https://twitter.com/notch/status/157261795139125248)
+
+因为 Notch 根本不在乎未付费的游戏拷贝对自己公司的影响，Notch 懒得分析人们为什么制作、使用盗版游戏等数码媒体。不过盗版能让游戏易于传播，Notch 对这种「病毒式传播」很感兴趣。所以没有增加诸如「在线存档」「好友列表」等验证，[^ntc_all]不过正版至少在当时有一个优点，那就是轻易的使用皮肤。
+
+[^ntc_all]: [【情報】 (翻譯) minecraft 作者就有關盜版的文章 @Minecraft 我的世界（當個創世神） 哈啦板 - 巴哈姆特](https://web.archive.org/web/20210525104715/https://forum.gamer.com.tw/Co.php?bsn=18673&sn=228941)
+
+虽然 Notch 的想法有些「凡尔赛文学」的感觉，因为 Minecraft 是前无古人的火爆，完全不用担心没有人购买正版。
+
+### 服务器
+
+也许是广告效应，我长期玩的服务器是 MCBBS 的官方服务器。
+
+当时的服务器还没有「资源世界」这样的概念吧，所以只要是能发掘的地方，都被挖穿了，后来出了多周目，来更新版本。
+
+我记得出生的主城是一个半球形的浮空岛，浮空岛连接上另一个，其中就有 45° 斜着，不平行于方块方向的博物馆。
+
+博物馆里我第一次看到了「水电梯」并理解了原理，Minecraft 的游戏性设计之精妙，让我感到作者设计的不是艺术品，设计的是制造艺术品的工具。
+
+似乎 MCBBS 曾公开过服务器存档下载，不过现在已经找不到了。orzFly 制作了部分的「卫星地图」，不过我没能找到我记忆中去过的地方，
+
+这是 orzFly 使用 [uNmINeD][uNmINeD] 生成的地图地址 <http://lib.orzfly.com/sites/mcbbs-server-3-map/>
+
+[uNmINeD]: https://web.archive.org/web/20210526072007/https://unmined.net/
+
+我将地图拼接后的无损 PNG 图片上传到了我的 [telegram 微型博客](https://t.me/gledos_microblogging/16)，如果需要可以去下载，分辨率为 7243 × 13422 像素，大小为 47.2 MB。
+
+#### MCBBS 服务器卫星图片预览图
+
++ ![全景](img/minecraft/mcbbs-map_zoom_full.png)
++ ![30%](img/minecraft/mcbbs-map_zoom_30.png)
++ ![50%](img/minecraft/mcbbs-map_zoom_50.png)
++ ![100%](img/minecraft/mcbbs-map_zoom_100.png)
+
+<!-- ### 忘却的旋律
+
+这是当时流行过的启动器中，名字最令我印象深刻的启动器，其他的启动器要么是使用英文做名字，要么名称很普通。[^mcll]
+
+[^mcll]: [Minecraft启动器全收录 - 上线了sxl.cn](https://web.archive.org/web/20210526084928if_/https://minecraftlauncher.mysxl.cn/)
+
++ [《我的世界》启动器发展史（一）——来自荒古的果实 - 哔哩哔哩专栏](https://archive.is/tq7xt "https://www.bilibili.com/read/cv6718699/")
+-->
+
+## 开服联机
+
+### 蛤蟆吃
+
+### 花生壳
+
+## 游戏之外
+
+### 纪录片《Minecraft：Mojang的故事》
+
++ [纪录片《Minecraft：Mojang的故事》 - 阮一峰的网络日志](https://web.archive.org/web/20210227035455/http://www.ruanyifeng.com/blog/2012/12/minecraft_the_story_of_mojang.html)
+
+<!-- 画廊脚本，能将图片序列转换为易于 CSS 支持的标记 -->
+
+<script src="assets/js/md-gallery.js"></script>
+
+<script>
+md_gallery();
+</script>
