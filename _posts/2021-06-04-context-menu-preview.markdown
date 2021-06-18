@@ -37,9 +37,10 @@ Windows 的右键菜单能够自定义许多便利功能，通常会由新安装
 
 ### FastPreview
 
-| 软件名              | 最后更新时间 | 商业性                             |
-| ------------------- | ------------ | ---------------------------------- |
-| [FastPreview][swfp] | 2014年       | [Open Source][swfpr] (MIT Licen
+| 软件名              | 最后更新时间 | 商业性                          |
+| ------------------- | ------------ | ------------------------------- |
+| [FastPreview][swfp] | 2014年       | [Open Source][swfpr] (MIT Licen |
+
 [swfp]: https://tn123.org/fastpreview/
 
 [swfpr]: https://github.com/nmaier/fastpreview

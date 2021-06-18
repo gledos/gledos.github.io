@@ -1,5 +1,6 @@
 {
     "editor.fontFamily": "\"Noto Sans Mono CJK SC\"",
     "editor.fontSize": 15,
-    "files.autoSave": "afterDelay"
+    "files.autoSave": "afterDelay",
+    "editor.renderWhitespace": "all"
 }

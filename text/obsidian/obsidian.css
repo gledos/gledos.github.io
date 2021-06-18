@@ -1,0 +1,107 @@
+/* 修改自 [Set custom font sizes for Obsidian default theme](https://gist.github.com/habdenscrimen/be1bb1539ddac6dba71e6067e118b2cf)
+使 obsidian 编辑时的文字大小相同 */
+
+:root
+{
+    --font-size-normal:              15px;
+    --font-size-code:                15px;
+    --font-size-side-dock:           15px;
+    --font-size-side-dock-title:     15px;
+    --font-size-status-bar:          15px;
+    --font-size-h1:                  15px;
+    --font-size-h2:                  15px;
+    --font-size-h3:                  15px;
+    --font-size-h4:                  15px;
+    --font-size-h5:                  15px;
+    --font-size-h6:                  15px;
+} 
+
+
+/* normal text outside of headings and code of editor */
+.cm-s-obsidian, .mod-single-child .cm-s-obsidian {
+  font-size: var(--font-size-normal);
+}
+
+/* normal text outside of headings and code of preview */
+.markdown-preview-view, .mod-single-child .markdown-preview-view {
+  font-size: var(--font-size-normal);
+}
+
+/*preview padding too small*/
+.theme-light .markdown-preview-view, .theme-light .mod-single-child .markdown-preview-view {
+  font-size: var(--font-size-normal);
+}
+
+/* code blocks in preview */
+pre code {
+  font-size: var(--font-size-code) !important;
+}
+
+/* font-size of in-line block for preview */
+.markdown-preview-view code
+{
+  font-size: var(--font-size-code);
+}
+
+/* Editor CodeBlock TEXT Appearance */
+.cm-s-obsidian pre.HyperMD-codeblock {
+  font-size: var(--font-size-code) !important;
+}
+
+.search-result-file-matches, .search-empty-state {
+  font-size: var(--font-size-side-dock);
+}
+
+.workspace-leaf-content[data-type="tag"] .tag-pane-tag-count,
+.workspace-leaf-content[data-type="tag"] .tag-pane-tag-text {  
+  font-size: var(--font-size-side-dock);
+}
+
+.workspace-leaf-content[data-type="backlink"] .search-result-file-matches {
+  font-size: var(--font-size-side-dock);
+}
+
+/* search result in backlink or file search */
+.search-result-file-title {  
+  font-size: var(--font-size-side-dock-title) ;
+}
+
+/*status-bar*/
+.status-bar{
+  font-size: var(--font-size-status-bar);
+}
+
+/* headings for editor and preview */
+.cm-header-1
+{
+  font-size: var(--font-size-h1);
+}
+
+.cm-header-2
+{
+  font-size: var(--font-size-h2);
+}
+
+.cm-header-3
+{
+  font-size: var(--font-size-h3);
+}
+
+.cm-header-4
+{
+  font-size: var(--font-size-h4);
+}
+
+.cm-header-5
+{
+  font-size: var(--font-size-h5);
+}
+
+.cm-header-6
+{
+  font-size: var(--font-size-h6);
+}
+
+.cm-s-obsidian .HyperMD-list-line {
+  padding-top: 0em;
+}
