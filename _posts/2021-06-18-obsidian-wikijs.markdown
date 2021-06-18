@@ -5,6 +5,8 @@ published: true
 # date: '2021-06-18 00:00:00'
 tags:
     - 软件
+header-img: "img/bg/sync_wikijs_github_obsidian.svg"
+header-img-object-position: 0% 50%
 description: Obsidian 是一款很好用的本地个人笔记本，不过默认设置不适配编辑 Wiki.js 的源文件。需要进行一些手动的设置。
 # file-name: 2021-06-18-obsidian-wikijs.markdown
 ---
