@@ -3,4 +3,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://gledos.science/sitemaps.xml
+Sitemap: {{ site.url }}/sitemaps.xml

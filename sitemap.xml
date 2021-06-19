@@ -6,24 +6,24 @@
         <loc>about.html</loc>
     </url>
     <url>
-        <loc>archive.html</loc>
+        <loc>{{ site.url }}/archive.html</loc>
     </url>
     <url>
-        <loc>feed.xml</loc>
+        <loc>{{ site.url }}/feed.xml</loc>
     </url>
     <url>
-        <loc>webportal.html</loc>
+        <loc>{{ site.url }}/webportal.html</loc>
     </url>
     <url>
-        <loc>license.html</loc>
+        <loc>{{ site.url }}/license.html</loc>
     </url>
     <url>
-        <loc>robots.txt</loc>
+        <loc>{{ site.url }}/robots.txt</loc>
     </url>
     
     {% for post in site.posts %}
     <url>
-        <loc>{{ post.url }}</loc>
+        <loc>{{ site.url }}{{ post.url }}</loc>
     </url>
     {% endfor %}
 </urlset>
