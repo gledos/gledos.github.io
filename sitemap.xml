@@ -3,27 +3,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://gledos.science/about.html</loc>
+        <loc>about.html</loc>
     </url>
     <url>
-        <loc>https://gledos.science/archive.html</loc>
+        <loc>archive.html</loc>
     </url>
     <url>
-        <loc>https://gledos.science/feed.xml</loc>
+        <loc>feed.xml</loc>
     </url>
     <url>
-        <loc>https://gledos.science/webportal.html</loc>
+        <loc>webportal.html</loc>
     </url>
     <url>
-        <loc>https://gledos.science/license.html</loc>
+        <loc>license.html</loc>
     </url>
     <url>
-        <loc>https://gledos.science/robots.txt</loc>
+        <loc>robots.txt</loc>
     </url>
     
     {% for post in site.posts %}
     <url>
-        <loc>{{ site.url }}{{ post.url }}</loc>
+        <loc>{{ post.url }}</loc>
     </url>
     {% endfor %}
 </urlset>
