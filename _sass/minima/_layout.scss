@@ -292,6 +292,19 @@
   h6 {
     @include relative-font-size(1.0625);
   }
+
+  p {
+    text-indent: 2em;
+  }
+  
+  blockquote > p {
+    text-indent: 0em;
+  }
+  
+  li > p {
+    text-indent: 0em;
+  }
+
 }
 
 .social-media-list {
@@ -377,6 +390,51 @@
   details[open] summary {
     border-bottom: 1px solid #aaa;
     margin-bottom: 0.5em;
+  }
+}
+
+// Spoiler alert! Codepen challenge: <details> and <summary>
+// Stephen Lee
+// https://codepen.io/abcretrograde/pen/MGzqLr
+.post0 {
+  details {
+    display: inline !important;
+    line-height: 1.1em;
+    color: #72aaa4;
+  }
+  
+  summary {
+    display: list-item;
+    list-style-type: none;
+    color: red;
+    font-size: 0.78em;
+    letter-spacing: 0.1em;
+  }
+  
+  summary:before {
+    content: "[点击展开]";
+  }
+  
+  summary::-webkit-details-marker {
+    background: none;
+    color: transparent;
+  }
+  
+  summary:hover {
+    color: #cc4477;
+  }
+  
+  details[open] summary {
+    position: absolute;
+    top: 1.5em;
+    left: 0;
+    font-size: 0.6em;
+  }
+  
+  :focus {
+    border: 1px solid transparent;
+    outline: none !important;
+    -moz-appearance: none !important;
   }
 }
 
