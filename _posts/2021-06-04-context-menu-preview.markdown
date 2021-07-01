@@ -52,11 +52,3 @@ Windows 的右键菜单能够自定义许多便利功能，通常会由新安装
 Picasa 偏色
 
 [用picasa查看照片关于照片颜色显示不正确的问题怎么解决？ - 知乎](https://web.archive.org/web/20210603083638/https://www.zhihu.com/question/20935960)
-
-Tell Me Why
-
-锁区
-
---saveName ""
-
-签到

@@ -2,7 +2,7 @@
 title: 追忆我的 Minecraft 之旅
 layout: post
 published: false
-# date: '2020-05-25 00:00:00'
+# date: '2021-05-25 00:00:00'
 tags:
     - 历史
 description: gledos 的 Minecraft 回忆录
@@ -129,9 +129,21 @@ Minecraft 在当时，需要侵入游戏本体安装的是 MOD，连接服务器
 
 ## 开服联机
 
+虽然能在公共服务器中与朋友一起玩，但不能玩自定义地图，也没有管理员权限进行随意飞行等，所以自建服务器是个办法。
+
 ### 蛤蟆吃
 
+曾经有个叫做 {% include furigana.html text="hamachi" furigana="蛤蟆吃" class="default" %} 的软件，实质上是个 VPN，实现虚拟局域网这样的功能。
+
+然后 Minecraft 自带局域网联机的功能，所以非常轻松的就能实现联机。
+
+缺点也很明显，在网游分电信、网通区的时候，糟糕的网络环境使蛤蟆吃联机体验并不完美，只能算能玩的程度。而且免费版的蛤蟆吃只支持同一个网络下 5 个人联机，不过只要主机靠再创建一个新的网络，那么就能连在一起了。
+
+没想到现在蛤蟆吃买到了 vpn.net 这么厉害的域名，但软件的用户界面还是十年前的水平。
+
 ### 花生壳
+
+想要不错的自己开服游戏体验，可能就需要花生壳的端口映射功能了，原理是内网穿透或者通用术语 [{% include furigana.html text="NAT traversal" furigana="NAT 穿透" class="default" %}](https://zh.wikipedia.org/zh-hans/NAT穿透)。
 
 ## 游戏之外
 

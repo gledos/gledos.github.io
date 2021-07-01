@@ -305,6 +305,16 @@
     text-indent: 0em;
   }
 
+  p > a:after, li > a:after {
+    content: url(/img/out_link.png);
+  }
+
+  div.footnotes ol li p a:after {
+    content: "";
+  }
+
+  
+
 }
 
 .social-media-list {
