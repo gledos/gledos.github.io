@@ -145,11 +145,43 @@ Minecraft 在当时，需要侵入游戏本体安装的是 MOD，连接服务器
 
 想要不错的自己开服游戏体验，可能就需要花生壳的端口映射功能了，原理是内网穿透或者通用术语 [{% include furigana.html text="NAT traversal" furigana="NAT 穿透" class="default" %}](https://zh.wikipedia.org/zh-hans/NAT穿透)。
 
+这样就能使本地的服务端运行在公网中，让朋友连进来。
+
 ## 游戏之外
+
+人气作品，总是会有本体之外的额外内容，比如衍生电影，甚至独立的主题展会。
+
+### Minecon
+
+MinecraftCon 2010 最初是由 Notch 个人举办的 Minecraft 主题同好会，在 2010年8月31日 举办，然后 Mojang 开始正式成为这个活动之后的主办方，并更名为 Minecon。
 
 ### 纪录片《Minecraft：Mojang的故事》
 
-+ [纪录片《Minecraft：Mojang的故事》 - 阮一峰的网络日志](https://web.archive.org/web/20210227035455/http://www.ruanyifeng.com/blog/2012/12/minecraft_the_story_of_mojang.html)
+独立制片工作室 2 Player Productions (2PP) 拍摄独立游戏工作室 Mojang，会是一件相当「佛系」的事情，2011年2月21日 他们把这个项目放上了融资网站 Kickstarter，最终在 2012年12月22日 发布，所以这个纪录片大制作了超过一年，但内容经过了长期的打磨，使其成为杰作。
+
+纪录片的发布也充满了瑞典的特色[^pp]，众筹期间最低只需要 1 美元就能获得数字版纪录片，众筹结束后在[网站](https://www.minecraftstoryofmojang.com/)上购买也不会花费太多的钱，下载到的数字版的纪录片也是 DRM-FREE 的，甚至还上传了一份高码率的 720P 拷贝到海盗湾，2PP 的理由是「我不上传，还会有别人上传」，并附上了对盗版的看法。[^MMS]2013年11月9日，2PP 上传了完整版到 YouTube，[^you2pp]虽然设置了不公开，无法直接搜索到，但有许多游戏媒体都公布了这个纪录片的地址，进一步的增加了观看人数。
+
+[^pp]: 瑞典是第一个有「海盗党」[^Pirate_Parties]的国家
+
+[^Pirate_Parties]: 此海盗当然不是在海上抢劫的海盗，而是一种反版权——「盗版」的意思
+
+[^MMS]: [纪录片《Minecraft：Mojang的故事》 - 阮一峰的网络日志](https://web.archive.org/web/20210227035455/http://www.ruanyifeng.com/blog/2012/12/minecraft_the_story_of_mojang.html)
+
+[^you2pp]: [Minecraft: The Story of Mojang (Official Version!) - YouTube](https://www.youtube.com/watch?v=ySRgVo1X_18)
+
+观感非常棒，许多的地方就像 Minecraft 一样的细腻，2PP 也请来了为 Minecraft 配乐的 C418(Daniel Rosenfeld) 给纪录片进行配乐。
+
+## 为游戏添砖加瓦的玩家们
+
+### disco
+
+如果要使用美感、红石、有趣来形容一个 Minecraft 玩家的话，我想多半表述的是 disco 。
+
+disco 制作了高度风格化的 8x 材质包 —— oCd ，这个材质包的设计风格是简约、简单的 minimal-style 。即使 disco 已经退坑多年了，依然有 disco 的粉丝在为新版本适配 oCd 材质包。
+
+作品是存档，大多都使用了红石完成各种有趣的效果，比如音乐盒、老虎机，在保证可玩性的同时，也很有艺术美感，这是因为 disco 就是一位像素艺术家。
+
+disco 非常会使用视频来展示自己的作品，比如卡农、圣诞老人，disco 的视频也是其作品的一部分。循序渐进的展示，并给出存档下载地址，方便玩家游玩、研究。
 
 <!-- 画廊脚本，能将图片序列转换为易于 CSS 支持的标记 -->
 

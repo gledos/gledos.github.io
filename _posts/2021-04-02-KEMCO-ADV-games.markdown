@@ -163,8 +163,7 @@ Nintendo Switch 时代的开发工具基本让移植游戏没有难度，让 KEM
 [bgm102691]: https://web.archive.org/web/20210402071329/https://bgm.tv/subject/102691 "黒のコマンドメント - Bangumi 番组计划"
 [kurocoma]: https://web.archive.org/web/20210402060024/https://play.google.com/store/apps/details?id=kemco.kurocoma&hl=ja "ADV 黒のコマンドメント - KEMCO - Google Play のアプリ"
 
-[^ios_brco]: iOS 版本暂时下架，原因是新系统不支持旧版游戏，KEMCO 公司正在尝试针对新系统改进游戏，但如果难以处理，
-则可能停止 iOS 版本的发行，详情查看[黑色传令官方网站](https://web.archive.org/web/20210402062838/https://www.kemco.jp/sp/games/brco/ja/index.html)。
+[^ios_brco]: iOS 版本暂时下架，原因是新系统不支持旧版游戏，KEMCO 公司正在尝试针对新系统改进游戏，但如果难以处理，则可能停止 iOS 版本的发行，详情查看[黑色传令官方网站](https://web.archive.org/web/20210402062838/https://www.kemco.jp/sp/games/brco/ja/index.html)。
 
 从评分以及热度来看，《黑色传令》的评价没有《囚人的旋律》高，理由可能是 amphibian 并不是该作的主要负责人，[^amphibianjn]
 
