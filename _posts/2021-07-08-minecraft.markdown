@@ -1,7 +1,7 @@
 ---
 title: 追忆我的 Minecraft 之旅
 layout: post
-published: false
+published: true
 # date: '2021-05-25 00:00:00'
 tags:
     - 历史
@@ -41,7 +41,7 @@ description: gledos 的 Minecraft 回忆录
 
 现在我知道 Minecraft Java 版几乎是必须得看看攻略、Wiki 才能玩，不过当初直接就开始游戏了。
 
-然后在游戏中通过穷举，试出各种 Notch 设计的合成表后，记录到笔记本上。
+然后在游戏中通过穷举，尝试出部分 Notch 设计的合成表后，记录到笔记本上。
 
 不过凭当时我自己的能力，是无法探究 Minecraft 的详细底层逻辑，于是开始查攻略、Wiki 和论坛。
 
@@ -56,7 +56,7 @@ description: gledos 的 Minecraft 回忆录
 
 前者曾经是基于 Flash 的交互式合成表，在当时很易用。后者像百科全书，有时间就翻几页学学各种各样的合成表。
 
-不过当初我还不知道「方块」与「实体」在 Minecraft 里的意思。有一天我想在长宽只有 1 格的竖井搭上梯子，然后在梯子的对面放火把，结果当然是无法放置，之后我就去看 Wiki 了。
+不过当初我还不知道「方块」与「实体」在 Minecraft 里的意思。有一天我想在长宽只有 1 格的竖井搭上梯子，然后在梯子的对面放火把，结果当然是无法放置，之后我就去查看 Wiki ，了解相关信息了。
 
 一开始我并不知道 Wikipedia 的 Minecraft 条目 与 [Minecraft Wiki](https://minecraft.fandom.com/zh/wiki/Minecraft_Wiki) 的区别，于是我经常从搜索引擎中去到错误的站点，然后知道了 Wikipedia 与 Wiki类网站的同与异。
 
@@ -100,9 +100,10 @@ Minecraft 在当时，似乎需要侵入游戏本体安装的是 MOD，连接服
 
 也许是广告效应，我玩的最长的服务器是 MCBBS 的官方服务器。
 
-当时的服务器还没有「资源世界」这样的概念吧，所以只要是能发掘的地方，都被挖穿了，后来出了多周目，来更新版本。
+当时的服务器还没有「资源世界」这样的概念吧，所以只要是能挖掘的地方，基本都被挖穿了，地底充满了四通八达的矿道，
+后来出了多周目，大概就解决了这个问题。
 
-我记得出生的主城是一个半球形的浮空岛，浮空岛连接上另一个，其中就有 45° 斜着，不平行于方块方向的博物馆。
+我记得出生的主城是一个半球形的浮空岛，悬浮在海面之上。浮空岛连接着其他的一些建筑，其中就有 45° 斜着不平行于方块方向的博物馆。
 
 博物馆里我第一次看到了「水电梯」并理解了原理，Minecraft 的游戏性设计之精妙，让我感到作者设计的不是艺术品，
 设计的是制造艺术品的工具。
@@ -223,9 +224,15 @@ disco 的视频也是其作品的一部分。循序渐进的展示，并给出�
 
 [^mcc11live]: [disco has OCD, Minecon'd...](https://web.archive.org/web/20190905211140/https://ocddisco.tumblr.com/post/13051685116/minecond)
 
+最后 disco 逐渐隐退，不再维护 Youtube 频道与网站。
+
 ### 籽岷
 
 以纪录片式视频呈现 Minecraft 美感的游戏玩家，曾在极游网工作。
+
+因为视频风格很「正式」，不会轻易的玩「烂梗」或者开不太合时宜的玩笑，所以适合大部分人观看。
+也就增加了 Minecraft 的受众，籽岷有多个系列的视频，比如 MOD 、地图、冒险、跑酷 等等，
+是一个很全面的 Minecraft UP 主。
 
 #### MC好声音十大金曲
 
@@ -234,21 +241,6 @@ disco 的视频也是其作品的一部分。循序渐进的展示，并给出�
 现已被删除，原因大概是侵犯了歌曲作者与中文翻译者的劳动。这些歌曲大多都有精致的 MV，
 是对流行歌曲的重新填词。哔哩哔哩有人备份了视频，可以从这个链接跳转去观看，
 或者从下方的列表中跳转到 Youtube 观看原视频。
-
-<!--
-| 序号 | 标题                              | 常用译名 | 原曲                                            |
-| ---- | --------------------------------- | -------- | ----------------------------------------------- |
-| 1    | [Minecraft is Just Awesome][MiJA] | _无_     | [The World Is Just Awesome (Boom De Yada)][BDY] |
-| 2    | [Mine With Me][MWM]               | _无_     | [You Belong With Me][YBWM]                      |
-| 3    | [Screw the Nether][StN]           | 摧毁地狱 | [Moves like jagger][Mlj]                        |
-| 4    | [From the Ground Up][FtGU]        | 从零开始 | _Laura Shigihara 原创_                          |
-| 5    | [I'll Make Some Cake][IMSC]       | _无_     | [Glad You Came][GYC]                            |
-| 6    | [Cube Land][CL]                   | 方块大陆 | _Laura Shigihara 原创_                          |
-| 7    | [Fallen Kingdom][FK]              | 堕落王国 | [Viva La Vida][VLV]                             |
-| 8    | [TNT][TNT]                        | TNT 之歌 | [Dynamite][Dyn]                                 |
-| 9    | [Revenge][Rev]                    | 复仇     | [DJ Got Us Fallin' In Love][DJGUFIL]            |
-| 10   | [Minecraft Style][MS]             | _无_     | [GANGNAM STYLE][GS]                             |
--->
 
 | 序号 | 标题                              | 原曲                                            |
 | ---- | --------------------------------- | ----------------------------------------------- |
@@ -292,8 +284,11 @@ Minecraft 相关的大大小小梗非常多，这里我只挑一些我熟悉，�
 这类通常不需要刻意通过严谨的描述增加真实性，所以往往原始内容能轻易的看出是作者在开玩笑。但在传播的过程中，
 可能出现二次、多次创作，使故事变得严谨，然后对读者造成不良影响。
 
-比如敖厂长在 2014年6月 的视频《致日本儿童死亡的游戏 - 囧的呼唤163期》里就介绍了许多的 Creepypasta ，
-破除了一些迷思，不过最后被二次创作者坑了，因为原本计划播放的紫菀镇原曲是一个二次创作。
+比如敖厂长在 2014年6月 的视频《致日本儿童死亡的游戏 - 囧的呼唤163期》[^FZyl]里就介绍了许多的 Creepypasta ，
+破除了一些迷思，不过最后还是被二次创作者坑了，因为原本计划播放的紫菀镇原曲并不是真正的原曲，
+敖厂长大概是找错素材了。
+
+[^FZyl]: [【致日本儿童死亡的游戏】囧的呼唤163期 - YouTube](https://www.youtube.com/watch?v=FZylxrudeZc)
 
 也许未来我会专门出一篇博文来探讨 Creepypasta 。
 
@@ -307,18 +302,24 @@ Herobrine 当然是虚构的，不过当时 Mojang 挺喜欢跟玩家互动，�
 + [死者]试图在熔岩里游泳
 + [死者]掉出了这个世界
 
-Minecraft 会使用这样{% include furigana.html text="极简主义" furigana="性冷淡" %}风格的句子作为死亡信息，
-大概就像半条命右上角的击杀信息一样的充满画面感。也许是过于有趣独特，所以常常在某个实况解说中，
-UP 主掉进了岩浆或者因 BUG 掉出了世界，就会使用 Minecraft 的死亡信息作为弹幕。
+Minecraft 会经常会使用这样{% include furigana.html text="极简主义" furigana="性冷淡" class="default" %}风格的句子作为死亡信息，
+大概就像半条命右上角的击杀信息一样的充满画面感。也许是过于有趣独特，所以常常在实况解说或者直播中，
+UP 主掉进了岩浆或者因 BUG 掉出了世界，就会使用 Minecraft 的死亡信息作为弹幕，以此来活跃气氛。
 
 ## The END
 
 Minecraft Java 正式版 1.0 增加了游戏结局，是一篇「愚蠢的」「无中生有」的诗，[^over-the-top_out-of-nowhere]
-叫做{% include furigana.html text="终末之诗" furigana="End Poem" %}。这首诗包含了
+叫做{% include furigana.html text="终末之诗" furigana="End Poem" class="default" %}。
+这首诗包含了{% include furigana.html text="《千面英雄》" furigana="The Hero's The Hero's Journey" %}的原著{% include furigana.html text="《英雄之旅》" furigana="The Hero's Journey" %}这样神话性、也有对宇宙的一些感受、还有盗梦空间式的梦境与现实 & 植梦感。[^end_author]
 
 [^over-the-top_out-of-nowhere]: [Notch on Twitter: "Are YOU a talented writer (famous is a plus ;D) who wants to write a silly over-the-top out-of-nowhere text for when you win Minecraft?"](https://web.archive.org/web/20210706111146/https://twitter.com/notch/status/125612634425921537)
 
-<!-- 【敖厂长】致日本儿童死亡的游戏 https://b23.tv/BV1Bx411T7qJ -->
+[^end_author]: [Ending an endless game: an interview with Julian Gough, author of Minecraft's epic finale - Boing Boing](https://web.archive.org/web/20210706151553/https://boingboing.net/2012/01/09/ending-an-endless-game-an-int.html)
+
+### Minecraft's End (歌曲)
+
+使用《终末之诗》填词的歌曲《[Minecraft's End](https://www.youtube.com/watch?v=x8HfLPjE3Rs)》我觉得是非常棒的一首歌曲，
+在本文的末尾，推荐给你。
 
 <!-- 画廊脚本，能将图片序列转换为易于 CSS 支持的标记 -->
 
@@ -327,3 +328,5 @@ Minecraft Java 正式版 1.0 增加了游戏结局，是一篇「愚蠢的」「
 <script>
 md_gallery();
 </script>
+
+## 参考资料
