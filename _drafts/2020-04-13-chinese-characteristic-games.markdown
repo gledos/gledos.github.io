@@ -724,11 +724,9 @@ https://web.archive.org/web/20200902022428/https://preview.redd.it/xokh54adi9k51
 + [魔兽世界风暴前夕亡灵被和谐专题 TG兽吧](https://web.archive.org/web/20100109212230/http://wow.tgbus.com/zt/wangling/)\\
     CWOW被“和谐”了，魔兽世界被“日”了，亡灵长了肉，骷髅变成肌肉男，
     诺格弗格药剂的作用变成了脱衣服，死人变成墓碑……这个世界太疯狂了...
-+ 《骷髅党之歌》《巫妖王择日再开》
-  <!-- 看你妹：最早是源于一些游戏玩家的口头语，粗口的变种。后来有人恶作剧做了一张穿着各个职业的装备的牛头人，
++ 《骷髅党之歌》《巫妖王择日再开》<!-- 看你妹：最早是源于一些游戏玩家的口头语，粗口的变种。后来有人恶作剧做了一张穿着各个职业的装备的牛头人，
   图上大书“看你妹”，结果就流传开了。  
-  https://web.archive.org/web/20200427113042/https://sylvanastseng.blogspot.com/2009/01/wow.html
-  -->
+  https://web.archive.org/web/20200427113042/https://sylvanastseng.blogspot.com/2009/01/wow.html-->
   + [[爱老虎游 游戏电影创作团队出品]看你妹之第一季——[骷髅党之歌] 联动联动](https://archive.vn/OQ0IC "https://bbs.nga.cn/read.php?tid=2006362")
   + [国服玩家怨念暴发！贺岁档恶搞视频：看你妹之<巫妖王择日再开>，我操,一年了,沉了吧,网易版续集在准备中了](https://archive.vn/7xX3F "https://bbs.nga.cn/read.php?tid=2111791")
 + 《网瘾战争》
