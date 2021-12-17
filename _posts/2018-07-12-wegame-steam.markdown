@@ -44,7 +44,7 @@ Emoji 前缀标识的意思
 
 1. `2015-06-23 23:33` **帖子** [自己抓了一些高速IP - SteamCN 蒸汽动力](https://web.archive.org/web/20160507135854/https://steamcn.com/t133519-1-1)
 
-   这是使用百度搜索引擎找到的关于 steam 在国内的 CDN 最早的侧面记录，里面提到了 8686c.com 这个属于**万网志成**下的**网宿科技**的 CDN 。
+    这是使用百度搜索引擎找到的关于 steam 在国内的 CDN 最早的侧面记录，里面提到了 8686c.com 这个属于**万网志成**下的**网宿科技**的 CDN 。
 
 2. `2016-02-05 13:47:50` **帖子** [🛠乐山电信屏蔽cdn.akamai.steamstatic.com？ -  SteamCN 蒸汽动力](https://web.archive.org/web/20180102074626/https://steamcn.com/t165524-1-3)
 
@@ -789,7 +789,15 @@ Emoji 前缀标识的意思
 
      注: 曾经能够使用 SUBID 添加购物车或者愿望单的游戏常常被叫做「软锁」。
 
-128. 未完待续
+128. `2021-11-03` [Steam 不再提供中国内地的 CM 服务器 - 其乐 Keylol](https://archive.md/4rxwl "https://archive.md/4rxwl")
+
+     > CM（Connection Manager）服務器，用於 Steam 帳戶登錄認證、好友在線狀態、聊天和遊戲邀請等等方面。
+     >
+     > 目前 Steam 獲取的服務器列表已不存在中國內地服務器
+     >
+     > 中國內地服務器（域名為 wmsjsteam.com）僅存在於蒸汽平台所獲取的服務器列表之中
+
+129. 未完待续
 
 <!-- [这是真的吗 NGA玩家社区](https://archive.vn/rgmOt) 在隔壁群友看到的，如果是真的话，那?死也不会用的
     steam中国、WAC反作弊 -->
