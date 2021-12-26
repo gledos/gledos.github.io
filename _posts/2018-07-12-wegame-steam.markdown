@@ -869,15 +869,16 @@ Emoji 后缀标识的意思
 
 129. `2021-12-22` **事件** store.steampowered.com 被干扰
 
-     12月24日，V2EX 出现了一篇《Steam 商店 store.steampowered.com 疑似 443 端口被干扰？ ICMP 80 端口均正常》的讨论帖，
-     测试得出了 store.steampowered.com 的 443 端口间歇性丢包。
+     12月24日，V2EX 出现了一篇[《Steam 商店 store.steampowered.com 疑似 443 端口被干扰？ ICMP 80 端口均正常》](https://web.archive.org/web/20211226054746/https://www.v2ex.com/t/824179)的讨论帖，
+     测试得出了 store.steampowered.com 的 443 端口间歇性丢包的情况。
 
      + 相关链接
          + [steam商店是无了吗？不用魔法就登不上了 - bangumi](https://web.archive.org/web/20211225112051/https://bangumi.tv/group/topic/366787)
          + [如何评价Steam在2021年12月出现的服务器问题？ - 知乎](https://web.archive.org/web/20211225100853/https://www.zhihu.com/question/508242845)
-     + 17CE 测试（共计 156 个测试节点）
-         + `2021-12-25 13:15:24` 87 个节点无法正常连接, [17CE 测试结果](https://web.archive.org/web/20211225051915/http://www.17ce.com/site/http/20211225_aa532ca0654111ec89545fe60f9332a6:1.html)
-         + `2021-12-26 07:50:03` 110 个节点无法正常连接，[17CE 测试结果](https://web.archive.org/web/20211226000141/http://www.17ce.com/site/http/20211226_6164171065dd11eca8ff613adab63e9c:1.html)
+     + 17CE 测试
+         + `2021-12-25 13:15:24` 156 个测试节点，其中 87 个节点无法正常连接, [17CE 测试结果](https://web.archive.org/web/20211225051915/http://www.17ce.com/site/http/20211225_aa532ca0654111ec89545fe60f9332a6:1.html)
+         + `2021-12-26 07:50:03` 162 个测试节点，其中 110 个节点无法正常连接，[17CE 测试结果](https://web.archive.org/web/20211226000141/http://www.17ce.com/site/http/20211226_6164171065dd11eca8ff613adab63e9c:1.html)
+         + `2021-12-26 14:43:46` 163 个测试节点，其中 94 个节点无法正常连接，[17CE 测试结果](https://web.archive.org/web/20211226065812/http://www.17ce.com/site/http/20211226_2d258f80661711ec89545fe60f9332a6:1.html)
 
 130. 未知时间 **捕风捉影** steampowered.com 被 ICP 列为黑名单
 
