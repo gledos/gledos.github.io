@@ -849,7 +849,7 @@ Emoji 后缀标识的意思
 
 127. `2021-09-14` **捕风捉影**
 
-     北京日报及其手机客户端刊登了一则报道，叫做《调查|主机游戏不限时,单机游戏缺监管！如何防小玩家钻空子?》[^rhfxwj]
+     北京日报及其手机客户端刊登了一则报道，叫做《调查｜主机游戏不限时,单机游戏缺监管！如何防小玩家钻空子?》[^rhfxwj]
 
      第二天，评论过该报道的 IGN编辑部、IGN_CN 与 杉果游戏 的新浪微博疑似被屏蔽，未登录账号无法查看。之后被解封。[^rhfxwj]
 
@@ -875,8 +875,9 @@ Emoji 后缀标识的意思
      + 相关链接
          + [steam商店是无了吗？不用魔法就登不上了 - bangumi](https://web.archive.org/web/20211225112051/https://bangumi.tv/group/topic/366787)
          + [如何评价Steam在2021年12月出现的服务器问题？ - 知乎](https://web.archive.org/web/20211225100853/https://www.zhihu.com/question/508242845)
-     + 17CE 测试
-         + `2021-12-25 13:15:24` 一半左右的节点无法正常连接, [17CE 测试结果](https://web.archive.org/web/20211225051915/http://www.17ce.com/site/http/20211225_aa532ca0654111ec89545fe60f9332a6:1.html)
+     + 17CE 测试（共计 156 个测试节点）
+         + `2021-12-25 13:15:24` 87 个节点无法正常连接, [17CE 测试结果](https://web.archive.org/web/20211225051915/http://www.17ce.com/site/http/20211225_aa532ca0654111ec89545fe60f9332a6:1.html)
+         + `2021-12-26 07:50:03` 110 个节点无法正常连接，[17CE 测试结果](https://web.archive.org/web/20211226000141/http://www.17ce.com/site/http/20211226_6164171065dd11eca8ff613adab63e9c:1.html)
 
 130. 未知时间 **捕风捉影** steampowered.com 被 ICP 列为黑名单
 
