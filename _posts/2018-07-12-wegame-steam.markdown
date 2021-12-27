@@ -263,7 +263,7 @@ Emoji 后缀标识的意思
 
 35. `2017-07-21` **请愿** 请 Steam 启用全站 SSL 加密
 
-    该请愿主要是希望 Steam 开启默认 SLL 加密，因为普通的 http 被严重干扰。
+    该请愿主要是希望 Steam 开启默认 SSL 加密，因为普通的 http 被严重干扰。
 
     + 相关链接
         + [一个困难的请愿：请 Valve 启用全站 SSL 加密。 Steam 社群 :: 群組 :: 萌豚](https://steamcommunity.com/groups/mengtun/announcements/detail/1424678464280894251)
@@ -762,7 +762,11 @@ Emoji 后缀标识的意思
 
 111. `2020-11-18` [今日 Steam 商店首页头部 LOGO 更新，换成了 SVG 图，顺便新增了蒸汽平台 LOGO - 其乐 Keylol](https://archive.is/sBmc1 "https://keylol.com/t658948-1-1")
 
-     16日时steamchina.com 新签发了三个次级域名的证书
+     16日，steamchina.com 新签发了三个次级域名的证书：
+
+     + help.steamchina.com
+     + api.steamchina.com
+     + my.steamchina.com
 
 112. `2020-11-19` [蒸汽平台客户端已出现 CS:GO 及 DOTA 2 - 其乐 Keylol](https://archive.is/gPl02 "https://keylol.com/t659236-1-1")
 
@@ -895,6 +899,7 @@ Emoji 后缀标识的意思
          + `2021-12-26 14:43:46` https，163 个测试节点，其中 94 个节点无法正常连接，[17CE 测试结果](https://web.archive.org/web/20211226065812/http://www.17ce.com/site/http/20211226_2d258f80661711ec89545fe60f9332a6:1.html)
          + `2021-12-26 20:42:20` http，172 个测试节点，其中 157 个节点无法正常连接，[17CE 测试结果](https://web.archive.org/web/20211226131526/http://www.17ce.com/site/http/20211226_4452de10664911ec89545fe60f9332a6:1.html)
          + `2021-12-26 21:11:15` https，173 个测试节点，其中 94 个节点无法正常连接，[17CE 测试结果](https://web.archive.org/web/20211226141757/http://www.17ce.com/site/http/20211226_4ea390e0664d11ec89545fe60f9332a6:1.html)
+         + `2021-12-27 15:06:50` https，172 个测试节点，其中 81 个节点无法正常连接，[17CE 测试结果](https://web.archive.org/web/20211227070847/http://www.17ce.com/site/http/20211227_8ff992b066e311ec89545fe60f9332a6:1.html)
      + 备注：http 80 端口 的 store.steampowered.com 域名，大约在在 2018年 被 GFW 中断，不过暂无详细记录。[^itdog][^lusongsong]
        所以会看到测试 <http://store.steampowered.com> 几乎全部错误的情况。
 
