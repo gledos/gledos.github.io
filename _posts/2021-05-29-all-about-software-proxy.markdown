@@ -95,7 +95,7 @@ $env:https_proxy = "http://127.0.0.1:2080"
 已知可以获得这个代理设置的软件:
 
 + pip
-+ wegt
++ wget
 + ffmpeg
 + bundle
 

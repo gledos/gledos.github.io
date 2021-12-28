@@ -101,3 +101,5 @@ dateCreated: {{date:YYYY-MM-DD}}T{{time:HH:mm:ss.SSS}}Z
 ### SOCKS5 代理
 
 因为 Obsidian 是 electron 的软件，所以在启动参数中增加 `--proxy-server=socks5://127.0.0.1:1080` 这样的参数，就能够进行代理。
+
+## 脚注

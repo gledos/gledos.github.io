@@ -329,4 +329,4 @@ Minecraft Java 正式版 1.0 增加了游戏结局，是一篇「愚蠢的」「
 md_gallery();
 </script>
 
-## 参考资料
+## 脚注
