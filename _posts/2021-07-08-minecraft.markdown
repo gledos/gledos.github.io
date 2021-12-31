@@ -239,7 +239,7 @@ disco 的视频也是其作品的一部分。循序渐进的展示，并给出�
 当时籽岷&极游网上传了许多来至 Youtube 的视频到优酷，
 其中有一个视频的标题可能是《☆我的世界☆Minecraft《籽岷的珍藏MC好声音十大金曲MV精选》》，
 现已被删除，原因大概是侵犯了歌曲作者与中文翻译者的劳动。这些歌曲大多都有精致的 MV，
-是对流行歌曲的重新填词。哔哩哔哩有人备份了视频，可以从这个链接跳转去观看，
+是对流行歌曲的重新填词。哔哩哔哩有人备份了视频，可以从 [这个链接](https://b23.tv/BV1sx411T7Ua) 跳转观看，
 或者从下方的列表中跳转到 Youtube 观看原视频。
 
 | 序号 | 标题                              | 原曲                                            |
@@ -247,32 +247,32 @@ disco 的视频也是其作品的一部分。循序渐进的展示，并给出�
 | 1    | [Minecraft is Just Awesome][MiJA] | [The World Is Just Awesome (Boom De Yada)][BDY] |
 | 2    | [Mine With Me][MWM]               | [You Belong With Me][YBWM]                      |
 | 3    | [Screw the Nether][StN]           | [Moves like jagger][Mlj]                        |
-| 4    | [From the Ground Up][FtGU]        | _Laura Shigihara 原创_                          |
+| 4    | [From the Ground Up][FtGU]        | Laura Shigihara 原创                            |
 | 5    | [I'll Make Some Cake][IMSC]       | [Glad You Came][GYC]                            |
-| 6    | [Cube Land][CL]                   | _Laura Shigihara 原创_                          |
+| 6    | [Cube Land][CL]                   | Laura Shigihara 原创                            |
 | 7    | [Fallen Kingdom][FK]              | [Viva La Vida][VLV]                             |
 | 8    | [TNT][TNT]                        | [Dynamite][Dyn]                                 |
-| 9    | [Revenge][Rev]                    | [DJ Got Us Fallin' In Love][DJGUFIL]            |
+| 9    | [Revenge][Rev]                    | [DJ Got Us Fallin' In Love][DJGU]               |
 | 10   | [Minecraft Style][MS]             | [GANGNAM STYLE][GS]                             |
 
 [MiJA]: https://www.youtube.com/watch?v=mK9W0BjdB38
-[BDY]: https://www.youtube.com/watch?v=at_f98qOGY0
-[MWM]: https://www.youtube.com/watch?v=ed88MqPh--c
+[BDY]:  https://www.youtube.com/watch?v=at_f98qOGY0
+[MWM]:  https://www.youtube.com/watch?v=ed88MqPh--c
 [YBWM]: https://www.youtube.com/watch?v=VuNIsY6JdUw
-[StN]: https://www.youtube.com/watch?v=gqELqRCnW6g
-[Mlj]: https://www.youtube.com/watch?v=iEPTlhBmwRg
+[StN]:  https://www.youtube.com/watch?v=gqELqRCnW6g
+[Mlj]:  https://www.youtube.com/watch?v=iEPTlhBmwRg
 [FtGU]: https://www.youtube.com/watch?v=MLKFtIC2Idw
 [IMSC]: https://www.youtube.com/watch?v=NCMJnTBZfeE
-[GYC]: https://www.youtube.com/watch?v=2ggzxInyzVE
-[CL]: https://www.youtube.com/watch?v=7F0qhq7-K08
-[FK]: https://www.youtube.com/watch?v=I-sH53vXP2A
-[VLV]: https://www.youtube.com/watch?v=dvgZkm1xWPE
-[TNT]: https://www.youtube.com/watch?v=k2rDbRUDkds
-[Dyn]: https://www.youtube.com/watch?v=Vysgv7qVYTo
-[Rev]: https://www.youtube.com/watch?v=cPJUBQd-PNM
-[DJGUFIL]: https://www.youtube.com/watch?v=C-dvTjK_07c
-[MS]: https://www.youtube.com/watch?v=b84Z3IRg3VA
-[GS]: https://www.youtube.com/watch?v=9bZkp7q19f0
+[GYC]:  https://www.youtube.com/watch?v=2ggzxInyzVE
+[CL]:   https://www.youtube.com/watch?v=7F0qhq7-K08
+[FK]:   https://www.youtube.com/watch?v=I-sH53vXP2A
+[VLV]:  https://www.youtube.com/watch?v=dvgZkm1xWPE
+[TNT]:  https://www.youtube.com/watch?v=k2rDbRUDkds
+[Dyn]:  https://www.youtube.com/watch?v=Vysgv7qVYTo
+[Rev]:  https://www.youtube.com/watch?v=cPJUBQd-PNM
+[DJGU]: https://www.youtube.com/watch?v=C-dvTjK_07c
+[MS]:   https://www.youtube.com/watch?v=b84Z3IRg3VA
+[GS]:   https://www.youtube.com/watch?v=9bZkp7q19f0
 
 ## 梗
 
