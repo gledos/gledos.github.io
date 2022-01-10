@@ -895,14 +895,15 @@ Emoji 后缀标识的意思
      + 相关链接
          + [steam商店是无了吗？不用魔法就登不上了 - bangumi](https://web.archive.org/web/20211225112051/https://bangumi.tv/group/topic/366787)
          + [如何评价Steam在2021年12月出现的服务器问题？ - 知乎](https://web.archive.org/web/20211225100853/https://www.zhihu.com/question/508242845)
-     + 17CE 测试，该测试包含少量境外以及其他地区的节点
-         + `2021-12-25 13:15:24` https，156 个测试节点，其中 87 个节点无法正常连接, [17CE 测试结果](https://web.archive.org/web/20211225051915/http://www.17ce.com/site/http/20211225_aa532ca0654111ec89545fe60f9332a6:1.html)
-         + `2021-12-26 07:50:03` https，162 个测试节点，其中 110 个节点无法正常连接，[17CE 测试结果](https://web.archive.org/web/20211226000141/http://www.17ce.com/site/http/20211226_6164171065dd11eca8ff613adab63e9c:1.html)
-         + `2021-12-26 14:43:46` https，163 个测试节点，其中 94 个节点无法正常连接，[17CE 测试结果](https://web.archive.org/web/20211226065812/http://www.17ce.com/site/http/20211226_2d258f80661711ec89545fe60f9332a6:1.html)
-         + `2021-12-26 20:42:20` http，172 个测试节点，其中 157 个节点无法正常连接，[17CE 测试结果](https://web.archive.org/web/20211226131526/http://www.17ce.com/site/http/20211226_4452de10664911ec89545fe60f9332a6:1.html)
-         + `2021-12-26 21:11:15` https，173 个测试节点，其中 94 个节点无法正常连接，[17CE 测试结果](https://web.archive.org/web/20211226141757/http://www.17ce.com/site/http/20211226_4ea390e0664d11ec89545fe60f9332a6:1.html)
-         + `2021-12-27 15:06:50` https，172 个测试节点，其中 81 个节点无法正常连接，[17CE 测试结果](https://web.archive.org/web/20211227070847/http://www.17ce.com/site/http/20211227_8ff992b066e311ec89545fe60f9332a6:1.html)
-         + `2021-12-30 23:12:24` https，183 个测试节点，其中 77 个节点无法正常连接，[17CE 测试结果](https://web.archive.org/web/20211230151656/http://www.17ce.com/site/http/20211230_e4d8a130698211eca8ff613adab63e9c:1.html)
+     + 17CE 测试，该测试包含少量境外以及其他地区的节点，最后的数字是「成功连接数」与「全部节点数」的比率
+         + [2021-12-25 13:15](https://web.archive.org/web/20211225051915/http://www.17ce.com/site/http/20211225_aa532ca0654111ec89545fe60f9332a6:1.html). https. 87/156
+         + [2021-12-26 07:50](https://web.archive.org/web/20211226000141/http://www.17ce.com/site/http/20211226_6164171065dd11eca8ff613adab63e9c:1.html). https. 110/162
+         + [2021-12-26 14:43](https://web.archive.org/web/20211226065812/http://www.17ce.com/site/http/20211226_2d258f80661711ec89545fe60f9332a6:1.html). https. 94/163
+         + [2021-12-26 20:42](https://web.archive.org/web/20211226131526/http://www.17ce.com/site/http/20211226_4452de10664911ec89545fe60f9332a6:1.html). http.  157/172
+         + [2021-12-26 21:11](https://web.archive.org/web/20211226141757/http://www.17ce.com/site/http/20211226_4ea390e0664d11ec89545fe60f9332a6:1.html). https. 94/173
+         + [2021-12-27 15:06](https://web.archive.org/web/20211227070847/http://www.17ce.com/site/http/20211227_8ff992b066e311ec89545fe60f9332a6:1.html). https. 81/172
+         + [2021-12-30 23:12](https://web.archive.org/web/20211230151656/http://www.17ce.com/site/http/20211230_e4d8a130698211eca8ff613adab63e9c:1.html). https. 77/183
+         + [2022-01-10 23:08](https://web.archive.org/web/20220110151604/http://www.17ce.com/site/http/20220110_1e03cfa0722711eca8ff613adab63e9c:1.html). https. 94/183
      + 备注：http 80 端口 的 store.steampowered.com 域名，大约在在 2018年 被 GFW 中断，不过暂无详细记录。[^itdog][^lusongsong]
        所以会看到测试 <http://store.steampowered.com> 几乎全部错误的情况。
 
