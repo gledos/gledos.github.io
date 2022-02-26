@@ -36,15 +36,15 @@ file-name: 2018-07-12-wegame-steam.markdown
 如果 [web.archive.org](https://web.archive.org/) 无法保存防爬虫、重定向等对 archive.org 不友好的网站，
 可以尝试 [archive.today](https://archive.today/) 。
 
-Emoji 后缀标识的意思
+Emoji 后缀标识的意思：
 
 + 红色十字交叉 ❌，表示我已经无法找到了这个网页的原页面了，
   因为刚开始记录时，我还没有用上 Wayback Machine 等工具。
-+ 锤子和扳手 🛠，表示建议使用源码模式或禁用JavaScript打开这个链接，
-  因为这个快照中有「错误」的JavaScript，使网页不能正常的显示
-+ 相机 📷，表示这个链接是图片，而不是HTML富文本之类的东西
++ 锤子和扳手 🛠，表示建议使用源码模式或禁用 JavaScript 打开这个链接，
+  因为这个快照中有「错误」的 JavaScript，使网页不能正常的显示
++ 相机 📷，表示这个链接是图片，而不是 HTML 富文本之类的东西
 + 发光的星星 🌟，表示内容丰富或高重要性
-+ 帕特农神庙 🏛️，表示该网页已保存到 Wayback Machine 等公开存档点，由于此页面绝大多数链接已经保存了，所以不再使用吃。
++ 帕特农神庙 🏛️，表示该网页已保存到 Wayback Machine 等公开存档点，由于此页面绝大多数链接已经保存了，所以不再使用此 Emoji。
 
 <!-- 🏛️、🏛 -->
 
@@ -402,31 +402,32 @@ Emoji 后缀标识的意思
 
     gledos 注: 虽然内容很长，但文章似乎有几分重量
 
-61. `2018-02-11 下午` 知乎，曾经需登录 [如何看待人民网发文《青少年登录境外游戏服务器严重，应尽快纳入国内监管体系》？](https://web.archive.org/web/20211212092848/https://www.zhihu.com/question/267002275 "https://www.zhihu.com/question/267002275")
+    `2018-02-11 下午` 知乎，曾经需登录 [如何看待人民网发文《青少年登录境外游戏服务器严重，应尽快纳入国内监管体系》？](https://web.archive.org/web/20211212092848/https://www.zhihu.com/question/267002275 "https://www.zhihu.com/question/267002275")
 
-    参与讨论的人数超过1000，[剽窃镜像站爬取的这个问题](https://archive.is/nwAH0)
+    参与讨论的人数超过1000，[剽窃镜像站曾爬取过这个问题](https://archive.is/nwAH0) 。
 
-62. `2018-04-28` 新闻，[《全球最大的数字游戏平台Steam启用HTTPS，轻松解决DNS污染》](https://web.archive.org/web/20211226144651/https://www.sslsq.com/news/security-news/25691.html)
+61. `2018-04-28` 新闻，[《全球最大的数字游戏平台Steam启用HTTPS，轻松解决DNS污染》](https://web.archive.org/web/20211226144651/https://www.sslsq.com/news/security-news/25691.html)
 
     > 近日Steam开始默认启用加密，站点部署了全球受信任的SSL证书，用户可通过HTTPS正常访问Steam的网站。但在中国会有所差异，使用国内IP的用户仍旧使用默认HTTP明文协议，也可通过HTTPS访问，这种做法似乎是为了避免被全面封杀。
 
-63. `2018-05-09 21:55:13` IT之家，[Steam 测试版新增 6 个国内节点：包括青岛、乌鲁木齐等城市 - Steam,青岛,乌鲁木齐 - IT之家](https://archive.is/RIO6H "https://www.ithome.com/html/game/359116.htm")
+62. `2018-05-09 21:55:13` IT之家，[Steam 测试版新增 6 个国内节点：包括青岛、乌鲁木齐等城市 - Steam,青岛,乌鲁木齐 - IT之家](https://archive.is/RIO6H "https://www.ithome.com/html/game/359116.htm")
 
-64. `2018-05-28 17:24` 贴吧，[6.1【教程】国内 Steam社区 / 商店 报错及打不开的解决方法](https://web.archive.org/web/20180711132403/https://tieba.baidu.com/p/5720575784) 吧主发帖。2018年7月11日进行了顶置
+63. `2018-05-28 17:24` 贴吧，[6.1【教程】国内 Steam社区 / 商店 报错及打不开的解决方法](https://web.archive.org/web/20180711132403/https://tieba.baidu.com/p/5720575784) 吧主发帖。2018年7月11日进行了顶置
 
-65. `2018-06-12` 新闻，完美世界宣布与 Valve 合作推出 Steam 中国版
+64. `2018-06-12` 新闻，完美世界宣布与 Valve 合作推出 Steam 中国版
 
     + [Valve 宣布与完美合作，Steam 将正式进入中国 - IT之家](https://archive.vn/Qnq1E "https://www.ithome.com/html/game/364421.htm")
-    + [Valve will officially launch Steam in China](https://www.theverge.com/2018/6/11/17451484/steam-china-announced-valve-perfect-world)
-    + [完美世界：宣布与美国Valve成立“STEAM中国”项目](https://www.ithome.com/html/it/364433.htm)
-    + [全球最大VR发行平台Steam正式进入中国，与完美世界合作](http://www.sohu.com/a/235248684_213766)
-    + [完美世界获Valve授权 在中国大陆运营及推广Steam中国](https://cn.reuters.com/article/perfect-world-valve-china-business-0612-idCNKBS1J8049)
-    + [Valve宣布与完美中国达成合作 将正式推出Steam中国版](https://tech.sina.com.cn/roll/2018-06-12/doc-ihcufqih5876894.shtml)
-    + [完美世界与美国Valve宣布“STEAM中国”项目](http://www.nbd.com.cn/articles/2018-06-12/1225220.html)
-    + [央视报道完美世界Steam中国项目](http://www.chinanews.com/business/2018/06-14/8537646.shtml)
     + [Valve 联手完美世界推出「中国版」Steam](https://cn.engadget.com/2018/06/12/steam-china/)
+    + [Valve will officially launch Steam in China](https://www.theverge.com/2018/6/11/17451484/steam-china-announced-valve-perfect-world)
+    + [Valve宣布与完美中国达成合作 将正式推出Steam中国版](https://tech.sina.com.cn/roll/2018-06-12/doc-ihcufqih5876894.shtml)
+    + [完美世界：宣布与美国Valve成立“STEAM中国”项目](https://www.ithome.com/html/it/364433.htm)
+    + [完美世界：与VALVE公司签署授权协议建立STEAM中国_中证网](https://web.archive.org/web/20211227023423/https://cs.com.cn/ssgs/gsxw/201806/t20180612_5822324.html)
+    + [完美世界获Valve授权 在中国大陆运营及推广Steam中国](https://cn.reuters.com/article/perfect-world-valve-china-business-0612-idCNKBS1J8049)
+    + [完美世界与美国Valve宣布“STEAM中国”项目](http://www.nbd.com.cn/articles/2018-06-12/1225220.html)
+    + [全球最大VR发行平台Steam正式进入中国，与完美世界合作](http://www.sohu.com/a/235248684_213766)
+    + [央视报道完美世界Steam中国项目](http://www.chinanews.com/business/2018/06-14/8537646.shtml)
     + [潜力是3100万活跃玩家！完美世界联合V社上线Steam中国版](http://www.sootoo.com/content/676117.shtml)
-    + [中国文创引进来走出去添新平台](http://tv.cntv.cn/video/C10616/3bd40bdd9ba548358b0b8a148403a381) [全文](http://user.guancha.cn/main/content?id=21422&comments-container)如下
+    + [中国文创引进来走出去添新平台](http://tv.cntv.cn/video/C10616/3bd40bdd9ba548358b0b8a148403a381) [全文](http://user.guancha.cn/main/content?id=21422&comments-container) 如下：
 
         > 中美两国文化企业12号宣布启动战略合作，将共建游戏娱乐平台，引进全球精品游戏，同时中国游戏也将通过该平台拓展海外市场。
         >
@@ -447,20 +448,20 @@ Emoji 后缀标识的意思
     + 讨论，[Valve：Steam中国版不会对玩家已有游戏产生影响 - vgtime.com](https://archive.vn/VvEPE "https://www.vgtime.com/topic/951090.jhtml")
     + [关于Steam中国锁区，Steam的官方回复怎么说？ VR陀螺](https://archive.vn/45g7R "http://k.sina.cn/article_6012711797_16662b37500100a2sl.html")
 
-66. `2018-06-13` CCTV，Steam 被央视点名表扬
+65. `2018-06-13` CCTV，Steam 被央视点名表扬
 
     +[中国玩家的福音：央视宣传steam中国版，力求按中国游戏上线流程，让海外游戏健康有序服务中国市场](https://web.archive.org/web/20180615073029/https://www.bilibili.com/video/av24829932/)
     +[Steam这么“黄暴”的平台，竟然上央视了？这是单机游戏的机会还是末日？ - 知乎](https://archive.vn/zwtbN "https://zhuanlan.zhihu.com/p/38057639")
 
-67. `2018-06-14 13:53` 财经新闻，[Steam中国的背后：完美与Valve的挑战](https://archive.vn/32B7a "https://www.tfcaijing.com/article/page/2c91219663dce09a0163fc29810c5bac")
+66. `2018-06-14 13:53` 财经新闻，[Steam中国的背后：完美与Valve的挑战](https://archive.vn/32B7a "https://www.tfcaijing.com/article/page/2c91219663dce09a0163fc29810c5bac")
 
-68. `2018-07-10` 贴吧，101错误开始蔓延到一部分玩家的商店主页
+67. `2018-07-10` 贴吧，101错误开始蔓延到一部分玩家的商店主页
 
-69. `2018-07-31 14:08` 新闻，[Steam中国开始招聘员工！惨遭玩家怒喷：滚出中国！](https://web.archive.org/web/20200527123526/https://www.sohu.com/a/244361654_100191223?sec=wd)
+68. `2018-07-31 14:08` 新闻，[Steam中国开始招聘员工！惨遭玩家怒喷：滚出中国！](https://web.archive.org/web/20200527123526/https://www.sohu.com/a/244361654_100191223?sec=wd)
 
     内有Steam中国招工信息与帕斯亚科技对Steam中国的认识
 
-70. `2018-07-10 至 2018-07-14` 贴吧，讨论帖收集，许多用户开始首次遇到打不开市场的问题
+69. `2018-07-10 至 2018-07-14` 贴吧，讨论帖收集，许多用户开始首次遇到打不开市场的问题
 
     + 7月10日
         + [今天大家是不是都steam打不开了？网页和软件都打不开了！](https://web.archive.org/web/20180710124939/https://tieba.baidu.com/p/5789930101)
@@ -480,9 +481,9 @@ Emoji 后缀标识的意思
         + [不用加速器steam市场就打不开怎么办？](https://web.archive.org/web/20180714060529/https://tieba.baidu.com/p/5794560012)
         + [错误代码101怎解决？](https://web.archive.org/web/20180714050551/https://tieba.baidu.com/p/5151618796)
 
-71. `2018-10-30 11:48` 新闻，[刚刚！Steam中国北京运营开启，Steam中国真的来了！游戏](https://web.archive.org/web/20200527123521/https://www.sohu.com/a/272143651_535013)
+70. `2018-10-30 11:48` 新闻，[刚刚！Steam中国北京运营开启，Steam中国真的来了！游戏](https://web.archive.org/web/20200527123521/https://www.sohu.com/a/272143651_535013)
 
-72. `2019-08-21` 新闻，[🌟 Valve talks Steam China, curation and exclusivity • Eurogamer.net](https://web.archive.org/web/20201220032923/https://www.eurogamer.net/articles/2019-08-21-valve-talks-steam-china-curation-exclusivity)
+71. `2019-08-21` 新闻，[🌟 Valve talks Steam China, curation and exclusivity • Eurogamer.net](https://web.archive.org/web/20201220032923/https://www.eurogamer.net/articles/2019-08-21-valve-talks-steam-china-curation-exclusivity)
 
     > In fact, Valve isn't sure itself. Eurogamer spoke to Valve's DJ Powers,
       who works in the company's business development team,
@@ -543,17 +544,17 @@ Emoji 后缀标识的意思
     >
     > Powers: 我的意思是，是的。总是存在无法控制的外部性。 但是我们前进的方向是，Steam global 仍然保持今天的状态。
 
-73. `2019-08-21` ~ `2019-08-22` 新闻，蒸汽平台上线
+72. `2019-08-21` ~ `2019-08-22` 新闻，蒸汽平台上线
 
     + [蒸汽平台首批上线游戏达 40 款，含《DOTA2》《刀塔霸业》 - IT之家](https://archive.is/1dP5k "https://www.ithome.com/0/440/351.htm")
     + [中國玩家還能翻牆玩嗎？Valve：一切依法行政 電競 新頭殼 Newtalk](https://web.archive.org/web/20200821030708/https://newtalk.tw/news/view/2019-08-22/289090)
     + [不用再辛苦翻牆！中國版Steam「蒸汽平台」即將登場 電競 新頭殼 Newtalk](https://web.archive.org/web/20200527202753/https://newtalk.tw/news/view/2019-08-22/289036)
 
-74. `2019-11-11 09:43` [严格控制未成年人使用网络游戏时段、时长_服务信息_中国政府网](https://web.archive.org/web/20200609171539/http://www.gov.cn/fuwu/2019-11/11/content_5450800.htm), [archive.is](https://archive.is/46U3p)
+73. `2019-11-11 09:43` [严格控制未成年人使用网络游戏时段、时长_服务信息_中国政府网](https://web.archive.org/web/20200609171539/http://www.gov.cn/fuwu/2019-11/11/content_5450800.htm), [archive.is](https://archive.is/46U3p)
 
-75. `2020-04-26 02:13:11` 讨论帖，[蒸汽平台或有望在2020年面世？ - 其乐 Keylol](https://archive.is/uA3tG "https://keylol.com/t588262-1-1")
+74. `2020-04-26 02:13:11` 讨论帖，[蒸汽平台或有望在2020年面世？ - 其乐 Keylol](https://archive.is/uA3tG "https://keylol.com/t588262-1-1")
 
-76. `2020-04-27 17:07:43` 转载，蒸汽平台或有望在2020年面世？
+75. `2020-04-27 17:07:43` 转载，蒸汽平台或有望在2020年面世？
 
     + [终于来了！Steam国服域名曝光：玩游戏不掉线了？](https://web.archive.org/web/20200814044525/http://www.bajieyou.com/new/7b2f9fd4057645949e7fbe87eaa3075b),
       [新浪网](https://web.archive.org/web/20200508143013/https://k.sina.com.cn/article_5061312402_12dad7f9202700sy1i.html)
@@ -566,7 +567,7 @@ Emoji 后缀标识的意思
         > 此外坛友zxrzy也发现这些域名今年4月初都已过审，以及去年12月份获得软著的完美世界对战平台，
           支付网关，神秘商店，电子竞技App.
 
-77. `2020-05-05` 完美世界的蒸汽平台的强制全屏 5 秒 《健康游戏忠告》
+76. `2020-05-05` 完美世界的蒸汽平台的强制全屏 5 秒 《健康游戏忠告》
 
     + `2020-05-05 12:06 編輯` [蒸汽平台会强制全屏 5 秒《健康游戏忠告》](https://archive.vn/GaFoT "https://keylol.com/t592086-1-1")
     + `2020-05-06 19:15 編輯` [蒸汽平台会强制全屏 5 秒《健康游戏忠告》](https://archive.vn/XYbqf "https://keylol.com/t592086-1-1")
@@ -574,7 +575,7 @@ Emoji 后缀标识的意思
     + `2020-07-20 18:54 编辑` [蒸汽平台会强制全屏 5 秒《健康游戏忠告》](https://archive.is/lmpFL "https://keylol.com/t592086-1-1")
     + PTT上的讨论 [Fw: [閒聊] 中國的蒸汽平台會限制遊戲時間 - 批踢踢實業坊](https://web.archive.org/web/20200508143401/https://www.ptt.cc/bbs/Steam/M.1588677634.A.C96.html)
 
-78. `2020-05-19` steam 中国客户端α版风波
+77. `2020-05-19` steam 中国客户端α版风波
 
     + [Valve quietly releases censored Steam China client to alpha - CS:GO - News - WIN.gg](https://archive.fo/Yc4dX "https://win.gg/news/4554/valve-quietly-releases-censored-steam-china-client-to-alpha")
         + 中文标题可能会被翻译为《V社悄然推行STEAM中国客户端α版》
@@ -583,41 +584,41 @@ Emoji 后缀标识的意思
     + [steam要出中国特供版了 - 电子游戏(Game)版 - 北大未名BBS](https://web.archive.org/web/20200821025126/https://bbs.pku.edu.cn/v2/post-read.php?bid=49&threadid=16445230)
     + [蒸汽平台有遊戲時限！中國玩家崩潰：你不要過來 - Yahoo奇摩股市](https://archive.is/bFJva "https://tw.stock.yahoo.com/news/蒸汽平台有遊戲時限-中國玩家崩潰-你不要過來-035828837.html")
 
-79. `2020-05-24` 新闻，[Valve Releases Censored Chinese Steam Client for Alpha Testing – Sankaku Complex](https://web.archive.org/web/20200524112247/https://www.sankakucomplex.com/2020/05/24/valve-releases-censored-chinese-steam-client-for-alpha-testing/)
+78. `2020-05-24` 新闻，[Valve Releases Censored Chinese Steam Client for Alpha Testing – Sankaku Complex](https://web.archive.org/web/20200524112247/https://www.sankakucomplex.com/2020/05/24/valve-releases-censored-chinese-steam-client-for-alpha-testing/)
 
-80. `2020-05-27 20:55:29` IT之家，[Steam 中国版泄露：加入健康游戏忠告，限制未成年人游戏时长 - Steam - IT之家](https://archive.is/VHNXv)
+79. `2020-05-27 20:55:29` IT之家，[Steam 中国版泄露：加入健康游戏忠告，限制未成年人游戏时长 - Steam - IT之家](https://archive.is/VHNXv)
 
-81. `2020-05-31 23:21:55` IT之家，[《CS：GO》防沉迷错误已修复：Steam玩家需切换至Beta版 - CSGO - IT之家](https://archive.is/Mwtb9)
+80. `2020-05-31 23:21:55` IT之家，[《CS：GO》防沉迷错误已修复：Steam玩家需切换至Beta版 - CSGO - IT之家](https://archive.is/Mwtb9)
 
-82. `2020-06-06` 新闻，[News - Client Updates](https://web.archive.org/web/20200606115302/https://store.steampowered.com/news/?feed=steam_client) 、
+81. `2020-06-06` 新闻，[News - Client Updates](https://web.archive.org/web/20200606115302/https://store.steampowered.com/news/?feed=steam_client) 、
 
     [News - Steam Client Update Released](https://web.archive.org/web/20200606115322/https://store.steampowered.com/news/62162/)
 
     + Steam 这几天前后更新了多次测试版的客户端，为了完美世界的防沉迷而更新
     + [Steam Community :: Group :: Steam Client Beta](https://web.archive.org/web/20200606114915/https://steamcommunity.com/groups/SteamClientBeta/announcements)
 
-83. `2020-06-04` 新闻讨论帖，[今日 Steam Beta 修复了多项与完美服有关的问题，建议更新至 Beta 版本 - 其乐 Keylol](https://archive.is/KXmnP "https://keylol.com/t604384-1-1")
+82. `2020-06-04` 新闻讨论帖，[今日 Steam Beta 修复了多项与完美服有关的问题，建议更新至 Beta 版本 - 其乐 Keylol](https://archive.is/KXmnP "https://keylol.com/t604384-1-1")
 
-84. `2020-06-08` 新闻讨论帖，[蒸汽平台不会出现“双重”《健康游戏忠告》 - 其乐 Keylol](https://archive.vn/X8YGL "https://keylol.com/t606186-1-1")
+83. `2020-06-08` 新闻讨论帖，[蒸汽平台不会出现“双重”《健康游戏忠告》 - 其乐 Keylol](https://archive.vn/X8YGL "https://keylol.com/t606186-1-1")
 
-85. `2020-06-11` 新闻讨论帖，[蒸汽平台现以CS:GO 完美服启动器呈现 - 全球攻势 - 其乐 Keylol](https://archive.is/103Gm "https://keylol.com/t607467-1-1")
+84. `2020-06-11` 新闻讨论帖，[蒸汽平台现以CS:GO 完美服启动器呈现 - 全球攻势 - 其乐 Keylol](https://archive.is/103Gm "https://keylol.com/t607467-1-1")
 
     > 也就是说，CS:GO 完美服启动器已经从Steam 的阉割版，变成了蒸汽平台阉割版，
       且其不再使用「IPCountry」等国际化的一些参数来作为参考标准，而是强制执行「完美区」的标准。
 
-86. `2020-07-17` 新闻讨论帖，[Steam 将新增大陆下载区域，包括深圳、杭州和沈阳等…… - 热点聚焦 - 其乐 Keylol](https://archive.is/v9Kjl "https://keylol.com/t621136-1-1")
+85. `2020-07-17` 新闻讨论帖，[Steam 将新增大陆下载区域，包括深圳、杭州和沈阳等…… - 热点聚焦 - 其乐 Keylol](https://archive.is/v9Kjl "https://keylol.com/t621136-1-1")
 
-87. `2020-07-23` 新闻讨论帖，[蒸汽平台專用 CM 已下線 - 其樂 Keylol](https://archive.is/9Qq7A "https://keylol.com/t623359-1-1")
+86. `2020-07-23` 新闻讨论帖，[蒸汽平台專用 CM 已下線 - 其樂 Keylol](https://archive.is/9Qq7A "https://keylol.com/t623359-1-1")
 
-88. `2020-07-25` 新闻讨论帖，[Steam中國微博賬號最新動向：現已改名為「蒸汽平台官方賬號」 - 其樂 Keylol](https://archive.is/cyMXS "https://keylol.com/t624344-1-1")
+87. `2020-07-25` 新闻讨论帖，[Steam中國微博賬號最新動向：現已改名為「蒸汽平台官方賬號」 - 其樂 Keylol](https://archive.is/cyMXS "https://keylol.com/t624344-1-1")
 
-89. `2020-07-28` Wallpaper Engine 登陆腾讯 WeGame
+88. `2020-07-28` Wallpaper Engine 登陆腾讯 WeGame
 
     + IT之家，[腾讯：热门壁纸软件《Wallpaper Engine》即将上线 WeGame](https://archive.is/3F5mt "https://www.ithome.com/0/489/906.htm")
     + 其乐，[WeGame Wallpaper Engine即将于7月30日启动技术测试](https://archive.is/FPP87 "https://keylol.com/t625021-1-1")
     + IT之家，[《Wallpaper Engine：壁纸引擎》登陆腾讯 WeGame 商店，即将开启测试](https://archive.vn/E5pXO "https://www.ithome.com/0/500/141.htm")，[评论](https://web.archive.org/web/20200801090600/https://dyn.ithome.com/comment/49250a21adb87da4)
 
-90. `2020-07-29` 新闻讨论帖，[Steam CD改区界面变了 - 购物心得 - 其乐 Keylol](https://archive.is/EXDVS "https://keylol.com/t625576-1-1")，
+89. `2020-07-29` 新闻讨论帖，[Steam CD改区界面变了 - 购物心得 - 其乐 Keylol](https://archive.is/EXDVS "https://keylol.com/t625576-1-1")，
 
     [steam已更改跨区政策，现在只能用当地支付方式购买游戏或者联系客服才能改，不能再通过IP直接改了，不知道是好是坏 百度steam吧](https://archive.is/9Pk56 "https://tieba.baidu.com/p/6848144877")
 
@@ -626,9 +627,9 @@ Emoji 后缀标识的意思
     > 今天早上Steam再次更新了改区方式现在改区界面已经变成了这样，然后Steam又不支持阿根廷那边的货币结算，
     > 所以，以后去阿根廷，要么有当地银行卡，要么就找客服了
 
-91. `2020-08-02` 新闻讨论帖，[蒸汽平台可以在 Linux 上启动 - 谈天说地 - 其乐 Keylol - 驱动正版游戏的引擎！](https://archive.is/ah7rS "https://keylol.com/t627361-1-1")
+90. `2020-08-02` 新闻讨论帖，[蒸汽平台可以在 Linux 上启动 - 谈天说地 - 其乐 Keylol - 驱动正版游戏的引擎！](https://archive.is/ah7rS "https://keylol.com/t627361-1-1")
 
-92. `2020-08-05` steam 添加了新标签 steamchinaapproved ，目前共有20多款游戏属于这个标签下，以下链接如无说明，则均有评论区
+91. `2020-08-05` steam 添加了新标签 steamchinaapproved ，目前共有20多款游戏属于这个标签下，以下链接如无说明，则均有评论区
 
     > Steam中国过审游戏标记？——万狐飞仙
     + [SteamDB 泄露“Steam中国”首批游戏？ - 其乐 Keylol](https://archive.vn/ewTPv "https://keylol.com/t628374-1-1")
@@ -642,7 +643,7 @@ Emoji 后缀标识的意思
     + 无评论，[Steam China's first batch of over 20 games suspected to be leaked - cnTechPost](https://archive.is/0Ob6S "https://cntechpost.com/2020/08/06/steam-chinas-first-batch-of-over-20-games-suspected-to-be-leaked/")
     + 无评论区，[SteamDB疑洩露Steam中國首批遊戲 大量國產遊戲在列 電玩狂人](https://archive.is/RyIOg "https://playgame.wiki/news/a00a422d37")
 
-93. `2020-08-13` steam 新的商店区域 XC，目前这个区域是蒸汽平台的区域，而目前进入蒸汽平台仍然只需要在启动项里添加 -steamchina
+92. `2020-08-13` steam 新的商店区域 XC，目前这个区域是蒸汽平台的区域，而目前进入蒸汽平台仍然只需要在启动项里添加 -steamchina
 
     + [蒸汽平台可能不是 Steam 中国（大陆）区——“?cc=xc”目前可以直接访问蒸汽平台商店 - 其乐 Keylol](https://archive.is/xbj9Z "https://keylol.com/t631490-1-1")
     + [【8.15 更新】蒸汽平台可能不是 Steam 中国（大陆）区——目前通过“?cc=xc”可以直接访问 - 其乐 Keylol](https://archive.is/r1mDF "https://keylol.com/t631490-1-1 更新了XC的意思以及游戏定价的可能性")
@@ -660,26 +661,26 @@ Emoji 后缀标识的意思
             + 需登录 [《非「steamchinaapproved」标签游戏已无法从蒸汽平台打开页面》](https://keylol.com/t630992-1-1 "https://archive.is/NML4B")
         + [目前仍然没有国区价格的中国式家长的steamdb页面](https://archive.is/b5LkB "https://steamdb.info/app/736190/")
 
-94. `2020-08-13` 新闻讨论帖，[Steam 的 CM 被细化——采用“cm.wmsjsteam.com” - 其乐 Keylol](https://archive.is/9XCUq "https://webcache.googleusercontent.com/search?q=cache:https://keylol.com/t631322-1-1")
+93. `2020-08-13` 新闻讨论帖，[Steam 的 CM 被细化——采用“cm.wmsjsteam.com” - 其乐 Keylol](https://archive.is/9XCUq "https://webcache.googleusercontent.com/search?q=cache:https://keylol.com/t631322-1-1")
 
-95. `2020-08-18` 新闻讨论帖**
+94. `2020-08-18` 新闻讨论帖**
 
     + [蒸汽平台信息更新帖：8.18 去除“更新与优惠”数据 - 其乐 Keylol](https://web.archive.org/web/20200820134250if_/https://webcache.googleusercontent.com/search?q=cache:WSRFqwXzqtYJ:https://keylol.com/t633101-1-1)
     + [蒸汽平台信息更新帖：8.19 增加了支付系統 - 其乐 Keylol](https://archive.is/mmQId "https://keylol.com/t633101-1-1")
 
-96. `2020-08-26` 教育部等六部门下发通知联合开展未成年人网络环境专项治理行动。「一是集中整治未成年人沉迷网络问题。重点对未落实网络游戏用户账号实名注册制度」
+95. `2020-08-26` 教育部等六部门下发通知联合开展未成年人网络环境专项治理行动。「一是集中整治未成年人沉迷网络问题。重点对未落实网络游戏用户账号实名注册制度」
 
     + [教育部等六部门关于联合开展未成年人网络环境专项治理行动的通知 - 中华人民共和国教育部政府门户网站](https://web.archive.org/web/20200826080754/http://www.moe.gov.cn/srcsite/A06/s7053/202008/t20200826_480306.html)
     + [教育部等六部门下发通知联合开展未成年人网络环境专项治理行动 - 中华人民共和国教育部政府门户网站](https://web.archive.org/web/20200826080756/http://www.moe.gov.cn/jyb_xwfb/gzdt_gzdt/s5987/202008/t20200826_480307.html "https://archive.is/RPxTR")
     + [六部门联合印发通知：重拳治理未成年人网络环境！_新闻_央视网(cctv.com)](https://web.archive.org/web/20200826082126/https://m.news.cctv.com/2020/08/26/ARTIb7C8AF3WXxaSmZyhyjx4200826.shtml)
 
-97. `2020-08-31以及后续几天` 新闻讨论帖，steam 新的商店区域 XC 的进一步变化，[【9.12 更新】蒸汽平台信息更新帖：蒸汽平台商店页面网址确定，发布时可能没有社区 - 其乐 Keylol](https://archive.is/vi4s9 "https://keylol.com/t633101-1-1") 🛠
+96. `2020-08-31以及后续几天` 新闻讨论帖，steam 新的商店区域 XC 的进一步变化，[【9.12 更新】蒸汽平台信息更新帖：蒸汽平台商店页面网址确定，发布时可能没有社区 - 其乐 Keylol](https://archive.is/vi4s9 "https://keylol.com/t633101-1-1") 🛠
 
     1. 必须使用蒸汽平台的 UA 才能访问新商店区域 `Mozilla/5.0 (Windows; U; Windows NT 10.0; en-US; Valve Steam Client/steamchina/0; )`
     2. 蒸汽平台客户端的商店首页已几乎关闭，没有任何游戏，即使开启异家归途等蒸汽平台的游戏，也会提示「您所在的地区目前不提供此物品」
     3. 蒸汽平台社区页面无法打开，直接返回404状态码
 
-98. `2020-09-12` 新闻讨论帖，Steam beta 客户端更新
+97. `2020-09-12` 新闻讨论帖，Steam beta 客户端更新
 
     + [Steam 下载区域新增“南宁”，同时修正武汉等地的地理信息 - 其乐 Keylol](https://archive.is/T4S4Z "https://keylol.com/t641284-1-1")
     + [蒸汽平台商店页面网址确定，发布时可能沒有社区 - 其乐 Keylol](https://archive.is/O1tKo "https://keylol.com/t641289-1-1")
@@ -687,7 +688,7 @@ Emoji 后缀标识的意思
         + 社区被完全移除，客户端里删除了这个选项卡
     + [Steam中国使用总结 凌晨大黑狗 哔哩哔哩](https://archive.vn/hDJfM "https://www.bilibili.com/video/BV1KT4y1A7Ma")
 
-99. `2020-09-16` SteamDatabase 的 SteamTracking 抓取到了未实装的[新代码](https://web.archive.org/web/20200919053038/https://github.com/SteamDatabase/SteamTracking/blob/53466cd4589225b5a0bec1ef29e83ca5fcbd8712/partner.steamgames.com/public/javascript/game_admin.js)，里面含有一个新的语言 "sc_schinese" 自带的描述为 "SteamChina - Simplified Chinese"
+98. `2020-09-16` SteamDatabase 的 SteamTracking 抓取到了未实装的[新代码](https://web.archive.org/web/20200919053038/https://github.com/SteamDatabase/SteamTracking/blob/53466cd4589225b5a0bec1ef29e83ca5fcbd8712/partner.steamgames.com/public/javascript/game_admin.js)，里面含有一个新的语言 "sc_schinese" 自带的描述为 "SteamChina - Simplified Chinese"
 
     Steam 的语言与区域是可以分别选择的，比如选择日区的商店的同时，可以使用简体中文，等任意语言作为客户端 & 网页的显示效果。
 
@@ -695,11 +696,11 @@ Emoji 后缀标识的意思
 
     相关新闻讨论帖 [Steamworks 新增蒸汽平台专属语言选项“sc_schinese” - 热点聚焦 - 其乐 Keylol - 驱动正版游戏的引擎！](https://archive.is/Bkgh5 "https://keylol.com/t642396-1-1")
 
-100. `2020-09-16 12:23:02` 新闻讨论帖，……离谱！Steamworks 新增蒸汽平台专属语言选项“sc_schinese” - [阅读权限 255]
+99.  `2020-09-16 12:23:02` 新闻讨论帖，……离谱！Steamworks 新增蒸汽平台专属语言选项“sc_schinese” - [阅读权限 255]
 
      详细信息我还没有获取到，我会尽快跟进
 
-101. `2020-09-17` 新游戏即将推出，MECHBLAZE 在 Steam 出现了页面
+100. `2020-09-17` 新游戏即将推出，MECHBLAZE 在 Steam 出现了页面
 
      从 SteamDatabase 抓取到的[信息](https://web.archive.org/web/20200919055553/https://steamdb.info/app/1398500/)
      来看，该游戏应该是首个支持 sc_schinese 语言的游戏，
@@ -707,11 +708,11 @@ Emoji 后缀标识的意思
      [漫漫长路](https://web.archive.org/web/20200919062157/https://steamdb.info/app/856990/info/)
      目前均没有支持 sc_schinese 语言。
 
-102. `2020-09-17 20:57` 新闻讨论帖，[STEAM遊戲支持語言新增 簡體中文-steam中國 - 其樂 Keylol](https://archive.is/7HS4H "https://keylol.com/t642813-1-1")
+101. `2020-09-17 20:57` 新闻讨论帖，[STEAM遊戲支持語言新增 簡體中文-steam中國 - 其樂 Keylol](https://archive.is/7HS4H "https://keylol.com/t642813-1-1")
 
-103. `2020-09-18 0点` 其乐论坛社区进入了关闭论坛的维护状态，时长为两周。详细内容这里:[其乐 - ggame.wiki](https://github.com/gledos/ggame_wiki/blob/master/website/其乐.md)
+102. `2020-09-18 0点` 其乐论坛社区进入了关闭论坛的维护状态，时长为两周。详细内容这里:[其乐 - ggame.wiki](https://github.com/gledos/ggame_wiki/blob/master/website/其乐.md)
 
-104. `2020-09-23 21:23` 数据挖掘，游戏市场调研服务商 Niko Partners 的高级分析师 Daniel Ahmad 发现了还无法使用的蒸汽平台的注册与登录页面。
+103. `2020-09-23 21:23` 数据挖掘，游戏市场调研服务商 Niko Partners 的高级分析师 Daniel Ahmad 发现了还无法使用的蒸汽平台的注册与登录页面。
 
      + [Daniel Ahmad on Twitter: "Steam China login page is live (but doesn't allow logins/sign ups yet). This is a China specific version of Steam that is being operated by Perfect World and Valve. Will host games that have been approved by the games regulator. No change to international Steam. - Twitter](https://archive.is/mvtt8 "https://twitter.com/ZhugeEX/status/1308758939371270145")
      + 资讯报道&讨论
@@ -720,19 +721,19 @@ Emoji 后缀标识的意思
          + [Steam中国客户端 账户注册页面现已上线 - 百度 Steam 贴吧](https://archive.is/bN2s3 "https://tieba.baidu.com/p/6976688701")
          + [消息称 Steam 中国客户端即将到来，账户注册页面现已上线 - IT之家](https://archive.vn/qH1G7 "https://www.ithome.com/0/510/511.htm")
 
-105. 其乐论坛社区进入了关闭论坛的维护状态期间的时候，似乎更换了 TLS 证书，新证书签发于2020年8月26日，有效期为一年。
+104. 其乐论坛社区进入了关闭论坛的维护状态期间的时候，似乎更换了 TLS 证书，新证书签发于2020年8月26日，有效期为一年。
 
-106. `2020-10-01 22:00:00` 新闻讨论帖，[蒸汽平台账户注册页面已可被访问 - 其乐 Keylol](https://archive.is/GQipU "https://keylol.com/t643151-1-1")
+105. `2020-10-01 22:00:00` 新闻讨论帖，[蒸汽平台账户注册页面已可被访问 - 其乐 Keylol](https://archive.is/GQipU "https://keylol.com/t643151-1-1")
 
      [测试中的 SteamCN 创建账户页面](https://web.archive.org/web/20200923060617/https://rnr-sandbox.pwesports.cn/register.html)
 
      目前还无法使用，且《蒸汽中国用户协议》《隐私政策》均无法查看
 
-107. `2020-10-21 08:04` [蒸汽平台 LOGO 已出現在 Steamworks - 其乐 Keylol](https://archive.is/mYSRI)，[30 files - styles_landing.css, main.css, profilev2.css, broadcast.css… · SteamDatabase/SteamTracking@d0d2875 · GitHub](https://web.archive.org/web/20201024090423/https://github.com/SteamDatabase/SteamTracking/commit/d0d2875401a6d39d36e645bdd69be329b48bb34a)
+106. `2020-10-21 08:04` [蒸汽平台 LOGO 已出現在 Steamworks - 其乐 Keylol](https://archive.is/mYSRI)，[30 files - styles_landing.css, main.css, profilev2.css, broadcast.css… · SteamDatabase/SteamTracking@d0d2875 · GitHub](https://web.archive.org/web/20201024090423/https://github.com/SteamDatabase/SteamTracking/commit/d0d2875401a6d39d36e645bdd69be329b48bb34a)
 
      ![Steam China](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAI8AAAAsCAYAAABc6+vTAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoV2luZG93cykiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6NDZGOTI3NDMxMjMwMTFFQjlCNEREQTNDNkM5MjJEMDEiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6NDZGOTI3NDQxMjMwMTFFQjlCNEREQTNDNkM5MjJEMDEiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo0NkY5Mjc0MTEyMzAxMUVCOUI0RERBM0M2QzkyMkQwMSIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo0NkY5Mjc0MjEyMzAxMUVCOUI0RERBM0M2QzkyMkQwMSIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/Pl/SM9QAAApwSURBVHja7J0LcBbVFceX8DAC8hQKWIJgoSjFBjulZYJRWqjSWBtspQGKYqvyUAs4g30oAlXHThUbbatGBB8IArYhiIOWAqZQgVGraaU2MlgQFIgxMYEQUEvS/5nvv+PpdV/ft0vyJd0z85Nvd+/evbv37LnnnnM3tmlsbLRCSFeQS4aDwaA36MzjJ0AN2A3eAltBKXjXiqXFS5sUlCcD5IEfgW+DDilcdwd4CjwJ6uJuaP3K0wYUgIVgSETXrwIPgHtBfdwdrVN5hoJlYNQpasd+cBN4Nu6S1qU800EhyGyC9hSBOfSVTBF/aiz4BJSDv8bd17yS4XGsLXgQPNxEimMr6hbQ02HIvJLDnLT5XNAn7r70VJ62dGZnNkObRtGq9FL7uoADIAsMosP9xbj70lN5xNpMbsZ2iY/1J4YCRGrBQLAZFINLwetx96WfzzObPk6UIn7KGrAO7ALVHJpGgHxwhYsil/CYNLIbmMByL4J/x92XXsqTDV4B7SK8xvOcSb3tUWYYneUch2M3g9/EXZXeyiMK85qViBRHJTL8zaLlsEWGnzPBYfoxtkiw8XEwyajjOB3kd+LuSl/lmQEeirDujfRN7AtMA7eBc1SZN7lvrVIgcZa/atS1lsNXLM0r4mZ8jrPfthmq0xZE7OPcoBTnt+AxDl0SpR4Nfsipd7G69sc8z5QJbHjU8jMrETEvcDjWh8eEr/vU09XFZxvKGes5aaoMwzgxmcAZtp/stRIxOHle37UtzzR2blSyWnWIzNpWsBMWOcRv7rMSgcFxYBP3l4KLjLIrwZQQbergMIOUONbpnLk9YBzLUu19mpbUljJi17sNnMHya9RLI37c9eAkGADeC9jWL4DPh+yDUp/joiwvga9xeybdDC85DfSj9Wm0lWenqiQKmcLOFvkHOOriDNvhAilTAb7JfXOpVFpO0BrUptgmma19GNH9LeLLYFE5itSxbbz/BrDHSgRY94H7feoUq7yevws56w3lkgS4h9v5W6zPeKX0Y+iXPuNVgTjJ/SNWHJHd/LcnHfCbPMo28G29jTcsN1DuUC6Tfk+qFlLe/r8b+4ZTeY/QJGsRi2QngA+CSnXssPr9CB3/QpbvzrJLrE8j82cHmDGuU8pzqkVWQ8xXfTVJKY6tVA20psu8lOeSiBt2TE3L7XU9FT7nSGe0Bx15/hGXcmNDKM9RhiK0iMXrwiHpeuPYeWADf//S6yEyHPEXcBdYCi6jT2d3zqEA7dulft/DmadIDyuxJqqB2/PU8JvL+7KH2fct57ygGY5ZzRdVyucZFnm5lUgTydD0KPiIboej8uRErDw3q8ZU0Ak+38cEDqfzfIzbfV3KjYmojWdweGlgx4xUPoyWenb+MwHqrOdwK1b8CTVx+AXvzU1kPdOrxr73aLWknlH0H+02aAv4BttvUdnEQd8OvuPxnP/Ml/oDvox7jDJ76H9u4dD1JBXoD5+pDT5PWWN0sl58KINnQQXo4XBMOAscAUvUvl97XKObSz3J0C2JezoJpnnUtQCMVtvjwCGe92CA+stc6m0HDrLMK2p/ocOzGKb2rXKprwDUqnLbwONgDSgBG0EpeJlt+kCVPQ5yzDrlPzURKU4l6O3QaLmxejYqyzg2BOwC1aC/emhve1xnZAilOROcDQaCbHIB90tHnA/WqWuV86H1AtNBW6O+marsdpDL/f3AFDCGHeHFao/2LnK4byfleZjbDeA8l7reCNm/h8z+lWFrMbiOjnMY+THHUFP+SUd3FYcAMZv7Gfv4Boe4PBVtvsZKZM7dpFeINsqKxatdfK48zjrbc98WzkAGcUo7mG0br4blWra7P4eXVXSaa3iOSL5Pm6o9jv1RzYi+B152KNNX3dNSBl6dRPyWu9VQWUV/6Si36+hr1qpt4QKGcnrTP16uhy2Lb9TlYAO1N1lZGuCt7wPuAjvBXr6p80F3VWYw+NDnWgUhLM+9YB85oOqU4eE0h2utBEf5u8bl2pngVnAM5HFffhLPbo5Pm2VYma2stml5xB24lhast0c9cuxL4PQkn1kH8By42DzmlFUfRG/7moBvuWS3v2yFX8gu+asXOGvwkkl8w8NIJmdtdiDzSjqE9sPYyii4HTV+l0FLr0x+D2VF8lXKxU/mWv+7iuEnfNvdZCSflR28/Nij7O208nqmlZ3C8ypznFB4aJy8iZPpWHk5kzkhndfOdDrrA76peSGvl2uM/4vp2K5V+6bzOpVqXw19iys8nP+r+aa2p1Xwws3ylEQ4gck26l6YYj0Lne436AMXc/c7zorKaCaHgi4pdF5HMAPcSef0eJI3kqrDfKHDizCfx+5U+97n8GnRUX7KYSif5FD/CB7bCnoGaE+di/KsoKK68ZFqR61P2eGnUnmCrtuRANaN4BYGoST6ejmz5vuZkzoSoJ6vMG0R5tOd3SmeJzGRs/h7Px3iA3QGaxgErGb9OSr+tYnls+jgF3O4MMV2RiWJ2skntmMngTs5JFT98nc6dTFAxXmSle4+52ZbPqs1k130Va+iyHvpff+K/s4NjFy6JeFuYaQ2zEKzQyEelpw3lRFlmV29RsVJZjnCVS7tH6Mi9csMP8NNatmBXRhZb3HfrbVT+aRkZSeZx2zs03wgLxjlBjBKmRtBe18Mef5L7KhLmEvyko60snZaoCsjuG86PMNClT+7O2BbKpjzkoTtHbTIf2tJypPB1L90ykQrtU+HJVz+A77J9xjHJjMZmRtRezdFUMcCDj0W4yMlHIZPcpY0lbGeC5mwzWeidjPzV0ON+mYz/WJbnaArHu3830DGaoqbuO+fsxLLNtx41LcGOj876BgdpvM4IAWHdBbr6EdHemVjtCKOddeQM62LwH9Y30bum6dmjnb9m7nvLW5nq3jPO8oh7qwi9OIA903heR1jKqAs4HmFIVI1kTrMGWpZgcVM6q2MZ6xn6j4joCZXK/N+qfXZtchhpdhKfS2PRed0Bf2vOsaydDZb7nMYf9uLooYw5lKmorhZajlDHaPn4ovdFzB7bssa3k9HLl0pbWLLs4FDtxulQS1PJnMXTrI3YCxnCWM1EsH8aWP0MiKChKhEuYvA94382kNgLpO0Fi3nz8G5xvl3gIkOOS6Z0ndKoT2jGddZxbYFOedGJjBLafmSuV4Br1cSoL0DVdkCvzjPLI+OW8kyV6nkn2Y8+AT8ntvbI1ac4ggUJyZizE9vXmWqwZSTnKpWcR3MCa4vqWQYfyKTduO4/XyE5jX+9CZNxcxtSRBvh8osaylnkOw4p+f5nCXsY3znfk7Lt4XMfDstLos/+msByiMyx6OzDjLSXGLEhtrRoVxsffp9eRSiPzeOpQUojz37us7jvAO0MFW0PhdbiSWLUcrrjNzWxt3UspTH/hMrzfWXMsoZWKyMuyi9I8yWi4MseZyiZmjTDjrdseK0UOWxFWgGOdFE7SmiU14Vd03LHbZMkamyrI+N/6BlLIEsj5Z/WYn1LVMt5685UxWxMAuonLHitFLLYyqcfFR2LfiWlVomXpZyLLfiP+L9f6c8WuTLy7EcziSBOIhTd/sb7fh/H9CK5b8CDACeNjLgSpHXTwAAAABJRU5ErkJggg==)
 
-108. `2020-10-21 16:35` 数据挖掘**
+107. `2020-10-21 16:35` 数据挖掘**
 
      为 SteamDB 工作的数据挖掘者 [Pavel Djundik](https://twitter.com/thexpaw) 发现了必须获得版号，
      装入文字过滤系统，接入防沉迷系统，拥有启动页面的48字真言才能上架蒸汽平台。[^Pavel]
@@ -742,9 +743,9 @@ Emoji 后缀标识的意思
      + 相关链接
         + [蒸汽平台上的游戏应该必须要有版号才能发行 - 其乐 Keylol](https://archive.is/CVw6t "https://keylol.com/t649792-1-1")
 
-109. `2020-10-21 左右` 新闻，[steam网页登录界面更新了 - 其乐 Keylol](https://archive.is/zNx4o "https://keylol.com/t649678-1-1")，登陆页面更加现代化
+108. `2020-10-21 左右` 新闻，[steam网页登录界面更新了 - 其乐 Keylol](https://archive.is/zNx4o "https://keylol.com/t649678-1-1")，登陆页面更加现代化
 
-110. `2020-11-05` [测试中的蒸汽平台大更新：使用红色 STEAM 图标，社区沦为“空间”及意味深长的英语条目 - 其乐 Keylol](https://archive.is/ryHck "https://keylol.com/t654581-1-1")
+109. `2020-11-05` [测试中的蒸汽平台大更新：使用红色 STEAM 图标，社区沦为“空间”及意味深长的英语条目 - 其乐 Keylol](https://archive.is/ryHck "https://keylol.com/t654581-1-1")
 
      商店、客服及个人资料页面全面使用“steamchina.com”社区功能目前只剩下好友之间的个人资料页面（STEAM 空间），客户端强制“简体中文 - 蒸汽平台”，且无大屏幕模式，好友数据隔离。
 
@@ -762,7 +763,7 @@ Emoji 后缀标识的意思
      "Steam_Download_SteamChina"                     "下载蒸汽平台"
      ```
 
-111. `2020-11-18` [今日 Steam 商店首页头部 LOGO 更新，换成了 SVG 图，顺便新增了蒸汽平台 LOGO - 其乐 Keylol](https://archive.is/sBmc1 "https://keylol.com/t658948-1-1")
+110. `2020-11-18` [今日 Steam 商店首页头部 LOGO 更新，换成了 SVG 图，顺便新增了蒸汽平台 LOGO - 其乐 Keylol](https://archive.is/sBmc1 "https://keylol.com/t658948-1-1")
 
      16日，steamchina.com 新签发了三个次级域名的证书：
 
@@ -770,38 +771,38 @@ Emoji 后缀标识的意思
      + api.steamchina.com
      + my.steamchina.com
 
-112. `2020-11-19` [蒸汽平台客户端已出现 CS:GO 及 DOTA 2 - 其乐 Keylol](https://archive.is/gPl02 "https://keylol.com/t659236-1-1")
+111. `2020-11-19` [蒸汽平台客户端已出现 CS:GO 及 DOTA 2 - 其乐 Keylol](https://archive.is/gPl02 "https://keylol.com/t659236-1-1")
 
-113. `2020-12-03` [蒸汽平台有着独有的三个下载 CDN，分别由腾讯云、网宿科技和阿里云提供服务 - 其乐 Keylol](https://archive.is/tmU04 "https://keylol.com/t663540-1-1")
+112. `2020-12-03` [蒸汽平台有着独有的三个下载 CDN，分别由腾讯云、网宿科技和阿里云提供服务 - 其乐 Keylol](https://archive.is/tmU04 "https://keylol.com/t663540-1-1")
 
      这可能意味着蒸汽平台与Steam大陆区会并行运营，而非强制切换/转移。
 
-114. `2020-12-09` [用户可在 Steam Support 撤销蒸汽平台访问权限和和实名认证信息 - 其乐 Keylol](https://archive.is/umaqI "https://keylol.com/t665563-1-1") [Source](https://web.archive.org/web/20201216052320/https://github.com/SteamDatabase/SteamTracking/commit/65bb929fb02b3f996de247dd8819c51a2967a07d)
+113. `2020-12-09` [用户可在 Steam Support 撤销蒸汽平台访问权限和和实名认证信息 - 其乐 Keylol](https://archive.is/umaqI "https://keylol.com/t665563-1-1") [Source](https://web.archive.org/web/20201216052320/https://github.com/SteamDatabase/SteamTracking/commit/65bb929fb02b3f996de247dd8819c51a2967a07d)
 
-115. `2020-12-21 12:31` 微博，[2021年1月16-17日，蒸汽平台实验室，与你不见不散[嘻嘻] 来自蒸汽平台 - 微博](https://archive.is/PC7Vh "https://weibo.com/6654528440/Jztv8sdeb")
+114. `2020-12-21 12:31` 微博，[2021年1月16-17日，蒸汽平台实验室，与你不见不散[嘻嘻] 来自蒸汽平台 - 微博](https://archive.is/PC7Vh "https://weibo.com/6654528440/Jztv8sdeb")
 
-116. `2020-12-24 15:59:02` [蒸汽平台客户端“独立分开”，目前确认其没有大屏幕模式和远程同乐 - 其乐 Keylol](https://archive.is/M9tYb "https://keylol.com/t669953-1-1")
+115. `2020-12-24 15:59:02` [蒸汽平台客户端“独立分开”，目前确认其没有大屏幕模式和远程同乐 - 其乐 Keylol](https://archive.is/M9tYb "https://keylol.com/t669953-1-1")
 
      在此之前，Steam与蒸汽平台都是请求相同的更新文件目录，所以客户端的文件也一样，但在12月23日后，
      从官网上下载的更新文件目录就不同了，目前蒸汽平台客户端的更新早于启动器早于 Steam。
 
      对比文件后发现，蒸汽平台客户端缺少了大屏幕模式所需的 tenfoot 相关文件，以及远程同乐/远程畅玩所需的 streaming_client.exe 。
 
-117. `2020-12-28` [蒸汽平台客户端允许运行在中文目录，但 Steam 客户端还不行 - 其乐 Keylol](https://archive.is/1Umap "https://keylol.com/t671051-1-1")
+116. `2020-12-28` [蒸汽平台客户端允许运行在中文目录，但 Steam 客户端还不行 - 其乐 Keylol](https://archive.is/1Umap "https://keylol.com/t671051-1-1")
 
-118. `2020-12-31` [【蒸汽平台相关】新标签“AllowPurchaseInSteamChina”，地区代码”XC“ - 其乐 Keylol](https://archive.is/D7Zq6 "https://keylol.com/t671965-1-1")
+117. `2020-12-31` [【蒸汽平台相关】新标签“AllowPurchaseInSteamChina”，地区代码”XC“ - 其乐 Keylol](https://archive.is/D7Zq6 "https://keylol.com/t671965-1-1")
 
-119. `2021-01-01` [G胖连夜加班，为大伙移除了 Steam 客户端中的蒸汽平台文件作为新年礼物 - 其乐 Keylol](https://archive.is/X7Qyz "https://keylol.com/t672268-1-1")
+118. `2021-01-01` [G胖连夜加班，为大伙移除了 Steam 客户端中的蒸汽平台文件作为新年礼物 - 其乐 Keylol](https://archive.is/X7Qyz "https://keylol.com/t672268-1-1")
 
      > 今日更新从 Steam 客户端删除了 steamchina 目录，并作为一个 Depot 添加进蒸汽平台客户端中。
      >
      > 但这并不影响通过参数“-steamchina”而从 Steam 客户端进入蒸汽平台。**
 
-120. [蒸汽平台可通过实名信息找回密码 - 其乐 Keylol](https://archive.is/9LXtc "https://keylol.com/t673662-1-1")
+119. [蒸汽平台可通过实名信息找回密码 - 其乐 Keylol](https://archive.is/9LXtc "https://keylol.com/t673662-1-1")
 
      蒸汽平台沙箱测试网站中出现了一个名为 [recovery.html](https://archive.is/z7slN "https://rnr-sandbox.pwesports.cn/recovery.html") 的嵌入页面，预计蒸汽平台将会通过实名认证的信息进行找回密码。
 
-121. `2021-01-08 11:27` Steam Beta Update，Remote Play Together is now available in China[^ws_scb118]
+120. `2021-01-08 11:27` Steam Beta Update，Remote Play Together is now available in China[^ws_scb118]
 
      [^ws_scb118]: [Steam Community :: Group :: Steam Client Beta](https://web.archive.org/web/20210109074448/https://steamcommunity.com/groups/SteamClientBeta/announcements/detail/2933499125713869805)
 
@@ -811,11 +812,11 @@ Emoji 后缀标识的意思
 
      <!-- [【不实信息】CS:GO 和 DOTA 2 完美服玩家不会被强制转至蒸汽平台 - 热点聚焦 - 其乐 Keylol - 驱动正版游戏的引擎！](https://archive.is/31s6A) -->
 
-122. `2021-01-08 09:09` [玩 CS:GO 和 DOTA 2 大陆服务器需要将帐户从完美通行证迁移至蒸汽平台 - 热点聚焦 - 其乐 Keylol - 驱动正版游戏的引擎！](https://archive.is/SfsUB "https://keylol.com/t674392-1-1")
+121. `2021-01-08 09:09` [玩 CS:GO 和 DOTA 2 大陆服务器需要将帐户从完美通行证迁移至蒸汽平台 - 热点聚焦 - 其乐 Keylol - 驱动正版游戏的引擎！](https://archive.is/SfsUB "https://keylol.com/t674392-1-1")
 
-123. `2021-01-09` [免费获得的CSGO今起也可出现国服国际服选择框 - 其乐 Keylol](https://archive.is/PxFaM "https://keylol.com/t674754-1-1")
+122. `2021-01-09` [免费获得的CSGO今起也可出现国服国际服选择框 - 其乐 Keylol](https://archive.is/PxFaM "https://keylol.com/t674754-1-1")
 
-124. `2021-01-25` 26日这天前后，CSGO大陆区运营商完美世界，旗下的多款游戏都会在这段时间里进行维护
+123. `2021-01-25` 26日这天前后，CSGO大陆区运营商完美世界，旗下的多款游戏都会在这段时间里进行维护
 
      + 2021年1月26日 00:00-14:00 期间，《完美国际2》所有服务器进行停机维护[^ws_pwg2]
      + 2021年1月26日 00:00-14:00 期间，《武林外传》全区全服进行数据库升级[^ws_wulin2]
@@ -850,30 +851,30 @@ Emoji 后缀标识的意思
 
      完美世界在这期间未维护的客户端网络游戏：《笑傲江湖OL》《DOTA 2》《赤壁》《热舞派对》《神鬼世界》《口袋西游》。
 
-125. `2021-01-27` [Steam国区商店价格有小数点了...... - 其乐 Keylol](https://archive.is/HORhf "https://keylol.com/t680022-1-1")
+124. `2021-01-27` [Steam国区商店价格有小数点了...... - 其乐 Keylol](https://archive.is/HORhf "https://keylol.com/t680022-1-1")
 
-126. `2021-02-03` [正式确认蒸汽平台有 macOS 客户端，暂未见 Linux 客户端 - 其乐 Keylol](https://archive.is/RGO30 "https://keylol.com/t682384-1-1")
+125. `2021-02-03` [正式确认蒸汽平台有 macOS 客户端，暂未见 Linux 客户端 - 其乐 Keylol](https://archive.is/RGO30 "https://keylol.com/t682384-1-1")
 
-127. `2021-03-03` [【2021.3.3】锁偏好游戏通过愿望单已无法添加购物车，sub大法亦失效（接收礼物暂不影响） - 其乐 Keylol](https://archive.is/BMex0 "https://keylol.com/t691241-1-1")
+126. `2021-03-03` [【2021.3.3】锁偏好游戏通过愿望单已无法添加购物车，sub大法亦失效（接收礼物暂不影响） - 其乐 Keylol](https://archive.is/BMex0 "https://keylol.com/t691241-1-1")
 
      Steam 大陆区从原来的 SUBID 购买「软锁」游戏的方法已失效。
 
      注: 曾经能够使用 SUBID 添加购物车或者愿望单的游戏常常被叫做「软锁」。
 
-128. `2021-09-12` 爆料**
+127. `2021-09-12` 爆料**
 
      在知乎问题《现在关于steam中国有乐观派和悲观派，哪一种可能性大？》中，有一位自称是前 Steam 客服的人讲述了自己的看法。
      回答者于 9月初 被裁员，理由是商业调整，答主认为完美世界会全权负责 Steam 大陆区的事务。[^rhfxwj]
 
      [^rhfxwj]: [《主机游戏不限时,单机游戏缺监管！如何防小玩家钻空子?》 - 游戏和谐Wiki](https://ggame.gledos.science/game/《如何防小玩家钻空子》.html)
 
-129. `2021-09-14` 捕风捉影**
+128. `2021-09-14` 捕风捉影**
 
      北京日报及其手机客户端刊登了一则报道，叫做《调查｜主机游戏不限时,单机游戏缺监管！如何防小玩家钻空子?》[^rhfxwj]
 
      第二天，评论过该报道的 IGN编辑部、IGN_CN 与 杉果游戏 的新浪微博疑似被屏蔽，未登录账号无法查看。之后被解封。[^rhfxwj]
 
-130. `2021-11-03` [Steam 不再提供中国内地的 CM 服务器 - 其乐 Keylol](https://archive.md/4rxwl "https://keylol.com/t761546-1-1 Steam 不再提供中國內地的 CM 服務器")
+129. `2021-11-03` [Steam 不再提供中国内地的 CM 服务器 - 其乐 Keylol](https://archive.md/4rxwl "https://keylol.com/t761546-1-1 Steam 不再提供中國內地的 CM 服務器")
 
      > CM（Connection Manager）服务器，用于 Steam 帐户登录认证、好友在线状态、聊天和游戏邀请等等方面。
      >
@@ -887,7 +888,7 @@ Emoji 后缀标识的意思
          + [【情報】Steam關閉中國連線服務，網域僅存於蒸汽平台 @場外休憩區 哈啦板 - 巴哈姆特](https://web.archive.org/web/20211225063241/https://forum.gamer.com.tw/C.php?bsn=60076&snA=6705244)
          + [[情報] Steam傳關閉中國登入連線伺服器服務，網域僅存於蒸汽平台 - ACG板 - Disp BBS](https://disp.cc/b/21-ehC3)
 
-131. `2021-12-22` 事件，store.steampowered.com 被干扰
+130. `2021-12-22` 事件，store.steampowered.com 被干扰
 
      12月24日，V2EX 出现了一篇[《Steam 商店 store.steampowered.com 疑似 443 端口被干扰？ ICMP 80 端口均正常》](https://web.archive.org/web/20211226054746/https://www.v2ex.com/t/824179)的讨论帖，
      测试得出了 store.steampowered.com 的 443 端口间歇性丢包的情况。
@@ -911,7 +912,7 @@ Emoji 后缀标识的意思
 
      [^lusongsong]: [全球最大的游戏平台steam终于被封 - 卢松松博客](https://web.archive.org/web/20210125035800/https://lusongsong.com/blog/post/9210.html)
 
-132. 未知时间，捕风捉影，steampowered.com 被 ICP 列为黑名单
+131. 未知时间，捕风捉影，steampowered.com 被 ICP 列为黑名单
 
      2021年12月25日，在 beian.miit.gov.cn 查询 steampowered.com 会得到「已列入黑名单」这段文字，[^21_12_26]
      但查询 store.steampowered.com 与 steamcommunity.com 只会显示「没有符合条件的记录」。
@@ -922,7 +923,7 @@ Emoji 后缀标识的意思
 
      [^21_09_16]: [对了，我来一记洛阳铲，实际上 Steam 的域名早已被列入黑名单。…… - @清靈語的微博 - 微博](https://archive.ph/tnynT "https://weibo.com/2695492622/KyudEqyfv")
 
-133. `2021-12-28 15:34:39` 新闻，蓝鲸财经，[《工信部回应Steam主域名被拉黑：有违法违规行为，不清楚具体原因》](https://web.archive.org/web/20211229044243/https://lanjinger.com/v/1894)，[视频](https://web.archive.org/web/20211229044414/https://ljvod.lanjinger.com/86521205bd1f4929b48bbf7325592a1d/16dd3ab7ac6444abacc84f6faddab655-2c39fc4f4e0cf7aa7d8ce00b5bf9958d-sd.mp4)
+132. `2021-12-28 15:34:39` 新闻，蓝鲸财经，[《工信部回应Steam主域名被拉黑：有违法违规行为，不清楚具体原因》](https://web.archive.org/web/20211229044243/https://lanjinger.com/v/1894)，[视频](https://web.archive.org/web/20211229044414/https://ljvod.lanjinger.com/86521205bd1f4929b48bbf7325592a1d/16dd3ab7ac6444abacc84f6faddab655-2c39fc4f4e0cf7aa7d8ce00b5bf9958d-sd.mp4)
 
      > 12月28日，蓝鲸记者在工信部域名信息备案管理系统查询发现，
      > Steam 游戏平台的主域名（steampowered.com）已被列入黑名单，
@@ -931,7 +932,7 @@ Emoji 后缀标识的意思
      > 也没有收到相关通知，但肯定是有违法违规才会被拉黑，至于整改后域名能否被重新启用、
      > 是否会影响国内玩家登陆 Steam 平台等都无法确定。
 
-134. 未完待续
+133. 未完待续
 
 <!-- [这是真的吗 NGA玩家社区](https://archive.vn/rgmOt) 在隔壁群友看到的，如果是真的话，那?死也不会用的
      steam中国、WAC反作弊

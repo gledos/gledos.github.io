@@ -492,3 +492,17 @@
 //   width: 100%;
 //   height: 100%;
 // }
+
+// 脚注标记
+a.footnote::before {
+  content: '[';
+}
+
+a.footnote::after {
+  content: ']';
+}
+
+a.footnote {
+  user-select: none;
+}
+
