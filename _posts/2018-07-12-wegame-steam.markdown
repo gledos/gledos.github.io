@@ -932,7 +932,14 @@ Emoji 后缀标识的意思：
      > 也没有收到相关通知，但肯定是有违法违规才会被拉黑，至于整改后域名能否被重新启用、
      > 是否会影响国内玩家登陆 Steam 平台等都无法确定。
 
-133. 未完待续
+133. `2022-05-13 晚`, Steam 状态, 玩家发现 Steam 无法连接，但根据 SteamStatus 的推特内容，[^SteamStatus]Steam 全球网络并没有在此时发生故障，所以此故障应该仅限大陆地区。
+
+     [^SteamStatus]: @SteamStatus, 「[推特主页](https://web.archive.org/web/20220514020849/https://twitter.com/SteamStatus)」, Twitter, 2022-05-14. (参照 2022-05-14).
+
+     + 贴吧用户_QRWy1GV, 《[论steam更新云之后多垃圾](https://web.archive.org/web/20220514013624/https://tieba.baidu.com/p/7833234291)》, 百度贴吧/steam吧, 2022-05-13. (参照 2022-05-14).
+     + 16岁就性无能, 《[老哥们这种问题怎么解决](https://web.archive.org/web/20220514014054/https://tieba.baidu.com/p/7833271477)》, 百度贴吧/steam吧, 2022-05-13. (参照 2022-05-14).
+
+134. 未完待续
 
 <!-- [这是真的吗 NGA玩家社区](https://archive.vn/rgmOt) 在隔壁群友看到的，如果是真的话，那?死也不会用的
      steam中国、WAC反作弊
