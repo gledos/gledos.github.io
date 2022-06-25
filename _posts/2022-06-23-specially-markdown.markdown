@@ -19,17 +19,23 @@ Markdown 有许多跟其他标记语言不同的特征，此文会围绕这些�
 
 最早的 Markdown 语法解析器，是 John Gruber 与 Aaron Swartz 创造的 `Markdown.pl` ，但此解析器存在歧义，并且开发者 John Gruber 不再更新，而 Aaron Swartz 早已辞世，也就导致了其他人制作的 Markdown 解析器各不相同。
 
-2012年，一群 Markdown 爱好者开始制作具有共识的规范，原理是使用目前流行的解析器测试，将之前存在歧义，疏漏的情况进行填补，不过还是以原始的 `Markdown.pl` 为准，所以像是脚注这样的扩展语法不会收录进此项目中，最后此规范被命名为了 [CommonMark](https://commonmark.org) 。
+2012年，一群 Markdown 爱好者开始制作具有共识的规范，原理是使用目前流行的解析器测试，将之前存在歧义，疏漏的情况进行填补，不过还是以原始的 `Markdown.pl` 为准，所以像是脚注这样的扩展语法不会收录进此项目中，最后此规范被命名为了 [CommonMark][] 。
+
+[CommonMark]: https://commonmark.org
 
 不过 CommonMark 规范只是指导意见，熟悉此规范可能只会减少遇到一些奇怪的解析问题的可能性，具体情况还是需要阅读该平台的 Markdown 指南，如果是开源软件，应该也能找到具体解析器的相关说明。
 
-如果阅读 CommonMark 的内容太枯燥，也可以在 VS Code 等常见编辑器中安装 [markdownlint](https://github.com/DavidAnson/markdownlint) 插件，从而快速检查可能有问题的部分。（不过可能会看到大量错误，如果不得不这么做，比如一些扩展语法被当作错误，就需要到设置了关闭不需要的规则）
+如果阅读 CommonMark 的内容太枯燥，也可以在 VS Code 等常见编辑器中安装 [markdownlint][] 插件，从而快速检查可能有问题的部分。（不过可能会看到大量错误，如果不得不这么做，比如一些扩展语法被当作错误，就需要到设置了关闭不需要的规则）
+
+[markdownlint]: https://github.com/DavidAnson/markdownlint
 
 ## Markdown 撰写文章常见问题
 
 ### 标题
 
-Markdown 在 HTML 中使用时，最好只有一个 \<H1> 标题标签，即一个 # 标题，这是 [HTML 的标准规范](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/Heading_Elements)。如果 YAML 头文件含有 title 元素，那么不建议在正文中再次使用 \<H1> 标题，因为 \<H1> 往往表示该页面的标题。也需要注意避免跳过某级标题。
+Markdown 在 HTML 中使用时，最好只有一个 \<H1> 标题标签，即一个 # 标题，这是 [HTML 的标准规范][html_moz]。如果 YAML 头文件含有 title 元素，那么不建议在正文中再次使用 \<H1> 标题，因为 \<H1> 往往表示该页面的标题。也需要注意避免跳过某级标题。
+
+[html_moz]: https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/Heading_Elements
 
 ### 换行
 
@@ -132,17 +138,23 @@ Markdown 的列表缩进，是靠空格缩进的，比如下面的标记所示�
 [文字]: 链接 "提示"
 ```
 
-备注：以上 Markdown 语法来自原作者编写的最初规则 ——《[Markdown Syntax Documentation](https://daringfireball.net/projects/markdown/syntax)》，理应是最应该被支持的功能。
+备注：以上 Markdown 语法来自原作者编写的最初规则 ——《[Markdown Syntax Documentation][]》，理应是最应该被支持的功能。
+
+[Markdown Syntax Documentation]: https://daringfireball.net/projects/markdown/syntax
 
 ## 扩展语法
 
 之前提到了 [CommonMark](#CommonMark) 这个 Markdown 的规范指导，但 CommonMark 仅包含原始的 Markdown 语法，脚注和表格这样常见基本的扩展语法，均没有在里面提到。不过好在脚注和表格出现的早，所以在各种 Markdown 解析器中基本没有差异，但在 Markdown 解析器越来越多的现在，想要创建一个广泛被其他解析器接受的扩展语法，就很难了。
 
-虽然没有规范指导，但有一定共识的语法列表是存在的，Markdown Guide 编写了《[Extended Syntax](https://www.markdownguide.org/extended-syntax/)》这篇指南，将最流行的 Markdown 扩展语法记录了下来。
+虽然没有规范指导，但有一定共识的语法列表是存在的，Markdown Guide 编写了《[Extended Syntax][]》这篇指南，将最流行的 Markdown 扩展语法记录了下来。
+
+[Extended Syntax]: https://www.markdownguide.org/extended-syntax/
 
 ## 各式各样的 Admonitions
 
-AsciiDoc 的 [Admonitions](https://docs.asciidoctor.org/asciidoc/latest/blocks/admonitions/)（告诫）是创建一个高亮的框体，这个功能也被一些 Markdown 解析器添加为扩展语法，但每个的实现都不相同。
+AsciiDoc 的 [Admonitions][ad_a]（告诫）是创建一个高亮的框体，这个功能也被一些 Markdown 解析器添加为扩展语法，但每个的实现都不相同。
+
+[ad_a]: https://docs.asciidoctor.org/asciidoc/latest/blocks/admonitions/
 
 +   Python-Markdown 内置的标准扩展
 
@@ -196,7 +208,9 @@ AsciiDoc 的 [Admonitions](https://docs.asciidoctor.org/asciidoc/latest/blocks/a
 
 +   Markdown-it
 
-    +   Markdown-it 没有直接附带此功能，不过开发者 docarys 制作了 [Admonition 插件](https://github.com/docarys/markdown-it-admonition)，语法是：
+    +   Markdown-it 没有直接附带此功能，不过开发者 docarys 制作了插件 [markdown-it-admonition][]，语法是：
+
+        [markdown-it-admonition]: https://github.com/docarys/markdown-it-admonition
 
         ```text
         !!! 关键字 标题
