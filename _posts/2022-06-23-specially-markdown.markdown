@@ -235,6 +235,110 @@ AsciiDoc 的 [Admonitions][ad_a]（告诫）是创建一个高亮的框体，这
         :::
         ```
 
+## 音标的语法标记
+
+\<ruby> 是 HTML 的标签，可以用来制作文字音标，不过也不止于此，还可以用来制作「写作OO，读作XX」这样有趣的文字。
+
+不过很明显，这种写法并不在欧美流行，自然大部分社交网站都不支持这种写法，从而使支持音标的网站一直很少见。标记语言也主要考虑的是字母语言，对 CJK 文字以及其排版都没有太关注，自然不会有关于音标的语法标记。
+
+不过还是有许多需要音标的 Markdown 用户，开发了音标功能，不过因为缺少共识，语法标记差异非常大。
+
+下面是总览表格：
+
+| 程序                            | 年代 | 语法（其中的一种） | 备注                 |
+| ------------------------------- | ---- | ------------------ | -------------------- |
+| zhenalexfan/MarkdownHan         | 2011 | `*:文字/wén zì/:*` | 缺少 \<rp> 标签[^rp] |
+| djfun/furigana_markdown         | 2013 | `[文字](-wén zì)`  |                      |
+| noisan/parsedown-rubytext       | 2015 | `[文字]^(wén zì)`  |                      |
+| japanese.meta.stackexchange.com | 2015 | `[文字] {wén zì}`  |                      |
+| joeellis/showdown-kanji         | 2016 | `{文字}(wén zì)`   | 缺少 \<rp> 标签      |
+| amclees/furigana-markdown       | 2017 | `[文字](wén zì)`   | 语法标记规则很多     |
+| iltrof/furigana-markdown-it     | 2020 | `[文字]{wén zì}`   | 语法标记规则很多     |
+| html-pipeline-ruby_markup       | 2020 | `[文字(wén zì)]`   |                      |
+
+[^rp]: \<rp> 标签是用来给不支持 \<ruby> 标签的浏览器使用的，属于向后支持的功能，并且复制时也能将其中的括号一起复制，方便阅读者复制。
+
+关于表格的备注：年代不一定准确，大多参考的是 GitHub 仓库文件的时间，如果此软件之前被托管在其他平台，我就不知道具体诞生的年代了。
+
+虽然有许多人探索音标，不过大多人气不高，或者缺乏后续维护，即使是在论坛的讨论，六年过去依然没有达成某种共识。[^2279]
+
+[^2279]: RSChiang, 《[Proper ruby text (<rb>) syntax support in Markdown](https://talk.commonmark.org/t/proper-ruby-text-rb-syntax-support-in-markdown/2279)》, CommonMark Discussion, 2016-10-28. (参照 2022-07-12).
+
+### 关于音标的同义词
+
+常用的汉语的音标有拼音和注音，而日语的注音通常就是假名 (Furigana)，有时也会用日语罗马字。
+
+单纯从网页排版来说，这些功能都是相同的，所以混用起来应该没有太大的问题。
+
+W3C 将 \<ruby> 标签作为音标，所以能看出欧美习惯将东亚的音标称为 Ruby。
+
+所以 Ruby、拼音、注音 和 Furigana 大概在网页排版中，都是指同一个东西，不过软件的命名就差的大了……
+
+### 具体的情况
+
++   [zhenalexfan/MarkdownHan][] 是基于 Marked 制作的解析器。
+
+    [zhenalexfan/MarkdownHan]: https://github.com/zhenalexfan/MarkdownHan
+
+    | M↓漢 输入                        | HTML 输出                                               | 演示                                                  |
+    | -------------------------------- | ------------------------------------------------------- | ----------------------------------------------------- |
+    | `*:中文/zhōngwén/写作/xiězuò/:*` | `<ruby>中文<rt>zhōngwén</rt>写作<rt>xiězuò</rt></ruby>` | <ruby>中文<rt>zhōngwén</rt>写作<rt>xiězuò</rt></ruby> |
+
++   [djfun/furigana_markdown][] 的介绍名称是 Furigana/Ruby annotations extension for Markdown，是 Python-Markdown 的插件。
+
+    [djfun/furigana_markdown]: https://github.com/djfun/furigana_markdown
+
+    | furigana_markdown 输入 | HTML 输出                                                                                                                | 演示                                                                                                             |
+    | ---------------------- | ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- |
+    | `[図](-と)[書](-しょ)` | `<ruby><rb>図</rb><rp>(</rp><rt>と</rt><rp>)</rp></ruby>`<br>`<ruby><rb>書</rb><rp>(</rp><rt>しょ</rt><rp>)</rp></ruby>` | <ruby><rb>図</rb><rp>(</rp><rt>と</rt><rp>)</rp></ruby><ruby><rb>書</rb><rp>(</rp><rt>しょ</rt><rp>)</rp></ruby> |
+
++   [amclees/furigana-markdown][] 是 Discourse 论坛的插件，因为规则比较复杂，所以就不在这里演示了。
+
+    [amclees/furigana-markdown]: https://github.com/amclees/furigana-markdown
+
++   [noisan/parsedown-rubytext][] 是 PHP Markdown 解析器 [Parsedown][] 的插件。
+
+    [noisan/parsedown-rubytext]: https://github.com/noisan/parsedown-rubytext
+
+    [Parsedown]: https://github.com/erusev/parsedown
+
+    | parsedown-rubytext 输入 | HTML 输出                                                | 演示                                                   |
+    | ----------------------- | -------------------------------------------------------- | ------------------------------------------------------ |
+    | `[親文字]^(ルビ)`       | `<ruby>親文字<rp>（</rp><rt>ルビ</rt><rp>）</rp></ruby>` | <ruby>親文字<rp>（</rp><rt>ルビ</rt><rp>）</rp></ruby> |
+    | `[親文字]^（ルビ）`     | 同上                                                     | 同上                                                   |
+    | `[親文字]（ルビ）`      | 同上                                                     | 同上                                                   |
+
++   japanese.meta.stackexchange.com 正如其名，这是 stackexchange.com 的日本语子站点。
+
+    [^51904]: Dave, 《[Deciding on an 「officially recommended」 format for furigana on JLU](https://japanese.meta.stackexchange.com/q/339/51904)》, Japanese Language Meta Stack Exchange, 2018-04-04. (参照 2022-07-12).
+
++   [joeellis/showdown-kanji][] 是 [Showdown][] 的插件。
+
+    [joeellis/showdown-kanji]: https://github.com/joeellis/showdown-kanji
+
+    [Showdown]: https://github.com/showdownjs/showdown
+
+    | showdown-kanji 输入  | HTML 输出                                          | 演示                                             |
+    | -------------------- | -------------------------------------------------- | ------------------------------------------------ |
+    | `{漢字}(かんじ)`     | `<p><ruby>漢字<rt>かんじ</rt></ruby></p>`          | <p><ruby>漢字<rt>かんじ</rt></ruby></p>          |
+    | `{漢}(かん){字}(じ)` | `<p><ruby>漢<rt>かん</rt>字<rt>じ</rt></ruby></p>` | <p><ruby>漢<rt>かん</rt>字<rt>じ</rt></ruby></p> |
+
++   [iltrof/furigana-markdown-it][] 是 markdown-it 解析器的插件，因为规则比较复杂，所以就不在这里演示了。
+
+    [iltrof/furigana-markdown-it]: https://github.com/iltrof/furigana-markdown-it
+
++   [html-pipeline-ruby_markup][] 是 [HTML::Pipeline][] 的扩展，之所以语法相对奇怪，是为了支持链接。
+
+    就像这样：`[漢字(かんじ)](https://url)`、`[[漢(かん)][字(じ)]](https://url)`
+
+    [html-pipeline-ruby_markup]: https://github.com/JuanitoFatas/html-pipeline-ruby_markup
+
+    [HTML::Pipeline]: https://github.com/gjtorikian/html-pipeline
+
+    | html-pipeline-ruby_markup 输入 | HTML 输出                                              | 演示                                                 |
+    | ------------------------------ | ------------------------------------------------------ | ---------------------------------------------------- |
+    | `[漢字(かんじ)]`               | `<ruby>漢字<rp>(</rp><rt>かんじ</rt><rp>)</rp></ruby>` | <ruby>漢字<rp>(</rp><rt>かんじ</rt><rp>)</rp></ruby> |
+
 ## gledos 的习惯
 
 1.  使用 `+` 符号作为无序列表的标记
@@ -252,6 +356,8 @@ AsciiDoc 的 [Admonitions][ad_a]（告诫）是创建一个高亮的框体，这
     9.  有序列表
     10. 有序列表
     ```
+
+    不过列表 99 之后确实还是会遇到这个问题……
 
 3.  块状引用使用 2 个空位缩进：
 
