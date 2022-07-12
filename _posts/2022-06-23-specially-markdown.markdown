@@ -253,6 +253,7 @@ AsciiDoc 的 [Admonitions][ad_a]（告诫）是创建一个高亮的框体，这
 | japanese.meta.stackexchange.com | 2015 | `[文字] {wén zì}`  |                      |
 | joeellis/showdown-kanji         | 2016 | `{文字}(wén zì)`   | 缺少 \<rp> 标签      |
 | amclees/furigana-markdown       | 2017 | `[文字](wén zì)`   | 语法标记规则很多     |
+| lostandfound/markdown-it-ruby   | 2017 | `{文字\|wén zì}`   |                      |
 | iltrof/furigana-markdown-it     | 2020 | `[文字]{wén zì}`   | 语法标记规则很多     |
 | html-pipeline-ruby_markup       | 2020 | `[文字(wén zì)]`   |                      |
 
@@ -322,6 +323,19 @@ W3C 将 \<ruby> 标签作为音标，所以能看出欧美习惯将东亚的音�
     | -------------------- | -------------------------------------------------- | ------------------------------------------------ |
     | `{漢字}(かんじ)`     | `<p><ruby>漢字<rt>かんじ</rt></ruby></p>`          | <p><ruby>漢字<rt>かんじ</rt></ruby></p>          |
     | `{漢}(かん){字}(じ)` | `<p><ruby>漢<rt>かん</rt>字<rt>じ</rt></ruby></p>` | <p><ruby>漢<rt>かん</rt>字<rt>じ</rt></ruby></p> |
+
++   [lostandfound/markdown-it-ruby][] 是 markdown-it 解析器的插件，被 Obsidian 的插件 [Markdown Furigana][MFOP] 使用。
+
+    [lostandfound/markdown-it-ruby]: https://github.com/steven-kraft/obsidian-markdown-furigana
+    [MFOP]: https://github.com/steven-kraft/obsidian-markdown-furigana
+
+    | markdown-it-ruby 输入 | HTML 输出                                        | 演示                                           |
+    | --------------------- | ------------------------------------------------ | ---------------------------------------------- |
+    | {漢字\|かんじ}        | `<ruby>漢字<rt>かんじ</rt></ruby>`               | <ruby>漢字<rt>かんじ</rt></ruby>               |
+    | {漢字\|かん\|じ}      | `<ruby>漢<rt>かん</rt>字<rt>じ</rt></ruby>`      | <ruby>漢<rt>かん</rt>字<rt>じ</rt></ruby>      |
+    | {北京\|ㄅㄟˇ\|ㄐㄧㄥ} | `<ruby>北<rt>ㄅㄟˇ</rt>京<rt>ㄐㄧㄥ</rt></ruby>` | <ruby>北<rt>ㄅㄟˇ</rt>京<rt>ㄐㄧㄥ</rt></ruby> |
+    | {北京\|Běi\|jīng}     | `<ruby>北<rt>Běi</rt>京<rt>jīng</rt></ruby>`     | <ruby>北<rt>Běi</rt>京<rt>jīng</rt></ruby>     |
+    | {韓國\|한\|국}        | `<ruby>韓<rt>한</rt>國<rt>국</rt></ruby>`        | <ruby>韓<rt>한</rt>國<rt>국</rt></ruby>        |
 
 +   [iltrof/furigana-markdown-it][] 是 markdown-it 解析器的插件，因为规则比较复杂，所以就不在这里演示了。
 
