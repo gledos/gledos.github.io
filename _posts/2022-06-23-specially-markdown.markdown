@@ -112,7 +112,7 @@ Markdown 的列表缩进，是靠空格缩进的，比如下面的标记所示�
 | [Wikitext][]          | 2002       | `[链接 文字]`           |
 | Org Mode              | 2003       | `[[链接][文字]]`        |
 | Markdown              | 2004-03-19 | `[文字](链接)`          |
-| [MoinMoin's syntax][] | 2007       | `[[链接\|文字]]`        |
+| [MoinMoin's syntax][] | 2007       | [[链接\|文字]]          |
 
 之后可能会持续更新这个表格。
 
@@ -253,7 +253,7 @@ AsciiDoc 的 [Admonitions][ad_a]（告诫）是创建一个高亮的框体，这
 | japanese.meta.stackexchange.com | 2015 | `[文字] {wén zì}`  |                      |
 | joeellis/showdown-kanji         | 2016 | `{文字}(wén zì)`   | 缺少 \<rp> 标签      |
 | amclees/furigana-markdown       | 2017 | `[文字](wén zì)`   | 语法标记规则很多     |
-| lostandfound/markdown-it-ruby   | 2017 | `{文字\|wén zì}`   |                      |
+| lostandfound/markdown-it-ruby   | 2017 | {文字\|wén zì}     |                      |
 | iltrof/furigana-markdown-it     | 2020 | `[文字]{wén zì}`   | 语法标记规则很多     |
 | html-pipeline-ruby_markup       | 2020 | `[文字(wén zì)]`   |                      |
 
