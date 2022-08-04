@@ -241,7 +241,7 @@ AsciiDoc 的 [Admonitions][ad_a]（告诫）是创建一个高亮的框体，这
 
 不过很明显，这种写法并不在欧美流行，自然大部分社交网站都不支持这种写法，从而使支持音标的网站一直很少见。标记语言也主要考虑的是字母语言，对 CJK 文字以及其排版都没有太关注，自然不会有关于音标的语法标记。
 
-不过还是有许多需要音标的 Markdown 用户，开发了音标功能，不过因为缺少共识，语法标记差异非常大。
+不过还是有许多需要音标的 Markdown 用户，开发了音标功能，但因缺少共识，所以语法标记差异非常大。
 
 下面是总览表格：
 
@@ -263,7 +263,7 @@ AsciiDoc 的 [Admonitions][ad_a]（告诫）是创建一个高亮的框体，这
 
 虽然有许多人探索音标，不过大多人气不高，或者缺乏后续维护，即使是在论坛的讨论，六年过去依然没有达成某种共识。[^2279]
 
-[^2279]: RSChiang, 《[Proper ruby text (<rb>) syntax support in Markdown](https://talk.commonmark.org/t/proper-ruby-text-rb-syntax-support-in-markdown/2279)》, CommonMark Discussion, 2016-10-28. (参照 2022-07-12).
+[^2279]: RSChiang, 《[Proper ruby text (\<rb>) syntax support in Markdown](https://talk.commonmark.org/t/proper-ruby-text-rb-syntax-support-in-markdown/2279)》, CommonMark Discussion, 2016-10-28. (参照 2022-07-12).
 
 ### 关于音标的同义词
 
@@ -324,7 +324,7 @@ W3C 将 \<ruby> 标签作为音标，所以能看出欧美习惯将东亚的音�
     | `{漢字}(かんじ)`     | `<p><ruby>漢字<rt>かんじ</rt></ruby></p>`          | <p><ruby>漢字<rt>かんじ</rt></ruby></p>          |
     | `{漢}(かん){字}(じ)` | `<p><ruby>漢<rt>かん</rt>字<rt>じ</rt></ruby></p>` | <p><ruby>漢<rt>かん</rt>字<rt>じ</rt></ruby></p> |
 
-+   [lostandfound/markdown-it-ruby][] 是 markdown-it 解析器的插件，被 Obsidian 的插件 [Markdown Furigana][MFOP] 使用。
++   [lostandfound/markdown-it-ruby][] 是 markdown-it 解析器的插件，被 Obsidian 的插件 [Markdown Furigana][MFOP] 和 HackMD 使用。
 
     [lostandfound/markdown-it-ruby]: https://github.com/steven-kraft/obsidian-markdown-furigana
     [MFOP]: https://github.com/steven-kraft/obsidian-markdown-furigana
