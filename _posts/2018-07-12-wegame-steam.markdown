@@ -4,8 +4,8 @@ layout: post
 published: true
 # date: '2018-07-12 20:52:00 +0800'
 tags:
-    - 历史
-    - 游戏
+- 历史
+- 游戏
 description: steam在大陆网络问题的捕风捉影，是一个记录关于 Steam 在大陆包括但不限于网络的记录
 file-name: 2018-07-12-wegame-steam.markdown
 ---
@@ -710,7 +710,7 @@ Emoji 后缀标识的意思：
 
 101. `2020-09-17 20:57` 新闻讨论帖，[STEAM遊戲支持語言新增 簡體中文-steam中國 - 其樂 Keylol](https://archive.is/7HS4H "https://keylol.com/t642813-1-1")
 
-102. `2020-09-18 0点` 其乐论坛社区进入了关闭论坛的维护状态，时长为两周。详细内容这里:[其乐 - ggame.wiki](https://github.com/gledos/ggame_wiki/blob/master/website/其乐.md)
+102. `2020-09-18 0点` 其乐论坛社区进入了关闭论坛的维护状态，时长为两周。详细内容这里: [其乐 - ggame](https://ggame.gledos.science/website/其乐.html)
 
 103. `2020-09-23 21:23` 数据挖掘，游戏市场调研服务商 Niko Partners 的高级分析师 Daniel Ahmad 发现了还无法使用的蒸汽平台的注册与登录页面。
 
@@ -866,7 +866,7 @@ Emoji 后缀标识的意思：
      在知乎问题《现在关于steam中国有乐观派和悲观派，哪一种可能性大？》中，有一位自称是前 Steam 客服的人讲述了自己的看法。
      回答者于 9月初 被裁员，理由是商业调整，答主认为完美世界会全权负责 Steam 大陆区的事务。[^rhfxwj]
 
-     [^rhfxwj]: [《主机游戏不限时,单机游戏缺监管！如何防小玩家钻空子?》 - 游戏和谐Wiki](https://ggame.gledos.science/game/《如何防小玩家钻空子》.html)
+     [^rhfxwj]: [《主机游戏不限时,单机游戏缺监管！如何防小玩家钻空子?》 - ggame](https://ggame.gledos.science/game/《如何防小玩家钻空子》.html)
 
 128. `2021-09-14` 捕风捉影**
 
