@@ -1,4 +1,7 @@
 *.html linguist-documentation=true
 *.bat linguist-documentation=true
+*.scss linguist-documentation=true
+*.gemspec linguist-documentation=true
+Gemfile linguist-documentation=true
 *.md linguist-detectable=true
 *.md linguist-documentation=false
