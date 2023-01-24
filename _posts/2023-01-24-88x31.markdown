@@ -63,6 +63,9 @@ file-name: 2023-01-24-88x31.markdown
 
 [^nnp]: [Netscape Now Program](https://web.archive.org/web/19961026040131/http://www3.netscape.com/comprod/mirror/netscape_now_program.html)
 
+网站可以通过认证来获得 "Netscape Now!" 横幅，网景觉得这能让网站宣传浏览器，而浏览器的名声也能给网站加成，
+但这种横幅只是一张图，只要复制粘贴，站站都能有这个横幅，所以这个横幅也许成为了一个笑话一样的存在。
+
 +   ![Netscape Now 2.0](data:image/gif;base64,R0lGODdhWAAfAMQAAP////f398bGxr29vZycnDExMSkpKYRzc//W1ikAAAgAAEpSUghze1KlrTmcpRhaYyl7jAhaawA5UgAhOc7Gzta1vfdzhP+ttfdjc+eEjPcpOf+MlO9SWvc5QvcIGAAAACwAAAAAWAAfAAAF/yAgjmRpnmiqrmz6tXAsz+v3AsKQ73rP/74gcCgsEo/Gnk00aDqf0Kh0Sq1ar9ElQDeZSL7gsFjS9XaR6GR6rbw1x/CxlyzB2u93gVYX79PndWyCaoRAGVo5YQ+LcIwSD2I5Ax8GAwcfB5MfBZUGBpsGmZwFOgcGCx8LTZcEOZ+eApecmVEZh24DYRACAQEQEhHBEru9ARFhOrGbAgatsAcCztCWHwQEAwSYOdOo1wMLC5fR1QetAuc6thwKbgLBwhIMAL4RDO/DAGIRkguf/devvA0I1eMTtG49sBWgpKOfAVKXHtbK0MEDogEMgNkLJoLCxo0QABwTFqGJAHDZqv8xq2TtXKgc1jhRmwYt4occCwrsyFZOoABbFTvsGfCuKIAG8+yBFFmvaTJP36ppQphN5zdPpE6CKsBzkqpPPVCdupYDqAcNFtsFY8CWLQAGAnC0ZeBA5MZgknYQeZI3iBF0gE3mLcsBrYfDQ9lCUCyPAYQActnWncsWXcK+eiXxNZmQsxTNktSdNZxWxLm2EBY3huAAsgDHSCkz8JyjQoYKTypwyACks1/OPGiL1tChg+GhqZOnBpC8tVykyh2DbsKBA+4dGTxYh4KZu+4oec1y2IDgAga0ewQ0pxvSgXsISI8O8JXaQergAyp46NBZg3XbFQSnmQ4BUudBb+lkgFb/Bxcg4OAFHJS2xQDuVejeUQ1k2MAAJFjImhM8HMYbgRrghlaJ1HFAoHUZ7CaAfipuNoAtGtTIgYMaOLiBBhe5pyEBSB0gpJALWIMNkA1UaFkT+p1FQYo/dRAhBy9ql19h+XmQwQAcdHDdZbaMpgEG5fnnIAdDWXOAQ3HZ4OablJzSE1+67SblABR0sKWUtlnXZYARBliBngKcVeATCh5GXI0XAGCBBxYggGY7bzZzDgGowKmpDZ7pFqCCFFSgAQXZAeonbhF2UJYGORAKHEUebLABBsbth0AAZCKgATtMaLLpr5v2RRGJhXFAgYuDtsiiiPlpsKVtTyK6X4Nn1jit9IPnJUApsNy+eZl/12XngW2scllidS0mKyqVtb1aGHkdnFncBhdoYEGEHmhrmq/dcgualjxUZBt/CupQkXUC1GgcblxyNhyODhbHIACkCYVLv/16pgEUot5WY4kvFiYJWi7q4GwTZp1lXI4bMKhny2ftlh7G3Q6WAQXBUfCkbSPmx8POmm35E6yHiSnprV1au9stvdLMbWfdAdcXX5iVlehZRaPlIAItG4bBiBfplczY54gNmIAgbjbgXr7RiHXRh8WLQEUk2+LEUHhUMfVvvoGXdphwBy64nj3r8YLTiCfe7yc2aOtmAgkowI7ilFdu+eUfhAAAOw==)
 
     "Netscape Now 2.0" 表明站点使用了 frames, live objects, Java applets 以及 JavaScript 功能
@@ -72,13 +75,10 @@ file-name: 2023-01-24-88x31.markdown
     "Netscape Now 3.0" 表明站点使用了 advanced Java and JavaScript, Live 3D,
     LiveAudio, LiveVideo and LiveConnect 以及新的 HTML 元素
 
-网站可以通过认证来获得 "Netscape Now!" 横幅，网景觉得这能让网站宣传浏览器，而浏览器的名声也能给网站加成，
-但这种横幅只是一张图，只要复制粘贴，站站都能有这个横幅，所以这个横幅也许成为了一个笑话一样的存在。
-
 有许多人保存了各个版本的 "Netscape Now! Buttons"：
 
-+   [Netscape Now! Buttons](https://sillydog.org/netscape/now.html), `sillydog.org/netscape/now.html`
-+   [Now! (1 of 4)](http://www.hoary.org/now/), `www.hoary.org/now/`
++   [Netscape Now! Buttons](https://sillydog.org/netscape/now.html)
++   [Now! (1 of 4)](http://www.hoary.org/now/)
 
 Internet Archive 保存的最早含有 "Netscape Now" 的页面是在 [1996年10月20日][]。
 
