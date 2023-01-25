@@ -26,11 +26,16 @@ file-name: 2023-01-24-88x31.markdown
 
 它有这些名字:
 
-1. Steal These Buttons (STB)
-2. antipixel
-3. <ruby>Badge<rp>(</rp><rt>徽章</rt><rp>)</rp></ruby>
-4. The 80x15 buttons
-5. Web banner
+1.  The 88x31 buttons
+2.  Web banner
+3.  <ruby>Badge<rp>(</rp><rt>徽章</rt><rp>)</rp></ruby>
+4.  antipixel（特指 80 × 15 的大小）
+
+    Steal These Buttons (STB)
+
+5.  linkgraphics[^lg]
+
+[^lg]: [Hyperdimensional Hyperlinks](https://jacobsm.com/deoxy/deoxy.org/gif/linkgfx/index.htm)
 
 ## 技术细节
 
@@ -48,7 +53,7 @@ file-name: 2023-01-24-88x31.markdown
 横幅常见的大小有下面这些：
 
 +   36 × 13
-+   80 × 15
++   80 × 15 (Antipixel)
 +   88 × 31（最常见）
 +   88 × 62
 +   110 × 32
@@ -206,7 +211,7 @@ This work is licensed under a
 
 ## 其他人的历史记录
 
-如果没有其他人的探索，这篇关于网站横幅的历史也不可能完成（因为此记录创建于 2021年5月2日，
+如果没有其他人的探索以及相关网络日志，那么这篇关于网站横幅的历史也不可能完成（因为此记录创建于 2021年5月2日，
 由于搜集到的资料太少，所以一直未能发布），非常感谢所有在网络上共同创造、经历以及记录下这段历史的人们。
 
 下面是主要参考的资料：
