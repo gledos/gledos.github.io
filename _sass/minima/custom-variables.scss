@@ -2,3 +2,59 @@
 
 $base-font-family: "-apple-system, Noto Sans, Nimbus Sans L, Arial, Liberation Sans, PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, Source Han Sans SC, Source Han Sans CN, Microsoft YaHei, Wenquanyi Micro Hei, WenQuanYi Zen Hei, ST Heiti, SimHei, WenQuanYi Zen Hei Sharp, sans-serif";
 $code-font-family: "Sarasa Fixed SC, Noto Sans Mono CJK SC";
+
+// Russ Perry 的 Photo Gallery <https://codepen.io/rperry1886/pen/KKwbQNP>
+
+.grid-container {
+    columns: 5 200px;
+    column-gap: 1.5rem;
+    width: 90%;
+    margin: 0 auto;
+
+    div {
+        width: 150px;
+        margin: 0 1.5rem 1.5rem 0;
+        display: inline-block;
+        width: 100%;
+        border: solid 2px black;
+        padding: 5px;
+        box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+        border-radius: 5px;
+        transition: all .25s ease-in-out;
+
+        &:hover img {
+            filter: grayscale(0);
+        }
+
+        &:hover {
+            border-color: coral;
+        }
+
+        img {
+            width: 100%;
+            filter: grayscale(100%);
+            border-radius: 5px;
+            transition: all .25s ease-in-out;
+        }
+
+        p {
+            margin: 5px 0;
+            padding: 0;
+            text-align: center;
+        }
+
+        // obc 表示其他颜色背景，用来套一个 div 来做其他颜色背景。
+        .obc {
+            width: 150px;
+            margin: 0 0 0 0;
+            display: inline-block;
+            width: 100%;
+            border: solid 0px black;
+            padding: 0px;
+            box-shadow: 0px 0px 0px rgba(0, 0, 0, 0.5);
+            border-radius: 0px;
+            transition: all .25s ease-in-out;
+        }
+
+    }
+}
