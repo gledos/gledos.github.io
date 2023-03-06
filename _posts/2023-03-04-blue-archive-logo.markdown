@@ -62,7 +62,7 @@ Blue Archive（蔚蓝档案、碧蓝档案）是一款手机游戏，里面有�
 </div>
 
 <div markdown=1>
-![风纪委员会](https://s3.tebi.io/gledos/blue_archive/gehenna/风纪委员会（优化）.svg)
+![风纪委员会](https://s3.tebi.io/gledos/blue_archive/gehenna/风纪委员会（优化）1.5.svg)
 风纪委员会
 </div>
 
@@ -80,11 +80,9 @@ Blue Archive（蔚蓝档案、碧蓝档案）是一款手机游戏，里面有�
 
 </div>
 
-遗憾的是供餐部、急救医学部、温泉开发部以及回家部，都没有给出清晰的标志，所以就没有绘制。
-
 <div class="post-toc">
 <details markdown=1>
-<summary markdown="span">点击这里查看格黑娜大图</summary>
+<summary markdown="span">点击这里查看格黑娜大图（仅对宽屏荧幕有效）</summary>
 
 <div style="padding-top: 20px; padding-bottom: 20px; text-align:center" markdown="1">
 ![格黑娜](https://s3.tebi.io/gledos/blue_archive/gehenna/格黑娜_重置_白色主体+文字（优化）.svg)
@@ -107,7 +105,7 @@ Blue Archive（蔚蓝档案、碧蓝档案）是一款手机游戏，里面有�
 </div>
 
 <div style="padding-top: 20px; padding-bottom: 20px; text-align:center" markdown="1">
-![风纪委员会](https://s3.tebi.io/gledos/blue_archive/gehenna/风纪委员会（优化）.svg)
+![风纪委员会](https://s3.tebi.io/gledos/blue_archive/gehenna/风纪委员会（优化）1.5.svg)
 </div>
 
 <div style="padding-top: 20px; padding-bottom: 20px; text-align:center; background-color: white" markdown="1">
@@ -118,8 +116,61 @@ Blue Archive（蔚蓝档案、碧蓝档案）是一款手机游戏，里面有�
 ![万魔殿 矢量字体](https://s3.tebi.io/gledos/blue_archive/gehenna/万魔殿_矢量字体（优化）.svg)
 </div>
 
-</details>
+</details></div><br>
+
+遗憾的是供餐部、急救医学部、温泉开发部以及回家部，都没有给出清晰的标志，所以就没有绘制。
+
+### 关于字体
+
+因为只有美食研究会的标志找到了字体，其他的图标尚未找到字体，
+所以基本都得使用其他近似的字体来调整出原样。
+
++   「格黑娜」的「GEHENNA」是 Source Han Sans 字体经过调整的效果
++   「万魔殿」实在是找不到合适的字体
+    所以使用了不太一样的 FOT-RaglanPunch Std UB 字体替代
++   「风纪委员会」的「風紀」使用的是使用 Source Han Sans JP 字体然后进行了大量调整做出的效果
++   「便利屋68」的「VI VII」的数字没有使用字体，而是手动绘制的
++   「美食研究会」的「EAT OR DIE」使用的是 Gunplay 字体
+
+### 标志使用情况
+
+「格黑娜」的标志被用在格黑娜学园的竖旗、三角旗上，详情可以点击下面的按钮：
+
+<div class="post-toc">
+<details markdown=1>
+<summary markdown="span">格黑娜学园的竖旗、三角旗</summary>
+<div class="grid-container">
+
+<div markdown=1>
+![BG_CS_Gehenna_02](https://s3.tebi.io/gledos/blue_archive/gehenna/list1/BG_CS_Gehenna_02.jpg)
 </div>
+
+<div markdown=1>
+![BG_CS_Gehenna_03](https://s3.tebi.io/gledos/blue_archive/gehenna/list1/BG_CS_Gehenna_03.jpg)
+</div>
+
+<div markdown=1>
+![BG_GehennaCampus](https://s3.tebi.io/gledos/blue_archive/gehenna/list1/BG_GehennaCampus.jpg)
+</div>
+
+<div markdown=1>
+![BG_GehennaClassRoom](https://s3.tebi.io/gledos/blue_archive/gehenna/list1/BG_GehennaClassRoom.jpg)
+</div>
+
+<div markdown=1>
+![BG_GehennaClubRoom](https://s3.tebi.io/gledos/blue_archive/gehenna/list1/BG_GehennaClubRoom.jpg)
+</div>
+
+<div markdown=1>
+![BG_GehennaCouncilHall](https://s3.tebi.io/gledos/blue_archive/gehenna/list1/BG_GehennaCouncilHall.jpg)
+</div>
+
+</div></details></div><br>
+
+部分格黑娜学生的服装或者饰品上也有「格黑娜」标志，但是并不普遍，具有「格黑娜」标志的学生有：
+
++   鬼方佳世子，能在便利屋68 的夜间合照里，看到背包上有金属制的「格黑娜」标志
++   待续
 
 ## 施工中
 

@@ -22,17 +22,12 @@ $code-font-family: "Sarasa Fixed SC, Noto Sans Mono CJK SC";
         border-radius: 5px;
         transition: all .25s ease-in-out;
 
-        &:hover img {
-            filter: grayscale(0);
-        }
-
         &:hover {
             border-color: coral;
         }
 
         img {
             width: 100%;
-            filter: grayscale(100%);
             border-radius: 5px;
             transition: all .25s ease-in-out;
         }
