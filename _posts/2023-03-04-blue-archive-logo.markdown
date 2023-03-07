@@ -106,6 +106,14 @@ Blue Archive（蔚蓝档案、碧蓝档案）是一款手机游戏，里面有�
 不过当然也存在作者没有仔细考虑这些内容的情况，因为白子在与大家的合照里，「学生证」的颜色是蓝色，
 而在个人立绘里是绿色的情况。
 
+<div style="text-align:center" markdown="1">
+![08](https://s3.tebi.io/gledos/blue_archive/abydos/list1/08.webp)
+</div>
+
+<div style="text-align:center" markdown="1">
+![Shiroko_Portrait](https://s3.tebi.io/gledos/blue_archive/abydos/list1/Shiroko_Portrait.webp)
+</div>
+
 ## 格黑娜
 
 首先是格黑娜以及格黑娜从属关系势力的标志：
