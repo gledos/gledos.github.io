@@ -26,10 +26,10 @@ Blue Archive（蔚蓝档案、碧蓝档案）是一款手机游戏，里面有�
 
 ## 阿拜多斯
 
-阿拜多斯的学生很少，只有 5 人，并且只有一个次级组织「对策委员会」，而「对策委员会」没有图标，
+阿拜多斯中学的学生很少，只有 5 人，并且只有一个次级组织「对策委员会」，而「对策委员会」没有图标，
 只有奥空佩戴的文字袖章。
 
-黑白两色的「阿拜多斯」标志如下：
+黑白两色以及完整、简化版本的「阿拜多斯」标志如下：
 
 <div style="padding-top: 20px; padding-bottom: 20px; text-align:center" markdown="1">
 ![阿拜多斯_重置版_白色](https://s3.tebi.io/gledos/blue_archive/abydos/阿拜多斯_重置版_白色.svg)
@@ -46,6 +46,64 @@ Blue Archive（蔚蓝档案、碧蓝档案）是一款手机游戏，里面有�
 <div style="padding-top: 20px; padding-bottom: 20px; text-align:center; background-color: white" markdown="1">
 ![阿拜多斯_重置版_黑色+光环](https://s3.tebi.io/gledos/blue_archive/abydos/阿拜多斯_重置版_黑色+光环.svg)
 </div>
+
+### 关于字体
+
+使用字体搜索工具，找到了 OptimusPrincepsSemiBold 这个字体，然后经过拉升增加高度，就能与原字体完美重合。
+
+### 标志使用情况
+
+这些标志被印在阿拜多斯学生的武器上，内容是黑色不带四周光芒的版本，但会有文字，情况比较奇怪，
+就像是故意在武器上移除了四周光芒一样，比较特殊的是十六夜野乃美的武器上是有四周光芒的版本。
+
+学校建筑物外墙上上也是没有光芒的版本，在对策委员会的活动室内的重要位置悬挂了有四周光芒的版本。
+
+<div style="text-align:center" markdown="1">
+![Abydos_Location](https://s3.tebi.io/gledos/blue_archive/abydos/list1/Abydos_Location.webp)
+</div>
+
+虽然这个胸口附近的挂牌可以理解为「学生证」，但其实并没有证据证明这点，因为这个挂牌的内容很少，只有：
+
++   颜色区
++   带有光芒的「阿拜多斯」标志
++   左边是文字「official」，右边是条形码
+
+<div style="text-align:center" markdown="1">
+![【ブルアカ】4th](https://s3.tebi.io/gledos/blue_archive/abydos/list1/【ブルアカ】4th PV_1-12.webp)
+</div>
+
+没有常见学生证的姓名班级之类的信息，其中的颜色区看起来有白色的梯形，尚不明确含义。
+
+而在小鸟游星野（大叔）的盾牌、野乃美的鞋子和砂狼白子（包括单车版本）的单肩包上有相似的三角标志，
+但没有中心的 ❂ 形标志。
+
+所以现在可以梳理出下面的优先级：
+
++   四周光芒的「阿拜多斯」标志主要只出现在胸口的牌子上
++   没有四周光芒的「阿拜多斯」标志被用在武器和学校建筑物上
++   仅有三角形状边框的「阿拜多斯」标志被用在背包、护具上
+
+三种「阿拜多斯」的差异都是光芒，比较耐人寻味。
+
+### 考据
+
+关于「学生证」的起源：
+
+在梦前辈与小鸟游星野的合照里能看到，当时没有「学生证」，只有左臂上的袖章，而在最终篇第二章 ep2 的回忆里，
+星野与白子相遇时，星野与野乃美的胸口也没有「学生证」，虽然穿着厚厚的衣服，但理应可以挂在脖子上。
+
+<div style="text-align:center" markdown="1">
+![Abydos_Location](https://s3.tebi.io/gledos/blue_archive/abydos/list1/BG_CS_Abydos_11.jpg)
+</div>
+
+<div style="text-align:center" markdown="1">
+![Abydos_Location](https://s3.tebi.io/gledos/blue_archive/abydos/list1/第2话_作战会议_@01-17.28.webp)
+</div>
+
+所以阿拜多斯的学生佩戴「学生证」可能是遇到白子之后？（她改变了阿拜多斯）
+
+不过当然也存在作者没有仔细考虑这些内容的情况，因为白子在与大家的合照里，「学生证」的颜色是蓝色，
+而在个人立绘里是绿色的情况。
 
 ## 格黑娜
 
