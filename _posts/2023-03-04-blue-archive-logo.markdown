@@ -32,11 +32,19 @@ Blue Archive（蔚蓝档案、碧蓝档案）是一款手机游戏，里面有�
 黑白两色的「阿拜多斯」标志如下：
 
 <div style="padding-top: 20px; padding-bottom: 20px; text-align:center" markdown="1">
-![阿拜多斯_重置版_白色（优化）](https://s3.tebi.io/gledos/blue_archive/abydos/阿拜多斯_重置版_白色（优化）.svg)
+![阿拜多斯_重置版_白色](https://s3.tebi.io/gledos/blue_archive/abydos/阿拜多斯_重置版_白色.svg)
+</div>
+
+<div style="padding-top: 20px; padding-bottom: 20px; text-align:center" markdown="1">
+![阿拜多斯_重置版_白色+光环](https://s3.tebi.io/gledos/blue_archive/abydos/阿拜多斯_重置版_白色+光环.svg)
 </div>
 
 <div style="padding-top: 20px; padding-bottom: 20px; text-align:center; background-color: white" markdown="1">
-![阿拜多斯_重置版_黑色（优化）](https://s3.tebi.io/gledos/blue_archive/abydos/阿拜多斯_重置版_黑色（优化）.svg)
+![阿拜多斯_重置版_黑色](https://s3.tebi.io/gledos/blue_archive/abydos/阿拜多斯_重置版_黑色.svg)
+</div>
+
+<div style="padding-top: 20px; padding-bottom: 20px; text-align:center; background-color: white" markdown="1">
+![阿拜多斯_重置版_黑色+光环](https://s3.tebi.io/gledos/blue_archive/abydos/阿拜多斯_重置版_黑色+光环.svg)
 </div>
 
 ## 格黑娜
@@ -160,30 +168,37 @@ Blue Archive（蔚蓝档案、碧蓝档案）是一款手机游戏，里面有�
 
 <div markdown=1>
 ![BG_CS_Gehenna_02](https://s3.tebi.io/gledos/blue_archive/gehenna/list1/BG_CS_Gehenna_02.jpg)
+BG_CS_Gehenna_02
 </div>
 
 <div markdown=1>
 ![BG_CS_Gehenna_03](https://s3.tebi.io/gledos/blue_archive/gehenna/list1/BG_CS_Gehenna_03.jpg)
+BG_CS_Gehenna_03
 </div>
 
 <div markdown=1>
 ![BG_GehennaCampus](https://s3.tebi.io/gledos/blue_archive/gehenna/list1/BG_GehennaCampus.jpg)
+BG_GehennaCampus
 </div>
 
 <div markdown=1>
 ![BG_GehennaClassRoom](https://s3.tebi.io/gledos/blue_archive/gehenna/list1/BG_GehennaClassRoom.jpg)
+BG_GehennaClassRoom
 </div>
 
 <div markdown=1>
 ![BG_GehennaClubRoom](https://s3.tebi.io/gledos/blue_archive/gehenna/list1/BG_GehennaClubRoom.jpg)
+BG_GehennaClubRoom
 </div>
 
 <div markdown=1>
 ![BG_GehennaCouncilHall](https://s3.tebi.io/gledos/blue_archive/gehenna/list1/BG_GehennaCouncilHall.jpg)
+BG_GehennaCouncilHall
 </div>
 
 <div markdown=1>
 ![Gehenna_Location](https://s3.tebi.io/gledos/blue_archive/gehenna/list1/Gehenna_Location.jpg)
+[Gehenna Location](https://bluearchive.fandom.com/wiki/File:Gehenna_Location.png)
 </div>
 
 </div></details></div><br>
@@ -271,3 +286,7 @@ Blue Archive（蔚蓝档案、碧蓝档案）是一款手机游戏，里面有�
 ## 施工中
 
 此页面还在施工中。
+
+---
+
+## 脚注
