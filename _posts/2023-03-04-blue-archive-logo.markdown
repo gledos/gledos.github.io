@@ -401,7 +401,30 @@ BG_GehennaCouncilHall
 
 ## 施工中
 
-此页面还在施工中。
+此页面的后面还在施工中。
+
+## 圣三一
+
+〔圣三一的简介〕
+
+完整以及简化版本的「圣三一」标志，以及附属势力如下：
+
+<div class="grid-container">
+
+<div style="background-color: white" markdown="1">
+![BA_标志_圣三一_Trinity_简易十字_更好_优化](https://s3.tebi.io/gledos/blue_archive/trinity/BA_标志_圣三一_Trinity_简易十字_更好_优化.svg)
+</div>
+
+<div style="background-color: white" markdown="1">
+![BA_标志_圣三一_Trinity_完整十字_黑色主体带透明度](https://s3.tebi.io/gledos/blue_archive/trinity/BA_标志_圣三一_Trinity_完整十字_黑色主体带透明度.svg)
+</div>
+
+<div markdown="1">
+![茶话会](https://s3.tebi.io/gledos/blue_archive/trinity/茶会（优化）.svg)
+茶话会
+</div>
+
+</div>
 
 ---
 
