@@ -17,12 +17,17 @@ Blue Archive 里有许多有趣的标志，这里是将其收集起来的整合�
 
 ## 游戏简介
 
-Blue Archive（蔚蓝档案、碧蓝档案）是一款手机游戏，里面有许多学院和带有隶属关系的社团或者势力，这些势力都有有趣的标志。
+Blue Archive（蔚蓝档案、碧蓝档案）是一款手机游戏，里面有许多学院和带有隶属关系的社团或者势力，
+这些势力都有有趣的标志。
 
 ## 标志
 
 根据游戏内外出现的标志截图，我使用 Inkscape 临摹了这些标志，
 由于原本的标志不一定对称，所以这里临摹的标志都有重绘的情况发生，没法 100% 还原原本的设计。
+
+然后在考据或者整理资料的文字部分，会有一些带有 📷 相机 Emoji 的链接，点击后会打开对应的图片，
+返回到主页需要使用浏览器的回到上一页功能，桌面版浏览器的回到上一页在左上角，
+而手机通常只要使用返回操作就好。
 
 ## 阿拜多斯
 
@@ -56,62 +61,106 @@ Blue Archive（蔚蓝档案、碧蓝档案）是一款手机游戏，里面有�
 这些标志被印在阿拜多斯学生的武器上，内容是黑色不带四周光芒的版本，但会有文字，情况比较奇怪，
 就像是故意在武器上移除了四周光芒一样，比较特殊的是十六夜野乃美的武器上是有四周光芒的版本。
 
-学校建筑物外墙上上也是没有四周光芒的版本，但在对策委员会的活动室内的重要位置悬挂了有四周光芒的版本。
-（现在的对策委员会属于代理学生会职能，所以对策委员会是阿拜多斯的最高权利中心）
+[📷 学校建筑物][] 外墙上上也是没有四周光芒的版本，
+但在对策委员会的 [📷 活动室][] 内，其重要位置悬挂了有四周光芒的版本。
+（现在的对策委员会具有代理学生会职能，所以对策委员会就成了阿拜多斯的最高权利机构）
 
-<div style="text-align:center" markdown="1">
-![Abydos_Location](https://s3.tebi.io/gledos/blue_archive/abydos/list1/Abydos_Location.webp)
-</div>
+[📷 学校建筑物]: https://s3.tebi.io/gledos/blue_archive/abydos/list1/Abydos_Location.webp
+[📷 活动室]: https://s3.tebi.io/gledos/blue_archive/abydos/list1/BG_CommitteeRoom.jpg
 
-虽然这个胸口附近的挂牌可以理解为「学生证」，但其实并没有证据证明这点，因为这个挂牌的内容很少，只有：
+### 考据
+
+为什么是学生证？
+
+虽然这个胸口附近的挂牌可以理解为「学生证」，但其实并没有证据证明这点，因为这个挂牌的内容很少，
+从上到下只有：
 
 +   颜色区（底部颜色较深）
 +   带有四周光芒的「阿拜多斯」标志
-+   左边是文字「official」，右边是条形码
++   左边是文字 "official", 右边是条形码
 
-<div style="text-align:center" markdown="1">
-![【ブルアカ】4th](https://s3.tebi.io/gledos/blue_archive/abydos/list1/【ブルアカ】4th PV_1-12.webp)
-</div>
+也从未见到过这个证件的背面，上面没有常见学生证的姓名班级之类的信息，其中的颜色区看起来有白色的部分，
+尚不明确含义。
 
-没有常见学生证的姓名班级之类的信息，其中的颜色区看起来有白色的梯形，尚不明确含义。
+---
 
-而在小鸟游星野（大叔）的盾牌、野乃美的鞋子和砂狼白子（包括单车版本）的单肩包上有相似的三角标志，
+三种不同的「阿拜多斯」标志：
+
+小鸟游星野（大叔）的盾牌、野乃美的鞋子和砂狼白子（包括单车版本）的单肩包上有相似的三角标志，
 但没有中心的 ❂ 形标志。
 
 所以现在可以梳理出下面的优先级：
 
-+   四周光芒的「阿拜多斯」标志主要只出现在胸口的牌子上
++   四周光芒的「阿拜多斯」标志主要只出现在胸口的证件上
 +   没有四周光芒的「阿拜多斯」标志被用在武器和学校建筑物上
 +   仅有三角形状边框的「阿拜多斯」标志被用在背包、护具上
 
 三种「阿拜多斯」标志的差异都是光芒，比较耐人寻味。
 
-### 考据
+---
 
 关于「学生证」的起源：
 
-在梦前辈与小鸟游星野的合照里能看到，当时没有「学生证」，只有左臂上的袖章，而在最终篇第二章 ep2 的回忆里，
-星野与白子相遇时，星野与野乃美的胸口也没有「学生证」，虽然穿着厚厚的衣服，但理应可以挂在脖子上。
+在 [📷 梦前辈与小鸟游星野的合照][] 里能看到，当时没有「学生证」，只有左臂上的袖章，
+而在最终篇第二章 ep2 的回忆里，[📷 星野与白子相遇时][]，星野与野乃美的胸口也没有「学生证」，
+虽然穿着厚厚的衣服，但理应可以挂在脖子上。
 
-<div style="text-align:center" markdown="1">
-![Abydos_Location](https://s3.tebi.io/gledos/blue_archive/abydos/list1/BG_CS_Abydos_11.jpg)
-</div>
-
-<div style="text-align:center" markdown="1">
-![Abydos_Location](https://s3.tebi.io/gledos/blue_archive/abydos/list1/第2话_作战会议_@01-17.28.webp)
-</div>
+[📷 梦前辈与小鸟游星野的合照]: https://s3.tebi.io/gledos/blue_archive/abydos/list1/BG_CS_Abydos_11.jpg
+[📷 星野与白子相遇时]: https://s3.tebi.io/gledos/blue_archive/abydos/list1/第2话_作战会议_@01-17.28.webp
 
 所以阿拜多斯的学生佩戴「学生证」可能是遇到白子之后？（她改变了阿拜多斯）
 
-不过当然也存在作者没有仔细考虑这些内容的情况，因为白子在与大家的合照里，「学生证」的颜色是蓝色，
-而在个人立绘里是绿色的情况。
+不过当然也存在作者没有仔细考虑这些内容的情况，因为白子在与大家的合照里，「学生证」的颜色是 [📷 蓝色][]，
+而在个人立绘里是 [📷 绿色][] 的情况。
 
-<div style="text-align:center" markdown="1">
-![08](https://s3.tebi.io/gledos/blue_archive/abydos/list1/08.webp)
+[📷 蓝色]: https://s3.tebi.io/gledos/blue_archive/abydos/list1/08.webp
+[📷 绿色]: https://s3.tebi.io/gledos/blue_archive/abydos/list1/Shiroko_Portrait.webp
+
+---
+
+关于「学生证」的样貌：
+
+2021年8月4日~23日，Blue Archive 在日本秋叶原开展了活动，
+其中就出售叫做『学生証』的商品，[^akb]
+内容跟游戏的 PV4 中的证件很相似，但在排除掉排版差异后，这个『学生証』商品还是有两个明显的差异：
+
+[^akb]: 💤라인, <https://twitter.com/REEEEEI_N/status/1585984921595654144>
+
+1.  颜色区缺少了「白色横线」
+2.  "ABYDOS" 文字的下方缺少一行小字 "INDEPENDENT HIGH SCHOOL"
+
+阿拜多斯学校的全称是 "ABYDOS INDEPENDENT HIGH SCHOOL"，即「阿拜多斯独立高中」。
+独立学校通常与公立学校区别，因为独立学校的运营完全靠学费和捐款，而不是公共财政运营，
+这也符合剧情中阿拜多斯被表述为自治区的情况。
+
+「学生证」的顶部具有颜色以及一个白色形状，这在检查 PV4 后能看出这是透明的。
+
+<div class="grid-container">
+
+<div markdown="1">
+[![FgKM4YPakAAfcAm](https://s3.tebi.io/gledos/blue_archive/abydos/list1/FgKM4YPakAAfcAm.jpg)](https://s3.tebi.io/gledos/blue_archive/abydos/list1/FgKM4YPakAAfcAm.jpg){: id="FgKM4YPakAAfcAm" loading="lazy"}
+</div>
+
+<div markdown="1">
+[![yahoo_j1081890864](https://s3.tebi.io/gledos/blue_archive/abydos/list1/yahoo_j1081890864.jpg)](https://s3.tebi.io/gledos/blue_archive/abydos/list1/yahoo_j1081890864.jpg){: loading="lazy"}
+[『学生証』实拍](https://aucview.aucfan.com/yahoo/j1081890864/)
 </div>
 
 <div style="text-align:center" markdown="1">
-![Shiroko_Portrait](https://s3.tebi.io/gledos/blue_archive/abydos/list1/Shiroko_Portrait.webp)
+[![【ブルアカ】4th](https://s3.tebi.io/gledos/blue_archive/abydos/list1/【ブルアカ】4th PV_1-12.webp)](https://s3.tebi.io/gledos/blue_archive/abydos/list1/【ブルアカ】4th PV_1-12.webp){: loading="lazy"}
+[PV4](https://www.youtube.com/watch?v=4rDOsvzTicY) 的 1:12 截图
+</div>
+
+<div markdown="1">
+[![MassiGra_2xR8PUV36R](https://s3.tebi.io/gledos/blue_archive/abydos/list1/MassiGra_2xR8PUV36R.jpg)](https://s3.tebi.io/gledos/blue_archive/abydos/list1/MassiGra_2xR8PUV36R.jpg){: loading="lazy"}
+[PV4](https://www.youtube.com/watch?v=4rDOsvzTicY) 的 1:12 截图
+</div>
+
+<div markdown="1">
+[![MassiGra_Nk3pIbOqLJ](https://s3.tebi.io/gledos/blue_archive/abydos/list1/MassiGra_Nk3pIbOqLJ.jpg)](https://s3.tebi.io/gledos/blue_archive/abydos/list1/MassiGra_Nk3pIbOqLJ.jpg){: loading="lazy"}
+[PV4](https://www.youtube.com/watch?v=4rDOsvzTicY) 的 1:12 截图
+</div>
+
 </div>
 
 ## 格黑娜
@@ -175,35 +224,35 @@ Blue Archive（蔚蓝档案、碧蓝档案）是一款手机游戏，里面有�
 <summary markdown="span">点击这里查看格黑娜大图（仅对宽屏荧幕有效）</summary>
 
 <div style="padding-top: 20px; padding-bottom: 20px; text-align:center" markdown="1">
-![格黑娜](https://s3.tebi.io/gledos/blue_archive/gehenna/格黑娜_重置_白色主体+文字（优化）.svg)
+![格黑娜](https://s3.tebi.io/gledos/blue_archive/gehenna/格黑娜_重置_白色主体+文字（优化）.svg){: loading="lazy"}
 </div>
 
 <div style="padding-top: 20px; padding-bottom: 20px; text-align:center" markdown="1">
-![格黑娜 重置 白色主体](https://s3.tebi.io/gledos/blue_archive/gehenna/格黑娜_重置_白色主体（优化）.svg)
+![格黑娜 重置 白色主体](https://s3.tebi.io/gledos/blue_archive/gehenna/格黑娜_重置_白色主体（优化）.svg){: loading="lazy"}
 </div>
 
 <div style="padding-top: 20px; padding-bottom: 20px; text-align:cente; background-color: white" markdown="1">
-![格黑娜](https://s3.tebi.io/gledos/blue_archive/gehenna/格黑娜_重置_黑色主体+文字（优化）.svg)
+![格黑娜](https://s3.tebi.io/gledos/blue_archive/gehenna/格黑娜_重置_黑色主体+文字（优化）.svg){: loading="lazy"}
 </div>
 
 <div style="padding-top: 20px; padding-bottom: 20px; text-align:center; background-color: white" markdown="1">
-![格黑娜 重置 白色主体](https://s3.tebi.io/gledos/blue_archive/gehenna/格黑娜_重置_黑色主体（优化）.svg)
+![格黑娜 重置 白色主体](https://s3.tebi.io/gledos/blue_archive/gehenna/格黑娜_重置_黑色主体（优化）.svg){: loading="lazy"}
 </div>
 
 <div style="padding-top: 20px; padding-bottom: 20px; text-align:center; background-color: white" markdown="1">
-![便利屋68](https://s3.tebi.io/gledos/blue_archive/gehenna/便利屋68（优化）.svg)
+![便利屋68](https://s3.tebi.io/gledos/blue_archive/gehenna/便利屋68（优化）.svg){: loading="lazy"}
 </div>
 
 <div style="padding-top: 20px; padding-bottom: 20px; text-align:center" markdown="1">
-![风纪委员会](https://s3.tebi.io/gledos/blue_archive/gehenna/风纪委员会（优化）1.5.svg)
+![风纪委员会](https://s3.tebi.io/gledos/blue_archive/gehenna/风纪委员会（优化）1.5.svg){: loading="lazy"}
 </div>
 
 <div style="padding-top: 20px; padding-bottom: 20px; text-align:center; background-color: white" markdown="1">
-![美食研究会](https://s3.tebi.io/gledos/blue_archive/gehenna/美食研究会（优化）.svg)
+![美食研究会](https://s3.tebi.io/gledos/blue_archive/gehenna/美食研究会（优化）.svg){: loading="lazy"}
 </div>
 
 <div style="padding-top: 20px; padding-bottom: 20px; text-align:center" markdown="1">
-![万魔殿 矢量字体](https://s3.tebi.io/gledos/blue_archive/gehenna/万魔殿_矢量字体（优化）.svg)
+![万魔殿 矢量字体](https://s3.tebi.io/gledos/blue_archive/gehenna/万魔殿_矢量字体（优化）.svg){: loading="lazy"}
 </div>
 
 </details></div><br>
@@ -215,12 +264,12 @@ Blue Archive（蔚蓝档案、碧蓝档案）是一款手机游戏，里面有�
 因为只有美食研究会的标志找到了字体，其他的图标尚未找到字体，
 所以基本都得使用其他近似的字体来调整出原样。
 
-+   「格黑娜」的「GEHENNA」是 Source Han Sans 字体经过调整的效果
++   「格黑娜」的 "GEHENNA" 是 Source Han Sans 字体经过调整的效果
 +   「万魔殿」实在是找不到合适的字体
     所以使用了不太一样的 FOT-RaglanPunch Std UB 字体替代
 +   「风纪委员会」的「風紀」使用的是使用 Source Han Sans JP 字体然后进行了大量调整做出的效果
-+   「便利屋68」的「VI VII」的数字没有使用字体，而是手动绘制的
-+   「美食研究会」的「EAT OR DIE」使用的是 Gunplay 字体
++   「便利屋68」的 "VI VII" 的数字没有使用字体，而是手动绘制的
++   「美食研究会」的 "EAT OR DIE" 使用的是 Gunplay 字体
 
 ### 标志使用情况
 
@@ -234,37 +283,37 @@ Blue Archive（蔚蓝档案、碧蓝档案）是一款手机游戏，里面有�
 <div class="grid-container">
 
 <div markdown=1>
-![BG_CS_Gehenna_02](https://s3.tebi.io/gledos/blue_archive/gehenna/list1/BG_CS_Gehenna_02.jpg)
+![BG_CS_Gehenna_02](https://s3.tebi.io/gledos/blue_archive/gehenna/list1/BG_CS_Gehenna_02.jpg){: loading="lazy"}
 BG_CS_Gehenna_02
 </div>
 
 <div markdown=1>
-![BG_CS_Gehenna_03](https://s3.tebi.io/gledos/blue_archive/gehenna/list1/BG_CS_Gehenna_03.jpg)
+![BG_CS_Gehenna_03](https://s3.tebi.io/gledos/blue_archive/gehenna/list1/BG_CS_Gehenna_03.jpg){: loading="lazy"}
 BG_CS_Gehenna_03
 </div>
 
 <div markdown=1>
-![BG_GehennaCampus](https://s3.tebi.io/gledos/blue_archive/gehenna/list1/BG_GehennaCampus.jpg)
+![BG_GehennaCampus](https://s3.tebi.io/gledos/blue_archive/gehenna/list1/BG_GehennaCampus.jpg){: loading="lazy"}
 BG_GehennaCampus
 </div>
 
 <div markdown=1>
-![BG_GehennaClassRoom](https://s3.tebi.io/gledos/blue_archive/gehenna/list1/BG_GehennaClassRoom.jpg)
+![BG_GehennaClassRoom](https://s3.tebi.io/gledos/blue_archive/gehenna/list1/BG_GehennaClassRoom.jpg){: loading="lazy"}
 BG_GehennaClassRoom
 </div>
 
 <div markdown=1>
-![BG_GehennaClubRoom](https://s3.tebi.io/gledos/blue_archive/gehenna/list1/BG_GehennaClubRoom.jpg)
+![BG_GehennaClubRoom](https://s3.tebi.io/gledos/blue_archive/gehenna/list1/BG_GehennaClubRoom.jpg){: loading="lazy"}
 BG_GehennaClubRoom
 </div>
 
 <div markdown=1>
-![BG_GehennaCouncilHall](https://s3.tebi.io/gledos/blue_archive/gehenna/list1/BG_GehennaCouncilHall.jpg)
+![BG_GehennaCouncilHall](https://s3.tebi.io/gledos/blue_archive/gehenna/list1/BG_GehennaCouncilHall.jpg){: loading="lazy"}
 BG_GehennaCouncilHall
 </div>
 
 <div markdown=1>
-![Gehenna_Location](https://s3.tebi.io/gledos/blue_archive/gehenna/list1/Gehenna_Location.jpg)
+![Gehenna_Location](https://s3.tebi.io/gledos/blue_archive/gehenna/list1/Gehenna_Location.jpg){: loading="lazy"}
 [Gehenna Location](https://bluearchive.fandom.com/wiki/File:Gehenna_Location.png)
 </div>
 
