@@ -36,20 +36,24 @@ Blue Archive（蔚蓝档案、碧蓝档案）是一款手机游戏，里面有�
 
 黑白两色以及完整、简化版本的「阿拜多斯」标志如下：
 
-<div style="padding-top: 20px; padding-bottom: 20px; text-align:center" markdown="1">
+<div class="grid-container">
+
+<div markdown="1">
 ![阿拜多斯_重置版_白色](https://s3.tebi.io/gledos/blue_archive/abydos/阿拜多斯_重置版_白色.svg)
 </div>
 
-<div style="padding-top: 20px; padding-bottom: 20px; text-align:center" markdown="1">
+<div markdown="1">
 ![阿拜多斯_重置版_白色+光环](https://s3.tebi.io/gledos/blue_archive/abydos/阿拜多斯_重置版_白色+光环.svg)
 </div>
 
-<div style="padding-top: 20px; padding-bottom: 20px; text-align:center; background-color: white" markdown="1">
-![阿拜多斯_重置版_黑色](https://s3.tebi.io/gledos/blue_archive/abydos/阿拜多斯_重置版_黑色.svg)
+<div markdown="1">
+![阿拜多斯_重置版_黑色](https://s3.tebi.io/gledos/blue_archive/abydos/阿拜多斯_重置版_黑色.svg){: style="background-color: white" }
 </div>
 
-<div style="padding-top: 20px; padding-bottom: 20px; text-align:center; background-color: white" markdown="1">
-![阿拜多斯_重置版_黑色+光环](https://s3.tebi.io/gledos/blue_archive/abydos/阿拜多斯_重置版_黑色+光环.svg)
+<div markdown="1">
+![阿拜多斯_重置版_黑色+光环](https://s3.tebi.io/gledos/blue_archive/abydos/阿拜多斯_重置版_黑色+光环.svg){: style="background-color: white" }
+</div>
+
 </div>
 
 ### 关于字体
@@ -219,44 +223,6 @@ Blue Archive（蔚蓝档案、碧蓝档案）是一款手机游戏，里面有�
 
 </div>
 
-<div class="post-toc">
-<details markdown=1>
-<summary markdown="span">点击这里查看格黑娜大图（仅对宽屏荧幕有效）</summary>
-
-<div style="padding-top: 20px; padding-bottom: 20px; text-align:center" markdown="1">
-![格黑娜](https://s3.tebi.io/gledos/blue_archive/gehenna/格黑娜_重置_白色主体+文字（优化）.svg){: loading="lazy"}
-</div>
-
-<div style="padding-top: 20px; padding-bottom: 20px; text-align:center" markdown="1">
-![格黑娜 重置 白色主体](https://s3.tebi.io/gledos/blue_archive/gehenna/格黑娜_重置_白色主体（优化）.svg){: loading="lazy"}
-</div>
-
-<div style="padding-top: 20px; padding-bottom: 20px; text-align:cente; background-color: white" markdown="1">
-![格黑娜](https://s3.tebi.io/gledos/blue_archive/gehenna/格黑娜_重置_黑色主体+文字（优化）.svg){: loading="lazy"}
-</div>
-
-<div style="padding-top: 20px; padding-bottom: 20px; text-align:center; background-color: white" markdown="1">
-![格黑娜 重置 白色主体](https://s3.tebi.io/gledos/blue_archive/gehenna/格黑娜_重置_黑色主体（优化）.svg){: loading="lazy"}
-</div>
-
-<div style="padding-top: 20px; padding-bottom: 20px; text-align:center; background-color: white" markdown="1">
-![便利屋68](https://s3.tebi.io/gledos/blue_archive/gehenna/便利屋68（优化）.svg){: loading="lazy"}
-</div>
-
-<div style="padding-top: 20px; padding-bottom: 20px; text-align:center" markdown="1">
-![风纪委员会](https://s3.tebi.io/gledos/blue_archive/gehenna/风纪委员会（优化）1.5.svg){: loading="lazy"}
-</div>
-
-<div style="padding-top: 20px; padding-bottom: 20px; text-align:center; background-color: white" markdown="1">
-![美食研究会](https://s3.tebi.io/gledos/blue_archive/gehenna/美食研究会（优化）.svg){: loading="lazy"}
-</div>
-
-<div style="padding-top: 20px; padding-bottom: 20px; text-align:center" markdown="1">
-![万魔殿 矢量字体](https://s3.tebi.io/gledos/blue_archive/gehenna/万魔殿_矢量字体（优化）.svg){: loading="lazy"}
-</div>
-
-</details></div><br>
-
 遗憾的是供餐部、急救医学部、温泉开发部以及回家部，都没有给出清晰的标志，所以就没有绘制。
 
 ### 关于字体
@@ -411,12 +377,14 @@ BG_GehennaCouncilHall
 
 <div class="grid-container">
 
-<div style="background-color: white" markdown="1">
+<div markdown="1">
 ![BA_标志_圣三一_Trinity_简易十字_更好_优化](https://s3.tebi.io/gledos/blue_archive/trinity/BA_标志_圣三一_Trinity_简易十字_更好_优化.svg)
+「圣三一」简化标志
 </div>
 
-<div style="background-color: white" markdown="1">
-![BA_标志_圣三一_Trinity_完整十字_黑色主体带透明度](https://s3.tebi.io/gledos/blue_archive/trinity/BA_标志_圣三一_Trinity_完整十字_黑色主体带透明度.svg)
+<div markdown="1">
+![BA_标志_圣三一_Trinity_完整十字_黑色主体带透明度](https://s3.tebi.io/gledos/blue_archive/trinity/BA_标志_圣三一_Trinity_完整十字_黑色主体带透明度.svg){: style="background-color: white" }
+「圣三一」完整标志
 </div>
 
 <div markdown="1">
