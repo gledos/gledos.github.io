@@ -405,7 +405,7 @@ BG_GehennaCouncilHall
 
 ## 圣三一
 
-〔圣三一的简介〕
+〔待续：圣三一的简介〕
 
 完整以及简化版本的「圣三一」标志，以及附属势力如下：
 
@@ -422,6 +422,36 @@ BG_GehennaCouncilHall
 <div markdown="1">
 ![茶话会](https://s3.tebi.io/gledos/blue_archive/trinity/茶会（优化）.svg)
 茶话会
+</div>
+
+<div markdown="1">
+![放学后的甜点部](https://s3.tebi.io/gledos/blue_archive/trinity/After-School_Sweets_Club_优化.svg)
+放学后的甜点部
+</div>
+
+</div>
+
+## 千年
+
+〔待续：千年的简介〕
+
+「千年」标志，以及附属势力如下：
+
+<div class="grid-container">
+
+<div markdown="1">
+![千年_白色+文字](https://gledos.s3.tebi.io/blue_archive/millennium/千年_白色+文字.svg)
+「千年」标志
+</div>
+
+<div markdown="1">
+![研讨会](https://gledos.s3.tebi.io/blue_archive/millennium/研讨会_优化.svg)
+研讨会
+</div>
+
+<div markdown="1">
+![游戏开发部](https://gledos.s3.tebi.io/blue_archive/millennium/游戏开发部（优化）.svg)
+游戏开发部
 </div>
 
 </div>
