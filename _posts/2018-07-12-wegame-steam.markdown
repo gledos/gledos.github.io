@@ -759,7 +759,7 @@ Emoji 后缀标识的意思：
      "Steam_Startup_LauncherDeprecated"              "%gamename% 现在可以在蒸汽平台运行，此安装不再受支持，即将退出。"
      "Steam_Startup_ImportGameFromLauncherTitle"     "导入游戏"
      "Steam_Startup_ImportGameFromLauncherMsg"       "您想将%gamename%导入蒸汽平台吗，那么您将可以安全地卸载旧版启动器。"
-     
+
      "Steam_Download_SteamChina"                     "下载蒸汽平台"
      ```
 
@@ -905,6 +905,7 @@ Emoji 后缀标识的意思：
          + [2021-12-27 15:06](https://web.archive.org/web/20211227070847/http://www.17ce.com/site/http/20211227_8ff992b066e311ec89545fe60f9332a6:1.html). https. 81/172
          + [2021-12-30 23:12](https://web.archive.org/web/20211230151656/http://www.17ce.com/site/http/20211230_e4d8a130698211eca8ff613adab63e9c:1.html). https. 77/183
          + [2022-01-10 23:08](https://web.archive.org/web/20220110151604/http://www.17ce.com/site/http/20220110_1e03cfa0722711eca8ff613adab63e9c:1.html). https. 94/183
+         + [2023-02-19 11:30](https://web.archive.org/web/20230219033607/https://www.17ce.com/site/http/20230219_b7d4b910b00511ed8de18795664e251f:1.html). https. 41/61
      + 备注：http 80 端口 的 store.steampowered.com 域名，大约在在 2018年 被 GFW 中断，不过暂无详细记录。[^itdog][^lusongsong]
        所以会看到测试 <http://store.steampowered.com> 几乎全部错误的情况。
 
@@ -939,7 +940,11 @@ Emoji 后缀标识的意思：
      + 贴吧用户_QRWy1GV, 《[论steam更新云之后多垃圾](https://web.archive.org/web/20220514013624/https://tieba.baidu.com/p/7833234291)》, 百度贴吧/steam吧, 2022-05-13. (参照 2022-05-14).
      + 16岁就性无能, 《[老哥们这种问题怎么解决](https://web.archive.org/web/20220514014054/https://tieba.baidu.com/p/7833271477)》, 百度贴吧/steam吧, 2022-05-13. (参照 2022-05-14).
 
-134. 未完待续
+134. `2023-02-17` store.steampowered.com 域名的网络劣化（SNI 干扰）被取消。[^916909]
+
+     [^916909]: XIU2, 《[Steam、Github 域名疑似已解除 SNI 干扰（已无法复现），可以正常链接了？](https://web.archive.org/web/20230217093733/https://www.v2ex.com/t/916909)》, V2EX, 2023-02-17. (参照 2023-02-17).
+
+135. 未完待续
 
 <!-- [这是真的吗 NGA玩家社区](https://archive.vn/rgmOt) 在隔壁群友看到的，如果是真的话，那?死也不会用的
      steam中国、WAC反作弊
