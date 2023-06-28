@@ -63,19 +63,19 @@ file-name: 2023-06-27-hacking-game-console-word-list.markdown
 
 +   the homebrew launcher
 
-    待续
+    〔待扩充〕
 
 +   LumaCFW
 
-    待续
+    〔待扩充〕
 
 +   Braindump
 
-    待续
+    〔待扩充〕
 
 +   hans
 
-    待续
+    〔待扩充〕
 
 +   NAND
 
@@ -98,27 +98,32 @@ file-name: 2023-06-27-hacking-game-console-word-list.markdown
 
 +   RCM
 
-    恢复模式 (ReCovery Mode) 缩写，有时会被称作工程模式，通常是维修设备所预留的高权限模式，但 RCM 这个缩写的使用范围并不广泛，因为这是 NVIDIA Tegra 芯片手册里的缩写，而 Intel 和 AMD 似乎没有使用这种缩写，所以似乎只有 Switch 和 [Microsoft Surface RT](https://openrt.gitbook.io/open-surfacert/) 这种使用了 NVIDIA Tegra 芯片的设备，才会使用到 RCM 缩写。
+    恢复模式 (ReCovery Mode) 缩写，有时会被称作工程模式，通常是维修设备所预留的高权限模式，
+    但 RCM 这个缩写的使用范围并不广泛，因为这是 NVIDIA Tegra 芯片手册里的缩写，
+    而 Intel 和 AMD 似乎没有使用这种缩写，所以似乎只有 Switch 和 [Microsoft Surface RT][]，
+    这种使用了 NVIDIA Tegra 芯片的设备，才会使用到 RCM 缩写。
+
+[Microsoft Surface RT]: https://openrt.gitbook.io/open-surfacert/
 
 +   Hekate
 
-    待续
+    〔待扩充〕
 
 +   Horizon OS, HOS, 地平线系统
 
-    待续
+    〔待扩充〕
 
 +   SXOS
 
-    待续
+    〔待扩充〕
 
 +   Atmosphere
 
-    待续
+    〔待扩充〕
 
 +   ReiNX
 
-    待续
+    〔待扩充〕
 
 +   [RP2040](https://www.raspberrypi.com/products/rp2040/)
 
@@ -141,9 +146,17 @@ file-name: 2023-06-27-hacking-game-console-word-list.markdown
 
     指对硬件进行操作，比如将 Switch 右 Joycon 的金属引脚接地，又或者是焊接攻击/破解芯片等操作，都算是 Hard mod。[^gwsg]
 
+    理论上只要有硬件上的修改，没有依靠软件，就属于 Hard mod，现在 Switch 的破解方法均是 Hard mod。[^605846]
+
 [^gwsg]: [Switch Glossary](https://wiki.gbatemp.net/wiki/Switch_Glossary), WikiTemp, the GBAtemp wiki.
 
-+   硬件破解、硬破
+[^605846]: PizzaBitez, [Why don't we see softmodding on the Switch?](https://gbatemp.net/threads/why-dont-we-see-softmodding-on-the-switch.605846/).
+
++   Soft mod
+
+    一种使用软件修改 Switch 以允许运行未签名代码的方法，它通常是比 Hard mod 更简单的方法，但是目前尚未发现。
+
++   硬件破解（硬破）、硬件改装（硬改）
 
     和 Hard mod 接近，但仅包括焊接攻击/破解芯片，单纯的引脚操作没有被算作硬破。
 
@@ -153,7 +166,9 @@ file-name: 2023-06-27-hacking-game-console-word-list.markdown
 
 +   Fusée Gelée, fusee-gelee, ShofEL2, CVE-2018-6242
 
-    漏洞名称，上面四个名称均指向同一个漏洞
+    漏洞名称，上面四个名称均指向同一个漏洞。
+
+    〔待扩充〕
 
 +   [Fusée Launcher](https://github.com/Qyriad/fusee-launcher)
 
@@ -181,11 +196,24 @@ file-name: 2023-06-27-hacking-game-console-word-list.markdown
 
 +   deja-vu
 
-    待续
+    〔待扩充〕
 
 +   SDSetup
 
-    待续
+    〔待扩充〕
+
++   Cold boot、冷启动
+
+    在内存是掉电，空白的情况下启动设备。
+
++   Warm boot、热启动
+
+    在内存是运行中，存在数据的情况下启动设备。
+
++   Signed code/Unsigned code, 签名代码/未签名代码
+
+    Switch 在一些时候，只能运行被任天堂签名了的代码，而未签名的代码会被拒绝执行，
+    所以如果要运行 Homebrew，就需要使用漏洞绕过相关的验证，就能执行未签名代码了。[^gwsg]
 
 +   eMMC, NAND
 
@@ -194,7 +222,7 @@ file-name: 2023-06-27-hacking-game-console-word-list.markdown
 
 +   emuMMC, emuNAND
 
-    待续
+    〔待扩充〕
 
 +   NRO, nro
 
@@ -202,7 +230,11 @@ file-name: 2023-06-27-hacking-game-console-word-list.markdown
 
 +   NSP, nsp
 
-    Nintendo eshop 的游戏包格式，类似于 3DS 的 cia 以及 Wii 的 .wad 格式。[^gwsg]
+    Switch eshop 的游戏包格式，类似于 3DS 的 cia 以及 Wii 的 .wad 格式。[^gwsg]
+
++   XCI, xci
+
+    Switch 卡带的格式，类似于 3ds 控制台的 .3ds 文件。[^gwsg]
 
 <!-- 编译后的 .elf 文件必须转换为 .nro 才能在交换机上运行。 -->
 
@@ -212,9 +244,9 @@ file-name: 2023-06-27-hacking-game-console-word-list.markdown
 
     是一个讨论和研究 Nintendo Switch 自制程序的 wiki，有开发环境、硬件和 API 等资料。
 
-+   待续
++   〔待扩充〕
 
-    软破、硬破、大气层、tesla、nx-ovlloader
+    软破、硬破、大气层、tesla、nx-ovlloader、eFuse
 
 ## 备注
 
