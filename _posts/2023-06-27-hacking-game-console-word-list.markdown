@@ -31,7 +31,7 @@ file-name: 2023-06-27-hacking-game-console-word-list.markdown
 
 +   OFW
 
-    原本系统固件 (Original Firmware) 的缩写，比如 Switch 的 OFW 是 Horizo​​n OS。
+    原本系统固件 (Original Firmware) 的缩写，比如 Switch 的 OFW 是 Horizon OS。
 
 +   [CFW](https://en.wikipedia.org/wiki/Custom_firmware)
 
@@ -53,7 +53,7 @@ file-name: 2023-06-27-hacking-game-console-word-list.markdown
 
 [^3hlbropg]: Tom Phillips, 《[3DS homebrew loader built, requires obscure puzzle game](https://web.archive.org/web/20230227234517/https://www.eurogamer.net/3ds-homebrew-loader-built-requires-obscure-puzzle-game)》, Eurogamer.net, 2014-11-19. (参照 2023-06-27).
 
-+   Cubic Ninja, キュービックニンジャ, 方块忍者, 立体忍者
++   Cubic Ninja, キュービックニンジャ、方块忍者、立体忍者
 
     3DS 早期游戏，内置的 QR 码扫描工具被 Smealum 发现了漏洞，可以用来作为 the homebrew launcher 的启动器。[^3hlbropg]
 
@@ -77,6 +77,13 @@ file-name: 2023-06-27-hacking-game-console-word-list.markdown
 
     待续
 
++   NAND
+
+    3DS 使用 NAND 闪存芯片作为存储系统，所以在 3DS 语境下，NAND 泛指系统存储，
+    自制软件教程通常也是以「[创建 NAND 备份][]」来表示创建主机的系统镜像，以备恢复。
+
+[创建 NAND 备份]: https://3ds.hacks.guide/zh_CN/godmode9-usage.html#创建-nand-备份
+
 ## Switch
 
 这里的均是 Switch 相关的词汇，其他平台不一定适用。
@@ -93,11 +100,11 @@ file-name: 2023-06-27-hacking-game-console-word-list.markdown
 
     恢复模式 (ReCovery Mode) 缩写，有时会被称作工程模式，通常是维修设备所预留的高权限模式，但 RCM 这个缩写的使用范围并不广泛，因为这是 NVIDIA Tegra 芯片手册里的缩写，而 Intel 和 AMD 似乎没有使用这种缩写，所以似乎只有 Switch 和 [Microsoft Surface RT](https://openrt.gitbook.io/open-surfacert/) 这种使用了 NVIDIA Tegra 芯片的设备，才会使用到 RCM 缩写。
 
-+   Horizon OS, HOS, 地平线系统
++   Hekate
 
     待续
 
-+   Hekate
++   Horizon OS, HOS, 地平线系统
 
     待续
 
@@ -113,9 +120,64 @@ file-name: 2023-06-27-hacking-game-console-word-list.markdown
 
     待续
 
-+   fusee-gelee, ShofEL2, CVE-2018-6242
++   [RP2040](https://www.raspberrypi.com/products/rp2040/)
 
-    待续
+    RP2040 是树莓派 (Raspberry Pi) 的一款芯片，也是 Raspberry Pi Pico 系列所使用的芯片。
+
++   [RP2040-Zero](https://www.waveshare.com/wiki/RP2040-Zero)
+
+    是 Waveshare 公司贩售的 Pico-Like 板，功能类似于 Raspberry Pi Pico，不过更小型化，
+    核心是树莓派公司的 RP2040 芯片。
+
++   [Picofly](https://github.com/Ansem-SoD/Picofly)
+
+    这是 RP2040-Zero 破解 Switch 所需的固件。
+
++   树莓派
+
+    指使用 RP2040-Zero 破解 Switch 的方案版本，与其他的攻击/破解芯片方案进行区别。
+
++   Hard mod
+
+    指对硬件进行操作，比如将 Switch 右 Joycon 的金属引脚接地，又或者是焊接攻击/破解芯片等操作，都算是 Hard mod。[^gwsg]
+
+[^gwsg]: [Switch Glossary](https://wiki.gbatemp.net/wiki/Switch_Glossary), WikiTemp, the GBAtemp wiki.
+
++   硬件破解、硬破
+
+    和 Hard mod 接近，但仅包括焊接攻击/破解芯片，单纯的引脚操作没有被算作硬破。
+
++   Mariko (T214)
+
+    漏洞名称，Nvidia Tegra X1 的第一版中的错误和漏洞代号。[^gwsg]
+
++   Fusée Gelée, fusee-gelee, ShofEL2, CVE-2018-6242
+
+    漏洞名称，上面四个名称均指向同一个漏洞
+
++   [Fusée Launcher](https://github.com/Qyriad/fusee-launcher)
+
+    开源全平台软件，是一个 proof-of-concept 的任意代码加载器，适用于各种 Tegra 处理器，
+    利用 CVE-2018-6242 (Fusée Gelée) 漏洞，将任意代码通过 USB 向 Switch 加载小型 payload 并执行。
+
+    Fusée Launcher 运行在 Switch 之外的设备上，需要将此设备连接上 Switch，然后在该设备上运行 Fusée Launcher。
+
+    软件活跃情况：已停止开发，仓库已封存。
+
++   [NXLoader](https://github.com/DavidBuchanan314/NXLoader)
+
+    开源的 Android APP，使用了 Fusée Launcher 以及 ShofEL2 的代码，作用与 Fusée Launcher 相似。
+
+    软件活跃情况：已停止更新。
+
++   payload
+
+    加载到 Switch 内存中然后运行的程序，通常以二进制文件的形式注入到已经运行的进程中，
+    通常是利用 Fusée Gelée 漏洞时，用于修补 Switch OFW，使其运行 CFW。[^gwsg]
+
+    [NXLoader](https://github.com/DavidBuchanan314/NXLoader) 主页中，fusee.bin 被称作 payload。
+
+    payload 与通常的 .elf、.nro、.cxi 或其他独立可执行程序不同，并不是可独立运行的程序。
 
 +   deja-vu
 
@@ -125,9 +187,26 @@ file-name: 2023-06-27-hacking-game-console-word-list.markdown
 
     待续
 
-+   emuNAND, emuMMC
++   eMMC, NAND
+
+    也许是 3DS 以及之前的任天堂游戏破解都是使用 NAND 作为存储芯片，然后开发者习惯了这种说法，
+    所以 Switch 虽然使用的是 eMMC，还是会有人将其称为 NAND，二者在 Switch 的语境下可以当作同义词。[^gwsg]
+
++   emuMMC, emuNAND
 
     待续
+
++   NRO, nro
+
+    Horizon OS 使用的可执行文件格式，部分 Homebrew 会使用此格式，能够被 Horizon 和 Homebrew 启动器启动。[^gwsg]
+
++   NSP, nsp
+
+    Nintendo eshop 的游戏包格式，类似于 3DS 的 cia 以及 Wii 的 .wad 格式。[^gwsg]
+
+<!-- 编译后的 .elf 文件必须转换为 .nro 才能在交换机上运行。 -->
+
++   拆字库
 
 +   [SwitchBrew](https://switchbrew.org/wiki/Main_Page)
 
@@ -136,6 +215,10 @@ file-name: 2023-06-27-hacking-game-console-word-list.markdown
 +   待续
 
     软破、硬破、大气层、tesla、nx-ovlloader
+
+## 备注
+
+部分页面提及「Horizo​​n」时，在字母 o 与 n 之间存在两个零宽空格，尚不明确其原因。
 
 ## 参考资料
 
