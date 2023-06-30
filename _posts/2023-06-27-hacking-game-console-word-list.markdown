@@ -17,13 +17,15 @@ file-name: 2023-06-27-hacking-game-console-word-list.markdown
 
 <!-- more -->
 
-如果想要给封闭的设备换上功能强大的自制系统，然后获取最高权限，以及运行各种第三方程序，可能就需要让机器运行自定义固件，下面是相关的词典。
+如果想要给封闭的设备换上功能强大的自制系统，然后获取最高权限，以及运行各种第三方程序，
+可能就需要让机器运行自定义固件，下面是相关的词典。
 
 ## 通用
 
 ### boot loader
 
-引导加载程序，比如 PC 主要使用的引导加载程序通常就是 UEFI（之前常用的是 BIOS）。在封闭的设备里，如果换成自定义引导加载程序，就能加载不同或者修补后的固件，Switch 的 Hekate 就是一个自定义引导加载程序。
+引导加载程序，比如 PC 主要使用的引导加载程序通常就是 UEFI（之前常用的是 BIOS）。在封闭的设备里，
+如果换成自定义引导加载程序，就能加载不同或者修补后的固件，Switch 的 Hekate 就是一个自定义引导加载程序。
 
 ### Recovery Mode
 
@@ -33,17 +35,21 @@ file-name: 2023-06-27-hacking-game-console-word-list.markdown
 
 原本系统固件 (Original Firmware) 的缩写，比如 Switch 的 OFW 是 Horizon OS。
 
-### [CFW](https://en.wikipedia.org/wiki/Custom_firmware)
+### CFW
 
-自定义固件 (Custom firmware) 的缩写，通常固件也等同于系统的概念，所以第三方 Android ROM 比如 LineageOS 和第三方路由器系统 OpenWrt 也算是自定义固件。
+[CFW](https://en.wikipedia.org/wiki/Custom_firmware) 是自定义固件 (Custom firmware) 的缩写，
+通常固件也等同于系统的概念，所以第三方 Android ROM 比如 LineageOS 和第三方路由器系统
+OpenWrt 也算是自定义固件。
 
 ### the homebrew channel, [the homebrew launcher](https://smealum.github.io/3ds/), homebrew loader, hbmenu
 
 这是任天堂游戏机 Wii, 3DS 和 Switch 平台上的自制程序启动器，用来图形化的呈现各个自制软件。
 
-### [Homebrew](https://en.wikipedia.org/wiki/Homebrew_(video_games))
+### Homebrew
 
-原意是家酿啤酒，在自定义固件领域就是自制软件的意思，比如上文提到的非任天堂授权创建的所有程序，包括 CFW 和自定义引导加载程序，《香港97》这款第三方 FC 游戏也算是 Homebrew。
+[Homebrew](https://en.wikipedia.org/wiki/Homebrew_(video_games)) 的原意是家酿啤酒，
+在自定义固件领域就是自制软件的意思，比如上文提到的非任天堂授权创建的所有程序，
+包括 CFW 和自定义引导加载程序，《香港97》这款第三方 FC 游戏也算是 Homebrew。
 
 ## 3DS
 
@@ -138,7 +144,9 @@ https://wiki.ds-homebrew.com/twilightmenu/installing-3ds
 
 ### CFW (Switch)
 
-Switch 常见的自定义固件有 SXOS, Atmosphere 和 ReiNX，但它们均为修补的固件或固件修补程序，这意味着它们除了运行自制程序/游戏之外，也能直接运行 Switch 程序/游戏，不过也能让 Switch 运行 Android 这个独立于 Switch 原生系统的 CFW。[^shgb][^1loscf]
+Switch 常见的自定义固件有 SXOS, Atmosphere 和 ReiNX，但它们均为修补的固件或固件修补程序，
+这意味着它们除了运行自制程序/游戏之外，也能直接运行 Switch 程序/游戏，不过也能让 Switch
+运行 Android 这个独立于 Switch 原生系统的 CFW。[^shgb][^1loscf]
 
 [^shgb]: 《[Before Starting](https://switch.homebrew.guide/gettingstarted/beforestarting.html)》, Homebrew Guide documentation. (参照 2023-06-27).
 
@@ -176,14 +184,15 @@ Switch 常见的自定义固件有 SXOS, Atmosphere 和 ReiNX，但它们均为�
 
 〔待扩充〕
 
-### [RP2040](https://www.raspberrypi.com/products/rp2040/)
+### RP2040
 
-RP2040 是树莓派 (Raspberry Pi) 的一款芯片，也是 Raspberry Pi Pico 系列所使用的芯片。
+[RP2040](https://www.raspberrypi.com/products/rp2040/) 是树莓派 (Raspberry Pi) 的一款芯片，
+也是 Raspberry Pi Pico 系列所使用的芯片。
 
-### [RP2040-Zero](https://www.waveshare.com/wiki/RP2040-Zero)
+### RP2040-Zero
 
-是 Waveshare 公司贩售的 Pico-Like 板，功能类似于 Raspberry Pi Pico，不过更小型化，
-核心是树莓派公司的 RP2040 芯片。
+[RP2040-Zero](https://www.waveshare.com/wiki/RP2040-Zero) 是 Waveshare 公司贩售的 Pico-Like 板，
+功能类似于 Raspberry Pi Pico，不过更小型化，核心是树莓派公司的 RP2040 芯片。
 
 ### Picofly
 
@@ -191,9 +200,9 @@ RP2040 是树莓派 (Raspberry Pi) 的一款芯片，也是 Raspberry Pi Pico �
 有时也可以指代这项破解 Switch 的方案，或者 RP2040-Zero 以及类似的开发板。
 
 Picofly 不仅仅能用在 Waveshare 公司的 RP2040-Zero 上，还有 RP2040-One, RP2040-Tiny，
-以及其他公司的 Seeed XIAO-RP2040, Adafruit ItsyBitsy RP2040。[dpig]
+以及其他公司的 Seeed XIAO-RP2040, Adafruit ItsyBitsy RP2040。[^dpig]
 
-[dpig]: lightninjay, [A definitive PicoFly install guide V.6.2](https://gbatemp.net/download/a-definitive-picofly-install-guide.37968/), GBAtemp.net, Apr 13, 2023.
+[^dpig]: lightninjay, [A definitive PicoFly install guide V.6.2](https://gbatemp.net/download/a-definitive-picofly-install-guide.37968/), GBAtemp.net, Apr 13, 2023.
 
 ### 树莓派
 
@@ -312,24 +321,26 @@ Team Xecuter 开发的注入器，是用来运行 SX OS 的工具。[^txsx]
 
 〔待扩充〕
 
-### [Fusée Launcher](https://github.com/Qyriad/fusee-launcher)
+### Fusée Launcher
 
-开源多平台软件，是一个 proof-of-concept 的任意代码加载器，适用于各种 Tegra 处理器，
+[Fusée Launcher](https://github.com/Qyriad/fusee-launcher) 是开源多平台软件，
+是 proof-of-concept 的任意代码加载器，适用于各种 Tegra 处理器，
 利用 CVE-2018-6242 (Fusée Gelée) 漏洞，将任意代码通过 USB 向 Switch 加载小型 payload 并执行。
 
 Fusée Launcher 运行在 Switch 之外的设备上，需要将此设备连接上 Switch，然后在该设备上运行 Fusée Launcher。
 
 软件活跃情况：已停止开发，仓库已封存。
 
-### [TegraRcmSmash](https://switchtools.sshnuke.net)
+### TegraRcmSmash
 
-Windows 平台软件，用 C++ 重新实现 Fusée Launcher 的功能。
+[TegraRcmSmash](https://switchtools.sshnuke.net) 是Windows 平台软件，用 C++ 重新实现 Fusée Launcher 的功能。
 
 软件活跃情况：已停止更新。
 
-### [NXLoader](https://github.com/DavidBuchanan314/NXLoader)
+### NXLoader
 
-开源的 Android APP，使用了 Fusée Launcher 以及 ShofEL2 的代码，作用与 Fusée Launcher 相似。
+[NXLoader](https://github.com/DavidBuchanan314/NXLoader) 是开源的 Android APP，
+使用了 Fusée Launcher 以及 ShofEL2 的代码，作用与 Fusée Launcher 相似。
 
 软件活跃情况：已停止更新。
 
@@ -392,9 +403,10 @@ Switch 卡带的格式，类似于 3ds 控制台的 .3ds 文件。[^gwsg]
 
 ### 拆字库
 
-### [SwitchBrew](https://switchbrew.org/wiki/Main_Page)
+### SwitchBrew
 
-是一个讨论和研究 Nintendo Switch 自制程序的 wiki，有开发环境、硬件和 API 等资料。
+[SwitchBrew](https://switchbrew.org/wiki/Main_Page) 是一个讨论和研究 Nintendo Switch 自制程序的 wiki，
+有开发环境、硬件和 API 等资料。
 
 ### 〔待扩充〕
 
