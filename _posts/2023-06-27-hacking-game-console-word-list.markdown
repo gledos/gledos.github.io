@@ -24,8 +24,8 @@ file-name: 2023-06-27-hacking-game-console-word-list.markdown
 
 ### boot loader
 
-引导加载程序，比如 PC 主要使用的引导加载程序通常就是 UEFI（之前常用的是 BIOS）。在封闭的设备里，
-如果换成自定义引导加载程序，就能加载不同或者修补后的固件，Switch 的 Hekate 就是一个自定义引导加载程序。
++   含义：引导加载程序，比如 PC 主要使用的引导加载程序通常就是 UEFI（之前常用的是 BIOS）。在封闭的设备里，
+    如果换成自定义引导加载程序，就能加载不同或者修补后的固件，Switch 的 Hekate 就是一个自定义引导加载程序。
 
 ### Recovery Mode
 
@@ -37,21 +37,28 @@ file-name: 2023-06-27-hacking-game-console-word-list.markdown
 
 ### CFW
 
-[CFW](https://en.wikipedia.org/wiki/Custom_firmware) 是自定义固件 (Custom firmware) 的缩写，
-通常固件也等同于系统的概念，所以第三方 Android ROM 比如 LineageOS 和第三方路由器系统
-OpenWrt 也算是自定义固件。
++   含义：CFW 是自定义固件 (Custom firmware) 的缩写，通常固件也等同于系统的概念，
+    所以第三方 Android ROM 比如 LineageOS 和第三方路由器系统 OpenWrt 也算是自定义固件。
++   Wikipedia: <https://en.wikipedia.org/wiki/Custom_firmware>
 
 ### the homebrew channel, [the homebrew launcher](https://smealum.github.io/3ds/), homebrew loader, hbmenu
 
-这是任天堂游戏机 Wii, 3DS 和 Switch 平台上的自制程序启动器，用来图形化的呈现各个自制软件。
++   含义：这是任天堂游戏机 Wii, 3DS 和 Switch 平台上的自制程序启动器，用来图形化的呈现各个自制软件。
 
 ### Homebrew
 
-[Homebrew](https://en.wikipedia.org/wiki/Homebrew_(video_games)) 的原意是家酿啤酒，
-在自定义固件领域就是自制软件的意思，比如上文提到的非任天堂授权创建的所有程序，
-包括 CFW 和自定义引导加载程序，《香港97》这款第三方 FC 游戏也算是 Homebrew。
++   含义：Homebrew 的原意是家酿啤酒，在自定义固件领域就是自制软件的意思，比如上文提到的非任天堂授权创建的所有程序，
+    包括 CFW 和自定义引导加载程序，《香港97》这款第三方 FC 游戏也算是 Homebrew。
++   Wikipedia: <https://en.wikipedia.org/wiki/Homebrew_(video_games)>
+
+### ifixit
+
++   含义：是一个关于硬件维修的网站，免费提供维修硬件的步骤。
++   官网：<https://www.ifixit.com>
 
 ## 3DS
+
+这里的均是 3DS 相关的词汇，其他平台不一定适用。
 
 ### Smealum
 
@@ -59,13 +66,15 @@ Cubic Ninja 漏洞的发现者。[^3hlbropg]
 
 [^3hlbropg]: Tom Phillips, 《[3DS homebrew loader built, requires obscure puzzle game](https://web.archive.org/web/20230227234517/https://www.eurogamer.net/3ds-homebrew-loader-built-requires-obscure-puzzle-game)》, Eurogamer.net, 2014-11-19. (参照 2023-06-27).
 
-### Cubic Ninja, キュービックニンジャ、方块忍者、立体忍者
+### Cubic Ninja
 
-3DS 早期游戏，内置的 QR 码扫描工具被 Smealum 发现了漏洞，可以用来作为 the homebrew launcher 的启动器。[^3hlbropg]
++   别名：キュービックニンジャ、方块忍者、立体忍者
++   含义：3DS 早期游戏，内置的 QR 码扫描工具被 Smealum 发现了漏洞，
+    可以用来作为 the homebrew launcher 的启动器。[^3hlbropg]
 
 ### Ninjhax
 
-通过 Cubic Ninja 进入 the homebrew launcher 的漏洞利用工具。
++   含义：通过 Cubic Ninja 进入 the homebrew launcher 的漏洞利用工具。
 
 ### Sighax
 
@@ -73,35 +82,35 @@ Cubic Ninja 漏洞的发现者。[^3hlbropg]
 
 ### ARM9
 
-3DS 的处理器之一。这是系统作为辅助使用的单核处理器。用于向后兼容 NDS，
-还负责初始启动、加密/解密和所有签名检查。
++   含义：3DS 的处理器之一。这是系统作为辅助使用的单核处理器。用于向后兼容 NDS，
+    还负责初始启动、加密/解密和所有签名检查。
 
 ### ARM9LoaderHax (A9LH)
 
-利用 ARM9 加载程序中的缺陷来运行非官方代码的漏洞。该漏洞利用修改后的加密密钥，
-以便在加载程序解密 ARM9 二进制文件时对其进行破坏。这是通过特定方式完成的，
-以使执行流跳转到先前注入的有效负载。
++   含义：利用 ARM9 加载程序中的缺陷来运行非官方代码的漏洞。该漏洞利用修改后的加密密钥，
+    以便在加载程序解密 ARM9 二进制文件时对其进行破坏。这是通过特定方式完成的，
+    以使执行流跳转到先前注入的有效负载。
 
 ### ARM11
 
-3DS 的处理器之一。这是系统的主要双核（new 3DS 上为四核）处理器，处理大多数任务。
-其中一个核心仅用于设备的操作系统，其他核心则执行所有其他任务。
++   含义：3DS 的处理器之一。这是系统的主要双核（new 3DS 上为四核）处理器，处理大多数任务。
+    其中一个核心仅用于设备的操作系统，其他核心则执行所有其他任务。
 
 ### BootROM
 
-是固化在 SOC 内部只读闪存上的一段代码，包含系统启动所需的代码，也称为引导加载程序 (bootloader)。
++   含义：是固化在 SOC 内部只读闪存上的一段代码，包含系统启动所需的代码，也称为引导加载程序 (bootloader)。
 
 ### b9
 
-全称是 Boot9，是指 ARM9 的 BootROM。
++   含义：全称是 Boot9，是指 ARM9 的 BootROM。
 
 ### b11
 
-全称是 Boot11，是指 ARM11 的 BootROM。
++   含义：全称是 Boot11，是指 ARM11 的 BootROM。
 
 ### b9s
 
-全称是 Boot9Strap。
++   含义：全称是 Boot9Strap。
 
 ### the homebrew launcher
 
@@ -121,10 +130,9 @@ Cubic Ninja 漏洞的发现者。[^3hlbropg]
 
 ### NAND
 
-3DS 使用 NAND 闪存芯片作为存储系统，所以在 3DS 语境下，NAND 泛指系统存储，
-自制软件教程通常也是以「[创建 NAND 备份][]」来表示创建主机的系统镜像，以备恢复。
-
-[创建 NAND 备份]: https://3ds.hacks.guide/zh_CN/godmode9-usage.html#创建-nand-备份
++   含义：3DS 使用 NAND 闪存芯片作为存储系统，所以在 3DS 语境下，NAND 泛指系统存储，
+    自制软件教程通常也是以「创建 NAND 备份 (Creating a NAND Backup)」来表示创建主机的系统镜像，
+    以备恢复。
 
 ### TWiLight Menu++
 
@@ -136,17 +144,22 @@ https://wiki.ds-homebrew.com/twilightmenu/installing-3ds
 
 ### Tegra X1
 
-这是 NVIDIA 公司推出的芯片系列名。
++   别名：Erista, T210, V1。
+    +   Tegra X1 是正式名称，rista 是代号，T210 是型号，V1 表示这是第一版芯片。
++   含义：这是 NVIDIA 公司推出的芯片名，是 Switch 早期版本所使用的型号，含有 Fusée Gelée 漏洞。
 
-### Erista
+### Tegra X1+
 
-（代号）, T210（型号）
++   别名：Mariko, T214, T210B01, V2。
+    +   Tegra X1+ 是正式名称，Mariko 是代号，T214, T210B01 是型号，V1 表示这是第一版芯片。
++   含义：是 Erista 的后继芯片，修复了 Fusée Gelée 漏洞，提升了效能功耗比，从而实现相同的电池容量，
+    而增加续航和减少发热，伴随 Switch 续航版推出。[^gwsg]
 
 ### CFW (Switch)
 
-Switch 常见的自定义固件有 SXOS, Atmosphere 和 ReiNX，但它们均为修补的固件或固件修补程序，
-这意味着它们除了运行自制程序/游戏之外，也能直接运行 Switch 程序/游戏，不过也能让 Switch
-运行 Android 这个独立于 Switch 原生系统的 CFW。[^shgb][^1loscf]
++   含义：Switch 常见的自定义固件有 SX OS, Atmosphere 和 ReiNX，但它们均为修补的固件或固件修补程序，
+    这意味着它们除了运行自制程序/游戏之外，也能直接运行 Switch 程序/游戏，不过也能让 Switch
+    运行 Android 这个独立于 Switch 原生系统的 CFW。[^shgb][^1loscf]
 
 [^shgb]: 《[Before Starting](https://switch.homebrew.guide/gettingstarted/beforestarting.html)》, Homebrew Guide documentation. (参照 2023-06-27).
 
@@ -154,13 +167,13 @@ Switch 常见的自定义固件有 SXOS, Atmosphere 和 ReiNX，但它们均为�
 
 ### RCM
 
-恢复模式 (ReCovery Mode) 缩写，有时会被称作工程模式，通常是维修设备所预留的高权限模式，
-但 RCM 这个缩写的使用范围并不广泛，因为这是 NVIDIA Tegra 芯片手册里的缩写，
-而 Intel 和 AMD 似乎没有使用这种缩写，所以似乎只有 Switch 和 [Microsoft Surface RT][]，
-这种使用了 NVIDIA Tegra 芯片的设备，才会使用到 RCM 缩写。
++   含义：恢复模式 (ReCovery Mode) 缩写，有时会被称作工程模式，通常是维修设备所预留的高权限模式，
+    但 RCM 这个缩写的使用范围并不广泛，因为这是 NVIDIA Tegra 芯片手册里的缩写，
+    而 Intel 和 AMD 似乎没有使用这种缩写，所以似乎只有 Switch 和 [Microsoft Surface RT][]，
+    这种使用了 NVIDIA Tegra 芯片的设备，才会使用到 RCM 缩写。
 
-早期版本的 NVIDIA Tegra 进入 RCM 的方法，是在启动时按下 Home 和 Volume Up 键，
-但是 Switch 平板本体没有 Home 键（左 Joycon 的 Home 键不算），
++   进入方法：早期版本的 NVIDIA Tegra 进入 RCM 的方法，是在启动时按下 Home 和 Volume Up 键，
+    但是 Switch 平板本体没有 Home 键（左 Joycon 的 Home 键不算）。
 
 [Microsoft Surface RT]: https://openrt.gitbook.io/open-surfacert/
 
@@ -168,13 +181,14 @@ Switch 常见的自定义固件有 SXOS, Atmosphere 和 ReiNX，但它们均为�
 
 〔待扩充〕
 
-### Horizon OS, HOS, 地平线系统
+### Horizon OS
 
-〔待扩充〕
++   别名：HOS, 地平线系统, [OFW](#OFW), FW
 
-### SXOS
++   别名含义：HOS 是简称，「地平线系统」是中文翻译，后者可以查看 [OFW](#OFW) 词语的解释。
 
-〔待扩充〕
++   含义：Horizon OS 基于 FreeBSD 开发的系统，比起前身 3DS 的系统来说，隐藏了浏览器，并且有完善的虚拟化，
+    这使之前 3DS 的软件漏洞问题几乎无法在 Switch 上复现。
 
 ### Atmosphere
 
@@ -186,70 +200,80 @@ Switch 常见的自定义固件有 SXOS, Atmosphere 和 ReiNX，但它们均为�
 
 ### RP2040
 
-[RP2040](https://www.raspberrypi.com/products/rp2040/) 是树莓派 (Raspberry Pi) 的一款芯片，
-也是 Raspberry Pi Pico 系列所使用的芯片。
++   含义：RP2040 是树莓派 (Raspberry Pi) 的一款芯片，也是 Raspberry Pi Pico 系列所使用的芯片。
++   官网：<https://www.raspberrypi.com/products/rp2040/>
 
 ### RP2040-Zero
 
-[RP2040-Zero](https://www.waveshare.com/wiki/RP2040-Zero) 是 Waveshare 公司贩售的 Pico-Like 板，
-功能类似于 Raspberry Pi Pico，不过更小型化，核心是树莓派公司的 RP2040 芯片。
++   含义：RP2040-Zero 是 Waveshare 公司贩售的 Pico-Like 板，功能类似于 Raspberry Pi Pico，
+    不过更小型化，核心是树莓派公司的 RP2040 芯片。
++   官网：<https://www.waveshare.com/wiki/RP2040-Zero>
 
 ### Picofly
 
-[Picofly](https://github.com/Ansem-SoD/Picofly) 是 RP2040-Zero 破解 Switch 所需的固件，
-有时也可以指代这项破解 Switch 的方案，或者 RP2040-Zero 以及类似的开发板。
++   含义：Picofly 是 RP2040-Zero 破解 Switch 所需的固件，有时也可以指代这项破解 Switch 的方案。
 
-Picofly 不仅仅能用在 Waveshare 公司的 RP2040-Zero 上，还有 RP2040-One, RP2040-Tiny，
-以及其他公司的 Seeed XIAO-RP2040, Adafruit ItsyBitsy RP2040。[^dpig]
++   作用范围：Picofly 不仅仅能用在 Waveshare 公司的 RP2040-Zero 上，还有 RP2040-One, RP2040-Tiny，
+    以及其他公司的 Seeed XIAO-RP2040, Adafruit ItsyBitsy RP2040。[^dpig]
+
++   其他类似概念：能够运行 Picofly 的硬件，可能被称作 Picofly 板。
+
++   官网：<https://github.com/Ansem-SoD/Picofly>
 
 [^dpig]: lightninjay, [A definitive PicoFly install guide V.6.2](https://gbatemp.net/download/a-definitive-picofly-install-guide.37968/), GBAtemp.net, Apr 13, 2023.
 
 ### 树莓派
 
-指使用 RP2040 芯片的开发板破解 Switch 的方案版本，与其他的攻击/破解芯片方案进行区别。
++   含义：指使用 RP2040 芯片的开发板破解 Switch 的方案版本，与其他的破解芯片方案进行区别。
 
 ### McFly
 
-McFly 是兼容 Picofly 的 RP2040 开发板板，于 2023年3月22日 公开，预计分发协议是 CC BY-SA，
-不过截至 2023年6月30日 还没有正式发布。
++   含义：McFly 是兼容 Picofly 的 RP2040 开发板板，于 2023年3月22日 公开，预计分发协议是 CC BY-SA，
+    不过截至 2023年6月30日 还没有正式发布。[^mcfly]
 
 [^mcfly]: [McFly - an RP2040 board compatible with Picofly](https://gbatemp.net/threads/mcfly-an-rp2040-board-compatible-with-picofly.629024/), GBAtemp.net.
 
-### Team Xecuter, TX
+### Team Xecuter
 
-是一个破解游戏机的黑客小组，主要贩售 Switch 相关的破解商品。
++   别名：TX
+
++   含义：Team Xecuter 是一个破解游戏机的黑客小组，主要贩售 Switch 相关的破解商品。
 
 ### SX Core/Lite
 
-SX Core 和 SX Lite 都是 Team Xecuter 的芯片商品，焊接在 Switch 主板上进行破解。
++   含义：SX Core 和 SX Lite 都是 [Team Xecuter][] 的芯片商品，焊接在 Switch 主板上进行破解。
 
 ### SX Pro
 
-Team Xecuter 开发的注入器，是用来运行 SX OS 的工具。[^txsx]
++   含义：[Team Xecuter][] 开发的注入器，是用来运行 SX OS 的工具。[^txsx]
+
+[Team Xecuter]: #team-xecuter
 
 [^txsx]: [Team Xecuter SX.](https://web.archive.org/web/20180531150029/https://sx.xecuter.com/)
 
-原理是 Fusée Gelée 漏洞。
++   破解原理：Fusée Gelée 漏洞。
 
 ### SX OS
 
-别名：TX 系统。
++   别名：TX 系统。
 
-含义：Team Xecuter 开发的 CFW。[^txsx]
++   含义：[Team Xecuter][] 开发的 CFW。[^txsx]
 
 ### SXTools
 
-[SXTools](https://github.com/annson24/SXTools) 是第三方开发者基于 NXLoader，所开发的替代 SX Pro 的软件，
-只要有支持 OTG 功能的 Android 设备。
++   含义：SXTools 是第三方开发者基于 NXLoader，所开发的替代 SX Pro 的软件，
+    只要有支持 OTG 功能的 Android 设备。
+
++   官网：<https://github.com/annson24/SXTools>
 
 ### 国产芯片
 
-别名：高仿芯片、国产山寨芯片、国产 TX 芯片和 hwfly 芯片。
++   别名：高仿芯片、国产山寨芯片、国产 TX 芯片和 hwfly 芯片。
+    +   前四个别名的意思都是山寨 Team Xecuter 的 SX Core/Lite 芯片，原因是 Team Xecuter 在 2020 年时，
+        成员被捕，接着 Team Xecuter 停止了活动，于是有人仿照 SX Core/Lite 的硬件，推出了仿制芯片。
+    +   而 hwfly 似乎是品牌名称。
 
-别名含义：前四个别名的意思都是山寨 Team Xecuter 的芯片，原因是 Team Xecuter 在 2020 年时，成员被捕，
-接着 Team Xecuter 停止了活动，于是有人仿照 SX Core/Lite 的硬件，推出了仿制芯片，而 hwfly 似乎是品牌名称。
-
-芯片版本差异（待翻译）：[^97580]
+芯片版本差异（未翻译）：[^97580]
 
 [^97580]: [For Hwfly Lite V3/V4.1 Chip Accessories,Flex Cables,V4.1 Flash Usb(No Include The Chip Itself),Wholesale Price !!](https://archive.is/W53CW "https://www.aliexpress.com/item/3256804269997580.html"), aliexpress.
 
@@ -284,10 +308,23 @@ Team Xecuter 开发的注入器，是用来运行 SX OS 的工具。[^txsx]
 
 不同的芯片会有一些标记来区分型号：
 
-+   `MV1-6.0`：三代芯片，不能更新固件，有关机关不掉bug。
-+   `MV1-7.1`, `MV1-7`：四、五、六代芯片，可以更新固件。
-+   `Hwfly RP2040`：七代芯片，就是树莓派芯片，批发30一片。
-+   `INSTINCT-V6`：为OLED优化。6 个焊点的排线换成长条的，不用翻折，更合理。
++   `HWFLY`：国产第一代芯片，可运行 Spacecraft-NX 固件引导大气层系统，不稳定。[^xmsjh]
++   `MV1-6`：国产第二带芯片，虚拟系统可以离线升级，但真实系统联网升级后该芯片会不起作用，需要重置芯片。[^xmsjh]
++   `MV1-6`, `MV1-6.0`：国产三代芯片，不能更新固件，有关机关不掉 bug。[^78703]
++   `MV1-7`, `MV1-7.1`：国产四代芯片，可以更新固件。[^78703]
++   `MV1-7 OL`, `MV1-7.1 OL`：国产四代芯片，OLED 专用。[^78703]
++   `MV1-8 OL`：国产第五代芯片，OLED 专用。[^78703]
++   `Hwfly Core RP2040`：七代芯片，即树莓派芯片。[^78703]
++   `Hwfly Oled RP2040`
++   `Oled V6`：INSTINCT-NX 芯片，为 OLED 优化。6 个焊点的排线换成长条的，不用翻折，更合理。[^78703][^28676]
++   `new2040plus`
++   `Mv-OL v2.1`
+
+[^xmsjh]: Charlie Liu, 《[任天堂 Switch 的破解史](https://xmper.cc/2023/02/21/Switch-jailbreaking-history/ "https://web.archive.org/web/20230701122305/https://xmper.cc/2023/02/21/Switch-jailbreaking-history/")》, 寻梦派, 2023-02-21.
+
+[^78703]: 不晓自在, 《[switch芯片软硬件教程](https://zhuanlan.zhihu.com/p/639078703 "https://archive.is/teyeC")》, 知乎专栏, 2023-06-23.
+
+[^28676]: HWE, [Hacking INSTINCT-NX Chip](https://gbatemp.net/threads/instinct-nx-chip.628676/)
 
 ### 一次性破解、系留越狱
 
@@ -311,10 +348,6 @@ Team Xecuter 开发的注入器，是用来运行 SX OS 的工具。[^txsx]
 
 和 Hard mod 接近，但仅包括焊接攻击/破解芯片，单纯的引脚操作没有被算作硬破。
 
-<!-- ### Mariko (T214)
-
-漏洞名称，Nvidia Tegra X1 的第一版中的错误和漏洞代号。[^gwsg] -->
-
 ### CVE-2018-6242
 
 漏洞名称，也包括 Fusée Gelée, fusee-gelee, ShofEL2 这些不同的说法。
@@ -323,39 +356,48 @@ Team Xecuter 开发的注入器，是用来运行 SX OS 的工具。[^txsx]
 
 ### Fusée Launcher
 
-[Fusée Launcher](https://github.com/Qyriad/fusee-launcher) 是开源多平台软件，
-是 proof-of-concept 的任意代码加载器，适用于各种 Tegra 处理器，
-利用 CVE-2018-6242 (Fusée Gelée) 漏洞，将任意代码通过 USB 向 Switch 加载小型 payload 并执行。
++   Fusée Launcher 是开源多平台软件，是 proof-of-concept 的任意代码加载器，适用于各种 Tegra 处理器，
+    利用 CVE-2018-6242 (Fusée Gelée) 漏洞，将任意代码通过 USB 向 Switch 加载小型 payload 并执行。
 
-Fusée Launcher 运行在 Switch 之外的设备上，需要将此设备连接上 Switch，然后在该设备上运行 Fusée Launcher。
+    Fusée Launcher 运行在 Switch 之外的设备上，需要将此设备连接上 Switch，然后在该设备上运行 Fusée Launcher。
 
-软件活跃情况：已停止开发，仓库已封存。
++   软件活跃情况：已停止开发，仓库已封存。
+
++   官网：<https://github.com/Qyriad/fusee-launcher>
 
 ### TegraRcmSmash
 
-[TegraRcmSmash](https://switchtools.sshnuke.net) 是Windows 平台软件，用 C++ 重新实现 Fusée Launcher 的功能。
++   含义：TegraRcmSmash 是 Windows 平台软件，用 C++ 重新实现 Fusée Launcher 的功能。
 
-软件活跃情况：已停止更新。
++   软件活跃情况：已停止更新。
+
++   官网：<https://switchtools.sshnuke.net>
 
 ### NXLoader
 
-[NXLoader](https://github.com/DavidBuchanan314/NXLoader) 是开源的 Android APP，
-使用了 Fusée Launcher 以及 ShofEL2 的代码，作用与 Fusée Launcher 相似。
++   含义：NXLoader 是开源的 Android APP，使用了 Fusée Launcher 以及 ShofEL2 的代码，
+    作用与 Fusée Launcher 相似。
 
-软件活跃情况：已停止更新。
++   软件活跃情况：已停止更新。
++   官网：<https://github.com/DavidBuchanan314/NXLoader>
 
-### burning fuses、熔断
+### burning fuses
 
-〔待扩充〕
++   翻译：熔断
++   含义：Switch 的 Nvidia Tegra X1 SOC 里配有保险丝驱动器，相当于一个硬件计数器，难以修改，
+    更新系统版本会熔断保险丝直到一个具体的数量，如果尝试降级到旧版系统，自检时发现熔断数量多余预定数量，
+    就会无法启动。[^7a8ba]
+
+[^7a8ba]: jonluca, [How the Nintendo Switch prevents downgrades by irreparably blowing its own fuses](https://hackernoon.com/how-the-nintendo-switch-prevents-downgrades-by-irreparably-blowing-its-own-fuses-884bd3b7a8ba), April 25th 2018.
 
 ### payload
 
-加载到 Switch 内存中然后运行的程序，通常以二进制文件的形式注入到已经运行的进程中，
-通常是利用 Fusée Gelée 漏洞时，用于修补 Switch OFW，使其运行 CFW。[^gwsg]
++   含义：加载到 Switch 内存中然后运行的程序，通常以二进制文件的形式注入到已经运行的进程中，
+    通常是利用 Fusée Gelée 漏洞时，用于修补 Switch OFW，使其运行 CFW。[^gwsg]
+
+    payload 与通常的 .elf、.nro、.cxi 或其他独立可执行程序不同，并不是可独立运行的程序。
 
 [NXLoader](https://github.com/DavidBuchanan314/NXLoader) 主页中，fusee.bin 被称作 payload。
-
-payload 与通常的 .elf、.nro、.cxi 或其他独立可执行程序不同，并不是可独立运行的程序。
 
 ### deja-vu
 
@@ -365,23 +407,28 @@ payload 与通常的 .elf、.nro、.cxi 或其他独立可执行程序不同，�
 
 〔待扩充〕
 
-### Cold boot、冷启动
+### Cold boot
 
-在内存是掉电，空白的情况下启动设备。
++   翻译：冷启动
 
-### Warm boot、热启动
++   含义：在内存是掉电，空白的情况下启动设备。
 
-在内存是运行中，存在数据的情况下启动设备。
+### Warm boot
 
-### Signed code/Unsigned code, 签名代码/未签名代码
++   翻译：热启动
 
-Switch 在一些时候，只能运行被任天堂签名了的代码，而未签名的代码会被拒绝执行，
-所以如果要运行 Homebrew，就需要使用漏洞绕过相关的验证，就能执行未签名代码了。[^gwsg]
++   含义：在内存是运行中，存在数据的情况下启动设备。
+
+### Signed code/Unsigned code
+
++   翻译：签名代码/未签名代码
++   含义：Switch 在一些时候，只能运行被任天堂签名了的代码，而未签名的代码会被拒绝执行，
+    所以如果要运行 Homebrew，就需要使用漏洞绕过相关的验证，就能执行未签名代码了。[^gwsg]
 
 ### eMMC, NAND
 
-也许是 3DS 以及之前的任天堂游戏破解都是使用 NAND 作为存储芯片，然后开发者习惯了这种说法，
-所以 Switch 虽然使用的是 eMMC，还是会有人将其称为 NAND，二者在 Switch 的语境下可以当作同义词。[^gwsg]
++   含义：也许是 3DS 以及之前的任天堂游戏破解都是使用 NAND 作为存储芯片，然后开发者习惯了这种说法，
+    所以 Switch 虽然使用的是 eMMC，还是会有人将其称为 NAND，二者在 Switch 的语境下可以当作同义词。[^gwsg]
 
 ### emuMMC, emuNAND
 
@@ -389,36 +436,51 @@ Switch 在一些时候，只能运行被任天堂签名了的代码，而未签�
 
 ### NRO, nro
 
-Horizon OS 使用的可执行文件格式，部分 Homebrew 会使用此格式，能够被 Horizon 和 Homebrew 启动器启动。[^gwsg]
++   含义：Horizon OS 使用的可执行文件格式，部分 Homebrew 会使用此格式，
+    能够被 Horizon 和 Homebrew 启动器启动。[^gwsg]
 
 ### NSP, nsp
 
-Switch eshop 的游戏包格式，类似于 3DS 的 cia 以及 Wii 的 .wad 格式。[^gwsg]
++   含义：Switch eshop 的游戏包格式，类似于 3DS 的 cia 以及 Wii 的 .wad 格式。[^gwsg]
 
 ### XCI, xci
 
-Switch 卡带的格式，类似于 3ds 控制台的 .3ds 文件。[^gwsg]
++   含义：Switch 卡带的格式，类似于 3ds 控制台的 .3ds 文件。[^gwsg]
 
 <!-- 编译后的 .elf 文件必须转换为 .nro 才能在交换机上运行。 -->
 
 ### 拆字库
 
++   含义：「字库」是维修手机的人对闪存芯片的俗称，因为早期手机的闪存里，主要的内容就是字库。
+
+    所以拆字库就是拆闪存的意思，使用风枪的高温将闪存颗粒从 PCB（印刷电路板）拆下。
+
+### 硅脂
+
++   含义：Switch 的硅脂（导热膏）尚不明确型号，[ifixit][] 给出的推荐替代品是 K5 Pro 粘性导热膏。[^nsomh]
+
+[ifixit]: #ifixit
+
+[^nsomh]: [Nintendo Switch OLED Model Heat Sink Replacement](https://www.ifixit.com/Guide/Nintendo+Switch+OLED+Model+Heat+Sink+Replacement/150095), ifixit.
+
 ### SwitchBrew
 
-[SwitchBrew](https://switchbrew.org/wiki/Main_Page) 是一个讨论和研究 Nintendo Switch 自制程序的 wiki，
-有开发环境、硬件和 API 等资料。
++   含义：SwitchBrew 是一个讨论和研究 Nintendo Switch 自制程序的 wiki，有开发环境、硬件和 API 等资料。
+
++   官网：<https://switchbrew.org/wiki/Main_Page>
 
 ### 〔待扩充〕
 
-软破、硬破、大气层、tesla、nx-ovlloader、eFuse
++   含义：软破、硬破、大气层、tesla、nx-ovlloader、eFuse
 
 ### Switch 相关指南网站
 
 +   [NH Switch Guide](https://nh-server.github.io/switch-guide/)
++   [Homebrew Guide documentation](https://switch.homebrew.guide/)
 
 ## 备注
 
-部分页面提及「Horizo​​n」时，在字母 o 与 n 之间存在两个零宽空格，尚不明确其原因。
++   部分页面提及「Horizon」时，在字母 o 与 n 之间存在两个零宽空格，就像这样「Horizo​​n」，尚不明确其原因。
 
 ## 参考资料
 
