@@ -22,14 +22,20 @@ file-name: 2023-06-27-hacking-game-console-word-list.markdown
 
 ## 通用
 
+### BootROM
+
++   含义：是固化在 SOC 内部只读闪存上的一段代码，包含系统启动所需的代码，也称为引导加载程序 (bootloader)。
+
+[bootROM]: #bootrom
+
 ### boot loader
 
 +   含义：引导加载程序，比如 PC 主要使用的引导加载程序通常就是 UEFI（之前常用的是 BIOS）。在封闭的设备里，
-    如果换成自定义引导加载程序，就能加载不同或者修补后的固件，Switch 的 Hekate 就是一个自定义引导加载程序。
+    如果换成自定义引导加载程序，就能加载不同或者修补后的固件，Switch 的 [Hekate][] 就是一个自定义引导加载程序。
 
 ### Recovery Mode
 
-恢复模式，通常是为了维修设备，所预留的高权限模式，有了权限就能做到许多自定义。
++   含义：恢复模式，通常是为了维修设备，所预留的高权限模式，有了权限就能做到许多自定义。
 
 ### OFW
 
@@ -41,9 +47,9 @@ file-name: 2023-06-27-hacking-game-console-word-list.markdown
     所以第三方 Android ROM 比如 LineageOS 和第三方路由器系统 OpenWrt 也算是自定义固件。
 +   Wikipedia: <https://en.wikipedia.org/wiki/Custom_firmware>
 
-### the homebrew channel, [the homebrew launcher](https://smealum.github.io/3ds/), homebrew loader, hbmenu
+<!-- ### the homebrew channel, [the homebrew launcher](https://smealum.github.io/3ds/), homebrew loader, hbmenu
 
-+   含义：这是任天堂游戏机 Wii, 3DS 和 Switch 平台上的自制程序启动器，用来图形化的呈现各个自制软件。
++   含义：这是任天堂游戏机 Wii, 3DS 和 Switch 平台上的自制程序启动器，用来图形化的呈现各个自制软件。 -->
 
 ### Homebrew
 
@@ -55,6 +61,8 @@ file-name: 2023-06-27-hacking-game-console-word-list.markdown
 
 +   含义：是一个关于硬件维修的网站，免费提供维修硬件的步骤。
 +   官网：<https://www.ifixit.com>
+
+[ifixit]: #ifixit
 
 ## 3DS
 
@@ -96,10 +104,6 @@ Cubic Ninja 漏洞的发现者。[^3hlbropg]
 +   含义：3DS 的处理器之一。这是系统的主要双核（new 3DS 上为四核）处理器，处理大多数任务。
     其中一个核心仅用于设备的操作系统，其他核心则执行所有其他任务。
 
-### BootROM
-
-+   含义：是固化在 SOC 内部只读闪存上的一段代码，包含系统启动所需的代码，也称为引导加载程序 (bootloader)。
-
 ### b9
 
 +   含义：全称是 Boot9，是指 ARM9 的 BootROM。
@@ -128,7 +132,7 @@ Cubic Ninja 漏洞的发现者。[^3hlbropg]
 
 〔待扩充〕
 
-### NAND
+### NAND (3DS)
 
 +   含义：3DS 使用 NAND 闪存芯片作为存储系统，所以在 3DS 语境下，NAND 泛指系统存储，
     自制软件教程通常也是以「创建 NAND 备份 (Creating a NAND Backup)」来表示创建主机的系统镜像，
@@ -148,12 +152,40 @@ https://wiki.ds-homebrew.com/twilightmenu/installing-3ds
     +   Tegra X1 是正式名称，rista 是代号，T210 是型号，V1 表示这是第一版芯片。
 +   含义：这是 NVIDIA 公司推出的芯片名，是 Switch 早期版本所使用的型号，含有 Fusée Gelée 漏洞。
 
+[Tegra X1]: #tegra-x1
+
 ### Tegra X1+
 
 +   别名：Mariko, T214, T210B01, V2。
     +   Tegra X1+ 是正式名称，Mariko 是代号，T214, T210B01 是型号，V1 表示这是第一版芯片。
 +   含义：是 Erista 的后继芯片，修复了 Fusée Gelée 漏洞，提升了效能功耗比，从而实现相同的电池容量，
     而增加续航和减少发热，伴随 Switch 续航版推出。[^gwsg]
+
+### HEG-001
+
++   含义：是 Switch 机身被面上标注的型号，全称是 MOD.HEG-001，表示 Nintendo Switch（OLED 款式）。
++   芯片：Tegra X1+。
++   外形：标准的 Switch 外观。
++   屏幕：7.0 英寸，屏幕是全贴合的 OLED，并且尺寸较大，所以屏幕边缘的黑边被明显改善。
++   备注：OLED 在日本叫做「有機EL」，即「有机EL」，指的是有机电致发光 (Organic Electroluminescent)，
+    跟 OLED 全称有机发光二极管 (Organic Light-Emitting Diode) 指代的是相同的产品，前者指代的是技术，
+    后者指代具体的元器件名称。
+
+### HAC-001
+
++   含义：是 Switch 机身被面上标注的型号，全称是 MOD.HAC-001，表示 Nintendo Switch 初版和续航增强版，
+    续航增强版型号的全称是 MOD.HAC-001(-01)，增加了后半部分。
++   芯片：初版是 Tegra X1，而续航增强版是 Tegra X1+。
++   外形：标准的 Switch 外观。
++   屏幕：6.2 英寸，屏幕不是全贴合的，尺寸较小，所以屏幕边缘有大黑边。
+
+### HDH-001
+
++   含义：是 Switch 机身被面上标注的型号，全称是 MOD.HDH-001，表示 Nintendo Switch Lite。
++   芯片：Tegra X1+。
++   外形：缩小的的 Switch 外观，一体成形的外侧，所以没有可拆卸的 Joy-Con 手柄。
++   屏幕：5.5 英寸，屏幕不是全贴合的，尺寸较小，所以屏幕边缘有大黑边，但是被染色的成了主机的颜色，
+    类似于 2DS 的解决方案。
 
 ### CFW (Switch)
 
@@ -165,6 +197,8 @@ https://wiki.ds-homebrew.com/twilightmenu/installing-3ds
 
 [^1loscf]: 《[List of Switch custom firmwares](https://wiki.gbatemp.net/wiki/List_of_Switch_custom_firmwares)》, WikiTemp, the GBAtemp wiki, 2019-07-28. (参照 2023-06-27).
 
+[CFW (Switch)]: #cfw-switch
+
 ### RCM
 
 +   含义：恢复模式 (ReCovery Mode) 缩写，有时会被称作工程模式，通常是维修设备所预留的高权限模式，
@@ -173,13 +207,23 @@ https://wiki.ds-homebrew.com/twilightmenu/installing-3ds
     这种使用了 NVIDIA Tegra 芯片的设备，才会使用到 RCM 缩写。
 
 +   进入方法：早期版本的 NVIDIA Tegra 进入 RCM 的方法，是在启动时按下 Home 和 Volume Up 键，
-    但是 Switch 平板本体没有 Home 键（左 Joycon 的 Home 键不算）。
+    但是 Switch 平板本体没有 Home 键（左 Joy-Con 的 Home 键不算）。
 
 [Microsoft Surface RT]: https://openrt.gitbook.io/open-surfacert/
 
+[RCM]: #rcm
+
 ### Hekate
 
-〔待扩充〕
++   含义：Custom Switch bootloader，Switch 自定义引导程序，有完整的图形化界面支持（图形化程序名为 Nyx GUI），可以引导进入各种 OFW, [CFW (Switch)][] 甚至是 Android 和 Linux。
+
++   作者：CTCaer
+
++   软件活跃情况：已停止更新，并且作者不推荐继续使用。
+
++   网站：[GitHub 仓库](https://github.com/CTCaer/hekate)
+
+[Hekate]: #hekate
 
 ### Horizon OS
 
@@ -190,13 +234,46 @@ https://wiki.ds-homebrew.com/twilightmenu/installing-3ds
 +   含义：Horizon OS 基于 FreeBSD 开发的系统，比起前身 3DS 的系统来说，隐藏了浏览器，并且有完善的虚拟化，
     这使之前 3DS 的软件漏洞问题几乎无法在 Switch 上复现。
 
+[Horizon OS]: #horizon-os
+
 ### Atmosphere
 
-〔待扩充〕
++   翻译：大气层
+
++   别名：Atmosphère
+
++   含义：开源的 [CFW (Switch)][]，属于对 [Horizon OS][] 的修补，替换或修改了一部分系统组件。
+
++   作者：SciresM, TuxSH, hexkyz 和 fincs。
+
++   软件活跃情况：积极开发和维护中。
+
++   网站：[GitHub 仓库](https://github.com/Atmosphere-NX/Atmosphere).
+
+[Atmosphere]: #atmosphere
+
+### RajNX
+
++   含义：一套 [CFW (Switch)][] 整合包，包含 [Hekate][], Atmosphere, hbloader, hbmenu 等软件。
+
++   作者：rajkosto
+
++   软件活跃情况：已停止更新，并且作者不推荐继续使用。
+
++   网站：
+    +   已编译程序：<https://switchtools.sshnuke.net>
+    +   GBAtemp：<https://gbatemp.net/threads/no-longer-maintained-rajnx-starter-pack-for-nintendo-switch.513785/>
+    +   维基：<https://www.gamebrew.org/wiki/RajNX_Switch>
 
 ### ReiNX
 
 〔待扩充〕
+
+### modchip
+
++   别名：破解芯片
+
++   含义：执行 Hard Mod 的芯片。
 
 ### RP2040
 
@@ -239,25 +316,15 @@ https://wiki.ds-homebrew.com/twilightmenu/installing-3ds
 
 +   含义：Team Xecuter 是一个破解游戏机的黑客小组，主要贩售 Switch 相关的破解商品。
 
-### SX Core/Lite
-
-+   含义：SX Core 和 SX Lite 都是 [Team Xecuter][] 的芯片商品，焊接在 Switch 主板上进行破解。
+[Team Xecuter]: #team-xecuter
 
 ### SX Pro
 
 +   含义：[Team Xecuter][] 开发的注入器，是用来运行 SX OS 的工具。[^txsx]
 
-[Team Xecuter]: #team-xecuter
-
 [^txsx]: [Team Xecuter SX.](https://web.archive.org/web/20180531150029/https://sx.xecuter.com/)
 
 +   破解原理：Fusée Gelée 漏洞。
-
-### SX OS
-
-+   别名：TX 系统。
-
-+   含义：[Team Xecuter][] 开发的 CFW。[^txsx]
 
 ### SXTools
 
@@ -265,6 +332,24 @@ https://wiki.ds-homebrew.com/twilightmenu/installing-3ds
     只要有支持 OTG 功能的 Android 设备。
 
 +   官网：<https://github.com/annson24/SXTools>
+
+### SX Core/Lite
+
++   别名：TX 破解芯片、SX 破解芯片
++   含义：SX Core 和 SX Lite 都是 [Team Xecuter][] 的芯片商品，焊接在 Switch 主板上进行破解。
+
+### SX OS
+
++   别名：TX 系统。
+
++   含义：[Team Xecuter][] 开发的 [CFW (Switch)][]，是非开放的，具有特殊的 DRM。[^txsx]
+
+### Spacecraft-NX
+
++   含义：第三方开发者为 SX Core/Lite 开发的完全开源兼容固件，可以游玩受太空入侵者启发的迷你游戏，
+    也可以加载任何 [payload][]，除了 SX OS，因为无法破解 TX 的 DRM 功能；
+
+    官网：<https://github.com/Spacecraft-NX/firmware>
 
 ### 国产芯片
 
@@ -317,6 +402,7 @@ https://wiki.ds-homebrew.com/twilightmenu/installing-3ds
 +   `Hwfly Core RP2040`：七代芯片，即树莓派芯片。[^78703]
 +   `Hwfly Oled RP2040`
 +   `Oled V6`：INSTINCT-NX 芯片，为 OLED 优化。6 个焊点的排线换成长条的，不用翻折，更合理。[^78703][^28676]
++   `PG 树莓派 第三版`
 +   `new2040plus`
 +   `Mv-OL v2.1`
 
@@ -332,7 +418,7 @@ https://wiki.ds-homebrew.com/twilightmenu/installing-3ds
 
 ### Hard mod
 
-指对硬件进行操作，比如将 Switch 右 Joycon 的金属引脚接地，又或者是焊接攻击/破解芯片等操作，都算是 Hard mod。[^gwsg]
+指对硬件进行操作，比如将 Switch 右 Joy-Con 的金属引脚接地，又或者是焊接攻击/破解芯片等操作，都算是 Hard mod。[^gwsg]
 
 理论上只要有硬件上的修改，没有依靠软件，就属于 Hard mod，现在 Switch 的破解方法均是 Hard mod。[^605846]
 
@@ -350,14 +436,17 @@ https://wiki.ds-homebrew.com/twilightmenu/installing-3ds
 
 ### CVE-2018-6242
 
-漏洞名称，也包括 Fusée Gelée, fusee-gelee, ShofEL2 这些不同的说法。
++   别名：Fusée Gelée, fusee-gelee, ShofEL2
+    +   均是指同一个漏洞名称
++   含义：这是 [Tegra X1][] 芯片含有的漏洞，设备进入 [RCM][] 后可以绕过保护芯片的 [bootROM][] 锁定
+    （可能类似于 Android 设备常说的「解 Bootloader 锁」），使攻击者执行任意代码，比如启动 [CFW (Switch)][]。[^kotue]
 
-〔待扩充〕
+[^kotue]: Kyle Orland, [The “unpatchable” exploit that makes every current Nintendo Switch hackable](https://arstechnica.com/gaming/2018/04/the-unpatchable-exploit-that-makes-every-current-nintendo-switch-hackable/)
 
 ### Fusée Launcher
 
 +   Fusée Launcher 是开源多平台软件，是 proof-of-concept 的任意代码加载器，适用于各种 Tegra 处理器，
-    利用 CVE-2018-6242 (Fusée Gelée) 漏洞，将任意代码通过 USB 向 Switch 加载小型 payload 并执行。
+    利用 CVE-2018-6242 (Fusée Gelée) 漏洞，将任意代码通过 USB 向 Switch 加载小型 [payload][] 并执行。
 
     Fusée Launcher 运行在 Switch 之外的设备上，需要将此设备连接上 Switch，然后在该设备上运行 Fusée Launcher。
 
@@ -369,9 +458,25 @@ https://wiki.ds-homebrew.com/twilightmenu/installing-3ds
 
 +   含义：TegraRcmSmash 是 Windows 平台软件，用 C++ 重新实现 Fusée Launcher 的功能。
 
++   作者：rajkosto
+
 +   软件活跃情况：已停止更新。
 
-+   官网：<https://switchtools.sshnuke.net>
++   网站：
+    +   已编译程序：<https://switchtools.sshnuke.net>
+    +   源代码：<https://github.com/rajkosto/TegraRcmSmash>
+
+### ChoiDujourNX
+
++   含义：一款在 Switch 上直接更新固件的自制软件，不会出现官方软件更新固件伴随的烧保险的情况 ([burning fuses][])。
+
++   作者：rajkosto
+
++   软件活跃情况：已停止更新。
+
++   网站
+    +   官网：<https://switchtools.sshnuke.net>
+    +   指南：<https://www.cfwaifu.com/choidujournx/>
 
 ### NXLoader
 
@@ -390,14 +495,50 @@ https://wiki.ds-homebrew.com/twilightmenu/installing-3ds
 
 [^7a8ba]: jonluca, [How the Nintendo Switch prevents downgrades by irreparably blowing its own fuses](https://hackernoon.com/how-the-nintendo-switch-prevents-downgrades-by-irreparably-blowing-its-own-fuses-884bd3b7a8ba), April 25th 2018.
 
+[burning fuses]: #burning-fuses
+
 ### payload
 
 +   含义：加载到 Switch 内存中然后运行的程序，通常以二进制文件的形式注入到已经运行的进程中，
-    通常是利用 Fusée Gelée 漏洞时，用于修补 Switch OFW，使其运行 CFW。[^gwsg]
+    通常是利用 Fusée Gelée 漏洞时，用于修补 Switch OFW，使其运行 [CFW (Switch)][]。[^gwsg]
 
     payload 与通常的 .elf、.nro、.cxi 或其他独立可执行程序不同，并不是可独立运行的程序。
 
-[NXLoader](https://github.com/DavidBuchanan314/NXLoader) 主页中，fusee.bin 被称作 payload。
+    [NXLoader](https://github.com/DavidBuchanan314/NXLoader) 主页中，fusee.bin 被称作 payload。
+
+[payload]: #payload
+
+### Tesla
+
++   含义：一套为 Switch 开发的覆盖菜单
+
++   作者：WerWolv
+
++   外部链接：[GitHub 仓库](https://github.com/WerWolv/nx-ovlloader), [GBAtemp](https://gbatemp.net/threads/tesla-the-nintendo-switch-overlay-menu.557362/).
+
+### Mission Control
+
++   含义：一款在 Switch 上的自制软件，让 Switch 支持蓝牙手柄，不过目前尚未支持 BLE (Bluetooth Low Energy, 低功耗蓝牙)，比如 Xbox 固件版本较高时使用的是 BLE，所以需要降级才能正常使用。
+
++   作者：ndeadly
+
++   软件活跃情况：仍在维护。
+
++   网站：[GitHub 仓库](https://github.com/ndeadly/MissionControl)
+
+### NX Activity Log
+
++   含义：一款在 Switch 上的自制软件，让 Switch 用户能轻松查看游戏时长。
+
++   自制软件类型：nro
+
++   作者：tallbl0nde
+
++   软件活跃情况：不再维护。
+
++   网站：[GitHub 仓库](https://github.com/tallbl0nde/NX-Activity-Log)
+
++   分支情况：zdm65477730 修改了 API 等程序代码，尝试让其运行在 HOS 16.0.0 版本，仍有一些 Bug，不过可以使用了：[GitHub 仓库](https://github.com/zdm65477730/NX-Activity-Log/releases)。
 
 ### deja-vu
 
@@ -457,9 +598,8 @@ https://wiki.ds-homebrew.com/twilightmenu/installing-3ds
 
 ### 硅脂
 
-+   含义：Switch 的硅脂（导热膏）尚不明确型号，[ifixit][] 给出的推荐替代品是 K5 Pro 粘性导热膏。[^nsomh]
-
-[ifixit]: #ifixit
++   含义：Switch 的硅脂（导热膏）尚不明确型号，是某种较稠的糊状物，
+    [ifixit][] 给出的推荐替代品是 K5 Pro 粘性导热膏，理由是普通的导热膏不能弥合大缝隙。[^nsomh]
 
 [^nsomh]: [Nintendo Switch OLED Model Heat Sink Replacement](https://www.ifixit.com/Guide/Nintendo+Switch+OLED+Model+Heat+Sink+Replacement/150095), ifixit.
 
