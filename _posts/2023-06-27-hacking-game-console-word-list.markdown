@@ -45,7 +45,7 @@ file-name: 2023-06-27-hacking-game-console-word-list.markdown
 
 +   含义：CFW 是自定义固件 (Custom firmware) 的缩写，通常固件也等同于系统的概念，
     所以第三方 Android ROM 比如 LineageOS 和第三方路由器系统 OpenWrt 也算是自定义固件。
-+   Wikipedia: <https://en.wikipedia.org/wiki/Custom_firmware>
++   网页：[Wikipedia](https://en.wikipedia.org/wiki/Custom_firmware)
 
 <!-- ### the homebrew channel, [the homebrew launcher](https://smealum.github.io/3ds/), homebrew loader, hbmenu
 
@@ -53,14 +53,16 @@ file-name: 2023-06-27-hacking-game-console-word-list.markdown
 
 ### Homebrew
 
-+   含义：Homebrew 的原意是家酿啤酒，在自定义固件领域就是自制软件的意思，比如上文提到的非任天堂授权创建的所有程序，
-    包括 CFW 和自定义引导加载程序，《香港97》这款第三方 FC 游戏也算是 Homebrew。
-+   Wikipedia: <https://en.wikipedia.org/wiki/Homebrew_(video_games)>
++   含义：Homebrew 的原意是家酿啤酒，在自定义固件领域就是自制软件的意思，
+    比如上文提到的非任天堂授权创建的所有程序，包括 CFW 和自定义引导加载程序，
+    《香港97》这款第三方 SFC/SNES 游戏也算是 Homebrew。
+
++   网页：[Wikipedia](https://en.wikipedia.org/wiki/Homebrew_(video_games))
 
 ### ifixit
 
 +   含义：是一个关于硬件维修的网站，免费提供维修硬件的步骤。
-+   官网：<https://www.ifixit.com>
++   网页：[官网](https://www.ifixit.com)
 
 [ifixit]: #ifixit
 
