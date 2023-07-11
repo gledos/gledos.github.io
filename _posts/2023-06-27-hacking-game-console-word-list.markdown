@@ -219,7 +219,7 @@ https://wiki.ds-homebrew.com/twilightmenu/installing-3ds
 
 +   作者：CTCaer
 
-+   软件活跃情况：已停止更新，并且作者不推荐继续使用。
++   软件活跃情况：积极开发和维护中。
 
 +   网站：[GitHub 仓库](https://github.com/CTCaer/hekate)
 
