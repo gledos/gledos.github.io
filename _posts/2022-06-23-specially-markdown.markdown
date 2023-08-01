@@ -245,17 +245,41 @@ AsciiDoc 的 [Admonitions][ad_a]（告诫）是创建一个高亮的框体，这
 
 下面是总览表格：
 
-| 程序                            | 年代 | 语法（其中的一种） | 备注                 |
-| ------------------------------- | ---- | ------------------ | -------------------- |
-| zhenalexfan/MarkdownHan         | 2011 | `*:文字/wén zì/:*` | 缺少 \<rp> 标签[^rp] |
-| djfun/furigana_markdown         | 2013 | `[文字](-wén zì)`  |                      |
-| noisan/parsedown-rubytext       | 2015 | `[文字]^(wén zì)`  |                      |
-| japanese.meta.stackexchange.com | 2015 | `[文字] {wén zì}`  |                      |
-| joeellis/showdown-kanji         | 2016 | `{文字}(wén zì)`   | 缺少 \<rp> 标签      |
-| amclees/furigana-markdown       | 2017 | `[文字](wén zì)`   | 语法标记规则很多     |
-| lostandfound/markdown-it-ruby   | 2017 | {文字\|wén zì}     |                      |
-| iltrof/furigana-markdown-it     | 2020 | `[文字]{wén zì}`   | 语法标记规则很多     |
-| html-pipeline-ruby_markup       | 2020 | `[文字(wén zì)]`   |                      |
+| 程序                                | 年代 | 适配软件                                     | 语法（其中的一种） |
+| ----------------------------------- | ---- | -------------------------------------------- | ------------------ |
+| [zhenalexfan/MarkdownHan][]         | 2011 | 独立软件                                     | `*:文字/wén zì/:*` |
+| [djfun/furigana_markdown][]         | 2013 | Python Markdown                              | `[文字](-wén zì)`  |
+| [noisan/parsedown-rubytext][]       | 2015 | Parsedown<br>(Better Markdown Parser in PHP) | `[文字]^(wén zì)`  |
+| [japanese.meta.stackexchange.com][] | 2015 | 独立软件                                     | `[文字] {wén zì}`  |
+| [joeellis/showdown-kanji][]         | 2016 | Showdownjs Markdown                          | `{文字}(wén zì)`   |
+| [amclees/furigana-markdown][]       | 2017 | Discourse                                    | `[文字](wén zì)`   |
+| [lostandfound/markdown-it-ruby][]   | 2017 | markdown-it                                  | {文字\|wén zì}     |
+| [iltrof/furigana-markdown-it][]     | 2020 | markdown-it                                  | `[文字]{wén zì}`   |
+| [html-pipeline-ruby_markup][]       | 2020 | HTML::Pipeline                               | `[文字(wén zì)]`   |
+
+[zhenalexfan/MarkdownHan]: https://github.com/zhenalexfan/MarkdownHan
+[djfun/furigana_markdown]: https://github.com/djfun/furigana_markdown
+[noisan/parsedown-rubytext]: https://github.com/noisan/parsedown-rubytext
+[japanese.meta.stackexchange.com]: https://japanese.meta.stackexchange.com/questions/532/why-doesnt-furigana-work-in-italicized-or-bolded-text#comment3595_532
+[joeellis/showdown-kanji]: https://github.com/joeellis/showdown-kanji
+[amclees/furigana-markdown]: https://github.com/amclees/furigana-markdown
+[lostandfound/markdown-it-ruby]: https://github.com/lostandfound/markdown-it-ruby
+[iltrof/furigana-markdown-it]: https://github.com/iltrof/furigana-markdown-it
+[JuanitoFatas/html-pipeline-ruby_markup]: https://github.com/JuanitoFatas/html-pipeline-ruby_markup
+
+<!--
+ 备注                 |
+ -------------------- |
+ 缺少 \<rp> 标签[^rp] |
+                      |
+                      |
+                      |
+ 缺少 \<rp> 标签      |
+ 语法标记规则很多     |
+                      |
+ 语法标记规则很多     |
+                      |
+-->
 
 [^rp]: \<rp> 标签是用来给不支持 \<ruby> 标签的浏览器使用的，属于向后支持的功能，并且复制时也能将其中的括号一起复制，方便阅读者复制。
 
@@ -352,6 +376,34 @@ W3C 将 \<ruby> 标签作为音标，所以能看出欧美习惯将东亚的音�
     | html-pipeline-ruby_markup 输入 | HTML 输出                                              | 演示                                                 |
     | ------------------------------ | ------------------------------------------------------ | ---------------------------------------------------- |
     | `[漢字(かんじ)]`               | `<ruby>漢字<rp>(</rp><rt>かんじ</rt><rp>)</rp></ruby>` | <ruby>漢字<rp>(</rp><rt>かんじ</rt><rp>)</rp></ruby> |
+
+## Markdown 工程师面试题
+
+只是一个玩笑，不过 Markdown 的疑难杂症确实很多，因为 Markdown 不像 HTML 有比较严格的套盒子，Markdown 许多标记都没有严格的「终止符」，这就造成了大量疑难杂症，比如：
+
+```markdown
+> bar
+baz
+> foo
+```
+
+这样的 Markdown 标记会变成什么？Commonmark 的解法是：
+
+```html
+<blockquote>
+<p>bar
+baz
+foo</p>
+</blockquote>
+```
+
+即：
+
+> bar
+baz
+> foo
+
+什么？你说你不会遇到这种事情，好吧，有限、保守的使用 Markdown 确实不容易出现令人头大的问题，相对而言不容易碰到极端情况，不过像之前提到的「[列表 99 问题](#缩进)」，编写的多了，还是可能会遇到某些极端状况。
 
 ## gledos 的习惯
 
