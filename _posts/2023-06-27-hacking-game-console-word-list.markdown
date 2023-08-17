@@ -512,11 +512,58 @@ https://wiki.ds-homebrew.com/twilightmenu/installing-3ds
 
 ### Tesla
 
-+   含义：一套为 Switch 开发的覆盖菜单
++   含义：一套为 Switch 开发的覆盖菜单，由三个组件构成，分别是：
+    +   用于加载 Switch 覆盖 OVL (NRO) 的主机进程 nx-ovlloader；
+    +   被 nx-ovlloader 初始加载的菜单 Tesla-Menu；
+    +   libtesla 是 Tesla 覆盖加载器和用户制作的覆盖之间的接口。
 
 +   作者：WerWolv
 
-+   外部链接：[GitHub 仓库](https://github.com/WerWolv/nx-ovlloader), [GBAtemp](https://gbatemp.net/threads/tesla-the-nintendo-switch-overlay-menu.557362/).
++   外部链接：GitHub 仓库：[nx-ovlloader](https://github.com/WerWolv/nx-ovlloader), [Tesla-Menu](https://github.com/WerWolv/Tesla-Menu); [GBAtemp](https://gbatemp.net/threads/tesla-the-nintendo-switch-overlay-menu.557362/).
+
+[Tesla]: #tesla
+
+<!--
+
+### 软件模板
+
++   含义：
+
++   依赖：[Tesla][].
+
++   作者：
+
++   软件活跃情况：
+    仍在维护。
+    已停止更新。
+
++   外部链接：[GitHub 仓库](https://github.com/proferabg/EdiZon-Overlay)
+
+-->
+
+### sys-clk
+
++   含义：自定义 Switch CPU, GPU 和内存频率的自制软件，能够超频和频率，主要使用 Tesla 覆盖菜单进行操作。
+
++   依赖：[Tesla][].
+
++   作者： RetroNX Team (Nathan S., m4xw and Samuel P.)
+
++   软件活跃情况：仍在维护。
+
++   外部链接：[GitHub 仓库](https://github.com/retronx-team/sys-clk)
+
+### EdiZon-Overlay
+
++   含义：金手指，主要在 Tesla 覆盖菜单里进行启用或者停用各种金手指。
+
++   依赖：[Tesla][].
+
++   作者：proferabg（接力作者）, WerWolv（原始作者）
+
++   软件活跃情况：仍在维护。
+
++   外部链接：[GitHub 仓库](https://github.com/proferabg/EdiZon-Overlay)
 
 ### Mission Control
 
@@ -528,6 +575,31 @@ https://wiki.ds-homebrew.com/twilightmenu/installing-3ds
 
 +   网站：[GitHub 仓库](https://github.com/ndeadly/MissionControl)
 
+### SysDVR
+
++   含义：SysDVR 可以理解为 Sysmodule Digital Video Recorder 的简称，意为「数字视频录像机系统模块」，
+    这是能够通过 USB 或者局域网向电脑输出游戏画面的自制软件。
+
+    SysDVR 的原理是 Switch 自带的录制功能，所以一些游戏不能进行录制，除非使用 dvr-patches 这个 exefs 补丁修补，就能录制原本不能录制的游戏了。
+
++   作者：exelix11
+
++   软件活跃情况：仍在维护。
+
++   网站：
+    +   [SysDVR GitHub 仓库](https://github.com/exelix11/SysDVR)
+    +   [dvr-patches GitHub 仓库](https://github.com/exelix11/dvr-patches)
+
+### bitmap-printer
+
++   含义：自制的截图系统模块，属于自制软件，能够截取无压缩的截图。
+
++   作者：HookedBehemoth
+
++   软件活跃情况：仍在维护。
+
++   网站：[GitHub 仓库](https://github.com/HookedBehemoth/bitmap-printer)
+
 ### NX Activity Log
 
 +   含义：一款在 Switch 上的自制软件，让 Switch 用户能轻松查看游戏时长。
@@ -536,7 +608,7 @@ https://wiki.ds-homebrew.com/twilightmenu/installing-3ds
 
 +   作者：tallbl0nde
 
-+   软件活跃情况：不再维护。
++   软件活跃情况：已停止更新。
 
 +   网站：[GitHub 仓库](https://github.com/tallbl0nde/NX-Activity-Log)
 

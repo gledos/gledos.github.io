@@ -371,9 +371,7 @@ BG_GehennaCouncilHall
 
 ## 圣三一
 
-〔待续：圣三一的简介〕
-
-完整以及简化版本的「圣三一」标志，以及附属势力如下：
+完整以及简化版本的「圣三一」标志，以及附属势力标志如下：
 
 <div class="grid-container">
 
@@ -397,6 +395,13 @@ BG_GehennaCouncilHall
 放学后的甜点部
 </div>
 
+<div markdown="1">
+<div class="obc" style="background-color: white" markdown="1">
+![正义实现委员会](https://s3.tebi.io/gledos/blue_archive/trinity/Justice_Realization_Committee/正义实现委员会_优化.svg)
+</div>
+正义实现委员会
+</div>
+
 </div>
 
 ## 千年
@@ -408,18 +413,86 @@ BG_GehennaCouncilHall
 <div class="grid-container">
 
 <div markdown="1">
-![千年_白色+文字](https://gledos.s3.tebi.io/blue_archive/millennium/千年_白色+文字.svg)
+![千年_白色+文字](https://s3.tebi.io/gledos/blue_archive/millennium/千年_白色+文字.svg)
 「千年」标志
 </div>
 
 <div markdown="1">
-![研讨会](https://gledos.s3.tebi.io/blue_archive/millennium/研讨会_优化.svg)
+![研讨会](https://s3.tebi.io/gledos/blue_archive/millennium/研讨会_优化.svg)
 研讨会
 </div>
 
 <div markdown="1">
-![游戏开发部](https://gledos.s3.tebi.io/blue_archive/millennium/游戏开发部（优化）.svg)
+![游戏开发部](https://s3.tebi.io/gledos/blue_archive/millennium/游戏开发部（优化）.svg)
 游戏开发部
+</div>
+
+<div markdown="1">
+<div class="obc" style="background-color: white" markdown="1">
+![游戏开发部](https://s3.tebi.io/gledos/blue_archive/millennium/Cleaning&Clearing/C&C.svg)
+</div>
+C&C
+</div>
+
+<div markdown="1">
+<div class="obc" style="background-color: white" markdown="1">
+![游戏开发部](https://s3.tebi.io/gledos/blue_archive/millennium/Paranormal_Affairs_Department/超现象特务部.svg)
+</div>
+超现象特务部
+</div>
+
+</div>
+
+## 联邦学生会
+
+联邦学生会是整个基沃托斯名义上的最高行政机构，实际上需要协商、博弈才能与各个自治区达成共识。
+
+SCHALE（夏莱／沙勒）是玩家（老师）所在的机构，隶属于联邦学生会，
+由联邦学生会长创建，处理各种学生、学院和行政部门面临的问题。
+
+<div class="grid-container">
+
+<div markdown="1" >
+<div class="obc" style="background-color: white" markdown="1">
+![联邦学生会](https://s3.tebi.io/gledos/blue_archive/kivotos/General_Student_Council/联邦学生会.svg)
+</div>
+联邦学生会
+</div>
+
+<div markdown="1" >
+<div class="obc" style="background-color: white" markdown="1">
+![联邦学生会](https://s3.tebi.io/gledos/blue_archive/kivotos/General_Student_Council/联邦学生会（无阴影）.svg)
+</div>
+联邦学生会（无阴影）
+</div>
+
+<div markdown="1">
+![SCHALE](https://s3.tebi.io/gledos/blue_archive/kivotos/SCHALE/SCHALE（无阴影纯白色）修复版本.svg)
+SCHALE
+</div>
+
+</div>
+
+## 4.5th PV 的神秘标志
+
+2023年4月22日，Blue Archive 日服发布了 [4.5th PV][]（第 4.5 支宣传片），其中的箱子和手表上出现了神秘标志。
+
+[4.5th PV]: https://www.youtube.com/watch?v=N8g9B0zEXpM
+
+<div class="grid-container">
+
+<div markdown="1">
+<div class="obc" style="background-color: #192752" markdown="1">
+![神秘标志（白色）](https://s3.tebi.io/gledos/blue_archive/4.5th_PV/神秘标志_白色.svg)
+</div>
+神秘标志（白色）
+</div>
+
+<div markdown="1" >
+<div class="obc" style="background-color: white" markdown="1">
+![神秘标志（黑色）](https://s3.tebi.io/gledos/blue_archive/4.5th_PV/神秘标志_黑色.svg)
+</div>
+神秘标志（黑色）
 </div>
 
 </div>
