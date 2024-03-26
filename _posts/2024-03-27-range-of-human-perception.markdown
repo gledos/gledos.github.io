@@ -128,7 +128,7 @@ LISNR 使用了 18-19.2 kHz 的声音（近超声，Near ultrasound），LISNR �
 
 具体来说，ISO 21348 将可见光定义为了 380～760 纳米，紫外线是 315～400 纳米，标准文件竟然直接表明紫外线可以被肉眼观测。
 
-根据一些 历史记录 (http://photobiology.info/Hockberger.html) 来推测，这是历史遗留问题。
+根据一些 [历史记录](http://photobiology.info/Hockberger.html) 来推测，这是历史遗留问题。
 早期科学家先将紫外线定义为了小于 400 纳米。因为「紫外线不可见」，于是可见光的范围大于 400 纳米，
 就成了一段时间里的「正确」知识。
 
