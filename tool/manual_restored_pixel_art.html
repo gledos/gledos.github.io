@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <!-- 此工具的创意来自 gledos，由 ChatGPT-4o 编写完成。 -->
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Mmanual Pixel Art Resizer</title>
+        <style>
+            body {
+                text-align: center;
+                font-family: Arial, sans-serif;
+            }
+            canvas {
+                border: 1px solid black;
+                margin-top: 10px;
+                image-rendering: pixelated;
+            }
+            #controls {
+                margin-top: 10px;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Pixel Art Resizer</h1>
+        <input type="file" id="fileInput" />
+        <div id="controls">
+            <label for="gridSize">Grid Size:</label>
+            <input type="number" id="gridSize" value="4" step="0.1" min="0.1" />
+            <label for="offsetX">Offset X:</label>
+            <input type="number" id="offsetX" value="0" step="0.1" />
+            <label for="offsetY">Offset Y:</label>
+            <input type="number" id="offsetY" value="0" step="0.1" />
+            <label for="zoom">Zoom:</label>
+            <select id="zoom">
+                <option value="1">1x</option>
+                <option value="2">2x</option>
+                <option value="4">4x</option>
+                <option value="8">8x</option>
+            </select>
+            <button id="resizeButton">Resize</button>
+        </div>
+        <canvas id="canvas" width="500" height="500"></canvas>
+        <script>
+            const fileInput = document.getElementById("fileInput");
+            const canvas = document.getElementById("canvas");
+            const ctx = canvas.getContext("2d");
+            const gridSizeInput = document.getElementById("gridSize");
+            const offsetXInput = document.getElementById("offsetX");
+            const offsetYInput = document.getElementById("offsetY");
+            const zoomInput = document.getElementById("zoom");
+            const resizeButton = document.getElementById("resizeButton");
+            let img = new Image();
+            let zoomLevel = 1;
+            let isDragging = false;
+            let dragStartX, dragStartY;
+
+            fileInput.addEventListener("change", (e) => {
+                const file = e.target.files[0];
+                if (file) {
+                    const reader = new FileReader();
+                    reader.onload = function (event) {
+                        img.src = event.target.result;
+                        img.onload = function () {
+                            canvas.width = img.width;
+                            canvas.height = img.height;
+                            drawImageAndGrid();
+                        };
+                    };
+                    reader.readAsDataURL(file);
+                }
+            });
+
+            gridSizeInput.addEventListener("input", drawImageAndGrid);
+            offsetXInput.addEventListener("input", drawImageAndGrid);
+            offsetYInput.addEventListener("input", drawImageAndGrid);
+            zoomInput.addEventListener("change", drawImageAndGrid);
+
+            resizeButton.addEventListener("click", resizeImage);
+
+            document.addEventListener("keydown", (e) => {
+                switch (e.key) {
+                    case "ArrowLeft":
+                        offsetXInput.value = (parseFloat(offsetXInput.value) - 0.1).toFixed(1);
+                        drawImageAndGrid();
+                        break;
+                    case "ArrowRight":
+                        offsetXInput.value = (parseFloat(offsetXInput.value) + 0.1).toFixed(1);
+                        drawImageAndGrid();
+                        break;
+                    case "ArrowUp":
+                        offsetYInput.value = (parseFloat(offsetYInput.value) - 0.1).toFixed(1);
+                        drawImageAndGrid();
+                        break;
+                    case "ArrowDown":
+                        offsetYInput.value = (parseFloat(offsetYInput.value) + 0.1).toFixed(1);
+                        drawImageAndGrid();
+                        break;
+                }
+            });
+
+            canvas.addEventListener("mousedown", (e) => {
+                isDragging = true;
+                dragStartX = e.clientX;
+                dragStartY = e.clientY;
+            });
+
+            canvas.addEventListener("mousemove", (e) => {
+                if (isDragging) {
+                    const dx = (e.clientX - dragStartX) / zoomLevel;
+                    const dy = (e.clientY - dragStartY) / zoomLevel;
+                    offsetXInput.value = (parseFloat(offsetXInput.value) + dx).toFixed(1);
+                    offsetYInput.value = (parseFloat(offsetYInput.value) + dy).toFixed(1);
+                    dragStartX = e.clientX;
+                    dragStartY = e.clientY;
+                    drawImageAndGrid();
+                }
+            });
+
+            canvas.addEventListener("mouseup", () => {
+                isDragging = false;
+            });
+
+            canvas.addEventListener("mouseleave", () => {
+                isDragging = false;
+            });
+
+            canvas.addEventListener("wheel", (e) => {
+                e.preventDefault();
+                const delta = e.deltaY > 0 ? -0.1 : 0.1;
+                gridSizeInput.value = Math.max(0.1, (parseFloat(gridSizeInput.value) + delta).toFixed(1));
+                drawImageAndGrid();
+            });
+
+            function drawImageAndGrid() {
+                zoomLevel = parseInt(zoomInput.value);
+                const gridSize = parseFloat(gridSizeInput.value) * zoomLevel;
+                const offsetX = parseFloat(offsetXInput.value) * zoomLevel;
+                const offsetY = parseFloat(offsetYInput.value) * zoomLevel;
+
+                // Adjust canvas size based on zoom level
+                canvas.width = img.width * zoomLevel;
+                canvas.height = img.height * zoomLevel;
+
+                // Draw the image scaled up
+                ctx.clearRect(0, 0, canvas.width, canvas.height);
+                ctx.drawImage(img, 0, 0, canvas.width, canvas.height);
+
+                // Draw the grid
+                ctx.beginPath();
+                for (let x = offsetX; x < canvas.width; x += gridSize) {
+                    ctx.moveTo(x, 0);
+                    ctx.lineTo(x, canvas.height);
+                }
+                for (let y = offsetY; y < canvas.height; y += gridSize) {
+                    ctx.moveTo(0, y);
+                    ctx.lineTo(canvas.width, y);
+                }
+                ctx.strokeStyle = "rgba(0, 0, 0, 0.5)";
+                ctx.lineWidth = 1 / zoomLevel; // Maintain 1px line width
+                ctx.stroke();
+            }
+
+            function resizeImage() {
+                const gridSize = parseFloat(gridSizeInput.value);
+                const offsetX = parseFloat(offsetXInput.value);
+                const offsetY = parseFloat(offsetYInput.value);
+                const scaledCanvas = document.createElement("canvas");
+                const scaledCtx = scaledCanvas.getContext("2d");
+                const scaledWidth = Math.ceil((canvas.width / zoomLevel - offsetX) / gridSize);
+                const scaledHeight = Math.ceil((canvas.height / zoomLevel - offsetY) / gridSize);
+
+                scaledCanvas.width = scaledWidth;
+                scaledCanvas.height = scaledHeight;
+
+                for (let y = 0; y < scaledHeight; y++) {
+                    for (let x = 0; x < scaledWidth; x++) {
+                        const pixelData = ctx.getImageData(
+                            offsetX * zoomLevel + x * gridSize * zoomLevel + (gridSize * zoomLevel) / 2,
+                            offsetY * zoomLevel + y * gridSize * zoomLevel + (gridSize * zoomLevel) / 2,
+                            1,
+                            1
+                        ).data;
+                        scaledCtx.fillStyle = `rgba(${pixelData[0]}, ${pixelData[1]}, ${pixelData[2]}, ${
+                            pixelData[3] / 255
+                        })`;
+                        scaledCtx.fillRect(x, y, 1, 1);
+                    }
+                }
+
+                const resizedImage = scaledCanvas.toDataURL();
+                const link = document.createElement("a");
+                link.href = resizedImage;
+                link.download = "resized-pixel-art.png";
+                link.click();
+            }
+        </script>
+    </body>
+</html>

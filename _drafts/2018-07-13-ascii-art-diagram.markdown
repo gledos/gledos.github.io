@@ -4,17 +4,17 @@ layout: post
 published: false
 ---
 
-~~~ text
+```text
 [Sun] -- [Pear]
 [Apple] --> [Pear]
 [Pear] -- [fruit] --> [Pineapple]
 [Pear] --> [Cherry]
 [fruit] ==> [Done]
-~~~
+```
 
 转化为:
 
-~~~ text
+```text
                 +--------+
                 | Cherry |
                 +--------+
@@ -30,9 +30,9 @@ published: false
                 +--------+     +-------+
                 |  Sun   |     | Done  |
                 +--------+     +-------+
-~~~
+```
 
-~~~ text
+```text
     ,----------------.
     | Round-cornered |
     |      boxes     |
@@ -43,9 +43,9 @@ published: false
      >- Stretchy braces
      |
     -+
-~~~
+```
 
-~~~ text
+```text
     ( Buttons )
 
     [ Dropdown lists |v]
@@ -64,13 +64,13 @@ published: false
     <----######-->
 
     Spin-boxes: [ 37.0 |:]
-~~~
+```
 
 [ASCII diagram creator](https://news.ycombinator.com/item?id=2651745)
 
 ---------
 
-~~~ text
+```text
  ---------------------------------------
  Test stage defaults for some features:
 NPA - Dial 760            914 NPA       - Dial 990
@@ -84,9 +84,9 @@ NPA - Dial 760            914 NPA       - Dial 990
  ---------------------------------------
   *57 !  1157 ! Customer "Trace"
  ---------------------------------------
-~~~
+```
 
-~~~ text
+```text
  +---------------------------------------------------------------------------+
  !  +---------------------+       +-------------------------------------+    !
  !  !   (Ticket Box)      !       !            ( Display )              !    !
@@ -120,9 +120,9 @@ out - 54"H x 40"W x12"D), with some newer size F, H, and some 3M series-
  !                min NUM NUM NUM                                   ! Number !
  !                                                                  ! Plate  !
  +---------------------------------------------------------------------------+
-~~~
+```
 
-~~~ text
+```text
  +--------------------------------+
  |   Building Your Own Blue Box   |
  +--------------------------------+
@@ -130,9 +130,9 @@ out - 54"H x 40"W x12"D), with some newer size F, H, and some 3M series-
  |          Jester Sluggo         |
  |     Released: Nov. 27, 1986    |
  +--------------------------------+
-~~~
+```
 
-~~~ text
+```text
 Qty.  Item                 Part No.      Place
 ---------------------------------------------------
  1  | 4 x 4 Keypad       |             | Digi-Key
@@ -147,9 +147,9 @@ Qty.  Item                 Part No.      Place
  2  | 1.0K Ohm Resistor  |             | Radio Shack
  1  | Speaker            |             | From an old Autovon fone.
  1  | 9 Volt Battery     |             | Anywhere
-~~~
+```
 
-~~~ text
+```text
     Keypad      Key Assignments   Multiplex Pattern
   +---------+   +-------------+    +------------+
   | 1 2 3 A |   | 1  2  3  4  |    | 1  2  3  A |----Y1=8   X1=3
@@ -159,9 +159,9 @@ Qty.  Item                 Part No.      Place
   +---------+   +-------------+    +------------+
                                      |  |  |  |
                                      X1 X2 X3 X4
-~~~
+```
 
-~~~ text
+```text
                      +-------------------+
                      | Schematic Diagram |
                      +-------------------+
@@ -270,9 +270,9 @@ Qty.  Item                 Part No.      Place
             (Connects)  |
           <-------------+
             (Figure 1)
-~~~
+```
 
-~~~ text
+```text
 +----------------+
 | Schematic Help |
 +----------------+
@@ -299,9 +299,9 @@ more then they might hurt.
   X/X/X/X/-- is the Potentiometer symbol (The frequncies I supplied
                                           above are just examples.)
  --|>o--     is the Inverter symbol
-~~~
+```
 
-~~~ text
+```text
 *********************************
 
       The Legion of Doom!
@@ -320,14 +320,13 @@ Revision III          Agent
                          04
 
 *********************************
-~~~
-
+```
 
 http://textfiles.com/100/lod-1
 
 ---------------------
 
-~~~ text
+```text
                  #-----------#
                  | Publisher |
                  +-----------+
@@ -346,13 +345,13 @@ http://textfiles.com/100/lod-1
 +------------+   +------------+   +------------+
 | Subscriber |   | Subscriber |   | Subscriber |
 #------------#   #------------#   #------------#
-~~~
+```
 
 https://9vx.org/post/simplistic-diagrams-with-ascii-art/
 
 ------
 
-~~~ text
+```text
     +--------+   +-------+    +-------+
     |        | --+ ditaa +--> |       |
     |  Text  |   +-------+    |diagram|
@@ -362,13 +361,13 @@ https://9vx.org/post/simplistic-diagrams-with-ascii-art/
         :                         ^
         |       Lots of work      |
         +-------------------------+
-~~~
+```
 
 http://ditaa.sourceforge.net/
 
 -------
 
-~~~ text
+```text
                                       +----------------+
                                  +--->| PNG Image File |
 +-------------+      +-------+   |    +----------------+
@@ -376,21 +375,21 @@ http://ditaa.sourceforge.net/
 +-------------+      +-------+   |    +-------------------+
                          ^       +--->| UTF-8 Box Drawing |
 Commandline Options -----+            +-------------------+
-~~~
+```
 
 http://hackage.haskell.org/package/dihaa
 
 ---
 
-~~~ text
+```text
  Association:   ^   Aggregation:    O   Composition:    @   Inheritance:    #
                 |                   |                   |                   |
               <-+->               O-+-O               @-+-@               #-+-#
                 |                   |                   |                   |
                 V                   O                   @                   #
-~~~
+```
 
-~~~ text
+```text
  +--------+       +---------------------+ *
  | Client |------>| Component           |<-----------------------------+
  +--------+       +---------------------+                              |
@@ -411,9 +410,9 @@ http://hackage.haskell.org/package/dihaa
                                     | Remove(Component)   |
                                     | GetChild(int)       |
                                     +---------------------+
-~~~
+```
 
-~~~ text
+```text
        A
        |
        |
@@ -422,13 +421,13 @@ http://hackage.haskell.org/package/dihaa
        |
        _
        V
-~~~
+```
 
 http://wiki.c2.com/?UmlAsciiArt
 
 ------
 
-~~~ text
+```text
  [Edit Text]
  -- type the address of the graph url into the text field below at the place you want it --
  |Wiki Page Title
@@ -446,11 +445,11 @@ http://wiki.c2.com/?UmlAsciiArt
  |__    -- end of multiline page
     +------- text input area
     |
-~~~
+```
 
 -----------------------------------------------------------------------------------------
 
-~~~ text
+```text
                                              ,-.                                                   |
                                              `-'                                                   |
                ,-------------.               /|\                                                   |
@@ -527,28 +526,27 @@ http://wiki.c2.com/?UmlAsciiArt
                `-------------'               /|\                                                   |
                                               |                                                    |
                                              / \                                                   |
-~~~
+```
 
-~~~ text
+```text
 +----------+---------+------------------------+----------------+
 |   Col1   |  Col2   |          Col3          | Numeric Column |
 +----------+---------+------------------------+----------------+
 | Value 1  | Value 2 | 123                    | 10.0           |
 | Separate | cols    | with a tab or 4 spaces | -2,027.1       |
-| 试试      | 爱就爱  | 哦哦                   | 嘿              |
 +----------+---------+------------------------+----------------+
-~~~
+```
 
-+ <https://ozh.github.io/ascii-tables/>
-+ <https://www.dokuwiki.org/plugin:a2s>
-+ <https://github.com/dhobsd/asciitosvg>
-+ <https://metacpan.org/pod/distribution/App-Asciio/lib/App/Asciio.pm>
-+ <https://github.com/walsh9/asciibots>
-+ <https://www.jianshu.com/p/1256e2643923>
-+ <http://wiki.c2.com/?UmlAsciiArt>
-+ <http://plantuml.com/ascii-art>
++   <https://ozh.github.io/ascii-tables/>
++   <https://www.dokuwiki.org/plugin:a2s>
++   <https://github.com/dhobsd/asciitosvg>
++   <https://metacpan.org/pod/distribution/App-Asciio/lib/App/Asciio.pm>
++   <https://github.com/walsh9/asciibots>
++   <https://www.jianshu.com/p/1256e2643923>
++   <http://wiki.c2.com/?UmlAsciiArt>
++   <http://plantuml.com/ascii-art>
 
-~~~ text
+```text
 @startuml
 participant Bob
 actor Alice
@@ -556,4 +554,4 @@ actor Alice
 Bob -> Alice : hello
 Alice -> Bob : Is it ok?
 @enduml
-~~~
+```

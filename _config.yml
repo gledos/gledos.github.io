@@ -18,7 +18,6 @@ encoding: UTF-8
 exclude:
   - README.md
   - run.bat
-  - text/password.kdbx
 
 include:
   - /text/word.txt
