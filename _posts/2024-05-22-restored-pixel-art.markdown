@@ -103,7 +103,7 @@ pixeldetector 效果相对傅立叶变换，也许强一些。最好的方法，
 +   [restored_pixel_art.py][]：Antonio Neves 的傅立叶变换算法，作用是缩小被放大的像素画。
 +   [pixeldetector.py][]：Astropulse 的缩小像素画工具，自带缩小调色板效果。
 +   [sd-palettize.py][]：Astropulse 的缩小调色板工具。
-+   [manual_restored_pixel_art.html][]：由 gledos 设想，ChatGPT-4o 编写的单页网页工具。
++   [manual_restored_pixel_art.html][]：由 gledos 设想，GPT-4o 编写的单页网页工具。
 
 [restored_pixel_art.py]: https://gist.github.com/gledos/aa7c98b53b8eb73670dc0462656c1a10
 [pixeldetector.py]: https://github.com/Astropulse/pixeldetector
