@@ -84,8 +84,10 @@ fastboot oem device-info
 4.  [APatch](https://github.com/bmax121/APatch)
 
 这里选择 GitHub 仓库 star 最高的 KernelSU，作为获取 root 的方式。首先需要获取当前系统版本的 `init_boot.img` 镜像文件，
-这是手机的 init_boot 分区镜像。然后交给 KernelSU app 里修补。最后将此修补后的镜像，取代手机的 init_boot 分区。[^84050][^41123]
-具体操作如下：
+这是手机的 init_boot 分区镜像。然后交给 KernelSU app 里修补。最后将此修补后的镜像，
+取代手机的 init_boot 分区。[^84050][^41123][^59584] 具体操作如下：
+
+[^59584]: N1730466003993, 《[KernelSU教程](https://bbs.oneplus.com/thread/1720955150568259584)》, 一加社区, 2024-11-03. (参照 2025-02-17).
 
 0.  按照接靠 BL 锁的步骤，将「USB 调试」选项开启。
 1.  下载与当前版本相同的完整（全量）的系统 ROM，然后使用 PC 工具 [payload-dumper-go](https://github.com/ssut/payload-dumper-go)，
@@ -122,17 +124,17 @@ fastboot oem device-info
 现在最重要的模块，可能就是 LSPosed，它能 hook 系统与 app，所以使 Android 系统与 App 变得易于修改、自定义。
 不过它需要的前置软件不像 Magisk，Magisk 与 LSPosed 的依赖分别是：
 
-<!--
 Magisk -> Zygisk -> LSPosed
 
 KernelSU -> Zygisk Next -> LSPosed
--->
 
+<!--
 ```mermaid
 graph LR;
-    1_1[Magisk] --> 1_2[Zygisk] --> 1_3[LSPosed]
-    2_1[KernelSU] --> 2_2["Zygisk Next"] --> 2_3[LSPosed]
+    1_1[Magisk] -\-> 1_2[Zygisk] -\-> 1_3[LSPosed]
+    2_1[KernelSU] -\-> 2_2["Zygisk Next"] -\-> 2_3[LSPosed]
 ```
+-->
 
 所以需要先安装适配 KernelSU 的 [Zygisk Next](https://github.com/Dr-TSNG/ZygiskNext) 模块，然后再安装 LSPosed。
 然而 LSPosed 在停更后（停止公开发布后），旧版无法在基于 ColorOS 15 的一加 Ace 5 Pro 上运行，
@@ -163,3 +165,7 @@ graph LR;
 [Scene](http://vtools.omarea.com/) 来研究功耗以及游戏帧率（付费闭源软件），以及第三方调度。
 
 〔未完待续〕
+
+---
+
+## 脚注
