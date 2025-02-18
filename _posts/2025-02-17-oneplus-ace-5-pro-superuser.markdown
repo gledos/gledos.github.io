@@ -83,6 +83,8 @@ fastboot oem device-info
 3.  [KernelSU Next](https://github.com/rifsxd/KernelSU-Next)
 4.  [APatch](https://github.com/bmax121/APatch)
 
+它们的主要功能都相似，提供 root 权限管理，并兼容 Magisk 模块（可能有一些不兼容）。
+
 这里选择 GitHub 仓库 star 最高的 KernelSU，作为获取 root 的方式。首先需要获取当前系统版本的 `init_boot.img` 镜像文件，
 这是手机的 init_boot 分区镜像。然后交给 KernelSU app 里修补。最后将此修补后的镜像，
 取代手机的 init_boot 分区。[^84050][^41123][^59584] 具体操作如下：
@@ -121,8 +123,8 @@ fastboot oem device-info
 
 ### LSPosed
 
-现在最重要的模块，可能就是 LSPosed，它能 hook 系统与 app，所以使 Android 系统与 App 变得易于修改、自定义。
-不过它需要的前置软件不像 Magisk，Magisk 与 LSPosed 的依赖分别是：
+Xposed 停止更新后，现在最重要的模块，可能就是 LSPosed，它能 hook 系统与 app，所以使 Android 系统与 App 变得易于修改、
+自定义。不过它需要的前置软件不像 Magisk，Magisk 与 LSPosed 的依赖分别是：
 
 Magisk -> Zygisk -> LSPosed
 
@@ -161,10 +163,80 @@ graph LR;
 
 ## 高级自定义
 
-接下来是更高级的玩法，用 [KonaBess](https://github.com/libxzr/KonaBess) 给 GPU 降压超频，
+接下来是更高级的玩法，用 [KonaBess](https://github.com/libxzr/KonaBess) 给 GPU 降压来提升续航，
 [Scene](http://vtools.omarea.com/) 来研究功耗以及游戏帧率（付费闭源软件），以及第三方调度。
 
-〔未完待续〕
+### KonaBess
+
+KonaBess 在 root 后，能够调整 GPU 的频率、电压，操作原理有些像 PC。各种 SoC 通常能够降一档电压，从而达到省电的效果，
+如果 SoC 体质更好，还能降低更多。对超频感兴趣，也可以试试。
+
+目前的 KonaBess 0.25 beta 版本，在启动后需要选择「0 骁龙 8 Elite」。编辑 GPU 频率需要选择「未知频率表2」。
+
+不过调整 GPU 电压需要改动 vendor_boot 分区，可能会导致手机无法正常启动，所以在调整前，记得在 KonaBess 里备份一下。
+选择「备份旧镜像」，然后将手机根目录的镜像 `vendor_boot.img` 保存在 PC 上。
+
+有了原始镜像，就可以轻松恢复到初始状态，方法是利用 Scene 来刷入镜像。或者当手机变砖后，
+还能通过 fastboot 刷入 `vendor_boot.img` 来恢复手机，指令是：
+
+```shell
+fastboot flash vendor_boot "备份的 vendor_boot 原始镜像"
+```
+
+如果不方便使用 PC，也许可以使用「淘宝小二」制作的 [vab_gpu 升频降频救砖工具](https://lsposed.cn/101)。（似乎不开源）
+该 Magisk 模块能够在无法正常开机后的 1 分钟，将手机根目录的镜像 `vendor_boot.img` 刷入 vendor_boot 分区，
+恢复原始的 GPU 频率电压。
+
+如果不清楚如何调试电压，可以阅读「水鱼」编写的一加 13 降压测试《[解锁BL能干啥？骁龙8至尊版瞎折腾之GPU降压测试](https://www.dealmoon.com/guide/1003555)》。
+因为是相同品牌的骁龙 8 至尊版，所以具有参考价值。
+
+### Scene
+
+Scene 是功能强大的软件，免费的 adb 模式能够使「帧率记录」功能，检测游戏帧率及其功耗情况。root 模式须付费使用，
+目前价格为 15 元人民币（支付宝、微信），或 4.5 USD（PayPal）。具体规则如下：
+
+```text
+# 套餐调整公告
+- 从2025年1月1日起，Scene 部分在售套餐将进行调整
+- 具体调整如下:
+* 15 RMB [20 积分] -> [16 积分]
+* 4.5 USD [单设备永久授权 + 24 积分]->[32 积分]
+已售出的激活码不受影响，以购买时的套餐描述为准
+
+# SCENE 售后政策公示
+
+积分套餐 [在售]
+* 累计消耗 16 分的设备自动升级永久授权不再继续扣分
+* 也可以通过“升级徽标”提前升级，系统自动补扣差额
+* 通过该方式获得的永久授权，不额外赠送积分
+* 永久授权不跨设备共享，不支持迁移
+```
+
+该规则在软件里，需要打开后才能看到，官网里似乎都没有，所以在这里提一下。不过 Scene 并不开源，如果在意，
+大概需要用其它替代软件。
+
+Scene 的功能很多，这里常使用的有：
+
++   「CPU 控制」可以调整 GPU 最大、最小频率，从而检查 KonaBess 配置的电压，是否能稳定运行。
++   「耗电统计」比起手机自带的电池使用情况，有详细的 app 功耗、温度以及运行时间，并有超长的历史记录。
++   「充电统计」能明确看到充电器功率。
++   「帧率记录」之前已有提及。
++   「备份还原」刷入镜像到指定分区。
++   第三方调度调节。
++   监视器悬浮窗，如「负载监视器」，能显示 CPU、GPU 负载，及其功耗等细节。
+
+### 第三方调度
+
+手机调度是指 SoC 调度，根据当前的使用环境动态调整CPU频率，以实现最佳的性能和功耗平衡。现在 ColorOS15 的调度挺优秀的，
+所以用 Scene 提供的 Scene HP、Scene EP 调度，只会带来负优化。
+
+不过还是有开发者，可能制作了更好的调度。开发者「慕容茹艳」制作的 [ColorOS15 官调优化 (8GEN3 和 8Elite)](https://github.com/murongruyan/muronggameopt/releases/tag/ColorOS官调优化)，
+可能让你的手机降低功耗，而不会造成明显性能损失。（不过似乎没有开源）
+
+只是作者目前没有 8 Elite 实机，所以暂停了开发，现有的 bug 不会修复。作者提到可能会在 2025年4月 购买 8 Elite 设备，
+之后也许会恢复更新。[^zNmI]
+
+[^zNmI]: 慕容雪绒, 《[官调优化模块将不在更新8GEN3以外的处理器，以后将会专更8GEN3……](https://www.coolapk.com/feed/62012411?shareKey=MDY4ZDAzYjhkNDNhNjdiNDIzNmI~)》, 酷安, 2025-01-09. (参照 2025-02-18).
 
 ---
 
