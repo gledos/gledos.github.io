@@ -236,7 +236,58 @@ Scene 的功能很多，这里常使用的有：
 只是作者目前没有 8 Elite 实机，所以暂停了开发，现有的 bug 不会修复。作者提到可能会在 2025年4月 购买 8 Elite 设备，
 之后也许会恢复更新。[^zNmI]
 
-[^zNmI]: 慕容雪绒, 《[官调优化模块将不在更新8GEN3以外的处理器，以后将会专更8GEN3……](https://www.coolapk.com/feed/62012411?shareKey=MDY4ZDAzYjhkNDNhNjdiNDIzNmI~)》, 酷安, 2025-01-09. (参照 2025-02-18).
+[^zNmI]: 慕容雪绒, 「[官调优化模块将不在更新8GEN3以外的处理器，以后将会专更8GEN3……](https://www.coolapk.com/feed/62012411?shareKey=MDY4ZDAzYjhkNDNhNjdiNDIzNmI~)」, 酷安, 2025-01-09. (参照 2025-02-18).
+
+## 其它玩法
+
+### FCM
+
+ColorOS 出于优化，国内版本默认会阻止 GMS 持续持有 WakeLock。这会导致系统频繁清除 GMS，FCM 功能也就无法正常使用。
+好在「丛雨不是粽子精」通过逆向代码，找到了方法，使用以下指令就能关闭此特性：[^QyZjc]
+
+[^QyZjc]: 丛雨不是粽子精, 「[也是被 ColorOS 折腾了好久...](https://www.coolapk.com/feed/62724182?shareKey=NDM0Y2ZhZGQ4YTE1NjdiNDQyZjc~)」, 酷安, 2025-02-14. (参照 2025-02-18).
+
+```shell
+settings put secure google_restric_info 0
+```
+
+可用之前提到的 aShell，运行后就能让 FCM 保持运行了，从而正常接受 FCM 推送。Telegram 的通知推送也就正常了。
+[FCM Viewer](https://github.com/HappyMax0/FCMPushViewer) 可以列出支持 FCM 的 app，不过并不是所有 app 都能正常调用。
+
+比如 Google Play 版的 <ruby>WeChat<rt>微信</rt></ruby> 支持 FCM，但需要让一些微信域名走海外流量，
+并使用海外手机号登录 WeChat，才能使其使用 FCM。
+
+### 去广告
+
+去广告有多种方案，下面是 gledos 有使用过的方案：
+
+| 软件                                  | 权限             | 原理                   | 效果                    |
+| ------------------------------------- | ---------------- | ---------------------- | ----------------------- |
+| [GKD](https://github.com/gkd-kit/gkd) | 无障碍（可更高） | 自动点击关闭广告的按钮 | 去除 app 开屏广告等广告 |
+| [AdAway](https://adaway.org/)         | root             | hosts 去广告           | 类似于 AdGuard          |
+| v2ray 类                              | VPN              | 自定义路由             | 类似于 AdGuard          |
+| [LuckyTool](#luckytool)               | Xposed           | hook app               | 移除部分系统软件广告    |
+
+GKD 可以跳过开屏广告，以及青少年模式弹窗等。不过软件里没有规则，用户需要导入第三方规则。然而最近 2025年2月10日，
+两个 star 超过 1 千的规则仓库，都存档了。短期也许还能用这个规则，但之后就需要寻找其它规则了。
+
+使用 AdAway 前，KernelSU 需要安装 [systemless hosts KernelSU module](https://github.com/symbuzzer/systemless-hosts-KernelSU-module) 模块。
+之后导入合适的规则，就能去广告了。
+
+v2ray 类的网络工具，如 NekoBox 可以在「路由」页面设置「封锁广告」，原理是订阅并启用 `geosite:category-ads-all` 规则。
+
+LuckyTool 目前可移除安全应用推荐、下载对话框广告、下载页面底部广告，以及天气部分页面底部广告。
+
+### 替代预装 app
+
+桌面上可见的预装 app，可能只有红外遥控、录音、时钟、电话与短信不太好替代，其它的基本都可以删除，换上更好用：
+
++   计算器：[Calculator You: Math & Units](https://f-droid.org/packages/com.marktka.calculatorYou/)
++   罗盘：[3D指北針 (指南針)](https://play.google.com/store/apps/details?id=com.simplywerx.compass3d)
++   音乐播放器：[Poweramp](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer)、
+    [Retro Music](https://f-droid.org/en/packages/code.name.monkey.retromusic/)
++   视频播放器：[Next Player](https://f-droid.org/en/packages/dev.anilbeesetti.nextplayer/)、
+    [mpv](https://f-droid.org/en/packages/is.xyz.mpv/)
 
 ---
 
