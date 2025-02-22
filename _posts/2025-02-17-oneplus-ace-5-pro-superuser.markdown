@@ -83,23 +83,25 @@ fastboot oem device-info
 3.  [KernelSU Next](https://github.com/rifsxd/KernelSU-Next)
 4.  [APatch](https://github.com/bmax121/APatch)
 
-它们的主要功能都相似，提供 root 权限管理，并兼容 Magisk 模块（可能有一些不兼容）。
+这里选择 GitHub 仓库 star 最高的 KernelSU，作为获取 root 的方式。它们的主要功能都相似，提供 root 权限管理，
+并兼容 Magisk 模块（可能有一些不兼容）。
 
-这里选择 GitHub 仓库 star 最高的 KernelSU，作为获取 root 的方式。首先需要获取当前系统版本的 `init_boot.img` 镜像文件，
-这是手机的 init_boot 分区镜像。然后交给 KernelSU app 里修补。最后将此修补后的镜像，
-取代手机的 init_boot 分区。[^84050][^41123][^59584] 具体操作如下：
+如果想要使用 APatch，可以阅读 zeromake 编写的《[一加 ace5 root 笔记](https://blog.zeromake.com/pages/oneplus-ace5-root/)》博文。
+
+首先需要获取当前系统版本的 `init_boot.img` 镜像文件，这是手机的 init_boot 分区镜像。然后交给 KernelSU app 里修补。
+最后将此修补后的镜像，取代手机的 init_boot 分区。[^84050][^41123][^59584] 具体操作如下：
 
 [^59584]: N1730466003993, 《[KernelSU教程](https://bbs.oneplus.com/thread/1720955150568259584)》, 一加社区, 2024-11-03. (参照 2025-02-17).
 
-0.  按照接靠 BL 锁的步骤，将「USB 调试」选项开启。
-1.  下载与当前版本相同的完整（全量）的系统 ROM，然后使用 PC 工具 [payload-dumper-go](https://github.com/ssut/payload-dumper-go)，
+1.  按照接靠 BL 锁的步骤，将「USB 调试」选项开启。
+2.  下载与当前版本相同的完整（全量）的系统 ROM，然后使用 PC 工具 [payload-dumper-go](https://github.com/ssut/payload-dumper-go)，
     或是 Android 上的 [MT 管理器](https://mt2.cn/) 解包，提取出 `init_boot.img` 镜像文件，并放到手机任意位置。
-2.  为手机安装并开启 KernelSU，在顶部的「下载」按钮里找到「选择档案」，然后选择刚提取的 `init_boot.img` 文件，
+3.  为手机安装并开启 KernelSU，在顶部的「下载」按钮里找到「选择档案」，然后选择刚提取的 `init_boot.img` 文件，
     完成修补镜像。
-3.  将修补好的镜像，传输到 PC。然后输入指令 `adb reboot bootloader`，将手机重启到 bootloader 模式。
-4.  PC 输入指令 `fastboot flash init_boot "你修补的镜像文件名"`，将修补的镜像刷入 init_boot 分区。
-5.  刷入完成后输入指令 `fastboot reboot`，将手机重启。
-6.  在 KernelSU app 里检查状态，如果是「工作中 <LKM>」就说明成功了。
+4.  将修补好的镜像，传输到 PC。然后输入指令 `adb reboot bootloader`，将手机重启到 bootloader 模式。
+5.  PC 输入指令 `fastboot flash init_boot "你修补的镜像文件名"`，将修补的镜像刷入 init_boot 分区。
+6.  刷入完成后输入指令 `fastboot reboot`，将手机重启。
+7.  在 KernelSU app 里检查状态，如果是「工作中 <LKM>」就说明成功了。
 
 如果 fastboot 给 init_boot 分区刷错了镜像，导致手机 bootloop（变砖），那么再刷入原始的 `init_boot.img` 就好。
 
@@ -274,7 +276,8 @@ GKD 可以跳过开屏广告，以及青少年模式弹窗等。不过软件里�
 使用 AdAway 前，KernelSU 需要安装 [systemless hosts KernelSU module](https://github.com/symbuzzer/systemless-hosts-KernelSU-module) 模块。
 之后导入合适的规则，就能去广告了。
 
-v2ray 类的网络工具，如 NekoBox 可以在「路由」页面设置「封锁广告」，原理是订阅并启用 `geosite:category-ads-all` 规则。
+v2ray 类的网络工具，如 [NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid) 可以在「路由」页面设置「封锁广告」，
+启用订阅 `geosite:category-ads-all` 规则就好。
 
 LuckyTool 目前可移除安全应用推荐、下载对话框广告、下载页面底部广告，以及天气部分页面底部广告。
 
@@ -288,6 +291,75 @@ LuckyTool 目前可移除安全应用推荐、下载对话框广告、下载页�
     [Retro Music](https://f-droid.org/en/packages/code.name.monkey.retromusic/)
 +   视频播放器：[Next Player](https://f-droid.org/en/packages/dev.anilbeesetti.nextplayer/)、
     [mpv](https://f-droid.org/en/packages/is.xyz.mpv/)
+
+### Google 相机
+
+Google 相机 app 很知名，被取笑为扫码摄像头的 Ace 5，在用上 Google 相机后，也能发挥出不错的效果。
+
+版本选择 GCam Hub 上的 [AGC9.2.14_V12.0](https://www.celsoazevedo.com/files/android/google-camera/dev-BigKaka/f/dl72/)
+samsung 版本。然后在相同页面下载 Samsung Galaxy S24 Ultra 的配置文件，将文件放进 `/Download/AGC.9.2/configs/.` 里，
+随后在 app 里右上角里加载配置文件即可。
+
+这是稍早前在酷安看到的攻略，不过忘记保存页面，导致忘记作者了……Google 相机的 HDR 效果以及算法，可能比原本的相机更好，
+但缺少了 Live Photo 功能，那么搭配原相机 app 使用应该不错。
+
+### GSI
+
+Android 的 Project Treble 功能是为了解决系统碎片化，而诞生的技术。原理是将系统与硬件驱动解耦，
+那么也就出现 GSI（generic system image）通用系统镜像，理论上可在任意支持 Project Treble 的设备上安装。[^91051]
+
+[^91051]: wuxianlin, 《[GSI/GKI 与 Android 玩机](https://web.archive.org/web/20250202191051/https://wuxianlin.com/2023/02/10/android-gsi-and-gki/)》, wuxianlin, 2023-02-10. (参照 2025-02-21).
+
+有酷安用户「朴实的老农」分享了自己用过的 GSI 包，及其缺陷：[^JhNDU]
+
+[^JhNDU]: 朴实的老农, 《[一加ace5pro类原生gsi使用体验](https://www.coolapk.com/feed/62825502?shareKey=Y2ZmYzg4YWVmYzk3NjdiODJhNDU~)》, 酷安, 2025-02-19. (参照 2025-02-21).
+
++   LineageOS 的 GSI 包，短信和打电话容易卡死。
++   谷歌官方的 GSI 包，似乎 WebView 有问题，并且不读 SIM 卡。
++   [KLC OS](https://github.com/LoggingNewMemory/KLC_OS)，没有屏下指纹，通话没有声音，但大概算是能用的。
+
+所以正常作为手机使用，大概没法用 GSI 包。但作为游戏机、MP4 之类的用途，也许可以用 KLC OS。
+
+### 不是浏览器的浏览器
+
+2020 年，网易云音乐 app 在 Manifest 文件里，注册了一堆 scheme，其中包括 http 与 https 链接。结果就是打开链接时，
+候选 app 里会出现网易云音乐。[^72112] Manifest 文件如下所示：
+
+[^72112]: LvWind, 《[网易云音乐 Android 你是浏览器吗？](https://web.archive.org/web/20220924065642/https://www.v2ex.com/t/672112)》, V2EX, 2020-05-15. (参照 2025-02-22).
+
+```xml
+<intent-filter>
+    <action android:name="android.intent.action.VIEW"></action>
+    <category android:name="android.intent.category.DEFAULT"></category>
+    <data android:scheme="content"></data>
+    <data android:scheme="file"></data>
+    <data android:scheme="http"></data>
+    <data android:scheme="https"></data>
+    <data android:mimeType="audio/*"></data>
+    <data android:mimeType="application/flac"></data>
+    <data android:mimeType="application/x-flac"></data>
+    <data android:mimeType="application/ogg"></data>
+    <data android:mimeType="application/x-ogg"></data>
+    <data android:mimeType="application/itunes"></data>
+</intent-filter>
+```
+
+解决方法有两个，分别是修改 Manifest 与用第三方的链接候选 app（浏览器选择器）。
+前者可用「[意图过滤器重载](https://github.com/5ec1cff/Intent-Filter-Overrider)」app，
+这是 Xposed 模块，能够自定义任意软件的 Manifest 任意标签，但用起来有些复杂，还需要高级权限。
+
+后者更推荐一些，使用 [LinkSheet](https://github.com/LinkSheet/LinkSheet) 就能隐藏网易云音乐、淘宝和京东等，
+把自己注册为浏览器的恶意 app。操作方法是进入软件左上角的设置，进入「浏览器」「首选浏览器」然后是「白名单」界面配置即可。
+而 LinkSheet 不需要什么高级权限。
+
+## 其它内容
+
+### 114 DNS 问题
+
+有 V2EX 用户提醒，ColorOS 有像过去 MIUI 一样，偷偷为 DNS 添加 114 的后备 DNS。[^09140]
+如果在意 DNS 泄漏，或者为了调试，需要设置内网的 DNS，那么需要注意。
+
+[^09140]: yxmyxmyyy, 《[oppo 一加现在也内置 114dns 了](https://web.archive.org/web/20250215102812/https://www.v2ex.com/t/1109140)》, V2EX, 2025-02-05. (参照 2025-02-21).
 
 ---
 
