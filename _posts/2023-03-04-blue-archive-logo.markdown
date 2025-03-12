@@ -429,14 +429,14 @@ BG_GehennaCouncilHall
 
 <div markdown="1">
 <div class="obc" style="background-color: white" markdown="1">
-![游戏开发部](https://s3.tebi.io/gledos/blue_archive/millennium/Cleaning&Clearing/C&C.svg)
+![C&C](https://s3.tebi.io/gledos/blue_archive/millennium/Cleaning&Clearing/C&C_text_fix.svg)
 </div>
 C&C
 </div>
 
 <div markdown="1">
 <div class="obc" style="background-color: white" markdown="1">
-![游戏开发部](https://s3.tebi.io/gledos/blue_archive/millennium/Paranormal_Affairs_Department/超现象特务部.svg)
+![超现象特务部](https://s3.tebi.io/gledos/blue_archive/millennium/Paranormal_Affairs_Department/超现象特务部.svg)
 </div>
 超现象特务部
 </div>
@@ -461,7 +461,7 @@ SCHALE（夏莱／沙勒）是玩家（老师）所在的机构，隶属于联�
 
 <div markdown="1" >
 <div class="obc" style="background-color: white" markdown="1">
-![联邦学生会](https://s3.tebi.io/gledos/blue_archive/kivotos/General_Student_Council/联邦学生会（无阴影）.svg)
+![联邦学生会（无阴影）](https://s3.tebi.io/gledos/blue_archive/kivotos/General_Student_Council/联邦学生会（无阴影）.svg)
 </div>
 联邦学生会（无阴影）
 </div>
