@@ -357,9 +357,26 @@ Android 的 Project Treble 功能是为了解决系统碎片化，而诞生的�
 ### 114 DNS 问题
 
 有 V2EX 用户提醒，ColorOS 有像过去 MIUI 一样，偷偷为 DNS 添加 114 的后备 DNS。[^09140]
-如果在意 DNS 泄漏，或者为了调试，需要设置内网的 DNS，那么需要注意。
+如果在意 DNS 泄漏，或者为了调试，需要设置内网的 DNS，那么需要测试是否存在 DNS 泄漏情况。
 
 [^09140]: yxmyxmyyy, 《[oppo 一加现在也内置 114dns 了](https://web.archive.org/web/20250215102812/https://www.v2ex.com/t/1109140)》, V2EX, 2025-02-05. (参照 2025-02-21).
+
+### 离线翻译
+
+说来奇怪，逛酷安时，发现了 [Telionslate](https://github.com/Xposed-Modules-Repo/com.ailr.SeemNetOfTranslate)（Xposed 模块），
+它能解除谷歌离线翻译在大陆的限制。
+
+这才明白离线状态用不了 Google 离线翻译，原来不是 bug，而是限制。可惜现在没有更新，可能有些报错，软件翻译功能用不了。
+Google 智能镜头的离线翻译功能限制，也没有去除。
+
+ColorOS 有屏幕翻译功能，并提供了少量语言的离线包。但是其网络逻辑有问题，用 AFWall+ 防火墙禁止联网后，只要系统有连上网络，
+离线翻译就不能用，并提示「服务器异常，请重试」。
+
+原因应该是 `android.permission.ACCESS_NETWORK_STATE` 权限，拥有该权限的 app 能够读取系统网络状态。
+permission 权限被认为是安全的，所以默认提供给 app，但问题是无法撤销。
+
+在〈[不是浏览器的浏览器](#不是浏览器的浏览器)〉章节里提过意图过滤器重载，所以尝试用它修改 Manifest 里的权限请求，
+不过可能是操作失误，或者它没有该功能，所以没有成功……修改系统 app 的 Manifest 还挺麻烦的。
 
 ---
 
