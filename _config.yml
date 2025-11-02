@@ -26,7 +26,7 @@ include:
 # port: 14400
 
 minima:
-  skin: dark
+  skin: light
   date_format: "%F"
   # generate social links in footer
   social_links:
